@@ -1,0 +1,4 @@
+biomni
+biomni_env
+docs
+figs
