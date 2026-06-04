@@ -3,8 +3,8 @@ name: 'cellular-senescence-agent'
 description: "Use when you need aI-powered analysis of cellular senescence for aging research, cancer therapy response, and senolytic drug development."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

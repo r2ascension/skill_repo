@@ -3,8 +3,8 @@ name: 'molecule-evolution-agent'
 description: "Use when evolving molecules, optimizing chemical structures, running generative molecular design, scaffold changes, or iterative property improvement."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

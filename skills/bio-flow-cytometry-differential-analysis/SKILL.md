@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-differential-analysis
-description: "Use whentesting for significant changes in cell frequencies or marker expression between groups."
+description: "Use when testing for significant changes in cell frequencies or marker expression between groups."
 tool_type: r
 primary_tool: CATALYST
 ---

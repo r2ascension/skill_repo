@@ -3,8 +3,8 @@ name: 'microbiome-cancer-agent'
 description: "Use when you need aI-powered analysis of microbiome-cancer interactions including tumor microbiome profiling, immunotherapy response prediction, and microbiome-targeted therapeutic opportunities."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

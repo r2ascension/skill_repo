@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-statistics
-description: "Use whencomputing spatial autocorrelation or co-occurrence statistics."
+description: "Use when computing spatial autocorrelation or co-occurrence statistics."
 tool_type: python
 primary_tool: squidpy
 ---

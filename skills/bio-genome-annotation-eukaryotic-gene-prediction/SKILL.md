@@ -1,6 +1,6 @@
 ---
 name: bio-genome-annotation-eukaryotic-gene-prediction
-description: "Use whenannotating a newly assembled eukaryotic genome or improving existing gene predictions."
+description: "Use when annotating a newly assembled eukaryotic genome or improving existing gene predictions."
 tool_type: cli
 primary_tool: BRAKER3
 ---

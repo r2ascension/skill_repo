@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-sequence-similarity
-description: "Use whenidentifying orthologs, distant homologs, or protein family members where standard BLAST is not sensitive enough."
+description: "Use when identifying orthologs, distant homologs, or protein family members where standard BLAST is not sensitive enough."
 tool_type: mixed
 primary_tool: BLAST+
 ---

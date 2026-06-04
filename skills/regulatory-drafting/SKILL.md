@@ -3,8 +3,8 @@ name: 'regulatory-drafting'
 description: "Use when drafting healthcare regulatory documents, compliance submissions, policy language, FDA/clinical documentation, or regulated medical communications."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

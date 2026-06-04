@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-multiomic-disease-characterization
-description: "Use whenusers ask about disease mechanisms, multi-omics analysis, systems biology of disease, biomarker discovery, or therapeutic target identification from a disease perspective."
+description: "Use when users ask about disease mechanisms, multi-omics analysis, systems biology of disease, biomarker discovery, or therapeutic target identification from a disease perspective."
 ---
 
 # Multi-Omics Disease Characterization Pipeline

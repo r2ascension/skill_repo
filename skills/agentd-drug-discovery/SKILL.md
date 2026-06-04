@@ -2,8 +2,8 @@
 name: agentd-drug-discovery
 description: "Use when using the AgentD workflow to mine evidence, design molecules, and rank candidates with SAR plus ADMET annotations for early drug discovery tasks."
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

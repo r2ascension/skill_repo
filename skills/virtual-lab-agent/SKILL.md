@@ -3,8 +3,8 @@ name: 'virtual-lab-agent'
 description: "Use when you need aI-powered virtual laboratory orchestrating multi-agent scientific research teams for autonomous hypothesis generation, experimental design, and validation in biomedical research."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-ribo-seq-ribosome-stalling
-description: "Use whenstudying translational regulation, identifying pause sites, or analyzing codon-specific translation dynamics."
+description: "Use when studying translational regulation, identifying pause sites, or analyzing codon-specific translation dynamics."
 tool_type: python
 primary_tool: Plastid
 ---

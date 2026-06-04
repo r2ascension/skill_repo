@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-multiome-pipeline
-description: "Use whenanalyzing joint scRNA+scATAC data."
+description: "Use when analyzing joint scRNA+scATAC data."
 tool_type: r
 primary_tool: Seurat
 workflow: true

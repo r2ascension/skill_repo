@@ -1,6 +1,6 @@
 ---
 name: bio-read-alignment-bwa-alignment
-description: "Use whenaligning DNA short reads to a reference genome."
+description: "Use when aligning DNA short reads to a reference genome."
 tool_type: cli
 primary_tool: bwa-mem2
 ---

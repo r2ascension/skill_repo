@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-protein-structure-retrieval
-description: "Use whenusers need protein structures, 3D models, crystallography data, or mention PDB IDs (4-character codes like 1ABC) or UniProt accessions."
+description: "Use when users need protein structures, 3D models, crystallography data, or mention PDB IDs (4-character codes like 1ABC) or UniProt accessions."
 ---
 
 # Protein Structure Data Retrieval

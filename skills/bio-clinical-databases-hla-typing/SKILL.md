@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-hla-typing
-description: "Use whendetermining HLA genotype for transplant matching, neoantigen prediction, or pharmacogenomic screening."
+description: "Use when determining HLA genotype for transplant matching, neoantigen prediction, or pharmacogenomic screening."
 tool_type: cli
 primary_tool: OptiType
 ---

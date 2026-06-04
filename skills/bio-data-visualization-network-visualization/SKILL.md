@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-network-visualization
-description: "Use whencreating network diagrams from interaction data, GRN results, or co-expression modules."
+description: "Use when creating network diagrams from interaction data, GRN results, or co-expression modules."
 tool_type: python
 primary_tool: NetworkX
 ---

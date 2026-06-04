@@ -1,6 +1,6 @@
 ---
 name: bio-atac-seq-nucleosome-positioning
-description: "Use whencharacterizing nucleosome organization at promoters and enhancers, calling +1/-1 nucleosomes flanking NFRs, generating V-plots for chromatin structure visualization, or comparing nucleosome positioning between conditions."
+description: "Use when characterizing nucleosome organization at promoters and enhancers, calling +1/-1 nucleosomes flanking NFRs, generating V-plots for chromatin structure visualization, or comparing nucleosome positioning between conditions."
 tool_type: mixed
 primary_tool: NucleoATAC
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-epitranscriptomics-modification-visualization
-description: "Use whenvisualizing m6A distribution patterns around genomic features like stop codons."
+description: "Use when visualizing m6A distribution patterns around genomic features like stop codons."
 tool_type: r
 primary_tool: Guitar
 ---

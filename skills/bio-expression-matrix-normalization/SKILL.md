@@ -1,6 +1,6 @@
 ---
 name: bio-expression-matrix-normalization
-description: "Use whenchoosing or applying normalization to expression data."
+description: "Use when choosing or applying normalization to expression data."
 tool_type: mixed
 primary_tool: DESeq2
 ---

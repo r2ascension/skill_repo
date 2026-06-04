@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-liquid-biopsy-pipeline
-description: "Use whenanalyzing liquid biopsy samples for cancer detection or monitoring."
+description: "Use when analyzing liquid biopsy samples for cancer detection or monitoring."
 tool_type: mixed
 primary_tool: ichorCNA
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-fastq-to-variants
-description: "Use whencalling variants from raw sequencing reads."
+description: "Use when calling variants from raw sequencing reads."
 tool_type: cli
 primary_tool: bcftools
 workflow: true

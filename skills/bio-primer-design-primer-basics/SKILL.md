@@ -1,6 +1,6 @@
 ---
 name: bio-primer-design-primer-basics
-description: "Use whendesigning standard PCR primers."
+description: "Use when designing standard PCR primers."
 tool_type: python
 primary_tool: primer3-py
 ---

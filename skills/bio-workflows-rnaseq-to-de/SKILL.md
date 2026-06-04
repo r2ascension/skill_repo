@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-rnaseq-to-de
-description: "Use whenrunning RNA-seq from FASTQ to DE results."
+description: "Use when running RNA-seq from FASTQ to DE results."
 tool_type: mixed
 primary_tool: DESeq2
 workflow: true

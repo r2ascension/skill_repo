@@ -1,6 +1,6 @@
 ---
 name: numerical-stability
-description: "Use whenselecting time steps, choosing explicit/implicit schemes, diagnosing numerical blow-up, checking CFL/Fourier criteria, von Neumann analysis, matrix conditioning, or detecting stiffness in advection/diffusion/reaction problems."
+description: "Use when selecting time steps, choosing explicit/implicit schemes, diagnosing numerical blow-up, checking CFL/Fourier criteria, von Neumann analysis, matrix conditioning, or detecting stiffness in advection/diffusion/reaction problems."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

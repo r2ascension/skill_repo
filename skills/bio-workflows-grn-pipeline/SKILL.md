@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-grn-pipeline
-description: "Use whenbuilding gene regulatory networks from single-cell transcriptomic or multiome data."
+description: "Use when building gene regulatory networks from single-cell transcriptomic or multiome data."
 tool_type: python
 primary_tool: pySCENIC
 workflow: true

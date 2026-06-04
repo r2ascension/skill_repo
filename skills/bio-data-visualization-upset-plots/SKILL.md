@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-upset-plots
-description: "Use whencomparing overlapping gene sets, peak sets, or sample groups with more than 3 sets."
+description: "Use when comparing overlapping gene sets, peak sets, or sample groups with more than 3 sets."
 tool_type: mixed
 primary_tool: UpSetR
 ---

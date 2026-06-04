@@ -1,6 +1,6 @@
 ---
 name: bio-ecological-genomics-species-delimitation
-description: "Use whendelineating putative species from DNA barcoding data, resolving cryptic species complexes, or validating taxonomic assignments. Emphasizes multi-method consensus following integrative taxonomy best practice."
+description: "Use when delineating putative species from DNA barcoding data, resolving cryptic species complexes, or validating taxonomic assignments. Emphasizes multi-method consensus following integrative taxonomy best practice."
 tool_type: mixed
 primary_tool: ASAP
 ---

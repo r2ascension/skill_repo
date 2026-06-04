@@ -1,6 +1,6 @@
 ---
 name: bio-tcr-bcr-analysis-immcantation-analysis
-description: "Use whenstudying B cell affinity maturation, germinal center dynamics, or antibody evolution."
+description: "Use when studying B cell affinity maturation, germinal center dynamics, or antibody evolution."
 tool_type: r
 primary_tool: alakazam
 ---

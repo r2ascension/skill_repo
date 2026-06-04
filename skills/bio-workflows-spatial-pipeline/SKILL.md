@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-spatial-pipeline
-description: "Use whenanalyzing spatial transcriptomics data."
+description: "Use when analyzing spatial transcriptomics data."
 tool_type: python
 primary_tool: Squidpy
 workflow: true

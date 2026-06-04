@@ -1,6 +1,6 @@
 ---
 name: bio-imaging-mass-cytometry-interactive-annotation
-description: "Use whenmanually annotating cell types for training classifiers or validating automated phenotyping results."
+description: "Use when manually annotating cell types for training classifiers or validating automated phenotyping results."
 tool_type: python
 primary_tool: napari
 ---

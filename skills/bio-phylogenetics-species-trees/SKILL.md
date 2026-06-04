@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-species-trees
-description: "Use whenmulti-locus data shows gene tree discordance from incomplete lineage sorting, when in the anomaly zone where concatenation is misleading, or when computing concordance factors to assess topological support."
+description: "Use when multi-locus data shows gene tree discordance from incomplete lineage sorting, when in the anomaly zone where concatenation is misleading, or when computing concordance factors to assess topological support."
 tool_type: mixed
 primary_tool: ASTRAL-III
 ---

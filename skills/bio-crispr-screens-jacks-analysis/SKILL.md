@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-jacks-analysis
-description: "Use whenanalyzing multiple CRISPR screens simultaneously or when accounting for variable sgRNA efficiency across experiments."
+description: "Use when analyzing multiple CRISPR screens simultaneously or when accounting for variable sgRNA efficiency across experiments."
 tool_type: python
 primary_tool: JACKS
 ---

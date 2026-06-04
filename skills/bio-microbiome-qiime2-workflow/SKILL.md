@@ -1,6 +1,6 @@
 ---
 name: bio-microbiome-qiime2-workflow
-description: "Use whenpreferring CLI over R, needing reproducible provenance, or working within QIIME2 ecosystem."
+description: "Use when preferring CLI over R, needing reproducible provenance, or working within QIIME2 ecosystem."
 tool_type: cli
 primary_tool: qiime2
 ---

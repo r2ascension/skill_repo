@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-distance-calculations
-description: "Use whencreating distance matrices from alignments, building NJ/UPGMA trees, generating bootstrap consensus, or needing quick exploratory phylogenies before running full ML analysis."
+description: "Use when creating distance matrices from alignments, building NJ/UPGMA trees, generating bootstrap consensus, or needing quick exploratory phylogenies before running full ML analysis."
 tool_type: python
 primary_tool: Bio.Phylo.TreeConstruction
 ---

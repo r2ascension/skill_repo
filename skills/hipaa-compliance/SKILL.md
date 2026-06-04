@@ -1,6 +1,6 @@
 ---
 name: hipaa-compliance
-description: "Use whenwriting code that accesses user health data, check-ins, journal entries, or any sensitive information. Activates for audit logging, data access, security events, and compliance questions."
+description: "Use when writing code that accesses user health data, check-ins, journal entries, or any sensitive information. Activates for audit logging, data access, security events, and compliance questions."
 allowed-tools: Read,Write,Edit
 metadata:
   category: Code Quality & Testing

@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-variant-annotation
-description: "Use whenannotating variants with functional and clinical information."
+description: "Use when annotating variants with functional and clinical information."
 tool_type: mixed
 primary_tool: VEP
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-cell-annotation
-description: "Use whenautomatically annotating cell types using reference datasets."
+description: "Use when automatically annotating cell types using reference datasets."
 tool_type: mixed
 primary_tool: CellTypist
 ---
@@ -257,3 +257,5 @@ DotPlot(seurat_obj, features = unlist(canonical_markers), group.by = 'predicted_
 - single-cell/clustering - Manual marker-based annotation
 - single-cell/cell-communication - Use annotated types for CCC
 - single-cell/trajectory-inference - Trajectory on annotated data
+
+- **single-annotation** - The OmicVerse-specific (single-*) equivalent covering cell annotation with SCSA, MetaTiME, CellVote, GPTAnno, and related tools.

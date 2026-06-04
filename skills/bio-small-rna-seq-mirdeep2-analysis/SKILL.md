@@ -1,6 +1,6 @@
 ---
 name: bio-small-rna-seq-mirdeep2-analysis
-description: "Use whenidentifying new miRNAs or performing comprehensive miRNA profiling with discovery."
+description: "Use when identifying new miRNAs or performing comprehensive miRNA profiling with discovery."
 tool_type: cli
 primary_tool: miRDeep2
 ---

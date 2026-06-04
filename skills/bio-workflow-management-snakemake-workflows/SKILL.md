@@ -1,6 +1,6 @@
 ---
 name: bio-workflow-management-snakemake-workflows
-description: "Use whencreating Python-based workflows, automating multi-step analyses with make-like dependency tracking, or running pipelines on HPC clusters with SLURM."
+description: "Use when creating Python-based workflows, automating multi-step analyses with make-like dependency tracking, or running pipelines on HPC clusters with SLURM."
 tool_type: python
 primary_tool: Snakemake
 ---

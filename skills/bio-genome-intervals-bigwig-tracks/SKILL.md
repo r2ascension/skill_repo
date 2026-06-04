@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-bigwig-tracks
-description: "Use whenpreparing coverage tracks for genome browsers or extracting signal at specific regions."
+description: "Use when preparing coverage tracks for genome browsers or extracting signal at specific regions."
 tool_type: mixed
 primary_tool: pyBigWig
 ---

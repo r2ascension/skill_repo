@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-bayesian-inference
-description: "Use whenneeding posterior probability support, Bayesian model averaging, site-heterogeneous models for deep phylogenies, or formal model comparison via stepping-stone sampling."
+description: "Use when needing posterior probability support, Bayesian model averaging, site-heterogeneous models for deep phylogenies, or formal model comparison via stepping-stone sampling."
 tool_type: mixed
 primary_tool: MrBayes
 ---

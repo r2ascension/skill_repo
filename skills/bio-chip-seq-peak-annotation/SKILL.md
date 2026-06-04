@@ -1,6 +1,6 @@
 ---
 name: bio-chip-seq-peak-annotation
-description: "Use whenassigning genomic context to ChIP-seq peaks or linking peaks to target genes."
+description: "Use when assigning genomic context to ChIP-seq peaks or linking peaks to target genes."
 tool_type: mixed
 primary_tool: ChIPseeker
 ---

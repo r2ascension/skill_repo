@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-proteomics-analysis
-description: "Use whenanalyzing proteomics data, comparing protein abundance between conditions, identifying PTM changes, studying protein complexes, integrating protein and RNA data, discovering protein biomarkers, or conducting quantitative proteomics experiments."
+description: "Use when analyzing proteomics data, comparing protein abundance between conditions, identifying PTM changes, studying protein complexes, integrating protein and RNA data, discovering protein biomarkers, or conducting quantitative proteomics experiments."
 ---
 
 # Proteomics Analysis

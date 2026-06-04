@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-library-design
-description: "Use whendesigning custom sgRNA libraries for knockout, activation, or interference screens."
+description: "Use when designing custom sgRNA libraries for knockout, activation, or interference screens."
 tool_type: python
 primary_tool: crispor
 ---

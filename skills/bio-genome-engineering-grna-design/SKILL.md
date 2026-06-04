@@ -1,6 +1,6 @@
 ---
 name: bio-genome-engineering-grna-design
-description: "Use whendesigning sgRNAs for gene knockout, activation, or repression experiments."
+description: "Use when designing sgRNAs for gene knockout, activation, or repression experiments."
 tool_type: python
 primary_tool: crisprscan
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-comparative-genomics-ortholog-inference
-description: "Use whenidentifying gene orthologs across species or building orthogroups for evolutionary analysis."
+description: "Use when identifying gene orthologs across species or building orthogroups for evolutionary analysis."
 tool_type: cli
 primary_tool: OrthoFinder
 ---

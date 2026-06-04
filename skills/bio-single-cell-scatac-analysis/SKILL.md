@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-scatac-analysis
-description: "Use whenanalyzing single-cell ATAC-seq data."
+description: "Use when analyzing single-cell ATAC-seq data."
 tool_type: r
 primary_tool: Signac
 ---

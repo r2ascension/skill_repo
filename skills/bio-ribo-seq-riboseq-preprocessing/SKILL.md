@@ -1,6 +1,6 @@
 ---
 name: bio-ribo-seq-riboseq-preprocessing
-description: "Use whenpreparing Ribo-seq reads for downstream analysis of translation."
+description: "Use when preparing Ribo-seq reads for downstream analysis of translation."
 tool_type: cli
 primary_tool: bowtie2
 ---

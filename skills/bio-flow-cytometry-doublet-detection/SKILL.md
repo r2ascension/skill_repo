@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-doublet-detection
-description: "Use whenfiltering out cell aggregates before clustering or quantitative analysis."
+description: "Use when filtering out cell aggregates before clustering or quantitative analysis."
 tool_type: r
 primary_tool: flowCore
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-proteomics-pipeline
-description: "Use whenprocessing mass spectrometry proteomics."
+description: "Use when processing mass spectrometry proteomics."
 tool_type: mixed
 primary_tool: limma
 workflow: true

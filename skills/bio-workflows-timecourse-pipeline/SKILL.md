@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-timecourse-pipeline
-description: "Use whenanalyzing bulk time-series expression experiments from any omics platform."
+description: "Use when analyzing bulk time-series expression experiments from any omics platform."
 tool_type: mixed
 primary_tool: Mfuzz
 workflow: true

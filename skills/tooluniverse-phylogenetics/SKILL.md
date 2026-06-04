@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-phylogenetics
-description: "Use whenprocessing FASTA/PHYLIP/Nexus/Newick files, computing phylogenetic metrics, comparing taxa groups, or answering questions about alignments, trees, parsimony, or molecular evolution."
+description: "Use when processing FASTA/PHYLIP/Nexus/Newick files, computing phylogenetic metrics, comparing taxa groups, or answering questions about alignments, trees, parsimony, or molecular evolution."
 ---
 
 # Phylogenetics and Sequence Analysis

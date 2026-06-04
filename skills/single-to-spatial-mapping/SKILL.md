@@ -46,3 +46,7 @@ Apply this skill when converting single-cell references into spatially resolved 
 - Tutorial notebook: [`t_single2spatial.ipynb`](../../omicverse_guide/docs/Tutorials-bulk2single/t_single2spatial.ipynb)
 - Example datasets and models: [`omicverse_guide/docs/Tutorials-bulk2single/data/pdac/`](../../omicverse_guide/docs/Tutorials-bulk2single/data/pdac/)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- _No direct `bio-single-cell-*` counterpart exists for this skill. It covers OmicVerse's Single2Spatial for mapping scRNA-seq onto spatial transcriptomics._

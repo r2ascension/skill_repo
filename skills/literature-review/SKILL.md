@@ -1,6 +1,6 @@
 ---
 name: literature-review
-description: "Use whenconducting systematic literature reviews, meta-analyses, research synthesis, or comprehensive literature searches across biomedical, scientific, and technical domains. Creates professionally formatted markdown documents and PDFs with verified citations in multiple citation styles (APA, Nature, Vancouver, etc.)."
+description: "Use when conducting systematic literature reviews, meta-analyses, research synthesis, or comprehensive literature searches across biomedical, scientific, and technical domains. Creates professionally formatted markdown documents and PDFs with verified citations in multiple citation styles (APA, Nature, Vancouver, etc.)."
 allowed-tools: [Read, Write, Edit, Bash]
 ---
 
@@ -551,6 +551,115 @@ This skill works seamlessly with other scientific skills:
 ### Required Python Packages
 ```bash
 pip install requests  # For citation verification
+```
+
+### Required System Tools
+```bash
+# For PDF generation
+brew install pandoc  # macOS
+apt-get install pandoc  # Linux
+
+# For LaTeX (PDF generation)
+brew install --cask mactex  # macOS
+apt-get install texlive-xetex  # Linux
+```
+
+Check dependencies:
+```bash
+python scripts/generate_pdf.py --check-deps
+```
+
+## Citation Graph and Relationship Mapping
+
+Map citation relationships between papers to identify influential works, research fronts, and evidence chains.
+
+### When to Use Citation Graphs
+
+- Identifying seminal papers in a field
+- Understanding how research has evolved over time
+- Finding papers that bridge different sub-disciplines
+- Detecting citation cliques and research communities
+
+### Citation Graph Construction
+
+1. **Seed Papers**: Start with 3-5 highly relevant papers identified during screening
+2. **Forward Citation Search**: Find all papers that cite each seed paper (using Semantic Scholar or Google Scholar "Cited by")
+3. **Backward Citation Search**: Extract all references from each seed paper
+4. **Co-citation Analysis**: Identify papers frequently cited together (indicates conceptual relationship)
+5. **Bibliographic Coupling**: Identify papers sharing common references (indicates topical similarity)
+
+### Visualization
+
+Represent relationships as a directed graph:
+```markdown
+[Paper A] ──cites──→ [Paper B]
+[Paper A] ──cites──→ [Paper C]
+[Paper B] ──cites──→ [Paper C]  ← Co-citation cluster
+[Paper D] ──cites──→ [Paper A]  ← Forward citation
+```
+
+### Citation Metrics to Track
+
+- **Total citations**: Impact/visibility of a paper
+- **Citation velocity**: Recent citation rate (indicates current relevance)
+- **Normalized citation**: Field- and year-normalized impact
+- **h-index**: Author-level productivity and impact
+- **Altmetric score**: Social media and news mentions
+
+## Gap Analysis
+
+Systematically identify understudied areas, methodological gaps, and future research opportunities based on keyword coverage and thematic analysis.
+
+### Gap Identification Methods
+
+1. **Keyword Coverage Analysis**: Compare keyword frequencies across the literature to identify terms that appear less frequently than expected given their importance.
+
+2. **Thematic Mapping**: Cluster papers by topic and identify themes with few papers relative to their significance.
+
+3. **Methodology Audit**: Catalog the methods used across studies and identify:
+   - Underrepresented study designs (e.g., few RCTs in a field dominated by observational studies)
+   - Populations not studied (e.g., pediatric, elderly, specific ethnicities)
+   - Outcomes not measured (e.g., long-term follow-up, quality of life)
+
+4. **Temporal Analysis**: Plot publication volume over time for each theme to identify:
+   - Declining areas (saturated or abandoned)
+   - Emerging areas (rapid growth)
+   - Persistent gaps (stable low volume despite importance)
+
+5. **Contradiction Detection**: Identify topics with conflicting findings that lack resolution studies.
+
+### Gap Report Structure
+
+```markdown
+## Research Gaps Identified
+
+### Gap 1: [Title]
+- **Evidence**: What we know
+- **Gap**: What we don't know
+- **Impact**: Why filling this gap matters
+- **Approach**: Suggested study design or method
+- **Feasibility**: Ease of addressing (High/Medium/Low)
+
+### Gap 2: [Title]
+...
+```
+
+### Integration with Citation Graphs
+
+Combine citation graph data with gap analysis:
+- Papers in high-density citation clusters represent well-studied areas
+- Papers with few citations or isolated nodes may represent underexplored niches
+- Bridge papers connecting disparate clusters may indicate interdisciplinary opportunities
+
+## Dependencies
+
+This skill requires the following for full functionality:
+
+### Required Python Packages
+```bash
+pip install requests  # For citation verification and Entrez API
+pip install biopython # For Entrez API access (PubMed searches)
+pip install httpx     # For bioRxiv/medRxiv API access
 ```
 
 ### Required System Tools

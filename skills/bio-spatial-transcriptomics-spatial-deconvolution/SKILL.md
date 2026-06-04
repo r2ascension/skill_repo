@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-deconvolution
-description: "Use whenestimating cell type composition in spatial spots."
+description: "Use when estimating cell type composition in spatial spots."
 tool_type: python
 primary_tool: cell2location
 ---

@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-variant-interpretation
-description: "Use wheninterpreting genetic variants, classifying variants of uncertain significance (VUS), performing ACMG variant classification, or translating variant calls to clinical actionability."
+description: "Use when interpreting genetic variants, classifying variants of uncertain significance (VUS), performing ACMG variant classification, or translating variant calls to clinical actionability."
 ---
 
 ---

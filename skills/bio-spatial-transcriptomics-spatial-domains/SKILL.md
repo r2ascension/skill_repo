@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-domains
-description: "Use whenidentifying tissue domains or spatial regions."
+description: "Use when identifying tissue domains or spatial regions."
 tool_type: python
 primary_tool: squidpy
 ---

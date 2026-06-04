@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-biostatistics-trial-reporting
-description: "Use whencreating analysis reports, handling missing data, or preparing regulatory submissions from clinical trials."
+description: "Use when creating analysis reports, handling missing data, or preparing regulatory submissions from clinical trials."
 tool_type: python
 primary_tool: tableone
 ---

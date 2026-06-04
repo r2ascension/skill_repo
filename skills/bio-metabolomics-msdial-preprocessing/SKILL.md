@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-msdial-preprocessing
-description: "Use whenprocessing MS-DIAL output files for R/Python analysis or when preferring GUI-based preprocessing."
+description: "Use when processing MS-DIAL output files for R/Python analysis or when preferring GUI-based preprocessing."
 tool_type: mixed
 primary_tool: msdial
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-structural-biology-modern-structure-prediction
-description: "Use whenpredicting structures for novel proteins, protein complexes, or when comparing predictions across multiple methods."
+description: "Use when predicting structures for novel proteins, protein complexes, or when comparing predictions across multiple methods."
 tool_type: python
 primary_tool: ESMFold
 ---

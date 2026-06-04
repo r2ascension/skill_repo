@@ -1,6 +1,6 @@
 ---
 name: datacommons-client
-description: "Use whenworking with demographic data, economic indicators, health statistics, environmental data, or any public datasets available through Data Commons. Applicable for querying population statistics, GDP figures, unemployment rates, disease prevalence, geographic entity resolution, and exploring relationships between statistical entities."
+description: "Use when working with demographic data, economic indicators, health statistics, environmental data, or any public datasets available through Data Commons. Applicable for querying population statistics, GDP figures, unemployment rates, disease prevalence, geographic entity resolution, and exploring relationships between statistical entities."
 license: Unknown
 metadata:
     skill-author: K-Dense Inc.

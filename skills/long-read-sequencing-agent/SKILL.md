@@ -3,8 +3,8 @@ name: 'long-read-sequencing-agent'
 description: "Use when you need aI-powered analysis of long-read sequencing data (PacBio, ONT) for structural variant detection, isoform discovery, epigenetic modifications, and de novo assembly."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

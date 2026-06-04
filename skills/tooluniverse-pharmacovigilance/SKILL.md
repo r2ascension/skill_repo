@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-pharmacovigilance
-description: "Use whenasked about drug safety, adverse events, post-market surveillance, or risk-benefit assessment."
+description: "Use when asked about drug safety, adverse events, post-market surveillance, or risk-benefit assessment."
 ---
 
 # Pharmacovigilance Safety Analyzer

@@ -54,3 +54,7 @@ Activate this skill for users who want to reproduce the WGCNA workflow from [`t_
 - Tutorial notebook: [`t_wgcna.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_wgcna.ipynb)
 - Tutorial dataset: [`data/5xFAD_paper/`](../../omicverse_guide/docs/Tutorials-bulk/data/5xFAD_paper/)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- _This is the only WGCNA-dedicated skill in the ecosystem. No direct `bio-*` counterpart exists. For general co-expression network analysis, see `bio-gene-regulatory-networks-coexpression-networks`._

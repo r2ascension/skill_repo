@@ -3,8 +3,8 @@ name: 'deep-visual-proteomics-agent'
 description: "Use when working on aI-driven integration of cellular imaging, laser microdissection, and ultra-sensitive mass spectrometry for spatially-resolved single-cell proteomics."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

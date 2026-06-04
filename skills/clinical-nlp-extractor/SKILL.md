@@ -1,10 +1,10 @@
 ---
 name: 'clinical-nlp-extractor'
-description: "Use when working on extracts medical entities (Diseases, Medications, Procedures) from unstructured clinical text using regex and simple rules (or LLM wrappers)."
+description: "Use when extracting medical entities from unstructured clinical notes AND patient messages. Extracts diseases, medications, procedures, symptoms, lab values, vitals, temporal data, and action items using regex, rules, or LLM wrappers."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--
@@ -27,6 +27,7 @@ The **Clinical NLP Skill** converts free-text clinical notes into structured dat
 ## When to Use This Skill
 
 *   When analyzing unstructured EHR notes.
+*   When extracting entities from patient messages (symptoms, medications, lab values, diagnoses).
 *   To populate a patient's problem list or medication reconciliation.
 *   To de-identify text (phi-removal) - *Basic version*.
 
@@ -53,6 +54,76 @@ python3 Skills/Clinical/Clinical_NLP/entity_extractor.py \
     --output entities.json
 ```
 
+```
+
+## Patient Message Entity Extraction
+
+Extract structured medical information from unstructured patient messages in addition to clinical notes. This supports triage, prior authorization, and clinical decision support workflows.
+
+### Entity Types for Patient Messages
+
+**Symptoms**
+- Name, severity (mild/moderate/severe), duration, onset, progression (improving/stable/worsening)
+
+**Medications**
+- Name, dosage, frequency, route, context (new/existing/stopped)
+
+**Lab Values**
+- Type (BP, glucose, cholesterol, etc.), value, unit, timestamp, normal range
+
+**Diagnoses**
+- Name, context (confirmed/suspected/ruled out)
+
+**Vital Signs**
+- Temperature, heart rate, respiratory rate, oxygen saturation, blood pressure
+
+**Action Items**
+- Type (appointment, refill, question, callback), urgency, reason
+
+### Temporal Extraction
+Captures when symptoms started, duration, and progression timeline from free-text temporal expressions ("since yesterday", "for the past week").
+
+### Medical Terminology Handling
+Recognizes:
+- Common abbreviations (BP, HR, RR, O2 sat)
+- Brand and generic medication names
+- Lay terms for medical conditions ("sugar" -> diabetes, "heart attack" -> MI)
+- Temporal expressions ("since yesterday", "for the past week")
+
+### Input Format (Patient Messages)
+```json
+[
+  {
+    "id": "msg-123",
+    "priority_score": 78,
+    "priority_bucket": "P1",
+    "subject": "Medication side effects",
+    "from": "patient@example.com",
+    "date": "2026-02-27T10:30:00Z",
+    "body": "I've been feeling dizzy since starting the new blood pressure medication (Lisinopril 10mg) three days ago."
+  }
+]
+```
+
+### Output Format
+```json
+[
+  {
+    "id": "msg-123",
+    "entities": {
+      "symptoms": [
+        {"name": "dizziness", "severity": "moderate", "duration": "3 days", "onset": "since starting new medication"}
+      ],
+      "medications": [
+        {"name": "Lisinopril", "dosage": "10mg", "context": "new medication"}
+      ],
+      "action_items": [
+        {"type": "medication_review", "reason": "possible side effect (dizziness)"}
+      ]
+    },
+    "summary": "Patient reports dizziness after starting Lisinopril 10mg 3 days ago."
+  }
+]
 ```
 
 <!-- AUTHOR_SIGNATURE: 9a7f3c2e-MD-BABU-MIA-2026-MSSM-SECURE -->

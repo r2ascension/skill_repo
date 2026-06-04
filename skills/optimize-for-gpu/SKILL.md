@@ -1,6 +1,6 @@
 ---
 name: optimize-for-gpu
-description: "Use whenyou see CPU-bound Python code (loops, large arrays, ML pipelines, graph analytics, image processing) that would benefit from GPU acceleration, even if not explicitly requested."
+description: "Use when you see CPU-bound Python code (loops, large arrays, ML pipelines, graph analytics, image processing) that would benefit from GPU acceleration, even if not explicitly requested."
 metadata:
   author: K-Dense, Inc.
 ---

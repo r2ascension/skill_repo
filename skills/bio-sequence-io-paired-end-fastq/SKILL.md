@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-paired-end-fastq
-description: "Use whenworking with Illumina paired reads, synchronizing pairs, interleaving/deinterleaving, or filtering paired data."
+description: "Use when working with Illumina paired reads, synchronizing pairs, interleaving/deinterleaving, or filtering paired data."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

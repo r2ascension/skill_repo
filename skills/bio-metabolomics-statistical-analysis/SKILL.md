@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-statistical-analysis
-description: "Use whenidentifying differentially abundant metabolites or building classification models."
+description: "Use when identifying differentially abundant metabolites or building classification models."
 tool_type: mixed
 primary_tool: limma
 ---

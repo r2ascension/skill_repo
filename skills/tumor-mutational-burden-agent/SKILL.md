@@ -9,8 +9,8 @@ keywords:
   - oncology
 measurable_outcome: 'Harmonizes TMB scores across 5+ assay platforms with <5% variance from WES gold standard.'
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

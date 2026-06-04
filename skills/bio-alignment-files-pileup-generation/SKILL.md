@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-pileup-generation
-description: "Use whenpreparing data for variant calling, analyzing per-position read data, or calculating allele frequencies."
+description: "Use when preparing data for variant calling, analyzing per-position read data, or calculating allele frequencies."
 tool_type: cli
 primary_tool: samtools
 ---

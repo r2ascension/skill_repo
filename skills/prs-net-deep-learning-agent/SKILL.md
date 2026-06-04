@@ -3,8 +3,8 @@ name: 'prs-net-deep-learning-agent'
 description: "Use when working on geometric deep learning-based polygenic risk score prediction using PRS-Net for modeling gene interactions, enhanced disease prediction, and cross-ancestry portability."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

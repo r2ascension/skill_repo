@@ -9,8 +9,8 @@ keywords:
   - reporting
 measurable_outcome: Produces a single coherent answer from >5 diverse sources with clear attribution and <10% duplication.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

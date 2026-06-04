@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-targeted-analysis
-description: "Use whenquantifying specific metabolites using calibration curves and internal standards."
+description: "Use when quantifying specific metabolites using calibration curves and internal standards."
 tool_type: mixed
 primary_tool: skyline
 ---

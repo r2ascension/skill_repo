@@ -1,6 +1,6 @@
 ---
 name: bio-alternative-splicing-splicing-quantification
-description: "Use whenmeasuring splice-site usage or isoform inclusion ratios from short-read RNA-seq."
+description: "Use when measuring splice-site usage or isoform inclusion ratios from short-read RNA-seq."
 tool_type: mixed
 primary_tool: rMATS-turbo
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-interaction-databases
-description: "Use whenbuilding protein interaction networks, contextualizing gene lists with known interactions, or retrieving pathway-level interaction data."
+description: "Use when building protein interaction networks, contextualizing gene lists with known interactions, or retrieving pathway-level interaction data."
 tool_type: python
 primary_tool: STRINGdb
 ---

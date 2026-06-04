@@ -3,8 +3,8 @@ name: 'crispr-offtarget-predictor'
 description: "Use when working on predicts potential off-target sites for a given sgRNA sequence using mismatch analysis."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-contamination-detection
-description: "Use whenchecking assemblies for contamination."
+description: "Use when checking assemblies for contamination."
 tool_type: cli
 primary_tool: CheckM2
 ---

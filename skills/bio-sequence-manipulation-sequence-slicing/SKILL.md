@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-sequence-slicing
-description: "Use whenextracting subsequences, joining sequences, or manipulating sequence regions by position."
+description: "Use when extracting subsequences, joining sequences, or manipulating sequence regions by position."
 tool_type: python
 primary_tool: Bio.Seq
 ---

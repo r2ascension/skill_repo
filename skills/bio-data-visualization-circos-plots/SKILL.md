@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-circos-plots
-description: "Use whencreating circular genome visualizations."
+description: "Use when creating circular genome visualizations."
 tool_type: mixed
 primary_tool: Circos
 ---

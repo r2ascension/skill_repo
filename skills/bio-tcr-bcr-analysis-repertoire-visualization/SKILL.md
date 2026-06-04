@@ -1,6 +1,6 @@
 ---
 name: bio-tcr-bcr-analysis-repertoire-visualization
-description: "Use whengenerating figures for repertoire comparisons, clonal dynamics, or V(D)J gene usage."
+description: "Use when generating figures for repertoire comparisons, clonal dynamics, or V(D)J gene usage."
 tool_type: mixed
 primary_tool: VDJtools
 ---

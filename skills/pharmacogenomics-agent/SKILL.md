@@ -9,8 +9,8 @@ keywords:
   - multi-omics
 measurable_outcome: 'Provides validated dosing recommendations for >50 drugs with 99% concordance to CPIC guidelines.'
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

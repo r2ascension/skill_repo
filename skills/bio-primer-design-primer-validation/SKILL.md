@@ -1,6 +1,6 @@
 ---
 name: bio-primer-design-primer-validation
-description: "Use whenvalidating primer specificity and properties."
+description: "Use when validating primer specificity and properties."
 tool_type: python
 primary_tool: primer3-py
 ---

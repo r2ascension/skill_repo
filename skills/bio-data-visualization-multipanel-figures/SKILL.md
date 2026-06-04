@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-multipanel-figures
-description: "Use whencombining multiple plots into publication figures."
+description: "Use when combining multiple plots into publication figures."
 tool_type: mixed
 primary_tool: patchwork
 ---

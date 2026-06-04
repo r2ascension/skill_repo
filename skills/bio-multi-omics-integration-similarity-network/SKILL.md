@@ -1,6 +1,6 @@
 ---
 name: bio-multi-omics-integration-similarity-network
-description: "Use whenperforming patient stratification or integrating multi-omics data into unified similarity networks."
+description: "Use when performing patient stratification or integrating multi-omics data into unified similarity networks."
 tool_type: r
 primary_tool: SNFtool
 ---

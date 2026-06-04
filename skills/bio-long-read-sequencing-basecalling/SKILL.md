@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-basecalling
-description: "Use whenprocessing raw Nanopore data before alignment. Note: Guppy is deprecated; use Dorado for all new analyses."
+description: "Use when processing raw Nanopore data before alignment. Note: Guppy is deprecated; use Dorado for all new analyses."
 tool_type: cli
 primary_tool: dorado
 ---

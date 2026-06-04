@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-molecular-descriptors
-description: "Use whenfeaturizing molecules for machine learning or filtering by drug-likeness criteria."
+description: "Use when featurizing molecules for machine learning or filtering by drug-likeness criteria."
 tool_type: python
 primary_tool: RDKit
 ---

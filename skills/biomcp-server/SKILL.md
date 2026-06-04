@@ -15,7 +15,7 @@ metadata:
 compatibility:
   - system: MCP-compliant clients
 allowed-tools:
-  - web_fetch
+  - WebFetch
 ---
 
 <!--

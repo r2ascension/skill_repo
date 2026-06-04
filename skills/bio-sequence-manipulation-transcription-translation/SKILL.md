@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-transcription-translation
-description: "Use whenconverting between DNA, RNA, and protein sequences, finding ORFs, or using alternative codon tables."
+description: "Use when converting between DNA, RNA, and protein sequences, finding ORFs, or using alternative codon tables."
 tool_type: python
 primary_tool: Bio.Seq
 ---

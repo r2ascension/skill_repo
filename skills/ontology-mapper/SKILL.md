@@ -1,6 +1,6 @@
 ---
 name: ontology-mapper
-description: "Use whentranslating natural-language material descriptions to ontology terms, annotating simulation inputs with ontology metadata, or mapping crystal parameters (space group, Bravais lattice, lattice constants) to standardized ontology representations."
+description: "Use when translating natural-language material descriptions to ontology terms, annotating simulation inputs with ontology metadata, or mapping crystal parameters (space group, Bravais lattice, lattice constants) to standardized ontology representations."
 allowed-tools: Read, Bash
 ---
 

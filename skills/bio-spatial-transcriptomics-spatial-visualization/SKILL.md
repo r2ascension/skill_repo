@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-visualization
-description: "Use whenvisualizing spatial expression patterns."
+description: "Use when visualizing spatial expression patterns."
 tool_type: python
 primary_tool: squidpy
 ---

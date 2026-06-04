@@ -1,6 +1,6 @@
 ---
 name: bio-imaging-mass-cytometry-quality-metrics
-description: "Use whenassessing data quality before analysis or troubleshooting problematic acquisitions."
+description: "Use when assessing data quality before analysis or troubleshooting problematic acquisitions."
 tool_type: python
 primary_tool: numpy
 ---

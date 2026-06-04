@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-multi-omics-pipeline
-description: "Use whenintegrating multiple omics datasets."
+description: "Use when integrating multiple omics datasets."
 tool_type: r
 primary_tool: MOFA2
 workflow: true

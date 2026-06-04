@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-bam-statistics
-description: "Use whenassessing alignment quality, calculating coverage, or generating QC reports."
+description: "Use when assessing alignment quality, calculating coverage, or generating QC reports."
 tool_type: cli
 primary_tool: samtools
 ---

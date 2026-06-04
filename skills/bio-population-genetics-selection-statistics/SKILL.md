@@ -1,6 +1,6 @@
 ---
 name: bio-population-genetics-selection-statistics
-description: "Use whencomputing selection signatures like Fst or Tajima's D."
+description: "Use when computing selection signatures like Fst or Tajima's D."
 tool_type: mixed
 primary_tool: scikit-allel
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-temporal-genomics-trajectory-modeling
-description: "Use whenfitting non-linear temporal models to bulk time-series data or comparing developmental trajectories across conditions. Not for single-cell pseudotime (see single-cell/trajectory-inference)."
+description: "Use when fitting non-linear temporal models to bulk time-series data or comparing developmental trajectories across conditions. Not for single-cell pseudotime (see single-cell/trajectory-inference)."
 tool_type: mixed
 primary_tool: mgcv
 ---

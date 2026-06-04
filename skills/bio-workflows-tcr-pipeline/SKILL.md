@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-tcr-pipeline
-description: "Use whenanalyzing immune repertoire sequencing data from bulk or single-cell experiments."
+description: "Use when analyzing immune repertoire sequencing data from bulk or single-cell experiments."
 tool_type: cli
 primary_tool: MiXCR
 ---

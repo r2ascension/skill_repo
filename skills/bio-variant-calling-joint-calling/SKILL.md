@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-joint-calling
-description: "Use whenperforming joint genotyping across multiple samples."
+description: "Use when performing joint genotyping across multiple samples."
 tool_type: cli
 primary_tool: GATK
 ---

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba scRNA Figure 1"
+  short_description: "Common scRNA Figure 1 plotting patterns"
+  default_prompt: "Use the biomamba-scrna-figure1-plots skill to make Biomamba-style single-cell Figure 1 panels inside this repository's dated result folders."

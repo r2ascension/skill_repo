@@ -3,8 +3,8 @@ name: 'tumor-heterogeneity-agent'
 description: "Use when you need aI-powered intratumor heterogeneity analysis for clonal architecture reconstruction, subclonal evolution tracking, and therapy resistance prediction using multi-region and longitudinal sequencing."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

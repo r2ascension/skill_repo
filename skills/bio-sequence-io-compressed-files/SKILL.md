@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-compressed-files
-description: "Use whenworking with .gz or .bz2 sequence files. Use BGZF for indexable compressed files."
+description: "Use when working with .gz or .bz2 sequence files. Use BGZF for indexable compressed files."
 tool_type: python
 primary_tool: Bio.bgzf
 ---

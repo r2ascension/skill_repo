@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-microbiome-pipeline
-description: "Use whenprocessing 16S/ITS amplicon data."
+description: "Use when processing 16S/ITS amplicon data."
 tool_type: r
 primary_tool: dada2
 workflow: true

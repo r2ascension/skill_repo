@@ -1,6 +1,6 @@
 ---
 name: ontology-explorer
-description: "Use whenexploring an ontology like CMSO, understanding class relationships, finding properties for a given class, or searching for ontology terms related to a materials science concept. Supports OWL/XML format from the OCDO ecosystem (CMSO, ASMO, CDCO, PODO, PLDO, LDO)."
+description: "Use when exploring an ontology like CMSO, understanding class relationships, finding properties for a given class, or searching for ontology terms related to a materials science concept. Supports OWL/XML format from the OCDO ecosystem (CMSO, ASMO, CDCO, PODO, PLDO, LDO)."
 allowed-tools: Read, Bash
 ---
 

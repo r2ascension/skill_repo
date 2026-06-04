@@ -1,6 +1,6 @@
 ---
 name: medical-specialty-briefs
-description: "Use whenuser asks for medical news, research updates, journal briefs, or specialty-specific medical updates for specialties like endocrinology, cardiology, oncology, neurology, etc."
+description: "Use when user asks for medical news, research updates, journal briefs, or specialty-specific medical updates for specialties like endocrinology, cardiology, oncology, neurology, etc."
 ---
 
 # Medical Specialty Briefs

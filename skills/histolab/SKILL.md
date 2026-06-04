@@ -1,6 +1,6 @@
 ---
 name: histolab
-description: "Use whenworking with histopathology slides, processing H&E or IHC stained tissue images, extracting tiles from gigapixel pathology images, detecting tissue regions, segmenting tissue masks, or preparing datasets for computational pathology deep learning pipelines. Applies to WSI formats (SVS, TIFF, NDPI), tile-based analysis, and histological image preprocessing workflows."
+description: "Use when working with histopathology slides, processing H&E or IHC stained tissue images, extracting tiles from gigapixel pathology images, detecting tissue regions, segmenting tissue masks, or preparing datasets for computational pathology deep learning pipelines. Applies to WSI formats (SVS, TIFF, NDPI), tile-based analysis, and histological image preprocessing workflows."
 ---
 
 # Histolab

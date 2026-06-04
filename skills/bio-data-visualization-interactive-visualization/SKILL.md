@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-interactive-visualization
-description: "Use whenbuilding zoomable, hoverable plots for data exploration or web dashboards."
+description: "Use when building zoomable, hoverable plots for data exploration or web dashboards."
 tool_type: mixed
 primary_tool: plotly
 ---

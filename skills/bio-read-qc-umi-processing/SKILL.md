@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-umi-processing
-description: "Use whenlibrary prep includes UMIs and accurate molecule counting is needed, such as in single-cell RNA-seq, low-input RNA-seq, or targeted sequencing to distinguish PCR from biological duplicates."
+description: "Use when library prep includes UMIs and accurate molecule counting is needed, such as in single-cell RNA-seq, low-input RNA-seq, or targeted sequencing to distinguish PCR from biological duplicates."
 tool_type: cli
 primary_tool: umi_tools
 ---

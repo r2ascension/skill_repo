@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-structural-variant-calling
-description: "Use whendetecting structural variants from short-read or long-read data and building consensus callsets."
+description: "Use when detecting structural variants from short-read or long-read data and building consensus callsets."
 tool_type: cli
 primary_tool: manta
 ---

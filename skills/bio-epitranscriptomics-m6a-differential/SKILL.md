@@ -1,6 +1,6 @@
 ---
 name: bio-epitranscriptomics-m6a-differential
-description: "Use whencomparing epitranscriptomic changes between treatment groups or cell states."
+description: "Use when comparing epitranscriptomic changes between treatment groups or cell states."
 tool_type: r
 primary_tool: exomePeak2
 ---

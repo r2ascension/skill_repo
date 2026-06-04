@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-cytometry-pipeline
-description: "Use whenprocessing flow or mass cytometry data end-to-end."
+description: "Use when processing flow or mass cytometry data end-to-end."
 tool_type: r
 primary_tool: CATALYST
 workflow: true

@@ -1,6 +1,6 @@
 ---
 name: bio-chip-seq-chipseq-qc
-description: "Use whenassessing ChIP-seq data quality metrics."
+description: "Use when assessing ChIP-seq data quality metrics."
 tool_type: mixed
 primary_tool: deepTools
 ---

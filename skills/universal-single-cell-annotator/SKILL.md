@@ -3,8 +3,8 @@ name: 'universal-single-cell-annotator'
 description: "Use when annotating scRNA-seq data broadly, identifying cell types, matching markers to labels, transferring annotations, or reviewing cluster identities."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

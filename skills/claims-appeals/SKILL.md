@@ -3,8 +3,8 @@ name: 'claims-appeals'
 description: "Use when drafting or reviewing healthcare insurance claims appeals, denial responses, coverage arguments, medical necessity evidence, or payer documentation."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

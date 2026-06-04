@@ -1,6 +1,6 @@
 ---
 name: bio-machine-learning-model-validation
-description: "Use whenvalidating classifiers or optimizing hyperparameters on omics data."
+description: "Use when validating classifiers or optimizing hyperparameters on omics data."
 tool_type: python
 primary_tool: sklearn
 ---

@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-gwas-drug-discovery
-description: "Use whendiscovering drug targets from GWAS data, finding drug repurposing opportunities from genetic associations, or translating GWAS findings into therapeutic leads."
+description: "Use when discovering drug targets from GWAS data, finding drug repurposing opportunities from genetic associations, or translating GWAS findings into therapeutic leads."
 ---
 
 # GWAS-to-Drug Target Discovery

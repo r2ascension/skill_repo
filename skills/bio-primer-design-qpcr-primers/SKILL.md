@@ -1,6 +1,6 @@
 ---
 name: bio-primer-design-qpcr-primers
-description: "Use whendesigning qPCR primers and probes."
+description: "Use when designing qPCR primers and probes."
 tool_type: python
 primary_tool: primer3-py
 ---

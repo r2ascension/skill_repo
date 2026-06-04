@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-alignment-amplicon-clipping
-description: "Use whenprocessing SARS-CoV-2 ARTIC, hereditary cancer panels, ctDNA hot-spot panels, or any amplicon assay where primer-derived bases would falsely confirm reference at primer footprints."
+description: "Use when processing SARS-CoV-2 ARTIC, hereditary cancer panels, ctDNA hot-spot panels, or any amplicon assay where primer-derived bases would falsely confirm reference at primer footprints."
 tool_type: cli
 primary_tool: samtools
 ---

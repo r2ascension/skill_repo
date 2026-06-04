@@ -1,6 +1,6 @@
 ---
 name: bio-ecological-genomics-community-ecology
-description: "Use whentesting how environmental gradients structure species communities, identifying habitat indicator taxa, or partitioning explained variation among predictors. Not for basic unconstrained ordination and PERMANOVA (see microbiome/diversity-analysis)."
+description: "Use when testing how environmental gradients structure species communities, identifying habitat indicator taxa, or partitioning explained variation among predictors. Not for basic unconstrained ordination and PERMANOVA (see microbiome/diversity-analysis)."
 tool_type: r
 primary_tool: vegan
 ---

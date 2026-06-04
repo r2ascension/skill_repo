@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-blast-searches
-description: "Use whenidentifying unknown sequences, finding homologs, or searching for sequence similarity against NCBI's nr/nt databases."
+description: "Use when identifying unknown sequences, finding homologs, or searching for sequence similarity against NCBI's nr/nt databases."
 tool_type: python
 primary_tool: Bio.Blast.NCBIWWW
 ---

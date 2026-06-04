@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-clinical-interpretation
-description: "Use wheninterpreting clinical significance of variants."
+description: "Use when interpreting clinical significance of variants."
 tool_type: mixed
 primary_tool: InterVar
 ---

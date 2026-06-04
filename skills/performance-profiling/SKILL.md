@@ -1,6 +1,6 @@
 ---
 name: performance-profiling
-description: "Use whensimulations are slow, investigating parallel efficiency, planning resource allocation, or seeking performance improvements through timing analysis, scaling studies, memory profiling, or bottleneck detection."
+description: "Use when simulations are slow, investigating parallel efficiency, planning resource allocation, or seeking performance improvements through timing analysis, scaling studies, memory profiling, or bottleneck detection."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

@@ -42,3 +42,7 @@ This skill walk-through summarizes the OmicVerse notebooks that cover paired and
 - **Result inspection:** Store outputs such as pseudotime (`single_cell_pt_markov`), cluster graph abstractions, trajectory curves, atlas views, and stream plots through VIA plotting helpers.
 - **Export workflow:** Persist derived visualisations and animations (e.g., `animate_streamplot_ov`, `animate_atlas`) to files (`.gif`) for reporting; recompute edge bundles via `make_edgebundle_milestone` when needed.
 - **Dependencies & hardware:** Relies on `scvelo`, `pyVIA`, and OmicVerse plotting; computations are CPU-bound though producing large stream/animation outputs benefits from ample memory.
+
+## Related Skills
+
+- **bio-single-cell-multimodal-integration** - The general (non-OmicVerse) equivalent covering multimodal integration with Seurat WNN/Signac/muon.

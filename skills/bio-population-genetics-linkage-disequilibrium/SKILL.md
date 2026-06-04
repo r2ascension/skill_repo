@@ -1,6 +1,6 @@
 ---
 name: bio-population-genetics-linkage-disequilibrium
-description: "Use whencalculating LD or pruning variants."
+description: "Use when calculating LD or pruning variants."
 tool_type: mixed
 primary_tool: plink2
 ---

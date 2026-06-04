@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba SCENIC Regulons"
+  short_description: "SCENIC regulon activity and network workflow"
+  default_prompt: "Use the biomamba-scenic-regulons skill to run SCENIC and plot regulon networks with this repository's storage conventions."

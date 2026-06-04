@@ -1,6 +1,6 @@
 ---
 name: bio-expression-matrix-sparse-handling
-description: "Use whendealing with single-cell data or large bulk RNA-seq datasets where most values are zero."
+description: "Use when dealing with single-cell data or large bulk RNA-seq datasets where most values are zero."
 tool_type: python
 primary_tool: scipy.sparse
 ---

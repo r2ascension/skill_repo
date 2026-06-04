@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-batch-processing
-description: "Use whenworking with many files, merging/splitting sequences, or automating file operations across directories."
+description: "Use when working with many files, merging/splitting sequences, or automating file operations across directories."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

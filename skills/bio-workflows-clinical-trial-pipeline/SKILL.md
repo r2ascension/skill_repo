@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-clinical-trial-pipeline
-description: "Use whenperforming a complete analysis of clinical trial data."
+description: "Use when performing a complete analysis of clinical trial data."
 tool_type: python
 primary_tool: statsmodels
 workflow: true

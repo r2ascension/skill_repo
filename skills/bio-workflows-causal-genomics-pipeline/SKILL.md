@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-causal-genomics-pipeline
-description: "Use whentriangulating causal inference across multiple complementary methods, prioritizing tissues via stratified LDSC, nominating or de-risking drug targets, mapping a lead SNP to a candidate effector gene, modeling shared genetic architecture across correlated traits, or producing a STROBE-MR-compliant publication-grade evidence battery from GWAS summary statistics."
+description: "Use when triangulating causal inference across multiple complementary methods, prioritizing tissues via stratified LDSC, nominating or de-risking drug targets, mapping a lead SNP to a candidate effector gene, modeling shared genetic architecture across correlated traits, or producing a STROBE-MR-compliant publication-grade evidence battery from GWAS summary statistics."
 tool_type: r
 primary_tool: TwoSampleMR
 workflow: true

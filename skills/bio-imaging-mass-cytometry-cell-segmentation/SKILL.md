@@ -1,6 +1,6 @@
 ---
 name: bio-imaging-mass-cytometry-cell-segmentation
-description: "Use whenextracting single-cell data from IMC or MIBI images after preprocessing."
+description: "Use when extracting single-cell data from IMC or MIBI images after preprocessing."
 tool_type: python
 primary_tool: cellpose
 ---

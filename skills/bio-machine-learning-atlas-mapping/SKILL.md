@@ -1,6 +1,6 @@
 ---
 name: bio-machine-learning-atlas-mapping
-description: "Use whenannotating new single-cell datasets using pre-trained reference models."
+description: "Use when annotating new single-cell datasets using pre-trained reference models."
 tool_type: python
 primary_tool: scvi-tools
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-chip-seq-chipseq-visualization
-description: "Use whenvisualizing ChIP-seq signal and peaks."
+description: "Use when visualizing ChIP-seq signal and peaks."
 tool_type: mixed
 primary_tool: deepTools
 ---

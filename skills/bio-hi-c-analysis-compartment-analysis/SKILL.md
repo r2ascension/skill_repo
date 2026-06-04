@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-compartment-analysis
-description: "Use whenidentifying A/B compartments from Hi-C data."
+description: "Use when identifying A/B compartments from Hi-C data."
 tool_type: python
 primary_tool: cooltools
 ---

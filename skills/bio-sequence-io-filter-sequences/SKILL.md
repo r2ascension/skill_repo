@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-filter-sequences
-description: "Use whensubsetting sequences, removing unwanted records, or selecting by specific criteria."
+description: "Use when subsetting sequences, removing unwanted records, or selecting by specific criteria."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

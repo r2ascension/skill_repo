@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-bed-file-basics
-description: "Use whenworking with genomic coordinates or preparing interval files for downstream tools."
+description: "Use when working with genomic coordinates or preparing interval files for downstream tools."
 tool_type: mixed
 primary_tool: bedtools
 ---

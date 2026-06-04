@@ -1,6 +1,6 @@
 ---
 name: biomedical-search
-description: "Use when you need complete biomedical information search combining PubMed, preprints, clinical trials, and FDA drug labels. Powered by Valyu semantic search."
+description: "Use when you need complete biomedical information search combining PubMed, arXiv, bioRxiv, medRxiv preprints, clinical trials, and FDA drug labels. Powered by Valyu semantic search."
 keywords:
   - biomedical-search
   - clinical-research
@@ -8,6 +8,8 @@ keywords:
   - medical-research
   - comprehensive-search
   - semantic-search
+  - arxiv
+  - preprints
 license: MIT
 ---
 
@@ -22,7 +24,7 @@ Search across all major biomedical databases (PubMed, bioRxiv, medRxiv, Clinical
 - **Semantic Search**: Understands the meaning of your query, not just keyword matching
 - **Full-Text Access**: Returns complete content from literature, trials, and drug labels
 - **Image Links**: Includes figures and images when available
-- **Comprehensive Coverage**: Search across PubMed, bioRxiv, medRxiv, clinical trials, and drug labels simultaneously
+- **Comprehensive Coverage**: Search across PubMed, bioRxiv, medRxiv, arXiv, clinical trials, and drug labels simultaneously
 - **Unified Results**: Get results from all biomedical sources in a single query
 
 ## Requirements
@@ -79,7 +81,7 @@ When you run a search and receive `"setup_required": true`, follow this flow:
       "title": "Title",
       "url": "https://...",
       "content": "Full content...",
-      "source": "pubmed|biorxiv|medrxiv|clinical-trials|drug-labels",
+      "source": "pubmed|biorxiv|medrxiv|arxiv|clinical-trials|drug-labels",
       "relevance_score": 0.95,
       "images": ["https://example.com/figure1.jpg"]
     }
@@ -181,7 +183,7 @@ client = Valyu(api_key="your-api-key")
 
 response = client.search(
     query="your search query here",
-    included_sources=["valyu/valyu-pubmed", "valyu/valyu-biorxiv", "valyu/valyu-medrxiv", "valyu/valyu-clinical-trials", "valyu/valyu-drug-labels"],
+    included_sources=["valyu/valyu-pubmed", "valyu/valyu-biorxiv", "valyu/valyu-medrxiv", "valyu/valyu-arxiv", "valyu/valyu-clinical-trials", "valyu/valyu-drug-labels"],
     max_results=20
 )
 

@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-smrna-pipeline
-description: "Use whenanalyzing miRNA, piRNA, or other small RNA sequencing data."
+description: "Use when analyzing miRNA, piRNA, or other small RNA sequencing data."
 tool_type: mixed
 primary_tool: miRDeep2
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-liquid-biopsy-cfdna-preprocessing
-description: "Use whenprocessing plasma cfDNA sequencing data before downstream analysis."
+description: "Use when processing plasma cfDNA sequencing data before downstream analysis."
 tool_type: python
 primary_tool: fgbio
 ---

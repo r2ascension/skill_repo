@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-drug-repurposing
-description: "Use whenexploring drug repurposing opportunities, finding new indications for approved drugs, or when users mention drug repositioning, off-label uses, or therapeutic alternatives."
+description: "Use when exploring drug repurposing opportunities, finding new indications for approved drugs, or when users mention drug repositioning, off-label uses, or therapeutic alternatives."
 ---
 
 # Drug Repurposing with ToolUniverse

@@ -1,6 +1,6 @@
 ---
 name: bio-epidemiological-genomics-phylodynamics
-description: "Use whendating outbreak origins, estimating transmission rates, or building time-calibrated trees."
+description: "Use when dating outbreak origins, estimating transmission rates, or building time-calibrated trees."
 tool_type: python
 primary_tool: TreeTime
 ---

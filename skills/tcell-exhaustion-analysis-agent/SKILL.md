@@ -3,8 +3,8 @@ name: 'tcell-exhaustion-analysis-agent'
 description: "Use when you need aI-powered analysis of T-cell exhaustion states, epigenetic scarring, stem-like T-cell populations, and checkpoint blockade response prediction in cancer immunotherapy."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

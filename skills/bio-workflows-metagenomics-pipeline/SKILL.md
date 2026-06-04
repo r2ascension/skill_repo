@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-metagenomics-pipeline
-description: "Use whenprofiling metagenomic samples."
+description: "Use when profiling metagenomic samples."
 tool_type: cli
 primary_tool: Kraken2
 workflow: true

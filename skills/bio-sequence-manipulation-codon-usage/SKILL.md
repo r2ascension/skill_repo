@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-codon-usage
-description: "Use whenanalyzing coding sequences for expression optimization or evolutionary analysis."
+description: "Use when analyzing coding sequences for expression optimization or evolutionary analysis."
 tool_type: python
 primary_tool: Bio.SeqUtils.CodonUsage
 ---

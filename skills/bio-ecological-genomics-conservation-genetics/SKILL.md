@@ -1,6 +1,6 @@
 ---
 name: bio-ecological-genomics-conservation-genetics
-description: "Use whenestimating effective population size, detecting inbreeding or bottlenecks, or assessing genetic diversity in threatened species from microsatellite or SNP data."
+description: "Use when estimating effective population size, detecting inbreeding or bottlenecks, or assessing genetic diversity in threatened species from microsatellite or SNP data."
 tool_type: mixed
 primary_tool: hierfstat
 ---

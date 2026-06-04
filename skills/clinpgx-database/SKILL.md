@@ -1,6 +1,24 @@
 ---
 name: clinpgx-database
 description: "Use when accessing ClinPGx pharmacogenomics data (successor to PharmGKB). Query gene-drug interactions, CPIC guidelines, allele functions, for precision medicine and genotype-guided dosing decisions."
+version: 0.1.0
+metadata:
+  openclaw:
+    requires:
+      bins:
+        - python3
+      env: []
+      config: []
+    always: false
+    emoji: "🧬"
+    homepage: https://api.clinpgx.org/
+    os: [macos, linux]
+    min_python: "3.10"
+    install:
+      - kind: uv
+        package: requests
+        bins: []
+    system_dependencies: []
 ---
 
 # ClinPGx Database
@@ -8,6 +26,8 @@ description: "Use when accessing ClinPGx pharmacogenomics data (successor to Pha
 ## Overview
 
 ClinPGx (Clinical Pharmacogenomics Database) is a comprehensive resource for clinical pharmacogenomics information, successor to PharmGKB. It consolidates data from PharmGKB, CPIC, and PharmCAT, providing curated information on how genetic variation affects medication response. Access gene-drug pairs, clinical guidelines, allele functions, and drug labels for precision medicine applications.
+
+Query the ClinPGx REST API (https://api.clinpgx.org/) for gene-drug interactions, clinical annotations, CPIC guidelines, FDA drug labels, and allele definitions.
 
 ## When to Use This Skill
 
@@ -23,6 +43,12 @@ This skill should be used when:
 - **Drug metabolism**: Understanding CYP450 and other pharmacogene functions
 - **Personalized dosing**: Finding genotype-guided dosing recommendations
 - **Adverse drug reactions**: Identifying genetic risk factors for drug toxicity
+
+## Input Formats
+
+- **Gene symbol** (text): Standard HGNC gene symbols, e.g., `CYP2D6`, `CYP2C19`, `VKORC1`
+- **Drug name** (text): Generic drug names, e.g., `warfarin`, `clopidogrel`, `codeine`
+- **Comma-separated lists**: `CYP2D6,CYP2C19` or `warfarin,codeine` for batch queries
 
 ## Installation and Setup
 
@@ -49,6 +75,16 @@ BASE_URL = "https://api.clinpgx.org/v1/"
 **Data License**: Creative Commons Attribution-ShareAlike 4.0 International License
 
 For substantial API use, notify the ClinPGx team at api@clinpgx.org
+
+## Workflow
+
+When querying the ClinPGx database:
+
+1. **Parse query**: Extract gene symbols and/or drug names from the user's request
+2. **Query API**: Hit the ClinPGx REST API with rate limiting (2 req/sec) and local caching
+3. **Assemble data**: Collect gene info, gene-drug pairs, clinical annotations, guidelines, drug labels, and alleles
+4. **Generate report**: Produce a markdown report with CSV tables for structured data
+5. **Attribute source**: Always cite ClinPGx/PharmGKB with CC BY-SA 4.0 license
 
 ## Core Capabilities
 
@@ -272,7 +308,27 @@ pathways = response.json()
 - Downstream effects on efficacy/toxicity
 - Interactions with other pathways
 
-## Query Workflow
+## Example Queries
+
+- "Look up CYP2D6 on ClinPGx"
+- "What drugs interact with CYP2C19?"
+- "Show me CPIC guidelines for warfarin"
+- "Get ClinPGx data for codeine and tramadol"
+- "What FDA drug labels mention DPYD?"
+
+## Output Structure
+
+```
+output_directory/
+├── report.md                    # Full markdown report
+└── tables/
+    ├── gene_drug_pairs.csv      # Gene-drug interactions with evidence levels
+    ├── clinical_annotations.csv # Curated variant-drug-phenotype annotations
+    ├── guidelines.csv           # CPIC/DPWG clinical guidelines
+    └── alleles.csv              # Known allele definitions
+```
+
+## Query Workflows
 
 ### Workflow 1: Clinical Decision Support for Drug Prescription
 
@@ -295,7 +351,6 @@ pathways = response.json()
    response = requests.get("https://api.clinpgx.org/v1/guideline",
                           params={"gene": "CYP2C19", "drug": "clopidogrel"})
    guideline = response.json()
-   # Recommendation: Alternative antiplatelet therapy for IM/PM
    ```
 
 4. **Check drug label** for regulatory guidance:
@@ -307,112 +362,46 @@ pathways = response.json()
 
 ### Workflow 2: Gene Panel Analysis
 
-1. **Get list of pharmacogenes** in clinical panel:
-   ```python
-   pgx_panel = ["CYP2C19", "CYP2D6", "CYP2C9", "TPMT", "DPYD", "SLCO1B1"]
-   ```
-
-2. **For each gene, retrieve all drug interactions**:
-   ```python
-   all_interactions = {}
-   for gene in pgx_panel:
-       response = requests.get("https://api.clinpgx.org/v1/geneDrugPair",
-                              params={"gene": gene})
-       all_interactions[gene] = response.json()
-   ```
-
-3. **Filter for CPIC guideline-level evidence**:
-   ```python
-   for gene, pairs in all_interactions.items():
-       for pair in pairs:
-           if pair.get('cpicLevel'):  # Has CPIC guideline
-               print(f"{gene} - {pair['drug']}: {pair['cpicLevel']}")
-   ```
-
+1. **Get list of pharmacogenes** in clinical panel
+2. **For each gene, retrieve all drug interactions**
+3. **Filter for CPIC guideline-level evidence**
 4. **Generate patient report** with actionable pharmacogenomic findings.
 
 ### Workflow 3: Drug Safety Assessment
 
-1. **Query drug for PGx associations**:
-   ```python
-   response = requests.get("https://api.clinpgx.org/v1/chemical",
-                          params={"name": "abacavir"})
-   drug_id = response.json()[0]['id']
-   ```
-
-2. **Get clinical annotations**:
-   ```python
-   response = requests.get("https://api.clinpgx.org/v1/clinicalAnnotation",
-                          params={"drug": drug_id})
-   annotations = response.json()
-   ```
-
-3. **Check for HLA associations** and toxicity risk:
-   ```python
-   for annotation in annotations:
-       if 'HLA' in annotation.get('genes', []):
-           print(f"Toxicity risk: {annotation['phenotype']}")
-           print(f"Evidence level: {annotation['evidenceLevel']}")
-   ```
-
+1. **Query drug for PGx associations**
+2. **Get clinical annotations**
+3. **Check for HLA associations** and toxicity risk
 4. **Retrieve screening recommendations** from guidelines and labels.
 
 ### Workflow 4: Research Analysis - Population Pharmacogenomics
 
-1. **Get allele frequencies** for population comparison:
-   ```python
-   response = requests.get("https://api.clinpgx.org/v1/allele",
-                          params={"gene": "CYP2D6"})
-   alleles = response.json()
-   ```
-
-2. **Extract population-specific frequencies**:
-   ```python
-   populations = ['European', 'African', 'East Asian', 'Latino']
-   frequency_data = {}
-   for allele in alleles:
-       allele_name = allele['name']
-       frequency_data[allele_name] = {
-           pop: allele.get(f'{pop}_frequency', 'N/A')
-           for pop in populations
-       }
-   ```
-
-3. **Calculate phenotype distributions** by population:
-   ```python
-   # Combine allele frequencies with function to predict phenotypes
-   phenotype_dist = calculate_phenotype_frequencies(frequency_data)
-   ```
-
+1. **Get allele frequencies** for population comparison
+2. **Extract population-specific frequencies**
+3. **Calculate phenotype distributions** by population
 4. **Analyze implications** for drug dosing in diverse populations.
 
 ### Workflow 5: Literature Evidence Review
 
-1. **Search for gene-drug pair**:
-   ```python
-   response = requests.get("https://api.clinpgx.org/v1/geneDrugPair",
-                          params={"gene": "TPMT", "drug": "azathioprine"})
-   pair = response.json()
-   ```
+1. **Search for gene-drug pair**
+2. **Retrieve all clinical annotations**
+3. **Filter by evidence level and publication date**
+4. **Extract PMIDs** and retrieve full references
 
-2. **Retrieve all clinical annotations**:
-   ```python
-   response = requests.get("https://api.clinpgx.org/v1/clinicalAnnotation",
-                          params={"gene": "TPMT", "drug": "azathioprine"})
-   annotations = response.json()
-   ```
+## Dependencies
 
-3. **Filter by evidence level and publication date**:
-   ```python
-   high_quality = [a for a in annotations
-                   if a['evidenceLevel'] in ['1A', '1B', '2A']]
-   ```
+**Required**:
+- `requests` >= 2.28.0 (HTTP client for API access)
 
-4. **Extract PMIDs** and retrieve full references:
-   ```python
-   pmids = [a['pmid'] for a in high_quality if 'pmid' in a]
-   # Use PubMed skill to retrieve full citations
-   ```
+**Optional**: None
+
+## Safety
+
+- No patient data is uploaded -- all queries are gene/drug name lookups
+- API responses are cached locally for 24 hours to minimise redundant calls
+- Rate limit of 2 requests/second is enforced to comply with ClinPGx API policy
+- Data is licensed under CC BY-SA 4.0 -- attribution is included in every report
+- This is a research and educational tool. It is not a medical device and does not provide clinical diagnoses. Consult a healthcare professional before making any medical decisions.
 
 ## Rate Limiting and Best Practices
 
@@ -424,16 +413,8 @@ import time
 def rate_limited_request(url, params=None, delay=0.5):
     """Make API request with rate limiting (2 req/sec max)"""
     response = requests.get(url, params=params)
-    time.sleep(delay)  # Wait 0.5 seconds between requests
+    time.sleep(delay)
     return response
-
-# Use in loops
-genes = ["CYP2D6", "CYP2C19", "CYP2C9"]
-for gene in genes:
-    response = rate_limited_request(
-        "https://api.clinpgx.org/v1/gene/" + gene
-    )
-    data = response.json()
 ```
 
 ### Error Handling
@@ -444,17 +425,14 @@ def safe_api_call(url, params=None, max_retries=3):
     for attempt in range(max_retries):
         try:
             response = requests.get(url, params=params, timeout=10)
-
             if response.status_code == 200:
                 return response.json()
             elif response.status_code == 429:
-                # Rate limit exceeded
-                wait_time = 2 ** attempt  # Exponential backoff
+                wait_time = 2 ** attempt
                 print(f"Rate limit hit. Waiting {wait_time}s...")
                 time.sleep(wait_time)
             else:
                 response.raise_for_status()
-
         except requests.exceptions.RequestException as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             if attempt == max_retries - 1:
@@ -471,24 +449,13 @@ from pathlib import Path
 def cached_query(cache_file, api_func, *args, **kwargs):
     """Cache API results to avoid repeated queries"""
     cache_path = Path(cache_file)
-
     if cache_path.exists():
         with open(cache_path) as f:
             return json.load(f)
-
     result = api_func(*args, **kwargs)
-
     with open(cache_path, 'w') as f:
         json.dump(result, f, indent=2)
-
     return result
-
-# Usage
-gene_data = cached_query(
-    'cyp2d6_cache.json',
-    rate_limited_request,
-    "https://api.clinpgx.org/v1/gene/CYP2D6"
-)
 ```
 
 ## PharmDOG Tool
@@ -504,11 +471,11 @@ PharmDOG (formerly DDRx) is ClinPGx's clinical decision support tool for interpr
 
 **Access**: Available at https://www.clinpgx.org/pharmacogenomic-decision-support
 
-**Use cases**:
-- Clinical interpretation of PGx panel results
-- Medication review for patients with known genotypes
-- Patient education materials
-- Point-of-care decision support
+## Integration with Bio Orchestrator
+
+This skill can be chained with:
+- **pharmgx-reporter**: After generating a patient PGx report, query ClinPGx for deeper annotation on flagged gene-drug pairs
+- **vcf-annotator**: Use ClinPGx allele definitions to annotate VCF variants
 
 ## Resources
 
@@ -526,8 +493,6 @@ Python script with ready-to-use functions for common ClinPGx queries:
 - `search_variants(rsid)` - Search by variant rsID
 - `export_to_dataframe(data)` - Convert results to pandas DataFrame
 
-Consult this script for implementation examples with proper rate limiting and error handling.
-
 ### references/api_reference.md
 
 Comprehensive API documentation including:
@@ -541,8 +506,6 @@ Comprehensive API documentation including:
 - Authentication requirements (if any)
 - Troubleshooting common errors
 
-Refer to this document when detailed API information is needed or when constructing complex queries.
-
 ## Important Notes
 
 ### Data Sources and Integration
@@ -553,8 +516,6 @@ ClinPGx consolidates multiple authoritative sources:
 - **PharmCAT**: Allele calling and phenotype interpretation tool
 - **DPWG**: Dutch pharmacogenetics guidelines
 - **FDA/EMA labels**: Regulatory pharmacogenomic information
-
-As of July 2025, all PharmGKB URLs redirect to corresponding ClinPGx pages.
 
 ### Clinical Implementation Considerations
 
@@ -579,42 +540,34 @@ As of July 2025, all PharmGKB URLs redirect to corresponding ClinPGx pages.
 - Parameters and response formats subject to modification
 - Monitor API changelog and ClinPGx blog for updates
 - Consider version pinning for production applications
-- Test API changes in development before production deployment
 
 ## Common Use Cases
 
 ### Pre-emptive Pharmacogenomic Testing
 
 Query all clinically actionable gene-drug pairs to guide panel selection:
-
 ```python
-# Get all CPIC guideline pairs
 response = requests.get("https://api.clinpgx.org/v1/geneDrugPair",
-                       params={"cpicLevel": "A"})  # Level A recommendations
+                       params={"cpicLevel": "A"})
 actionable_pairs = response.json()
 ```
 
 ### Medication Therapy Management
 
 Review patient medications against known genotypes:
-
 ```python
 patient_genes = {"CYP2C19": "*1/*2", "CYP2D6": "*1/*1", "SLCO1B1": "*1/*5"}
 medications = ["clopidogrel", "simvastatin", "escitalopram"]
-
 for med in medications:
     for gene in patient_genes:
         response = requests.get("https://api.clinpgx.org/v1/geneDrugPair",
                                params={"gene": gene, "drug": med})
-        # Check for interactions and dosing guidance
 ```
 
 ### Clinical Trial Eligibility
 
 Screen for pharmacogenomic contraindications:
-
 ```python
-# Check for HLA-B*57:01 before abacavir trial
 response = requests.get("https://api.clinpgx.org/v1/geneDrugPair",
                        params={"gene": "HLA-B", "drug": "abacavir"})
 pair_info = response.json()

@@ -1,6 +1,6 @@
 ---
 name: bio-metagenomics-metagenome-visualization
-description: "Use whencreating publication-quality figures from MetaPhlAn, Bracken, or other taxonomic profiling output."
+description: "Use when creating publication-quality figures from MetaPhlAn, Bracken, or other taxonomic profiling output."
 tool_type: mixed
 primary_tool: phyloseq
 ---

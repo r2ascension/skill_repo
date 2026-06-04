@@ -1,6 +1,6 @@
 ---
 name: bio-immunoinformatics-epitope-prediction
-description: "Use whendesigning vaccines, mapping antibody binding sites, or predicting immunogenic peptides."
+description: "Use when designing vaccines, mapping antibody binding sites, or predicting immunogenic peptides."
 tool_type: python
 primary_tool: BepiPred
 ---

@@ -3,8 +3,8 @@ name: 'pan-cancer-multiomics-agent'
 description: "Use when you need aI-powered pan-cancer analysis integrating genomic, transcriptomic, proteomic, and epigenomic data for cancer subtyping, driver identification, and cross-cancer pattern discovery."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

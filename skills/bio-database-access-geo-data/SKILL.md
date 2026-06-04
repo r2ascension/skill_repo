@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-geo-data
-description: "Use whenfinding microarray/RNA-seq datasets, downloading expression data, or linking GEO series to SRA runs."
+description: "Use when finding microarray/RNA-seq datasets, downloading expression data, or linking GEO series to SRA runs."
 tool_type: python
 primary_tool: Bio.Entrez
 ---

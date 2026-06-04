@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-variant-prioritization
-description: "Use whenidentifying candidate disease-causing variants from exome or genome sequencing."
+description: "Use when identifying candidate disease-causing variants from exome or genome sequencing."
 tool_type: python
 primary_tool: pandas
 ---

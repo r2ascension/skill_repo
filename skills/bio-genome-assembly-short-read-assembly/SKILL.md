@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-short-read-assembly
-description: "Use whenassembling genomes from Illumina reads."
+description: "Use when assembling genomes from Illumina reads."
 tool_type: cli
 primary_tool: SPAdes
 ---

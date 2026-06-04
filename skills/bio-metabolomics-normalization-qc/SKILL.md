@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-normalization-qc
-description: "Use whencorrecting technical variation in metabolomics data before statistical analysis."
+description: "Use when correcting technical variation in metabolomics data before statistical analysis."
 tool_type: r
 primary_tool: MetaboAnalystR
 ---

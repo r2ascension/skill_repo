@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-polygenic-risk-score
-description: "Use whenasked to calculate polygenic risk scores, interpret genetic risk for complex diseases, build custom PRS from GWAS data, or answer questions like \"What is my genetic predisposition to breast cancer?\"."
+description: "Use when asked to calculate polygenic risk scores, interpret genetic risk for complex diseases, build custom PRS from GWAS data, or answer questions like \"What is my genetic predisposition to breast cancer?\"."
 ---
 
 # Polygenic Risk Score (PRS) Builder

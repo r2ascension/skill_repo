@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-genome-assembly-pipeline
-description: "Use whenassembling genomes from raw reads."
+description: "Use when assembling genomes from raw reads."
 tool_type: cli
 primary_tool: Flye
 workflow: true

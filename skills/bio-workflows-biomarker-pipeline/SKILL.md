@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-biomarker-pipeline
-description: "Use whenbuilding and validating diagnostic or prognostic biomarker signatures from omics data."
+description: "Use when building and validating diagnostic or prognostic biomarker signatures from omics data."
 tool_type: python
 primary_tool: sklearn
 workflow: true

@@ -1,6 +1,6 @@
 ---
 name: bio-liquid-biopsy-ctdna-mutation-detection
-description: "Use whenidentifying tumor mutations from plasma DNA or tracking specific variants."
+description: "Use when identifying tumor mutations from plasma DNA or tracking specific variants."
 tool_type: python
 primary_tool: VarDict
 ---

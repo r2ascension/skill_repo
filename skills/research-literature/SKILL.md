@@ -3,8 +3,8 @@ name: 'research-literature'
 description: "Use when searching, summarizing, or synthesizing healthcare or biomedical research literature, evidence tables, citations, or literature review workflows."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

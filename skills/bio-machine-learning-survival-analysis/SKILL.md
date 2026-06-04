@@ -1,6 +1,6 @@
 ---
 name: bio-machine-learning-survival-analysis
-description: "Use whenpredicting patient survival or modeling time-to-event outcomes."
+description: "Use when predicting patient survival or modeling time-to-event outcomes."
 tool_type: python
 primary_tool: lifelines
 ---

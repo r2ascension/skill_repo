@@ -1,6 +1,6 @@
 ---
 name: bio-clip-seq-clip-motif-analysis
-description: "Use whencharacterizing the sequence preferences of an RNA-binding protein."
+description: "Use when characterizing the sequence preferences of an RNA-binding protein."
 tool_type: cli
 primary_tool: HOMER
 ---

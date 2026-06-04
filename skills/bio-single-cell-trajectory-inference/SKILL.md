@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-trajectory-inference
-description: "Use wheninferring developmental trajectories or pseudotime."
+description: "Use when inferring developmental trajectories or pseudotime."
 tool_type: mixed
 primary_tool: Monocle3
 ---
@@ -223,3 +223,5 @@ sc.pl.draw_graph(adata, color='dpt_pseudotime')
 - single-cell/clustering - Prerequisite clustering
 - single-cell/cell-communication - Downstream signaling analysis
 - differential-expression/deseq2-basics - DE along trajectory
+
+- **single-trajectory** - The OmicVerse-specific (single-*) equivalent covering trajectory inference with PAGA, Palantir, VIA, and RNA velocity coupling.

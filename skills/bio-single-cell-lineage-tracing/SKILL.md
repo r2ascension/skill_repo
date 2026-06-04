@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-lineage-tracing
-description: "Use whenstudying clonal dynamics, cell fate decisions, or developmental trajectories."
+description: "Use when studying clonal dynamics, cell fate decisions, or developmental trajectories."
 tool_type: python
 primary_tool: Cassiopeia
 ---

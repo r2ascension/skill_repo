@@ -1,6 +1,6 @@
 ---
 name: bio-phasing-imputation-haplotype-phasing
-description: "Use whenpreparing VCF files for imputation, HLA typing, or population genetic analyses requiring phased haplotypes."
+description: "Use when preparing VCF files for imputation, HLA typing, or population genetic analyses requiring phased haplotypes."
 tool_type: cli
 primary_tool: beagle
 ---

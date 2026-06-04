@@ -1,6 +1,6 @@
 ---
 name: bio-systems-biology-metabolic-reconstruction
-description: "Use whencreating metabolic models for organisms without existing models."
+description: "Use when creating metabolic models for organisms without existing models."
 tool_type: cli
 primary_tool: CarveMe
 ---

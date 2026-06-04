@@ -1,6 +1,6 @@
 ---
 name: bio-pathway-analysis-kegg-pathways
-description: "Use whenidentifying metabolic and signaling pathways over-represented in a gene list. Supports 4000+ organisms via KEGG online database."
+description: "Use when identifying metabolic and signaling pathways over-represented in a gene list. Supports 4000+ organisms via KEGG online database."
 tool_type: r
 primary_tool: clusterProfiler
 ---

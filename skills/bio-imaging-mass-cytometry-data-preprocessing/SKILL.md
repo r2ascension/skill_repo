@@ -1,6 +1,6 @@
 ---
 name: bio-imaging-mass-cytometry-data-preprocessing
-description: "Use whenstarting IMC analysis from raw MCD files or preparing images for segmentation."
+description: "Use when starting IMC analysis from raw MCD files or preparing images for segmentation."
 tool_type: python
 primary_tool: steinbock
 ---

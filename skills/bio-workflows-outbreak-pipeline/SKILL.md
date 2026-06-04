@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-outbreak-pipeline
-description: "Use wheninvestigating disease outbreaks or tracking pathogen transmission chains."
+description: "Use when investigating disease outbreaks or tracking pathogen transmission chains."
 tool_type: mixed
 primary_tool: mlst
 workflow: true

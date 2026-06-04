@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-hic-visualization
-description: "Use whenvisualizing contact matrices or genomic features."
+description: "Use when visualizing contact matrices or genomic features."
 tool_type: python
 primary_tool: cooltools
 ---

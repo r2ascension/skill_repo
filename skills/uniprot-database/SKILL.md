@@ -52,6 +52,39 @@ Use the API search endpoint: `https://rest.uniprot.org/uniprotkb/search?query={q
 
 **Supported formats:** JSON, TSV, Excel, XML, FASTA, RDF, TXT
 
+**Python search function:**
+
+```python
+import requests
+
+def search_uniprot(query, format='json', size=25):
+    """Search UniProt with structured query syntax."""
+    url = 'https://rest.uniprot.org/uniprotkb/search'
+    params = {'query': query, 'format': format, 'size': size}
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    return response.json() if format == 'json' else response.text
+
+# Example: human kinases with structures
+results = search_uniprot('organism_id:9606 AND keyword:kinase AND database:pdb AND reviewed:true')
+for entry in results['results']:
+    print(entry['primaryAccession'], entry['proteinDescription']['recommendedName']['fullName']['value'])
+```
+
+**Fetch a single entry by accession:**
+
+```python
+def fetch_uniprot(accession, format='fasta'):
+    """Fetch a single UniProt entry. Formats: fasta, json, txt, xml, gff."""
+    url = f'https://rest.uniprot.org/uniprotkb/{accession}.{format}'
+    response = requests.get(url)
+    response.raise_for_status()
+    return response.text
+
+sequence = fetch_uniprot('P53_HUMAN', 'fasta')
+entry_json = fetch_uniprot('P04637', 'json')
+```
+
 ### 2. Retrieving Individual Protein Entries
 
 Retrieve specific protein entries by accession number.
@@ -67,6 +100,76 @@ Example: `https://rest.uniprot.org/uniprotkb/P12345.fasta`
 ### 3. Batch Retrieval and ID Mapping
 
 Map protein identifiers between different database systems and retrieve multiple entries efficiently.
+
+**Batch fetch by accessions:**
+
+```python
+def batch_fetch(accessions, format='fasta'):
+    """Fetch multiple entries by accession list."""
+    url = 'https://rest.uniprot.org/uniprotkb/accessions'
+    params = {'accessions': ','.join(accessions), 'format': format}
+    response = requests.get(url, params=params)
+    return response.text
+
+accessions = ['P04637', 'P53_HUMAN', 'Q9Y6K9']
+sequences = batch_fetch(accessions)
+```
+
+**Stream large results with field selection:**
+
+```python
+def search_all(query, format='tsv', fields=None):
+    """Stream all results for large queries (no pagination)."""
+    url = 'https://rest.uniprot.org/uniprotkb/stream'
+    params = {'query': query, 'format': format}
+    if fields:
+        params['fields'] = ','.join(fields)
+    response = requests.get(url, params=params, stream=True)
+    return response.text
+
+# Get all human reviewed proteins with selected fields
+all_human = search_all('organism_id:9606 AND reviewed:true',
+                       fields=['accession', 'gene_names', 'protein_name'])
+```
+
+**ID Mapping workflow:**
+
+```python
+import time
+
+def map_ids(ids, from_db, to_db):
+    """Map identifiers between databases via UniProt ID mapping."""
+    url = 'https://rest.uniprot.org/idmapping/run'
+    response = requests.post(url, data={'ids': ','.join(ids), 'from': from_db, 'to': to_db})
+    job_id = response.json()['jobId']
+
+    # Poll for results
+    while True:
+        status = requests.get(f'https://rest.uniprot.org/idmapping/status/{job_id}')
+        if 'results' in status.json() or 'failedIds' in status.json():
+            break
+        time.sleep(1)
+
+    results = requests.get(f'https://rest.uniprot.org/idmapping/results/{job_id}')
+    return results.json()
+
+# Example: Ensembl gene IDs to UniProt
+mapping = map_ids(['ENSG00000141510', 'ENSG00000171862'], 'Ensembl', 'UniProtKB')
+for result in mapping['results']:
+    print(result['from'], '->', result['to']['primaryAccession'])
+```
+
+**Common database codes for ID mapping:**
+
+| Code | Database |
+|------|----------|
+| `UniProtKB` | UniProt accessions |
+| `UniProtKB_AC-ID` | UniProt AC or ID |
+| `Ensembl` | Ensembl gene ID |
+| `RefSeq_Protein` | RefSeq protein |
+| `PDB` | PDB ID |
+| `GeneID` | NCBI Gene ID |
+| `Gene_Name` | Gene symbols |
 
 **ID Mapping workflow:**
 1. Submit mapping job to: `https://rest.uniprot.org/idmapping/run`
@@ -112,6 +215,61 @@ Specify exactly which fields to retrieve for efficient data transfer.
 **Example:** `https://rest.uniprot.org/uniprotkb/search?query=insulin&fields=accession,gene_names,organism_name,length,sequence&format=tsv`
 
 See `/references/api_fields.md` for complete field list.
+
+### 6. Parsing and Extracting Data
+
+**Extract annotations from JSON entry:**
+
+```python
+import json
+
+# Fetch and parse a JSON entry
+entry = json.loads(fetch_uniprot('P04637', 'json'))
+
+accession = entry['primaryAccession']
+gene_name = entry['genes'][0]['geneName']['value']
+protein_name = entry['proteinDescription']['recommendedName']['fullName']['value']
+sequence = entry['sequence']['value']
+length = entry['sequence']['length']
+
+# GO terms, domains, and PDB references
+go_terms = [ref for ref in entry.get('uniProtKBCrossReferences', [])
+            if ref['database'] == 'GO']
+domains = [ref for ref in entry.get('uniProtKBCrossReferences', [])
+           if ref['database'] == 'InterPro']
+pdb_refs = [ref for ref in entry.get('uniProtKBCrossReferences', [])
+            if ref['database'] == 'PDB']
+```
+
+**Retrieve specific fields as a DataFrame:**
+
+```python
+import pandas as pd
+from io import StringIO
+
+def get_fields(query, fields):
+    """Get specific fields as a pandas DataFrame."""
+    url = 'https://rest.uniprot.org/uniprotkb/search'
+    params = {'query': query, 'format': 'tsv', 'fields': ','.join(fields), 'size': 500}
+    response = requests.get(url, params=params)
+    return pd.read_csv(StringIO(response.text), sep='\t')
+
+# Example: get human kinases with specific fields
+df = get_fields('organism_id:9606 AND keyword:kinase AND reviewed:true',
+                ['accession', 'gene_names', 'protein_name', 'length', 'go_p'])
+print(df.head())
+```
+
+**BioPython / SeqIO integration:**
+
+```python
+from Bio import SeqIO
+from io import StringIO
+
+fasta_text = fetch_uniprot('P04637', 'fasta')
+record = SeqIO.read(StringIO(fasta_text), 'fasta')
+print(record.id, len(record.seq))
+```
 
 ## Python Implementation
 

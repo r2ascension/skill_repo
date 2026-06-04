@@ -1,6 +1,6 @@
 ---
 name: bio-metagenomics-abundance-estimation
-description: "Use whenaccurate species-level abundances are needed from Kraken2 classification output."
+description: "Use when accurate species-level abundances are needed from Kraken2 classification output."
 tool_type: cli
 primary_tool: bracken
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-neighbors
-description: "Use whenbuilding spatial neighborhood graphs."
+description: "Use when building spatial neighborhood graphs."
 tool_type: python
 primary_tool: squidpy
 ---

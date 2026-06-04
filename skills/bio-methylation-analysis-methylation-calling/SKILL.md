@@ -1,6 +1,6 @@
 ---
 name: bio-methylation-analysis-methylation-calling
-description: "Use whenextracting methylation levels from aligned bisulfite sequencing data for downstream analysis."
+description: "Use when extracting methylation levels from aligned bisulfite sequencing data for downstream analysis."
 tool_type: cli
 primary_tool: bismark
 ---

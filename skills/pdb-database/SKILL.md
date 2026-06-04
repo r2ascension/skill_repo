@@ -89,6 +89,42 @@ combined_query = query1 & query2  # AND operation
 results = list(combined_query())
 ```
 
+**RCSB Search API v2 (Direct REST):**
+
+For direct HTTP access without the Python client:
+
+```python
+import requests
+
+# Full-text search
+query = {
+    "query": {
+        "type": "terminal",
+        "service": "full_text",
+        "parameters": {"value": "EGFR kinase domain"}
+    },
+    "return_type": "entry"
+}
+response = requests.post(
+    "https://search.rcsb.org/rcsbsearch/v2/query",
+    json=query
+)
+results = response.json()
+
+# Sequence similarity search
+seq_query = {
+    "query": {
+        "type": "terminal",
+        "service": "sequence",
+        "parameters": {
+            "value": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEKMSKDGKKKKKKSKTKCVIM",
+            "evalue_cutoff": 1e-10,
+            "identity_cutoff": 0.9
+        }
+    }
+}
+```
+
 ### 2. Retrieving Structure Data
 
 Access detailed information about specific PDB entries:
@@ -163,6 +199,28 @@ with open(f"{pdb_id}.cif", "w") as f:
     f.write(response.text)
 ```
 
+**Download via curl:**
+```bash
+curl -o 4hhb.pdb "https://files.rcsb.org/download/4HHB.pdb"
+curl -o 4hhb.cif "https://files.rcsb.org/download/4HHB.cif"
+```
+
+**Download via BioPython:**
+```python
+from Bio.PDB import PDBList
+
+pdbl = PDBList()
+pdbl.retrieve_pdb_file("4HHB", pdir="structures/", file_format="pdb")
+```
+
+**Fetch Sequence (FASTA):**
+```python
+def fetch_fasta(pdb_id):
+    """Fetch sequence in FASTA format from RCSB PDB."""
+    url = f"https://www.rcsb.org/fasta/entry/{pdb_id}"
+    return requests.get(url).text
+```
+
 ### 4. Working with Structure Data
 
 Common operations with retrieved structures:
@@ -199,7 +257,69 @@ print(f"Method: {method}")
 print(f"Deposited: {deposition_date}")
 ```
 
-### 5. Batch Operations
+### 5. Structure Preparation
+
+**Selecting Chains:**
+
+Extract specific chains from a structure:
+
+```python
+from Bio.PDB import PDBParser, PDBIO, Select
+
+class ChainSelect(Select):
+    def __init__(self, chain_id):
+        self.chain_id = chain_id
+    def accept_chain(self, chain):
+        return chain.id == self.chain_id
+
+# Extract chain A
+parser = PDBParser()
+structure = parser.get_structure("protein", "4hhb.pdb")
+io = PDBIO()
+io.set_structure(structure)
+io.save("chain_A.pdb", ChainSelect("A"))
+```
+
+**Analyze Structure:**
+
+```python
+def get_structure_info(pdb_file):
+    """Get summary information from a PDB file."""
+    parser = PDBParser(QUIET=True)
+    structure = parser.get_structure("protein", pdb_file)
+    info = {"chains": []}
+    for model in structure:
+        for chain in model:
+            residues = list(chain.get_residues())
+            info["chains"].append({
+                "id": chain.id,
+                "length": len(residues),
+                "first_res": residues[0].id[1],
+                "last_res": residues[-1].id[1]
+            })
+    return info
+```
+
+**Find Interface Residues:**
+
+```python
+def find_interface_residues(pdb_file, chain_a, chain_b, distance=4.0):
+    """Find residues at the interface between two chains."""
+    parser = PDBParser(QUIET=True)
+    structure = parser.get_structure("complex", pdb_file)
+    interface_a, interface_b = set(), set()
+
+    for res_a in structure[0][chain_a].get_residues():
+        for res_b in structure[0][chain_b].get_residues():
+            for atom_a in res_a.get_atoms():
+                for atom_b in res_b.get_atoms():
+                    if atom_a - atom_b < distance:
+                        interface_a.add(res_a.id[1])
+                        interface_b.add(res_b.id[1])
+    return interface_a, interface_b
+```
+
+### 6. Batch Operations
 
 Process multiple structures efficiently:
 
@@ -266,6 +386,15 @@ The `rcsb-api` package provides unified access to both Search and Data APIs thro
 - Generate molecular visualizations
 - Explore structure-function relationships
 - Study evolutionary conservation
+
+### Target Preparation Checklist (for Binder Design)
+
+1. Download structure: `curl -o target.pdb "https://files.rcsb.org/download/XXXX.pdb"`
+2. Identify target chain
+3. Remove waters and ligands (if needed)
+4. Trim to binding region + buffer
+5. Identify potential hotspots
+6. Renumber if needed
 
 ## Key Concepts
 

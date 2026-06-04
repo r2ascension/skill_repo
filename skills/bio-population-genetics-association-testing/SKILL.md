@@ -1,6 +1,6 @@
 ---
 name: bio-population-genetics-association-testing
-description: "Use whenrunning GWAS or association tests."
+description: "Use when running GWAS or association tests."
 tool_type: cli
 primary_tool: plink2
 ---

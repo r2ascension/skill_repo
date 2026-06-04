@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-expression-data-retrieval
-description: "Use whenusers need expression data, omics datasets, or mention ArrayExpress (E-MTAB, E-GEOD) or BioStudies (S-BSST) accessions."
+description: "Use when users need expression data, omics datasets, or mention ArrayExpress (E-MTAB, E-GEOD) or BioStudies (S-BSST) accessions."
 ---
 
 # Gene Expression & Omics Data Retrieval

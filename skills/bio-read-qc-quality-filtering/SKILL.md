@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-quality-filtering
-description: "Use whenreads have poor quality tails or require minimum quality for downstream analysis."
+description: "Use when reads have poor quality tails or require minimum quality for downstream analysis."
 tool_type: cli
 primary_tool: trimmomatic
 ---

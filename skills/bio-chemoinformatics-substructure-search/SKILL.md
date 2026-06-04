@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-substructure-search
-description: "Use whenfinding compounds containing specific chemical moieties or filtering libraries by structural features."
+description: "Use when finding compounds containing specific chemical moieties or filtering libraries by structural features."
 tool_type: python
 primary_tool: RDKit
 ---

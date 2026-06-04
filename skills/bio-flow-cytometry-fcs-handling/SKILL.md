@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-fcs-handling
-description: "Use whenloading and inspecting flow or mass cytometry data before preprocessing."
+description: "Use when loading and inspecting flow or mass cytometry data before preprocessing."
 tool_type: r
 primary_tool: flowCore
 ---

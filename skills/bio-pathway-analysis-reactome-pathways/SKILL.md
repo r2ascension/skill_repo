@@ -1,6 +1,6 @@
 ---
 name: bio-pathway-analysis-reactome-pathways
-description: "Use whenanalyzing gene lists against Reactome's curated peer-reviewed pathway database. Performs over-representation analysis and GSEA with visualization and pathway hierarchy exploration."
+description: "Use when analyzing gene lists against Reactome's curated peer-reviewed pathway database. Performs over-representation analysis and GSEA with visualization and pathway hierarchy exploration."
 tool_type: r
 primary_tool: ReactomePA
 ---

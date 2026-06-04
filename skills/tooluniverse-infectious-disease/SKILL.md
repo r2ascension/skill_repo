@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-infectious-disease
-description: "Use whenfacing novel pathogens, emerging infections, or needing rapid therapeutic options during outbreaks."
+description: "Use when facing novel pathogens, emerging infections, or needing rapid therapeutic options during outbreaks."
 ---
 
 # Infectious Disease Outbreak Intelligence

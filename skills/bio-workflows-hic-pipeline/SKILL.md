@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-hic-pipeline
-description: "Use whenprocessing Hi-C data to compartments and TADs."
+description: "Use when processing Hi-C data to compartments and TADs."
 tool_type: mixed
 primary_tool: cooler
 workflow: true

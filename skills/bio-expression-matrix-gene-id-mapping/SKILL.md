@@ -1,6 +1,6 @@
 ---
 name: bio-expression-matrix-gene-id-mapping
-description: "Use whenmapping IDs for pathway analysis or matching different data sources."
+description: "Use when mapping IDs for pathway analysis or matching different data sources."
 tool_type: mixed
 primary_tool: biomaRt
 ---

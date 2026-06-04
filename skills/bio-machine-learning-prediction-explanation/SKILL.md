@@ -1,6 +1,6 @@
 ---
 name: bio-machine-learning-prediction-explanation
-description: "Use wheninterpreting biomarker classifiers or understanding model predictions."
+description: "Use when interpreting biomarker classifiers or understanding model predictions."
 tool_type: python
 primary_tool: shap
 ---

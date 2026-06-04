@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-preprocessing
-description: "Use whenfiltering, normalizing, and selecting features in single-cell data."
+description: "Use when filtering, normalizing, and selecting features in single-cell data."
 tool_type: mixed
 primary_tool: Seurat
 ---
@@ -336,3 +336,5 @@ seurat_obj <- SCTransform(seurat_obj, vars.to.regress = 'percent.mt', verbose = 
 - data-io - Load data before preprocessing
 - clustering - PCA and clustering after preprocessing
 - markers-annotation - Find markers after clustering
+
+- **single-preprocessing** - The OmicVerse-specific (single-*) equivalent covering the same preprocessing step with the OmicVerse framework.

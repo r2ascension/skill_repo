@@ -1,6 +1,6 @@
 ---
 name: bio-imaging-mass-cytometry-spatial-analysis
-description: "Use whenanalyzing spatial relationships between cell types, testing for neighborhood enrichment, or identifying cell-cell interaction patterns in imaging mass cytometry data."
+description: "Use when analyzing spatial relationships between cell types, testing for neighborhood enrichment, or identifying cell-cell interaction patterns in imaging mass cytometry data."
 tool_type: python
 primary_tool: squidpy
 ---

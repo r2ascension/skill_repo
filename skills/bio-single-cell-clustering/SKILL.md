@@ -328,3 +328,5 @@ seurat_obj$UMAP_2 <- umap_coords[, 2]
 - preprocessing - Data must be preprocessed before clustering
 - markers-annotation - Find markers for each cluster
 - data-io - Save clustered results
+
+- **single-clustering** - The OmicVerse-specific (single-*) equivalent covering clustering and batch correction with the OmicVerse framework.

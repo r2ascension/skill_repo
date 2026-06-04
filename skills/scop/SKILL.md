@@ -3,6 +3,8 @@ name: scop
 description: Use when installing or configuring the R package scop, running scop::PrepareEnv, repairing scop_env Python dependencies, validating Seurat/reticulate integration, or cataloging scop visualization functions.
 ---
 
+> **Note:** This skill covers the R `scop` package for single-cell omics analysis. It is NOT related to the SCOP/SCoP2 structural classification of proteins database. For protein structure classification, see `pdb-database` or `foldseek`.
+
 # scop
 
 ## Overview

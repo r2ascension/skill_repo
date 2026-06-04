@@ -3,8 +3,8 @@ name: 'cellfree-rna-agent'
 description: "Use when you need aI-powered cell-free RNA analysis from liquid biopsy for cancer detection, tissue-of-origin identification, and non-invasive transcriptomic profiling."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

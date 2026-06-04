@@ -1,6 +1,6 @@
 ---
 name: bio-temporal-genomics-temporal-clustering
-description: "Use whencategorizing temporally dynamic genes into response groups or identifying co-expression modules across time points. Requires temporally variable genes identified first (see differential-expression/timeseries-de)."
+description: "Use when categorizing temporally dynamic genes into response groups or identifying co-expression modules across time points. Requires temporally variable genes identified first (see differential-expression/timeseries-de)."
 tool_type: mixed
 primary_tool: Mfuzz
 ---

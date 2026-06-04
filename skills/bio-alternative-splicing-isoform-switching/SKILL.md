@@ -1,6 +1,6 @@
 ---
 name: bio-alternative-splicing-isoform-switching
-description: "Use wheninvestigating how splicing differences alter protein function or trigger NMD-mediated degradation."
+description: "Use when investigating how splicing differences alter protein function or trigger NMD-mediated degradation."
 tool_type: r
 primary_tool: IsoformSwitchAnalyzeR
 ---

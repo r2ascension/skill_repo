@@ -3,8 +3,8 @@ name: 'fhir-development'
 description: "Use when developing FHIR APIs, resources, profiles, validation, SMART on FHIR apps, healthcare interoperability, or clinical data exchange workflows."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

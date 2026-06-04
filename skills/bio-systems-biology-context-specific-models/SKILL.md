@@ -1,6 +1,6 @@
 ---
 name: bio-systems-biology-context-specific-models
-description: "Use whenbuilding tissue-specific metabolic models or integrating transcriptomics with FBA."
+description: "Use when building tissue-specific metabolic models or integrating transcriptomics with FBA."
 tool_type: python
 primary_tool: cobrapy
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-experimental-design-sample-size
-description: "Use whenbudgeting experiments, writing grant proposals, or determining minimum replicates needed to achieve statistical significance for expected effect sizes."
+description: "Use when budgeting experiments, writing grant proposals, or determining minimum replicates needed to achieve statistical significance for expected effect sizes."
 tool_type: r
 primary_tool: ssizeRNA
 ---

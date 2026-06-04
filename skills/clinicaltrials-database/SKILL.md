@@ -486,6 +486,47 @@ if 'resultsSection' in study:
     pass
 ```
 
+## Valyu Semantic Search Access
+
+For quick, natural-language exploration of ClinicalTrials.gov data without constructing API query parameters, use the Valyu semantic search API:
+
+### Quick Search via CLI
+
+```bash
+CLINICAL_TRIALS_SCRIPT=$(find ~/.claude/plugins/cache -name "search" -path "*/clinicaltrials-database/*/scripts/*" -type f 2>/dev/null | head -1)
+$CLINICAL_TRIALS_SCRIPT "CAR-T cell therapy trials" 15
+```
+
+### Python SDK Integration
+
+```python
+from valyu import Valyu
+
+client = Valyu(api_key="your-api-key")
+
+response = client.search(
+    query="your search query here",
+    included_sources=["valyu/valyu-clinical-trials"],
+    max_results=20
+)
+```
+
+### TypeScript SDK Integration
+
+```typescript
+import { Valyu } from "valyu-js";
+
+const client = new Valyu("your-api-key");
+
+const response = await client.search({
+  query: "your search query here",
+  includedSources: ["valyu/valyu-clinical-trials"],
+  maxResults: 20
+});
+```
+
+> **Note**: The Valyu search provides a quick semantic entry point. For structured queries with specific filters (phase, status, location, sponsor), pagination, bulk data export, and detailed eligibility analysis, use the ClinicalTrials.gov API v2 methods documented above.
+
 ## Technical Specifications
 
 - **Base URL**: `https://clinicaltrials.gov/api/v2`

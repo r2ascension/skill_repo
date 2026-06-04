@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-deepvariant
-description: "Use whencalling variants with DeepVariant deep learning caller or when highest germline calling accuracy is required."
+description: "Use when calling variants with DeepVariant deep learning caller or when highest germline calling accuracy is required."
 tool_type: cli
 primary_tool: DeepVariant
 ---

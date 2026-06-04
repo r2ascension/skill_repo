@@ -3,8 +3,8 @@ name: 'ctdna-dynamics-mrd-agent'
 description: "Use when you need aI-powered circulating tumor DNA dynamics analysis for molecular residual disease detection, treatment response monitoring, and early relapse prediction using liquid biopsy."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

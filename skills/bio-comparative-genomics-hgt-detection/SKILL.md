@@ -1,6 +1,6 @@
 ---
 name: bio-comparative-genomics-hgt-detection
-description: "Use whensearching for horizontally transferred genes or analyzing genome evolution in prokaryotes."
+description: "Use when searching for horizontally transferred genes or analyzing genome evolution in prokaryotes."
 tool_type: mixed
 primary_tool: HGTector
 ---

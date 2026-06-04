@@ -1,6 +1,6 @@
 ---
 name: plotly
-description: "Use whenyou need hover info, zoom, pan, or web-embeddable charts. Best for dashboards, exploratory analysis, and presentations. For static publication figures use matplotlib or scientific-visualization."
+description: "Use when you need hover info, zoom, pan, or web-embeddable charts. Best for dashboards, exploratory analysis, and presentations. For static publication figures use matplotlib or scientific-visualization."
 license: MIT license
 metadata:
     skill-author: K-Dense Inc.

@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-molecular-io
-description: "Use whenloading chemical libraries, converting formats, or preparing molecules for analysis."
+description: "Use when loading chemical libraries, converting formats, or preparing molecules for analysis."
 tool_type: python
 primary_tool: RDKit
 ---

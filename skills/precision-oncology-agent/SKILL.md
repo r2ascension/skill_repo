@@ -2,8 +2,8 @@
 name: precision-oncology-agent
 description: "Use when working on fuse genomic variants, pathology findings, and clinical context to draft evidence-linked therapy options for tumor board review."
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

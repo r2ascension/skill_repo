@@ -1,6 +1,6 @@
 ---
 name: bio-proteomics-differential-abundance
-description: "Use whenidentifying proteins with significant abundance changes between experimental groups."
+description: "Use when identifying proteins with significant abundance changes between experimental groups."
 tool_type: mixed
 primary_tool: limma
 ---

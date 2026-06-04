@@ -1,6 +1,6 @@
 ---
 name: bio-copy-number-cnv-visualization
-description: "Use whencreating genome-wide CNV plots, sample heatmaps, or chromosome-level visualizations."
+description: "Use when creating genome-wide CNV plots, sample heatmaps, or chromosome-level visualizations."
 tool_type: mixed
 primary_tool: matplotlib
 ---

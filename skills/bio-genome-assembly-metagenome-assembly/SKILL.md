@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-metagenome-assembly
-description: "Use whenreconstructing genomes from microbial communities, recovering metagenome-assembled genomes (MAGs), or resolving strain-level variation in complex samples."
+description: "Use when reconstructing genomes from microbial communities, recovering metagenome-assembled genomes (MAGs), or resolving strain-level variation in complex samples."
 tool_type: cli
 primary_tool: metaFlye
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-xcms-preprocessing
-description: "Use whenprocessing raw LC-MS data into a feature table for untargeted metabolomics."
+description: "Use when processing raw LC-MS data into a feature table for untargeted metabolomics."
 tool_type: r
 primary_tool: xcms
 ---

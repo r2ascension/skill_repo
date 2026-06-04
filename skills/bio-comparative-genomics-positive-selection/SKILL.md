@@ -1,6 +1,6 @@
 ---
 name: bio-comparative-genomics-positive-selection
-description: "Use whentesting for adaptive evolution in gene families or identifying positively selected sites."
+description: "Use when testing for adaptive evolution in gene families or identifying positively selected sites."
 tool_type: mixed
 primary_tool: PAML
 ---

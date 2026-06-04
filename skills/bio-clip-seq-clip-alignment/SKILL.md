@@ -1,6 +1,6 @@
 ---
 name: bio-clip-seq-clip-alignment
-description: "Use whenmapping preprocessed CLIP reads for peak calling."
+description: "Use when mapping preprocessed CLIP reads for peak calling."
 tool_type: cli
 primary_tool: STAR
 ---

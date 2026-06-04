@@ -47,3 +47,7 @@ and the network.
 - Tutorial notebook: [`t_network.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_network.ipynb)
 - STRING background: [string-db.org](https://string-db.org/)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- **string-database** - The general (non-OmicVerse) equivalent covering STRING database queries and PPI network analysis.

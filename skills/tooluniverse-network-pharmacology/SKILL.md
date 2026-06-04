@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-network-pharmacology
-description: "Use whenusers ask about drug repurposing via network analysis, multi-target drug effects, compound-target-disease networks, systems pharmacology, or polypharmacology."
+description: "Use when users ask about drug repurposing via network analysis, multi-target drug effects, compound-target-disease networks, systems pharmacology, or polypharmacology."
 ---
 
 # Network Pharmacology Pipeline

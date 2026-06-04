@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-biostatistics-effect-measures
-description: "Use whenreporting treatment effects or comparing effect sizes across clinical studies."
+description: "Use when reporting treatment effects or comparing effect sizes across clinical studies."
 tool_type: python
 primary_tool: statsmodels
 ---

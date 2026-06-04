@@ -73,3 +73,7 @@ This skill distills the single-cell tutorials [`t_cluster.ipynb`](../../omicvers
 - Clustering walkthrough: [`t_cluster.ipynb`](../../omicverse_guide/docs/Tutorials-single/t_cluster.ipynb)
 - Batch integration walkthrough: [`t_single_batch.ipynb`](../../omicverse_guide/docs/Tutorials-single/t_single_batch.ipynb)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- **bio-single-cell-clustering** - The general (non-OmicVerse) equivalent covering the same analysis step with Scanpy/Seurat.

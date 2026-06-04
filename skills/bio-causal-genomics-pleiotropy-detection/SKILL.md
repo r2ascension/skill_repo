@@ -1,6 +1,6 @@
 ---
 name: bio-causal-genomics-pleiotropy-detection
-description: "Use whenvalidating an MR causal claim, running the STROBE-MR sensitivity battery, suspecting a shared heritable confounder, working under weak-instrument or polygenic-exposure regimes, or reconciling discordant estimates across robust methods."
+description: "Use when validating an MR causal claim, running the STROBE-MR sensitivity battery, suspecting a shared heritable confounder, working under weak-instrument or polygenic-exposure regimes, or reconciling discordant estimates across robust methods."
 tool_type: r
 primary_tool: TwoSampleMR
 ---

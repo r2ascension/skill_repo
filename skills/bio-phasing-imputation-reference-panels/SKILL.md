@@ -1,6 +1,6 @@
 ---
 name: bio-phasing-imputation-reference-panels
-description: "Use whensetting up imputation infrastructure or selecting appropriate reference panels for target populations."
+description: "Use when setting up imputation infrastructure or selecting appropriate reference panels for target populations."
 tool_type: cli
 primary_tool: bcftools
 ---

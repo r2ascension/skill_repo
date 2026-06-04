@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-write-sequences
-description: "Use whensaving sequences, creating new sequence files, or outputting modified records."
+description: "Use when saving sequences, creating new sequence files, or outputting modified records."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

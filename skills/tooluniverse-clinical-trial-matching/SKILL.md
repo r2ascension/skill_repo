@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-clinical-trial-matching
-description: "Use whenoncologists, molecular tumor boards, or patients ask about clinical trial options for specific cancer types, biomarker profiles, or post-progression scenarios."
+description: "Use when oncologists, molecular tumor boards, or patients ask about clinical trial options for specific cancer types, biomarker profiles, or post-progression scenarios."
 ---
 
 # Clinical Trial Matching for Precision Medicine

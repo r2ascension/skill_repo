@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-format-conversion
-description: "Use whenchanging file formats or preparing data for different tools."
+description: "Use when changing file formats or preparing data for different tools."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

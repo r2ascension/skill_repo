@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-isoseq-analysis
-description: "Use whencharacterizing transcript diversity or identifying novel splice variants."
+description: "Use when characterizing transcript diversity or identifying novel splice variants."
 tool_type: cli
 primary_tool: IsoSeq3
 ---

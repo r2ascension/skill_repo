@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-expression-to-pathways
-description: "Use whentaking DE results to pathway enrichment."
+description: "Use when taking DE results to pathway enrichment."
 tool_type: r
 primary_tool: clusterProfiler
 workflow: true

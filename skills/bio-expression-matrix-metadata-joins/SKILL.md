@@ -1,6 +1,6 @@
 ---
 name: bio-expression-matrix-metadata-joins
-description: "Use whenpreparing data for differential expression analysis or visualization."
+description: "Use when preparing data for differential expression analysis or visualization."
 tool_type: mixed
 primary_tool: pandas
 ---

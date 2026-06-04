@@ -1,6 +1,6 @@
 ---
 name: numerical-integration
-description: "Use whenchoosing explicit/implicit schemes, setting error tolerances, adapting time steps, diagnosing integration accuracy, planning IMEX splitting, or handling stiff/non-stiff coupled systems."
+description: "Use when choosing explicit/implicit schemes, setting error tolerances, adapting time steps, diagnosing integration accuracy, planning IMEX splitting, or handling stiff/non-stiff coupled systems."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

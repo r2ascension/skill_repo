@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-neoantigen-pipeline
-description: "Use whenidentifying tumor neoantigens for personalized vaccine design or checkpoint biomarkers."
+description: "Use when identifying tumor neoantigens for personalized vaccine design or checkpoint biomarkers."
 tool_type: mixed
 primary_tool: pVACtools
 workflow: true

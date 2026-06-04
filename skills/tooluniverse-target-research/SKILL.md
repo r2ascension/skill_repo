@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-target-research
-description: "Use whenusers ask about drug targets, proteins, genes, or need target validation, druggability assessment, or comprehensive target profiling."
+description: "Use when users ask about drug targets, proteins, genes, or need target validation, druggability assessment, or comprehensive target profiling."
 ---
 
 # Comprehensive Target Intelligence Gatherer

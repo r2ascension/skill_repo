@@ -1,6 +1,6 @@
 ---
 name: bio-differential-expression-de-results
-description: "Use whenfiltering and exporting DE analysis results."
+description: "Use when filtering and exporting DE analysis results."
 tool_type: r
 primary_tool: DESeq2
 ---

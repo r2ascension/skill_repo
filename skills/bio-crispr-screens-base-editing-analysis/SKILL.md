@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-base-editing-analysis
-description: "Use whenquantifying CRISPR base editor results, comparing ABE vs CBE efficiency, or assessing prime editing fidelity."
+description: "Use when quantifying CRISPR base editor results, comparing ABE vs CBE efficiency, or assessing prime editing fidelity."
 tool_type: python
 primary_tool: CRISPResso2
 ---

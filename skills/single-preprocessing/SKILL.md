@@ -182,3 +182,7 @@ def safe_highly_variable_genes(adata, batch_key='batch', n_top_genes=2000):
 ## References
 - Detailed walkthrough notebooks: [`t_preprocess.ipynb`](../../omicverse_guide/docs/Tutorials-single/t_preprocess.ipynb), [`t_preprocess_cpu.ipynb`](../../omicverse_guide/docs/Tutorials-single/t_preprocess_cpu.ipynb), [`t_preprocess_gpu.ipynb`](../../omicverse_guide/docs/Tutorials-single/t_preprocess_gpu.ipynb)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- **bio-single-cell-preprocessing** - The general (non-OmicVerse) equivalent covering the same analysis step with Scanpy/Seurat.

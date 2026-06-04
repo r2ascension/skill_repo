@@ -1,6 +1,6 @@
 ---
 name: bio-restriction-analysis-restriction-mapping
-description: "Use whencreating or analyzing restriction maps."
+description: "Use when creating or analyzing restriction maps."
 tool_type: python
 primary_tool: Bio.Restriction
 ---

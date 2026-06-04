@@ -1,6 +1,6 @@
 ---
 name: bio-ribo-seq-orf-detection
-description: "Use whenidentifying translated regions beyond annotated coding sequences or quantifying ORF-level translation."
+description: "Use when identifying translated regions beyond annotated coding sequences or quantifying ORF-level translation."
 tool_type: mixed
 primary_tool: RiboCode
 ---

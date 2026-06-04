@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-msa-parsing
-description: "Use whenparsing or manipulating multiple sequence alignments."
+description: "Use when parsing or manipulating multiple sequence alignments."
 tool_type: python
 primary_tool: Bio.AlignIO
 ---

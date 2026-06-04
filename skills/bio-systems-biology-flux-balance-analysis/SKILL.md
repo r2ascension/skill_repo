@@ -1,6 +1,6 @@
 ---
 name: bio-systems-biology-flux-balance-analysis
-description: "Use whenpredicting metabolic phenotypes or optimizing flux distributions."
+description: "Use when predicting metabolic phenotypes or optimizing flux distributions."
 tool_type: python
 primary_tool: cobrapy
 ---

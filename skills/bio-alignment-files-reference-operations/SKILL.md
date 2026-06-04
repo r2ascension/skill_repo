@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-reference-operations
-description: "Use whencreating consensus from alignments, indexing references, or creating sequence dictionaries."
+description: "Use when creating consensus from alignments, indexing references, or creating sequence dictionaries."
 tool_type: cli
 primary_tool: samtools
 ---

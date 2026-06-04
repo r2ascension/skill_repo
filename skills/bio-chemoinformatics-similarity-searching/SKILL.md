@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-similarity-searching
-description: "Use whenfinding analogs of a query compound or clustering chemical libraries."
+description: "Use when finding analogs of a query compound or clustering chemical libraries."
 tool_type: python
 primary_tool: RDKit
 ---

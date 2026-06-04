@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-gating-analysis
-description: "Use whenidentifying cell populations through hierarchical gating strategies."
+description: "Use when identifying cell populations through hierarchical gating strategies."
 tool_type: r
 primary_tool: flowWorkspace
 ---

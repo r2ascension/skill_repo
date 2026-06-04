@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-clip-pipeline
-description: "Use whenanalyzing protein-RNA interactions from CLIP-based methods."
+description: "Use when analyzing protein-RNA interactions from CLIP-based methods."
 tool_type: mixed
 primary_tool: CLIPper
 ---

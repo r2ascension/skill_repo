@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-tree-visualization
-description: "Use whencreating tree figures, customizing colors and labels, exporting to image formats, or choosing between Bio.Phylo, ggtree, ETE4, and iTOL for publication."
+description: "Use when creating tree figures, customizing colors and labels, exporting to image formats, or choosing between Bio.Phylo, ggtree, ETE4, and iTOL for publication."
 tool_type: python
 primary_tool: Bio.Phylo
 ---

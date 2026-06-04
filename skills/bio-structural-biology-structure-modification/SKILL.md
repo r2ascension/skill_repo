@@ -1,6 +1,6 @@
 ---
 name: bio-structural-biology-structure-modification
-description: "Use whentransforming coordinates, removing atoms or residues, adding new entities, modifying B-factors and occupancies, or building structures programmatically."
+description: "Use when transforming coordinates, removing atoms or residues, adding new entities, modifying B-factors and occupancies, or building structures programmatically."
 tool_type: python
 primary_tool: Bio.PDB
 ---

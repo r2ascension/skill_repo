@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-binder-discovery
-description: "Use whenusers ask to find small molecules for a target, identify novel binders, perform virtual screening, or need hit-to-lead compound identification."
+description: "Use when users ask to find small molecules for a target, identify novel binders, perform virtual screening, or need hit-to-lead compound identification."
 ---
 
 # Small Molecule Binder Discovery Strategy

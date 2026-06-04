@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-long-read-alignment
-description: "Use whenaligning ONT or PacBio reads to a reference genome for variant calling, SV detection, or coverage analysis."
+description: "Use when aligning ONT or PacBio reads to a reference genome for variant calling, SV detection, or coverage analysis."
 tool_type: cli
 primary_tool: minimap2
 ---

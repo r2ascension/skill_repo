@@ -1,6 +1,6 @@
 ---
 name: bio-reporting-automated-qc-reports
-description: "Use whensummarizing QC metrics across samples, creating shareable quality reports, or building automated QC pipelines."
+description: "Use when summarizing QC metrics across samples, creating shareable quality reports, or building automated QC pipelines."
 tool_type: cli
 primary_tool: multiqc
 ---

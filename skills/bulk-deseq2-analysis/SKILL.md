@@ -7,44 +7,80 @@ description: "Use when running PyDESeq2 or DESeq2-style differential expression 
 # Bulk RNA-seq DESeq2 analysis with omicverse
 
 ## Overview
-Use this skill when a user wants to reproduce the DESeq2 workflow showcased in [`t_deseq2.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_deseq2.ipynb). It covers loading raw featureCounts matrices, mapping Ensembl IDs to symbols, running PyDESeq2 via `ov.bulk.pyDEG`, and exploring downstream enrichment plots.
+Use this skill when a user wants to reproduce the DESeq2 workflow showcased in [`t_deseq2.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_deseq2.ipynb) or the broader DEG workflow in [`t_deg.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_deg.ipynb). It covers loading raw featureCounts matrices, mapping Ensembl IDs to symbols, running differential expression via PyDESeq2 (`ov.bulk.pyDEG`) with multiple testing methods, and exploring downstream enrichment plots.
 
 ## Instructions
-1. **Import and format the expression matrix**
-   - Call `import omicverse as ov` and `ov.utils.ov_plot_set()` to standardise visuals.
-   - Read tab-separated count data from featureCounts using `ov.utils.read(..., index_col=0, header=1)`.
-   - Strip trailing `.bam` from column names with `[c.split('/')[-1].replace('.bam', '') for c in data.columns]`.
-2. **Map gene identifiers**
-   - Ensure the appropriate mapping pair exists by running `ov.utils.download_geneid_annotation_pair()`.
+1. **Import and set up the session**
+   - Call `import omicverse as ov`, `scanpy as sc`, and `matplotlib.pyplot as plt`.
+   - Call `ov.utils.ov_plot_set()` or `ov.plot_set()` so downstream plots adopt omicverse styling.
+
+2. **Prepare ID mapping assets**
+   - Ensure the appropriate mapping pair exists by running `ov.utils.download_geneid_annotation_pair()` and store them under `genesets/`.
+   - Prebuilt genomes: T2T-CHM13, GRCh38, GRCh37, GRCm39, danRer7, danRer11. Users can generate their own mapping from GTF files if needed.
+
+3. **Load the raw counts**
+   - Read tab-delimited featureCounts output with `ov.pd.read_csv(..., sep='\t', header=1, index_col=0)`.
+   - Strip trailing `.bam` segments from column names using list comprehension so sample IDs are clean.
+
+4. **Map gene identifiers**
    - Replace `gene_id` with gene symbols using `ov.bulk.Matrix_ID_mapping(data, 'genesets/pair_<GENOME>.tsv')`.
-3. **Initialise the DEG object**
-   - Create `dds = ov.bulk.pyDEG(data)` from the mapped counts.
-   - Resolve duplicate gene names with `dds.drop_duplicates_index()` and confirm success in logs.
-4. **Define contrasts and run DESeq2**
+
+5. **Initialise the DEG object**
+   - Create `dds = ov.bulk.pyDEG(mapped_counts)`.
+   - Handle duplicate gene symbols with `dds.drop_duplicates_index()` to keep the highest expressed version.
+
+6. **Normalise and estimate size factors**
+   - Execute `dds.normalize()` to calculate DESeq2 size factors, correcting for library size and batch differences.
+
+7. **Define contrasts and run differential testing**
    - Collect sample labels into `treatment_groups` and `control_groups` lists that match column names exactly.
-   - Execute `dds.deg_analysis(treatment_groups, control_groups, method='DEseq2')` to invoke PyDESeq2.
-5. **Filter and tune thresholds**
+   - Choose a method:
+     - **DESeq2 (primary)**: `dds.deg_analysis(treatment_groups, control_groups, method='DEseq2')` to invoke PyDESeq2.
+     - **t-test (default)**: `dds.deg_analysis(treatment_groups, control_groups, method='ttest')` for Welch t-test.
+     - **edgeR-like**: `dds.deg_analysis(treatment_groups, control_groups, method='edgepy')` for edgeR-style tests.
+     - **limma-style**: `dds.deg_analysis(treatment_groups, control_groups, method='limma')` for limma-style modelling.
+
+8. **Filter and threshold results**
    - Inspect result shape (`dds.result.shape`) and optionally filter low-expression genes, e.g. `dds.result.loc[dds.result['log2(BaseMean)'] > 1]`.
-   - Set thresholds via `dds.foldchange_set(fc_threshold=-1, pval_threshold=0.05, logp_max=6)` to auto-pick fold-change cutoffs.
-6. **Visualise differential genes**
-   - Draw volcano plots with `dds.plot_volcano(...)` and summarise key genes.
-   - Produce per-gene boxplots: `dds.plot_boxplot(genes=[...], treatment_groups=..., control_groups=..., figsize=(2, 3))`.
-7. **Run enrichment analyses (optional)**
-   - Download enrichment libraries using `ov.utils.download_pathway_database()` and load them through `ov.utils.geneset_prepare`.
-   - Rank genes for GSEA with `rnk = dds.ranking2gsea()`.
-   - Instantiate `gsea_obj = ov.bulk.pyGSEA(rnk, pathway_dict)` and call `gsea_obj.enrichment()` to compute terms.
-   - Plot enrichment bubble charts via `gsea_obj.plot_enrichment(...)` and GSEA curves with `gsea_obj.plot_gsea(term_num=..., ...)`.
-8. **Troubleshooting**
-   - If PyDESeq2 raises errors about size factors, remind users to provide raw counts (not log-transformed data).
-   - `gene_id` mapping depends on species; direct them to download the correct genome pair when results look sparse.
-   - Large pathway libraries may require raising recursion limits or filtering to the top N terms before plotting.
+   - Set dynamic fold-change and significance cutoffs via `dds.foldchange_set(fc_threshold=-1, pval_threshold=0.05, logp_max=6)` (`fc_threshold=-1` auto-selects based on log2FC distribution).
+
+9. **Visualise differential expression**
+   - Draw volcano plots with `dds.plot_volcano(title=..., figsize=..., plot_genes=... or plot_genes_num=...)` to highlight key genes.
+   - Generate per-gene boxplots using `dds.plot_boxplot(genes=[...], treatment_groups=..., control_groups=..., figsize=..., legend_bbox=...)`; adjust y-axis tick labels if required.
+
+10. **Perform pathway enrichment (optional)**
+    - Download curated pathway libraries through `ov.utils.download_pathway_database()`.
+    - Load genesets with `ov.utils.geneset_prepare(<path>, organism='Mouse'|'Human'|...)`.
+    - Rank genes for GSEA with `rnk = dds.ranking2gsea()`.
+    - For GSEA: instantiate `gsea_obj = ov.bulk.pyGSEA(rnk, pathway_dict)`, call `gsea_obj.enrichment()`, plot bubble charts via `gsea_obj.plot_enrichment(...)` and GSEA curves with `gsea_obj.plot_gsea(term_num=..., ...)`.
+    - For ORA: build DEG gene list from `dds.result.loc[dds.result['sig'] != 'normal'].index`, run enrichment with `ov.bulk.geneset_enrichment(gene_list=deg_genes, pathways_dict=..., pvalue_type='auto', organism=...)`. Encourage users without internet access to provide a `background` gene list.
+    - Visualise single-library results via `ov.bulk.geneset_plot(...)` and combine multiple ontologies using `ov.bulk.geneset_plot_multi(enr_dict, colors_dict, num=...)`.
+
+11. **Document outputs**
+    - Suggest exporting `dds.result` and enrichment tables to CSV for downstream reporting.
+    - Encourage users to save figures generated by matplotlib (`plt.savefig(...)`) when running outside notebooks.
+
+12. **Troubleshooting tips**
+    - If PyDESeq2 raises errors about size factors, remind users to provide raw counts (not log-transformed data).
+    - Ensure sample labels in `treatment_groups`/`control_groups` exactly match column names post-cleanup.
+    - `gene_id` mapping depends on species; direct them to download the correct genome pair when results look sparse.
+    - Verify required packages (`omicverse`, `pyComplexHeatmap`, `gseapy`) are installed for enrichment visualisations.
+    - Remind users that internet access is required the first time they download gene mappings or pathway databases.
+    - Large pathway libraries may require raising recursion limits or filtering to the top N terms before plotting.
 
 ## Examples
 - "Run PyDESeq2 on treated vs control replicates and highlight the top enriched WikiPathways terms."
 - "Filter DEGs to genes with log2(BaseMean) > 1, auto-select fold-change cutoffs, and create volcano and boxplots."
 - "Generate the ranked gene list for GSEA and plot the enrichment curve for the top pathway."
+- "Use omicverse to compute edgeR-style differential expression between treated and control replicates, then run GO enrichment on significant genes."
+- "Guide me through converting Ensembl IDs to symbols, performing limma DEG, and plotting boxplots for specific genes."
 
 ## References
-- Tutorial notebook: [`t_deseq2.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_deseq2.ipynb)
+- Tutorial notebooks: [`t_deseq2.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_deseq2.ipynb), [`t_deg.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_deg.ipynb)
 - Sample featureCounts matrix: [`sample/counts.txt`](../../sample/counts.txt)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- **bio-differential-expression-deseq2-basics** - The general (non-OmicVerse) equivalent covering DESeq2 fundamentals with R/Bioconductor.
+- **bio-workflows-rnaseq-to-de** - The workflow-level counterpart covering end-to-end RNA-seq to differential expression pipelines.

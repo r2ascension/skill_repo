@@ -1,6 +1,6 @@
 ---
 name: bio-immunoinformatics-immunogenicity-scoring
-description: "Use whenprioritizing epitopes for vaccine development or identifying the most immunogenic neoantigens."
+description: "Use when prioritizing epitopes for vaccine development or identifying the most immunogenic neoantigens."
 tool_type: python
 primary_tool: mhcflurry
 ---

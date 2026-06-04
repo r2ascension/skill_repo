@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-drug-research
-description: "Use whenusers ask about drugs, medications, therapeutics, or need drug profiling, safety assessment, or clinical development research."
+description: "Use when users ask about drugs, medications, therapeutics, or need drug profiling, safety assessment, or clinical development research."
 ---
 
 # Drug Research Strategy

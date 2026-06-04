@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-motif-search
-description: "Use whensearching for transcription factor binding sites, regulatory elements, or any sequence pattern. For restriction enzyme analysis, use the restriction-analysis skill."
+description: "Use when searching for transcription factor binding sites, regulatory elements, or any sequence pattern. For restriction enzyme analysis, use the restriction-analysis skill."
 tool_type: python
 primary_tool: Bio.motifs
 ---

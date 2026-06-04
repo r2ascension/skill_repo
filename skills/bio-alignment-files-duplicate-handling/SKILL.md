@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-duplicate-handling
-description: "Use whenpreparing alignments for variant calling or when duplicate reads would bias analysis."
+description: "Use when preparing alignments for variant calling or when duplicate reads would bias analysis."
 tool_type: cli
 primary_tool: samtools
 ---

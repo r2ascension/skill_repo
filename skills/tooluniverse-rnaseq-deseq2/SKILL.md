@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-rnaseq-deseq2
-description: "Use whenanalyzing RNA-seq count matrices, identifying DEGs, performing differential expression with statistical rigor, or answering questions about gene expression changes."
+description: "Use when analyzing RNA-seq count matrices, identifying DEGs, performing differential expression with statistical rigor, or answering questions about gene expression changes."
 ---
 
 # RNA-seq Differential Expression Analysis (DESeq2)

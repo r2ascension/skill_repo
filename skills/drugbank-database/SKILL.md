@@ -1,6 +1,6 @@
 ---
 name: drugbank-database
-description: "Use whenworking with pharmaceutical data, drug discovery research, pharmacology studies, drug-drug interaction analysis, target identification, chemical similarity searches, ADMET predictions, or any task requiring detailed drug and drug target information from DrugBank."
+description: "Use when working with pharmaceutical data, drug discovery research, pharmacology studies, drug-drug interaction analysis, target identification, chemical similarity searches, ADMET predictions, or any task requiring detailed drug and drug target information from DrugBank."
 ---
 
 # DrugBank Database
@@ -170,6 +170,47 @@ Document the version used in publications and analysis scripts.
 6. **Cross-referencing**: Use external identifiers (UniProt, PubChem) for integration
 7. **Clinical Context**: Always consider clinical context when interpreting interaction data
 8. **License Compliance**: Ensure proper licensing for your use case
+
+## Valyu Semantic Search Access
+
+For quick, natural-language exploration of DrugBank data without writing Python queries, use the Valyu semantic search API:
+
+### Quick Search via CLI
+
+```bash
+DRUGBANK_SCRIPT=$(find ~/.claude/plugins/cache -name "search" -path "*/drugbank-database/*/scripts/*" -type f 2>/dev/null | head -1)
+$DRUGBANK_SCRIPT "ACE inhibitors" 15
+```
+
+### Python SDK Integration
+
+```python
+from valyu import Valyu
+
+client = Valyu(api_key="your-api-key")
+
+response = client.search(
+    query="your search query here",
+    included_sources=["valyu/valyu-drugbank"],
+    max_results=20
+)
+```
+
+### TypeScript SDK Integration
+
+```typescript
+import { Valyu } from "valyu-js";
+
+const client = new Valyu("your-api-key");
+
+const response = await client.search({
+  query: "your search query here",
+  includedSources: ["valyu/valyu-drugbank"],
+  maxResults: 20
+});
+```
+
+> **Note**: The Valyu search provides a quick semantic entry point. For structured queries, interaction analysis, chemical similarity, and bulk data access, use the DrugBank XML/API methods documented above.
 
 ## Reference Documentation
 

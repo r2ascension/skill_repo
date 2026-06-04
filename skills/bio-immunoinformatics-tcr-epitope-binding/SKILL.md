@@ -1,6 +1,6 @@
 ---
 name: bio-immunoinformatics-tcr-epitope-binding
-description: "Use whenanalyzing TCR repertoire specificity or identifying antigen-reactive T-cells."
+description: "Use when analyzing TCR repertoire specificity or identifying antigen-reactive T-cells."
 tool_type: python
 primary_tool: ERGO-II
 ---

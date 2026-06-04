@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-variant-normalization
-description: "Use whencomparing variants from different callers, preparing VCF for database annotation, or merging VCFs from multiple sources."
+description: "Use when comparing variants from different callers, preparing VCF for database annotation, or merging VCFs from multiple sources."
 tool_type: cli
 primary_tool: bcftools
 ---

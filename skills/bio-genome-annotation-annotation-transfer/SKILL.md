@@ -1,6 +1,6 @@
 ---
 name: bio-genome-annotation-annotation-transfer
-description: "Use whenannotating a new assembly of a species with an existing reference annotation or mapping annotations across related species."
+description: "Use when annotating a new assembly of a species with an existing reference annotation or mapping annotations across related species."
 tool_type: cli
 primary_tool: Liftoff
 ---

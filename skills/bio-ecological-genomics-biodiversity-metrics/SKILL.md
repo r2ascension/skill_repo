@@ -1,6 +1,6 @@
 ---
 name: bio-ecological-genomics-biodiversity-metrics
-description: "Use whenquantifying biodiversity from species abundance or incidence data, comparing diversity across sites, or constructing rarefaction curves. Not for clinical 16S microbiome alpha/beta diversity (see microbiome/diversity-analysis)."
+description: "Use when quantifying biodiversity from species abundance or incidence data, comparing diversity across sites, or constructing rarefaction curves. Not for clinical 16S microbiome alpha/beta diversity (see microbiome/diversity-analysis)."
 tool_type: r
 primary_tool: iNEXT
 ---

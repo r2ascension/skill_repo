@@ -1,6 +1,6 @@
 ---
 name: bioinformatics-singlecell
-description: "Use whenanalyzing single-cell data, cell type identification, trajectory analysis, differential expression, UMAP/clustering, integrating protein and RNA modalities (TotalVI), or working with Scanpy, Seurat, scvi-tools. Includes workflows for MPN, hematologic malignancies, megakaryocyte biology."
+description: "Use when analyzing single-cell data, cell type identification, trajectory analysis, differential expression, UMAP/clustering, integrating protein and RNA modalities (TotalVI), or working with Scanpy, Seurat, scvi-tools. Includes workflows for MPN, hematologic malignancies, megakaryocyte biology."
 license: Proprietary
 ---
 

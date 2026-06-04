@@ -3,8 +3,8 @@ name: 'cnv-caller-agent'
 description: "Use when working on aI-enhanced copy number variation calling and analysis from sequencing data for cancer genomics, constitutional CNV detection, and chromosomal aberration characterization."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

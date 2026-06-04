@@ -3,8 +3,8 @@ name: 'rna-velocity-agent'
 description: "Use when you need aI-powered RNA velocity analysis for predicting cellular state transitions, differentiation trajectories, and dynamic gene regulation from single-cell RNA sequencing data."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

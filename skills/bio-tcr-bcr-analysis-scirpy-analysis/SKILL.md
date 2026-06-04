@@ -1,6 +1,6 @@
 ---
 name: bio-tcr-bcr-analysis-scirpy-analysis
-description: "Use whenworking with 10x Genomics VDJ data alongside scRNA-seq or when integrating immune receptor information with cell state analysis."
+description: "Use when working with 10x Genomics VDJ data alongside scRNA-seq or when integrating immune receptor information with cell state analysis."
 tool_type: python
 primary_tool: scirpy
 ---

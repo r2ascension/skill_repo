@@ -127,3 +127,8 @@ adata.obs['cosg_celltype'] = adata.obs['leiden'].map(cluster_to_celltype)
 - Tutorials and notebooks: [`t_cellanno.ipynb`](../../../omicverse_guide/docs/Tutorials-single/t_cellanno.ipynb), [`t_metatime.ipynb`](../../../omicverse_guide/docs/Tutorials-single/t_metatime.ipynb), [`t_cellvote.md`](../../../omicverse_guide/docs/Tutorials-single/t_cellvote.md), [`t_cellvote_pbmc3k.ipynb`](../../../omicverse_guide/docs/Tutorials-single/t_cellvote_pbmc3k.ipynb), [`t_cellmatch.ipynb`](../../../omicverse_guide/docs/Tutorials-single/t_cellmatch.ipynb), [`t_gptanno.ipynb`](../../../omicverse_guide/docs/Tutorials-single/t_gptanno.ipynb), [`t_anno_trans.ipynb`](../../../omicverse_guide/docs/Tutorials-single/t_anno_trans.ipynb).
 - Sample data & assets: PBMC3k matrix from 10x Genomics, MetaTiME `TiME_adata_scvi.h5ad` (Figshare), SCSA database downloads, GLUE embeddings under `data/analysis_lymph/`, Cell Ontology `cl.json`, and Cell Taxonomy resource.
 - Quick copy commands: [`reference.md`](reference.md).
+
+## Related Skills
+
+- **bio-single-cell-cell-annotation** - The general (non-OmicVerse) equivalent for automated cell type annotation.
+- **bio-single-cell-markers-annotation** - The general (non-OmicVerse) equivalent for marker gene discovery and manual annotation.

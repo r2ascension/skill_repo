@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-metabolomics-pipeline
-description: "Use whenprocessing LC-MS metabolomics data."
+description: "Use when processing LC-MS metabolomics data."
 tool_type: r
 primary_tool: XCMS
 workflow: true

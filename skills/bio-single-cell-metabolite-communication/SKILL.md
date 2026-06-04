@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-metabolite-communication
-description: "Use whenstudying metabolic crosstalk between cell populations or metabolite-receptor interactions."
+description: "Use when studying metabolic crosstalk between cell populations or metabolite-receptor interactions."
 tool_type: python
 primary_tool: MeboCost
 ---

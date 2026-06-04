@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-color-palettes
-description: "Use whenselecting colorblind-friendly palettes for figures."
+description: "Use when selecting colorblind-friendly palettes for figures."
 tool_type: mixed
 primary_tool: viridis
 ---

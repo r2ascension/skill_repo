@@ -1,6 +1,6 @@
 ---
 name: bio-atac-seq-consensus-peakset
-description: "Use whengenerating a stable peak coordinate system for downstream differential accessibility, ML feature engineering, cross-sample comparison, or fixed-width peak counts; covers Corces 2018 iterative overlap (501 bp), DiffBind summit re-centering, and ENCODE consistency rules."
+description: "Use when generating a stable peak coordinate system for downstream differential accessibility, ML feature engineering, cross-sample comparison, or fixed-width peak counts; covers Corces 2018 iterative overlap (501 bp), DiffBind summit re-centering, and ENCODE consistency rules."
 tool_type: mixed
 primary_tool: bedtools
 ---

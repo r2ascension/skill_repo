@@ -1,6 +1,6 @@
 ---
 name: bio-atac-seq-atac-peak-calling
-description: "Use whenidentifying open chromatin from aligned ATAC-seq, choosing between point-source vs HMM peak callers, applying ENCODE-style pseudoreplicate IDR, removing blacklist regions, or fixing 501bp consensus peaks for downstream differential analysis."
+description: "Use when identifying open chromatin from aligned ATAC-seq, choosing between point-source vs HMM peak callers, applying ENCODE-style pseudoreplicate IDR, removing blacklist regions, or fixing 501bp consensus peaks for downstream differential analysis."
 tool_type: cli
 primary_tool: macs3
 ---

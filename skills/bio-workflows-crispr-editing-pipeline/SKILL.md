@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-crispr-editing-pipeline
-description: "Use whendesigning complete CRISPR editing experiments for gene knockout, correction, or tagging."
+description: "Use when designing complete CRISPR editing experiments for gene knockout, correction, or tagging."
 tool_type: mixed
 primary_tool: crisprscan
 workflow: true

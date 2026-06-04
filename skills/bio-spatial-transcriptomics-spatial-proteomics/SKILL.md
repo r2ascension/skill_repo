@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-proteomics
-description: "Use whenworking with multiplexed imaging data, analyzing protein spatial patterns, or integrating spatial proteomics with transcriptomics."
+description: "Use when working with multiplexed imaging data, analyzing protein spatial patterns, or integrating spatial proteomics with transcriptomics."
 tool_type: python
 primary_tool: scimap
 ---

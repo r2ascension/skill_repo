@@ -1,6 +1,6 @@
 ---
 name: bio-pathway-analysis-wikipathways
-description: "Use whenanalyzing gene lists against community-curated open-source pathways. Performs over-representation analysis and GSEA for 30+ species."
+description: "Use when analyzing gene lists against community-curated open-source pathways. Performs over-representation analysis and GSEA for 30+ species."
 tool_type: r
 primary_tool: clusterProfiler
 ---

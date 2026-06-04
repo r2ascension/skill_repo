@@ -1,6 +1,6 @@
 ---
 name: bio-small-rna-seq-differential-mirna
-description: "Use whenidentifying miRNAs that change between treatment groups, disease states, or developmental stages."
+description: "Use when identifying miRNAs that change between treatment groups, disease states, or developmental stages."
 tool_type: r
 primary_tool: DESeq2
 ---

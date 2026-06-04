@@ -1,6 +1,6 @@
 ---
 name: bio-rna-structure-secondary-structure-prediction
-description: "Use whenpredicting RNA folding, evaluating structural stability, or comparing structures across homologs."
+description: "Use when predicting RNA folding, evaluating structural stability, or comparing structures across homologs."
 tool_type: cli
 primary_tool: ViennaRNA
 ---

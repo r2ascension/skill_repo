@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-clinical-trial-design
-description: "Use whenplanning Phase 1/2 trials, assessing trial feasibility, or designing biomarker-driven studies."
+description: "Use when planning Phase 1/2 trials, assessing trial feasibility, or designing biomarker-driven studies."
 ---
 
 # Clinical Trial Design Feasibility Assessment

@@ -1,6 +1,6 @@
 ---
 name: bio-genome-annotation-repeat-annotation
-description: "Use whenmasking repeats before gene prediction or analyzing transposable element activity."
+description: "Use when masking repeats before gene prediction or analyzing transposable element activity."
 tool_type: cli
 primary_tool: RepeatMasker
 ---

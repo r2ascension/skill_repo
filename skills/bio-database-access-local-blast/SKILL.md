@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-local-blast
-description: "Use whenrunning fast unlimited searches, building custom databases, performing large-scale analysis, or when NCBI servers are slow or unavailable."
+description: "Use when running fast unlimited searches, building custom databases, performing large-scale analysis, or when NCBI servers are slow or unavailable."
 tool_type: cli
 primary_tool: BLAST+
 ---

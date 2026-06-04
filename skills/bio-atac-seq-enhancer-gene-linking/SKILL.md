@@ -1,6 +1,6 @@
 ---
 name: bio-atac-seq-enhancer-gene-linking
-description: "Use whenlinking distal enhancers to target genes, choosing between contact-aware (ABC, ENCODE-rE2G), accessibility-only (Cicero), and orthogonal (HiChIP H3K27ac, EpiMap) approaches, validating predictions against CRISPRi-FlowFISH gold-standard, or building cell-type-specific regulatory maps for fine-mapping or therapeutic target discovery."
+description: "Use when linking distal enhancers to target genes, choosing between contact-aware (ABC, ENCODE-rE2G), accessibility-only (Cicero), and orthogonal (HiChIP H3K27ac, EpiMap) approaches, validating predictions against CRISPRi-FlowFISH gold-standard, or building cell-type-specific regulatory maps for fine-mapping or therapeutic target discovery."
 tool_type: mixed
 primary_tool: ABC-Enhancer-Gene-Prediction
 ---

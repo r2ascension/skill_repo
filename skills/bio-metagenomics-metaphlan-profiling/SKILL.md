@@ -1,6 +1,6 @@
 ---
 name: bio-metagenomics-metaphlan-profiling
-description: "Use whenaccurate taxonomic profiling is needed and computational resources are limited, or for comparison with HMP/other MetaPhlAn studies."
+description: "Use when accurate taxonomic profiling is needed and computational resources are limited, or for comparison with HMP/other MetaPhlAn studies."
 tool_type: cli
 primary_tool: metaphlan
 ---

@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-statistical-modeling
-description: "Use whenasked to fit regression models, compute odds ratios, perform survival analysis, run statistical tests, or interpret model coefficients from provided data."
+description: "Use when asked to fit regression models, compute odds ratios, perform survival analysis, run statistical tests, or interpret model coefficients from provided data."
 ---
 
 # Statistical Modeling for Biomedical Data Analysis

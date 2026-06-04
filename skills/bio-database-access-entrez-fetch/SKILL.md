@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-entrez-fetch
-description: "Use whendownloading sequences, fetching GenBank records, getting document summaries, or parsing NCBI data into Biopython objects."
+description: "Use when downloading sequences, fetching GenBank records, getting document summaries, or parsing NCBI data into Biopython objects."
 tool_type: python
 primary_tool: Bio.Entrez
 ---

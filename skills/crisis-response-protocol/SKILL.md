@@ -1,6 +1,6 @@
 ---
 name: crisis-response-protocol
-description: "Use whenimplementing crisis detection, safety protocols, emergency escalation, or suicide prevention features. Activates for crisis keywords, safety planning, hotline integration, and risk assessment."
+description: "Use when implementing crisis detection, safety protocols, emergency escalation, or suicide prevention features. Activates for crisis keywords, safety planning, hotline integration, and risk assessment."
 allowed-tools: Read,Write,Edit
 metadata:
   category: Lifestyle & Personal

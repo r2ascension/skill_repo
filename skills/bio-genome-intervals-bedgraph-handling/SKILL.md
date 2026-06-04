@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-bedgraph-handling
-description: "Use whenhandling coverage and signal tracks from ChIP-seq, ATAC-seq, or RNA-seq."
+description: "Use when handling coverage and signal tracks from ChIP-seq, ATAC-seq, or RNA-seq."
 tool_type: mixed
 primary_tool: pyBigWig
 ---

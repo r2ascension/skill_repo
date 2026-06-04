@@ -1,6 +1,6 @@
 ---
 name: bio-microbiome-taxonomy-assignment
-description: "Use whenassigning taxonomy to ASVs after DADA2 amplicon processing."
+description: "Use when assigning taxonomy to ASVs after DADA2 amplicon processing."
 tool_type: mixed
 primary_tool: dada2
 ---

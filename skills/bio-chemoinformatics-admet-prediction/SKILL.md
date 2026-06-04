@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-admet-prediction
-description: "Use whenfiltering compounds for drug-likeness or prioritizing leads by predicted safety."
+description: "Use when filtering compounds for drug-likeness or prioritizing leads by predicted safety."
 tool_type: python
 primary_tool: ADMETlab
 ---

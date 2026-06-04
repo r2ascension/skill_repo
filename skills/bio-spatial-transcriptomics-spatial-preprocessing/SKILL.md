@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-preprocessing
-description: "Use whenfiltering and normalizing spatial transcriptomics data."
+description: "Use when filtering and normalizing spatial transcriptomics data."
 tool_type: python
 primary_tool: squidpy
 ---

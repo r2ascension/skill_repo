@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-long-read-assembly
-description: "Use whenassembling genomes from ONT or PacBio reads."
+description: "Use when assembling genomes from ONT or PacBio reads."
 tool_type: cli
 primary_tool: Flye
 ---

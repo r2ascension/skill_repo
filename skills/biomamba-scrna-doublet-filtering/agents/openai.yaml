@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba Doublet Filtering"
+  short_description: "DoubletFinder and scds doublet filtering"
+  default_prompt: "Use the biomamba-scrna-doublet-filtering skill to remove doublets from a Seurat object while following this repository's Seurat/output conventions."

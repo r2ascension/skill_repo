@@ -1,6 +1,6 @@
 ---
 name: bio-temporal-genomics-circadian-rhythms
-description: "Use whentesting for 24-hour or other known-period oscillations in circadian, feeding-fasting, or light-dark cycle experiments. Not for unknown-period discovery (see temporal-genomics/periodicity-detection)."
+description: "Use when testing for 24-hour or other known-period oscillations in circadian, feeding-fasting, or light-dark cycle experiments. Not for unknown-period discovery (see temporal-genomics/periodicity-detection)."
 tool_type: mixed
 primary_tool: CosinorPy
 ---

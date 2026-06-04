@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-medaka-polishing
-description: "Use whenimproving ONT-only assemblies or calling variants from Nanopore data without short-read polishing."
+description: "Use when improving ONT-only assemblies or calling variants from Nanopore data without short-read polishing."
 tool_type: cli
 primary_tool: medaka
 ---

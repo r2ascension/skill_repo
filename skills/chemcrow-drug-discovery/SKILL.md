@@ -3,8 +3,8 @@ name: 'chemcrow-drug-discovery'
 description: "Use when working with an LLM chemistry agent with expert-designed tools for organic synthesis, drug discovery, and materials design."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

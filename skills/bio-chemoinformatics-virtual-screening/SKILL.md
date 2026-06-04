@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-virtual-screening
-description: "Use whenscreening chemical libraries against a protein structure to find potential binders."
+description: "Use when screening chemical libraries against a protein structure to find potential binders."
 tool_type: python
 primary_tool: vina
 ---

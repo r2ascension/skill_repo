@@ -1,6 +1,6 @@
 ---
 name: linear-solvers
-description: "Use whenchoosing direct vs iterative methods, diagnosing convergence issues, estimating conditioning, selecting preconditioners, or debugging stagnation in GMRES/CG/BiCGSTAB."
+description: "Use when choosing direct vs iterative methods, diagnosing convergence issues, estimating conditioning, selecting preconditioners, or debugging stagnation in GMRES/CG/BiCGSTAB."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

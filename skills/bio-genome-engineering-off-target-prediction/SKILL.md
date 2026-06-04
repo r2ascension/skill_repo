@@ -1,6 +1,6 @@
 ---
 name: bio-genome-engineering-off-target-prediction
-description: "Use whenevaluating guide RNA specificity or selecting guides with minimal off-target risk."
+description: "Use when evaluating guide RNA specificity or selecting guides with minimal off-target risk."
 tool_type: cli
 primary_tool: Cas-OFFinder
 ---

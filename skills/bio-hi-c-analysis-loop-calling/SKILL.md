@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-loop-calling
-description: "Use whendetecting chromatin loops from Hi-C data."
+description: "Use when detecting chromatin loops from Hi-C data."
 tool_type: mixed
 primary_tool: cooltools
 ---

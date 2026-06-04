@@ -1,6 +1,6 @@
 ---
 name: bio-gene-regulatory-networks-perturbation-simulation
-description: "Use whenpredicting the effect of transcription factor knockouts, planning perturbation experiments, or identifying driver TFs for cell fate transitions."
+description: "Use when predicting the effect of transcription factor knockouts, planning perturbation experiments, or identifying driver TFs for cell fate transitions."
 tool_type: python
 primary_tool: CellOracle
 ---

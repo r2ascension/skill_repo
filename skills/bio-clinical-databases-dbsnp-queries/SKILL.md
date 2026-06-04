@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-dbsnp-queries
-description: "Use whenmapping between rsIDs and genomic coordinates or retrieving basic variant information."
+description: "Use when mapping between rsIDs and genomic coordinates or retrieving basic variant information."
 tool_type: python
 primary_tool: myvariant
 ---

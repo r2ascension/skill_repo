@@ -1,6 +1,6 @@
 ---
 name: bio-workflow-management-cwl-workflows
-description: "Use whenbuilding workflows that need maximum portability across execution platforms, sharing pipelines with collaborators using different systems, or contributing to community workflow registries."
+description: "Use when building workflows that need maximum portability across execution platforms, sharing pipelines with collaborators using different systems, or contributing to community workflow registries."
 tool_type: cli
 primary_tool: cwltool
 ---

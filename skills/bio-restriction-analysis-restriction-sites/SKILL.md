@@ -1,6 +1,6 @@
 ---
 name: bio-restriction-analysis-restriction-sites
-description: "Use whenfinding restriction enzyme cut sites in sequences."
+description: "Use when finding restriction enzyme cut sites in sequences."
 tool_type: python
 primary_tool: Bio.Restriction
 ---

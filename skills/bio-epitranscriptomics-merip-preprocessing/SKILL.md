@@ -1,6 +1,6 @@
 ---
 name: bio-epitranscriptomics-merip-preprocessing
-description: "Use whenpreparing MeRIP-seq data for peak calling or differential methylation analysis."
+description: "Use when preparing MeRIP-seq data for peak calling or differential methylation analysis."
 tool_type: cli
 primary_tool: STAR
 ---

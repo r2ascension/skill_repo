@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-somatic-signatures
-description: "Use whenidentifying DNA damage mechanisms or etiology in cancer genomes."
+description: "Use when identifying DNA damage mechanisms or etiology in cancer genomes."
 tool_type: mixed
 primary_tool: SigProfilerExtractor
 ---

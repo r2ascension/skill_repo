@@ -1,6 +1,6 @@
 ---
 name: bio-workflow-management-wdl-workflows
-description: "Use whenrunning GATK best practices pipelines, working with Terra/AnVIL platforms, or building workflows for cloud execution on Google Cloud or AWS."
+description: "Use when running GATK best practices pipelines, working with Terra/AnVIL platforms, or building workflows for cloud execution on Google Cloud or AWS."
 tool_type: cli
 primary_tool: cromwell
 ---

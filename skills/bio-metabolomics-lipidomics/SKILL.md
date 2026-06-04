@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-lipidomics
-description: "Use whenanalyzing lipid classes, chain composition, or lipid-specific pathways."
+description: "Use when analyzing lipid classes, chain composition, or lipid-specific pathways."
 tool_type: mixed
 primary_tool: lipidr
 ---

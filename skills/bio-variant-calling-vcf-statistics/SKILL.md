@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-vcf-statistics
-description: "Use whenevaluating variant quality, comparing samples, or summarizing VCF contents."
+description: "Use when evaluating variant quality, comparing samples, or summarizing VCF contents."
 tool_type: cli
 primary_tool: bcftools
 ---

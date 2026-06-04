@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-alignment-filtering
-description: "Use whenextracting specific reads, removing low-quality alignments, or subsetting to target regions."
+description: "Use when extracting specific reads, removing low-quality alignments, or subsetting to target regions."
 tool_type: cli
 primary_tool: samtools
 ---

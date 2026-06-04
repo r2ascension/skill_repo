@@ -1,6 +1,6 @@
 ---
 name: bio-experimental-design-power-analysis
-description: "Use whenplanning experiments, determining how many replicates are needed, or assessing whether a study is adequately powered to detect expected effect sizes."
+description: "Use when planning experiments, determining how many replicates are needed, or assessing whether a study is adequately powered to detect expected effect sizes."
 tool_type: r
 primary_tool: RNASeqPower
 ---

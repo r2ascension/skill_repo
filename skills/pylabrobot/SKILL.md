@@ -1,6 +1,6 @@
 ---
 name: pylabrobot
-description: "Use whenautomating laboratory workflows, programming liquid handling robots (Hamilton STAR, Opentrons OT-2, Tecan EVO), integrating lab equipment, managing deck layouts and resources (plates, tips, containers), reading plates, or creating reproducible laboratory protocols. Applicable for both simulated protocols and physical hardware control."
+description: "Use when automating laboratory workflows, programming liquid handling robots (Hamilton STAR, Opentrons OT-2, Tecan EVO), integrating lab equipment, managing deck layouts and resources (plates, tips, containers), reading plates, or creating reproducible laboratory protocols. Applicable for both simulated protocols and physical hardware control."
 ---
 
 # PyLabRobot

@@ -1,6 +1,6 @@
 ---
 name: bio-reporting-jupyter-reports
-description: "Use whengenerating automated analysis reports, running notebook-based pipelines, or creating shareable computational notebooks."
+description: "Use when generating automated analysis reports, running notebook-based pipelines, or creating shareable computational notebooks."
 tool_type: python
 primary_tool: papermill
 ---

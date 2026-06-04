@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-cnv-pipeline
-description: "Use whendetecting copy number alterations from sequencing data."
+description: "Use when detecting copy number alterations from sequencing data."
 tool_type: mixed
 primary_tool: CNVkit
 workflow: true

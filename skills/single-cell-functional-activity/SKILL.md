@@ -120,3 +120,7 @@ After running any engine, verify:
 - Summary table contains expected `feature × group` combinations.
 - Heatmap row/column names match annotation row names.
 - `sessionInfo()` and parameter metadata are written to the output directory.
+
+## Related Skills
+
+- _No direct `bio-single-cell-*` counterpart exists for this skill. It covers functional activity scoring (DoRothEA, PROGENy, GSVA) which is a domain-agnostic technique applicable across single-cell and bulk contexts._

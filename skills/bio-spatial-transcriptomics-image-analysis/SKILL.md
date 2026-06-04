@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-image-analysis
-description: "Use whenprocessing tissue images for spatial transcriptomics."
+description: "Use when processing tissue images for spatial transcriptomics."
 tool_type: python
 primary_tool: squidpy
 ---

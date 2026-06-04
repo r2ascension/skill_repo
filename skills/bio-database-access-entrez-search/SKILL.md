@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-entrez-search
-description: "Use whenfinding records by keyword, building complex search queries, discovering database structure, or getting global query counts across databases."
+description: "Use when finding records by keyword, building complex search queries, discovering database structure, or getting global query counts across databases."
 tool_type: python
 primary_tool: Bio.Entrez
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-gatk-variant-calling
-description: "Use whencalling variants with GATK HaplotypeCaller."
+description: "Use when calling variants with GATK HaplotypeCaller."
 tool_type: cli
 primary_tool: gatk
 ---

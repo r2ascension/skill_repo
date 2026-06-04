@@ -1,6 +1,6 @@
 ---
 name: bio-restriction-analysis-enzyme-selection
-description: "Use whenselecting restriction enzymes for cloning or analysis."
+description: "Use when selecting restriction enzymes for cloning or analysis."
 tool_type: python
 primary_tool: Bio.Restriction
 ---

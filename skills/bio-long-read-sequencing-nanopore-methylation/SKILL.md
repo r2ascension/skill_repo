@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-nanopore-methylation
-description: "Use whendetecting 5mC or 6mA modifications directly from nanopore reads without bisulfite conversion."
+description: "Use when detecting 5mC or 6mA modifications directly from nanopore reads without bisulfite conversion."
 tool_type: cli
 primary_tool: modkit
 ---

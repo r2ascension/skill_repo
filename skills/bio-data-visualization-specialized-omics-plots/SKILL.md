@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-specialized-omics-plots
-description: "Use whencreating volcano, MA, or enrichment plots."
+description: "Use when creating volcano, MA, or enrichment plots."
 tool_type: mixed
 primary_tool: ggplot2
 ---
@@ -37,6 +37,8 @@ This skill provides **reusable plotting functions** for common omics visualizati
 
 ## Volcano Plot (R)
 
+### Basic ggplot2 Volcano
+
 ```r
 library(ggplot2)
 library(ggrepel)
@@ -63,7 +65,97 @@ volcano_plot <- function(res, fdr = 0.05, lfc = 1, top_n = 10) {
 }
 ```
 
+### Manual ggplot2 with Gene Labels
+
+Add non-overlapping gene name labels for top significant genes or genes of interest:
+
+```r
+# Label top significant genes
+top_genes <- df %>%
+    filter(padj < 0.05, abs(log2FoldChange) > 1) %>%
+    arrange(pvalue) %>%
+    head(20)
+
+ggplot(df, aes(x = log2FoldChange, y = -log10(pvalue))) +
+    geom_point(aes(color = significance), alpha = 0.6, size = 1.5) +
+    scale_color_manual(values = c(Up = '#E64B35', Down = '#4DBBD5', NS = 'gray70')) +
+    geom_text_repel(
+        data = top_genes,
+        aes(label = gene),
+        size = 3,
+        max.overlaps = 20,
+        box.padding = 0.5,
+        segment.color = 'gray50'
+    ) +
+    theme_classic()
+
+# Label specific genes of interest
+genes_of_interest <- c('TP53', 'BRCA1', 'MYC', 'EGFR')
+highlight_df <- df %>% filter(gene %in% genes_of_interest)
+
+ggplot(df, aes(x = log2FoldChange, y = -log10(pvalue))) +
+    geom_point(aes(color = significance), alpha = 0.4, size = 1.5) +
+    geom_point(data = highlight_df, color = 'black', size = 3) +
+    geom_text_repel(data = highlight_df, aes(label = gene), fontface = 'bold') +
+    theme_classic()
+```
+
+### EnhancedVolcano (R)
+
+```r
+library(EnhancedVolcano)
+
+# Basic EnhancedVolcano
+EnhancedVolcano(df,
+    lab = df$gene,
+    x = 'log2FoldChange',
+    y = 'pvalue',
+    pCutoff = 0.05,
+    FCcutoff = 1,
+    title = 'Treatment vs Control',
+    subtitle = 'DE genes highlighted')
+
+# Customized EnhancedVolcano
+EnhancedVolcano(df,
+    lab = df$gene,
+    x = 'log2FoldChange',
+    y = 'pvalue',
+    pCutoff = 0.05,
+    FCcutoff = 1,
+    xlim = c(-5, 5),
+    ylim = c(0, 50),
+    pointSize = 2,
+    labSize = 3,
+    colAlpha = 0.6,
+    col = c('gray70', '#4DBBD5', '#00A087', '#E64B35'),
+    legendLabels = c('NS', 'Log2FC', 'p-value', 'p-value and Log2FC'),
+    legendPosition = 'right',
+    drawConnectors = TRUE,
+    widthConnectors = 0.5,
+    maxoverlapsConnectors = 20,
+    selectLab = genes_of_interest,  # Only label specific genes
+    boxedLabels = TRUE)
+
+# EnhancedVolcano with custom keyvals for multi-category highlighting
+keyvals <- ifelse(df$log2FoldChange > 2 & df$padj < 0.01, '#E64B35',
+           ifelse(df$log2FoldChange < -2 & df$padj < 0.01, '#4DBBD5',
+           ifelse(df$padj < 0.05, '#00A087', 'gray70')))
+names(keyvals)[keyvals == '#E64B35'] <- 'Highly Up'
+names(keyvals)[keyvals == '#4DBBD5'] <- 'Highly Down'
+names(keyvals)[keyvals == '#00A087'] <- 'Moderate'
+names(keyvals)[keyvals == 'gray70'] <- 'NS'
+
+EnhancedVolcano(df,
+    lab = df$gene,
+    x = 'log2FoldChange',
+    y = 'pvalue',
+    colCustom = keyvals,
+    legendPosition = 'right')
+```
+
 ## Volcano Plot (Python)
+
+### Basic Python Volcano
 
 ```python
 import matplotlib.pyplot as plt
@@ -92,6 +184,72 @@ def volcano_plot(df, fdr=0.05, lfc=1, ax=None):
     ax.set_ylabel('-Log10 P-value')
     ax.legend()
     return ax
+```
+
+### Python Volcano with Gene Labels (adjustText)
+
+```python
+from adjustText import adjust_text
+
+# Color by significance
+colors = np.where((df['padj'] < 0.05) & (df['log2FoldChange'] > 1), '#E64B35',
+         np.where((df['padj'] < 0.05) & (df['log2FoldChange'] < -1), '#4DBBD5', 'gray'))
+
+# Get top genes to label
+top_idx = df.nsmallest(15, 'pvalue').index
+
+fig, ax = plt.subplots(figsize=(10, 8))
+ax.scatter(df['log2FoldChange'], -np.log10(df['pvalue']), c=colors, alpha=0.5, s=15)
+
+# Add labels with adjust_text to avoid overlaps
+texts = []
+for idx in top_idx:
+    texts.append(ax.text(df.loc[idx, 'log2FoldChange'],
+                         -np.log10(df.loc[idx, 'pvalue']),
+                         df.loc[idx, 'gene'],
+                         fontsize=8))
+
+adjust_text(texts, arrowprops=dict(arrowstyle='-', color='gray', lw=0.5))
+plt.tight_layout()
+```
+
+### Threshold Customization
+
+```r
+# Standard thresholds
+# FC > 1 (2-fold change): Common for RNA-seq
+# FC > 0.58 (~1.5-fold): More sensitive, use for subtle effects
+# padj < 0.05: Standard FDR threshold
+# padj < 0.01: Stringent, fewer false positives
+# padj < 0.1: Relaxed, use for exploratory analysis
+
+# Adjust thresholds based on your data
+pval_threshold <- 0.05
+fc_threshold <- 1  # log2 scale
+
+df$significance <- case_when(
+    df$padj < pval_threshold & df$log2FoldChange > fc_threshold ~ 'Up',
+    df$padj < pval_threshold & df$log2FoldChange < -fc_threshold ~ 'Down',
+    TRUE ~ 'NS'
+)
+```
+
+### Save Publication-Ready Volcano
+
+```r
+# R - high resolution
+ggsave('volcano.pdf', width = 8, height = 6)
+ggsave('volcano.png', width = 8, height = 6, dpi = 300)
+
+# EnhancedVolcano returns ggplot object
+p <- EnhancedVolcano(df, lab = df$gene, x = 'log2FoldChange', y = 'pvalue')
+ggsave('volcano.pdf', p, width = 10, height = 8)
+```
+
+```python
+# Python
+plt.savefig('volcano.pdf', bbox_inches='tight')
+plt.savefig('volcano.png', dpi=300, bbox_inches='tight')
 ```
 
 ## MA Plot

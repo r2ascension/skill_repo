@@ -1,6 +1,6 @@
 ---
 name: bio-systems-biology-model-curation
-description: "Use whenimproving draft models or preparing models for publication."
+description: "Use when improving draft models or preparing models for publication."
 tool_type: python
 primary_tool: memote
 ---

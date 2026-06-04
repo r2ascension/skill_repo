@@ -1,6 +1,6 @@
 ---
 name: bio-copy-number-cnv-annotation
-description: "Use wheninterpreting CNV calls or identifying affected genes from copy number analysis."
+description: "Use when interpreting CNV calls or identifying affected genes from copy number analysis."
 tool_type: mixed
 primary_tool: bedtools
 ---

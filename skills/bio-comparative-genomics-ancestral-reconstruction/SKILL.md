@@ -1,6 +1,6 @@
 ---
 name: bio-comparative-genomics-ancestral-reconstruction
-description: "Use wheninferring ancestral states for protein resurrection or tracing evolutionary history."
+description: "Use when inferring ancestral states for protein resurrection or tracing evolutionary history."
 tool_type: mixed
 primary_tool: PAML
 ---

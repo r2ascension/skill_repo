@@ -1,6 +1,6 @@
 ---
 name: bio-rna-quantification-count-matrix-qc
-description: "Use whenassessing count matrix quality before DE analysis."
+description: "Use when assessing count matrix quality before DE analysis."
 tool_type: mixed
 primary_tool: DESeq2
 ---

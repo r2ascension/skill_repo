@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-communication
-description: "Use whenanalyzing cell-cell communication in spatial context."
+description: "Use when analyzing cell-cell communication in spatial context."
 tool_type: python
 primary_tool: squidpy
 ---

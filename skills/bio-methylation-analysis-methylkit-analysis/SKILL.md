@@ -1,6 +1,6 @@
 ---
 name: bio-methylation-analysis-methylkit-analysis
-description: "Use whenanalyzing single-base methylation patterns, comparing samples, or preparing data for DMR detection."
+description: "Use when analyzing single-base methylation patterns, comparing samples, or preparing data for DMR detection."
 tool_type: r
 primary_tool: methylKit
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-genome-annotation-pipeline
-description: "Use whenannotating a newly assembled genome from scratch."
+description: "Use when annotating a newly assembled genome from scratch."
 tool_type: mixed
 primary_tool: Bakta
 workflow: true

@@ -1,6 +1,6 @@
 ---
 name: medical-research-toolkit
-description: "Use whenresearching disease targets, finding approved/investigational drugs, searching clinical evidence, discovering genetic associations, or analyzing compound bioactivity data."
+description: "Use when researching disease targets, finding approved/investigational drugs, searching clinical evidence, discovering genetic associations, or analyzing compound bioactivity data."
 ---
 
 # Medical Research Toolkit

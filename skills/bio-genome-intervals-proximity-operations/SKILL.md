@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-proximity-operations
-description: "Use whenperforming TSS proximity analysis, assigning enhancers to genes, defining promoter regions, or finding nearby genomic features."
+description: "Use when performing TSS proximity analysis, assigning enhancers to genes, defining promoter regions, or finding nearby genomic features."
 tool_type: mixed
 primary_tool: bedtools
 ---

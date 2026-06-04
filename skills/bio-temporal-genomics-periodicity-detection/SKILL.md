@@ -1,6 +1,6 @@
 ---
 name: bio-temporal-genomics-periodicity-detection
-description: "Use whensearching for periodic patterns of unknown period length, analyzing cell cycle oscillations, or processing unevenly spaced time-series. Not for testing known 24-hour rhythms (see temporal-genomics/circadian-rhythms)."
+description: "Use when searching for periodic patterns of unknown period length, analyzing cell cycle oscillations, or processing unevenly spaced time-series. Not for testing known 24-hour rhythms (see temporal-genomics/circadian-rhythms)."
 tool_type: python
 primary_tool: scipy
 ---

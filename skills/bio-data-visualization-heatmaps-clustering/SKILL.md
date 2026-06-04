@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-heatmaps-clustering
-description: "Use whenvisualizing expression patterns across samples or identifying co-expressed gene clusters."
+description: "Use when visualizing expression patterns across samples or identifying co-expressed gene clusters."
 tool_type: mixed
 primary_tool: ComplexHeatmap
 ---

@@ -1,6 +1,6 @@
 ---
 name: pathml
-description: "Use whenworking with histopathology slides, H&E stained images, multiplex immunofluorescence (CODEX, Vectra), spatial proteomics, nucleus detection/segmentation, tissue graph construction, or training ML models on pathology data. Supports 160+ slide formats including Aperio SVS, NDPI, DICOM, OME-TIFF for digital pathology workflows."
+description: "Use when working with histopathology slides, H&E stained images, multiplex immunofluorescence (CODEX, Vectra), spatial proteomics, nucleus detection/segmentation, tissue graph construction, or training ML models on pathology data. Supports 160+ slide formats including Aperio SVS, NDPI, DICOM, OME-TIFF for digital pathology workflows."
 ---
 
 # PathML

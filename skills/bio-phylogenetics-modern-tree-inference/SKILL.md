@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-modern-tree-inference
-description: "Use wheninferring publication-quality ML trees, selecting substitution models, interpreting bootstrap and concordance factor support, or running partitioned phylogenomic analyses."
+description: "Use when inferring publication-quality ML trees, selecting substitution models, interpreting bootstrap and concordance factor support, or running partitioned phylogenomic analyses."
 tool_type: cli
 primary_tool: IQ-TREE2
 ---

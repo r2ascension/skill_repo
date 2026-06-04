@@ -1,6 +1,6 @@
 ---
 name: mesh-generation
-description: "Use whenchoosing grid resolution, checking aspect ratios/skewness, estimating mesh quality constraints, or planning adaptive mesh refinement for PDE discretization."
+description: "Use when choosing grid resolution, checking aspect ratios/skewness, estimating mesh quality constraints, or planning adaptive mesh refinement for PDE discretization."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

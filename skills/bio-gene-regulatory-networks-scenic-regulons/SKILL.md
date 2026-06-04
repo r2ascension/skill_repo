@@ -1,6 +1,6 @@
 ---
 name: bio-gene-regulatory-networks-scenic-regulons
-description: "Use whenidentifying transcription factor regulons, scoring TF activity in single cells, or finding master regulators of cell identity."
+description: "Use when identifying transcription factor regulons, scoring TF activity in single cells, or finding master regulators of cell identity."
 tool_type: python
 primary_tool: pySCENIC
 ---

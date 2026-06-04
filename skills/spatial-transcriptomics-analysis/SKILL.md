@@ -15,9 +15,9 @@ metadata:
 compatibility:
   - system: python 3.9+
 allowed-tools:
-  - run_shell_command
-  - read_file
-  - write_file
+  - Bash
+  - Read
+  - Write
 ---
 
 <!--

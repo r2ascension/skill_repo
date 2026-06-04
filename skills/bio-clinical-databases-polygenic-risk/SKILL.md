@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-polygenic-risk
-description: "Use whenpredicting disease risk from genome-wide genetic variants."
+description: "Use when predicting disease risk from genome-wide genetic variants."
 tool_type: mixed
 primary_tool: PRSice-2
 ---

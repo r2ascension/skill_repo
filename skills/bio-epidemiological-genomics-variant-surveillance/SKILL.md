@@ -1,6 +1,6 @@
 ---
 name: bio-epidemiological-genomics-variant-surveillance
-description: "Use whenclassifying viral sequences, tracking lineage dynamics, or monitoring for variants of concern."
+description: "Use when classifying viral sequences, tracking lineage dynamics, or monitoring for variants of concern."
 tool_type: cli
 primary_tool: nextclade
 ---

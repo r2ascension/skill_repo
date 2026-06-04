@@ -271,6 +271,47 @@ for activity in new_client.activity.filter(target_chembl_id='CHEMBL203'):
     print(activity['molecule_chembl_id'])
 ```
 
+## Valyu Semantic Search Access
+
+For quick, natural-language exploration of ChEMBL data without writing Python queries, use the Valyu semantic search API:
+
+### Quick Search via CLI
+
+```bash
+CHEMBL_SCRIPT=$(find ~/.claude/plugins/cache -name "search" -path "*/chembl-database/*/scripts/*" -type f 2>/dev/null | head -1)
+$CHEMBL_SCRIPT "kinase inhibitors" 15
+```
+
+### Python SDK Integration
+
+```python
+from valyu import Valyu
+
+client = Valyu(api_key="your-api-key")
+
+response = client.search(
+    query="your search query here",
+    included_sources=["valyu/valyu-chembl"],
+    max_results=20
+)
+```
+
+### TypeScript SDK Integration
+
+```typescript
+import { Valyu } from "valyu-js";
+
+const client = new Valyu("your-api-key");
+
+const response = await client.search({
+  query: "your search query here",
+  includedSources: ["valyu/valyu-chembl"],
+  maxResults: 20
+});
+```
+
+> **Note**: The Valyu search provides a quick semantic entry point. For structured queries, bioactivity filtering, property calculations, and bulk data access, use the ChEMBL Python client methods documented above.
+
 ## Common Use Cases
 
 ### Find Kinase Inhibitors

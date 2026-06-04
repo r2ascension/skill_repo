@@ -187,6 +187,16 @@ fig = plt.figure(figsize=(3.5, 3))  # 89 mm for Nature
 check_figure_size(fig, journal='nature')
 ```
 
+### Journal Requirements Quick Reference
+
+| Journal Type | Format | Resolution | Width |
+|---|---|---|---|
+| Most journals | PDF/EPS | Vector | 3.5" (1-col), 7" (2-col) |
+| Online-only | PNG | 300 DPI | Variable |
+| Print | TIFF | 300-600 DPI | Column width |
+
+For detailed per-journal specifications, see `references/journal_requirements.md`.
+
 ### 5. Multi-Panel Figures
 
 **Best practices:**
@@ -641,6 +651,41 @@ For more detailed seaborn information, see:
 - `scientific-packages/seaborn/references/examples.md` - Practical use cases
 - `scientific-packages/seaborn/references/function_reference.md` - Complete API reference
 - `scientific-packages/seaborn/references/objects_interface.md` - Modern declarative API
+
+### R (ggplot2) Publication Figures
+
+While the primary focus of this skill is Python, similar publication-ready output is achievable in R with ggplot2:
+
+```r
+library(ggplot2)
+
+p <- ggplot(data, aes(x, y)) + geom_point() +
+  theme_classic(base_size = 8) +
+  theme(text = element_text(family = 'Arial'))
+
+# PDF for vector graphics
+ggsave('figure1.pdf', p, width = 3.5, height = 3, units = 'in')
+
+# High-res PNG
+ggsave('figure1.png', p, width = 3.5, height = 3, units = 'in', dpi = 300)
+
+# TIFF (some journals require)
+ggsave('figure1.tiff', p, width = 3.5, height = 3, units = 'in',
+       dpi = 300, compression = 'lzw')
+```
+
+Multi-panel with R:
+```r
+library(patchwork)
+
+p1 <- ggplot(...) + theme_classic()
+p2 <- ggplot(...) + theme_classic()
+p3 <- ggplot(...) + theme_classic()
+
+combined <- (p1 + p2) / p3 +
+  plot_annotation(tag_levels = 'A')
+ggsave('multipanel.pdf', combined, width = 7, height = 5, units = 'in')
+```
 
 ### Plotly
 - Interactive figures for exploration

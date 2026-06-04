@@ -1,6 +1,6 @@
 ---
 name: bio-microbiome-differential-abundance
-description: "Use whenidentifying taxa that differ between experimental groups while accounting for the compositional nature of microbiome data."
+description: "Use when identifying taxa that differ between experimental groups while accounting for the compositional nature of microbiome data."
 tool_type: r
 primary_tool: ALDEx2
 ---

@@ -15,8 +15,8 @@ metadata:
 compatibility:
   - system: Python 3.9+
 allowed-tools:
-  - run_shell_command
-  - read_file
+  - Bash
+  - Read
 ---
 
 <!--
@@ -35,6 +35,20 @@ allowed-tools:
 # BioMaster Workflows
 
 Orchestrate BioMaster’s multi-agent pipelines (RNA-seq, ChIP-seq, single-cell, Hi-C) using the provided configs and repos to deliver reproducible outputs.
+
+This skill also covers the **BioKernel orchestration layer** -- the central runtime that routes tasks to specialized agents via MCP (Model Context Protocol), manages context, and handles system resources across pipeline executions.
+
+## Core Capabilities (BioKernel Integration)
+
+1.  **Task Routing**: Dispatches user queries to the correct specialist agent during pipeline execution.
+2.  **Context Management**: Maintains long-term memory and session state across multi-step workflows.
+3.  **MCP Server**: Exposes tools and resources via standard protocol for agent coordination.
+
+### Starting the BioKernel Server
+
+```bash
+python3 platform/biokernel/server.py --port 8000
+```
 
 ## Workflow
 1. **Config prep:** Populate YAML with tool paths, reference genomes, and workflow selection (`rnaseq`, `chipseq`, `singlecell`, `hic`).

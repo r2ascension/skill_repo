@@ -8,7 +8,7 @@ metadata:
 compatibility:
   - system: Python 3.10+
 allowed-tools:
-  - run_shell_command
+  - Bash
 ---
 
 # MCPmed Bioinformatics Web Services

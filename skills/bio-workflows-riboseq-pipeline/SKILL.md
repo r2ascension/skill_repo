@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-riboseq-pipeline
-description: "Use whenanalyzing ribosome profiling data to study translation."
+description: "Use when analyzing ribosome profiling data to study translation."
 tool_type: mixed
 primary_tool: Plastid
 ---

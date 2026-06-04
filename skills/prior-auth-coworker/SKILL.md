@@ -3,8 +3,8 @@ name: 'prior-auth-coworker'
 description: "Use when assisting with prior authorization review, medical necessity checks, payer criteria, coverage evidence, or authorization workflow support."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-alignment-sorting
-description: "Use whenpreparing BAM files for indexing, variant calling, or paired-end analysis."
+description: "Use when preparing BAM files for indexing, variant calling, or paired-end analysis."
 tool_type: cli
 primary_tool: samtools
 ---

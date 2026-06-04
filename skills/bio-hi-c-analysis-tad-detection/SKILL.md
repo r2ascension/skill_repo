@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-tad-detection
-description: "Use whencalling TADs from Hi-C insulation scores."
+description: "Use when calling TADs from Hi-C insulation scores."
 tool_type: mixed
 primary_tool: cooltools
 ---

@@ -1,6 +1,6 @@
 ---
-name: writing-skills
-description: "Use when creating, editing, auditing, testing, broadening trigger descriptions for, or debugging agent skills and SKILL.md files before deployment."
+name: skill-authoring
+description: "Use when authoring new Agent Skills or SKILL.md files, editing or testing existing skills, auditing skill quality, debugging skill behavior, or broadening trigger descriptions before deployment."
 ---
 
 # Writing Skills

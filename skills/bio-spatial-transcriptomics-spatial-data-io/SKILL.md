@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-data-io
-description: "Use whenloading Visium, Xenium, MERFISH, or other spatial data."
+description: "Use when loading Visium, Xenium, MERFISH, or other spatial data."
 tool_type: python
 primary_tool: squidpy
 ---

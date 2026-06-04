@@ -1,6 +1,6 @@
 ---
 name: bio-population-genetics-plink-basics
-description: "Use whenworking with PLINK format files or running QC."
+description: "Use when working with PLINK format files or running QC."
 tool_type: cli
 primary_tool: plink
 ---

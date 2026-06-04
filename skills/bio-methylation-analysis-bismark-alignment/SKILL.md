@@ -1,6 +1,6 @@
 ---
 name: bio-methylation-analysis-bismark-alignment
-description: "Use whenaligning WGBS, RRBS, or other bisulfite-converted sequencing reads to a reference genome."
+description: "Use when aligning WGBS, RRBS, or other bisulfite-converted sequencing reads to a reference genome."
 tool_type: cli
 primary_tool: bismark
 ---

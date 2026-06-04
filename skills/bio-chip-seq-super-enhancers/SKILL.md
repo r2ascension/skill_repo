@@ -1,6 +1,6 @@
 ---
 name: bio-chip-seq-super-enhancers
-description: "Use whenstudying cell identity genes, cancer-associated regulatory elements, or master transcription factor binding regions that cluster into large enhancer domains."
+description: "Use when studying cell identity genes, cancer-associated regulatory elements, or master transcription factor binding regions that cluster into large enhancer domains."
 tool_type: cli
 primary_tool: ROSE
 ---

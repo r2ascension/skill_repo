@@ -1,6 +1,6 @@
 ---
 name: bio-multi-omics-integration-mixomics-analysis
-description: "Use whenperforming supervised multi-omics integration or identifying features that discriminate between groups."
+description: "Use when performing supervised multi-omics integration or identifying features that discriminate between groups."
 tool_type: r
 primary_tool: mixOmics
 ---

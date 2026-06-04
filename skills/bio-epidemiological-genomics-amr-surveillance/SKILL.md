@@ -1,6 +1,6 @@
 ---
 name: bio-epidemiological-genomics-amr-surveillance
-description: "Use whenscreening genomes for AMR genes or tracking resistance in surveillance programs."
+description: "Use when screening genomes for AMR genes or tracking resistance in surveillance programs."
 tool_type: cli
 primary_tool: AMRFinderPlus
 ---

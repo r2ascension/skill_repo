@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-long-read-qc
-description: "Use whenassessing ONT or PacBio run quality or filtering reads before assembly or alignment."
+description: "Use when assessing ONT or PacBio run quality or filtering reads before assembly or alignment."
 tool_type: cli
 primary_tool: nanoplot
 ---

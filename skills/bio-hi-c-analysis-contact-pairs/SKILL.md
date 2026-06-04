@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-contact-pairs
-description: "Use whenprocessing raw Hi-C read pairs."
+description: "Use when processing raw Hi-C read pairs."
 tool_type: cli
 primary_tool: pairtools
 ---

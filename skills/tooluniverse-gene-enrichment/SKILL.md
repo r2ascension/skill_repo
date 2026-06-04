@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-gene-enrichment
-description: "Use whenusers ask about gene enrichment, pathway analysis, GO term enrichment, KEGG pathway analysis, GSEA, over-representation analysis, functional annotation, or gene set analysis."
+description: "Use when users ask about gene enrichment, pathway analysis, GO term enrichment, KEGG pathway analysis, GSEA, over-representation analysis, functional annotation, or gene set analysis."
 ---
 
 # Gene Enrichment and Pathway Analysis

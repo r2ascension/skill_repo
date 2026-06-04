@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-structural-variants
-description: "Use whendetecting deletions, insertions, inversions, translocations, or complex rearrangements from ONT or PacBio data, especially those missed by short-read methods."
+description: "Use when detecting deletions, insertions, inversions, translocations, or complex rearrangements from ONT or PacBio data, especially those missed by short-read methods."
 tool_type: cli
 primary_tool: sniffles
 ---

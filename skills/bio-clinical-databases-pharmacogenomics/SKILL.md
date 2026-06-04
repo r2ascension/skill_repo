@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-pharmacogenomics
-description: "Use whenpredicting drug response from genetic variants or implementing clinical pharmacogenomics."
+description: "Use when predicting drug response from genetic variants or implementing clinical pharmacogenomics."
 tool_type: python
 primary_tool: requests
 ---

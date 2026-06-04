@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-quality-reports
-description: "Use whenperforming initial QC on raw sequencing data or validating preprocessing results."
+description: "Use when performing initial QC on raw sequencing data or validating preprocessing results."
 tool_type: cli
 primary_tool: fastqc
 ---

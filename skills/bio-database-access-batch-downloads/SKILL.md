@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-batch-downloads
-description: "Use whenperforming bulk sequence downloads, handling large query results, or production-scale data retrieval."
+description: "Use when performing bulk sequence downloads, handling large query results, or production-scale data retrieval."
 tool_type: python
 primary_tool: Bio.Entrez
 ---

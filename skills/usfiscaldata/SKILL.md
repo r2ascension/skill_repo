@@ -1,6 +1,6 @@
 ---
 name: usfiscaldata
-description: "Use whenworking with U.S. federal fiscal data, national debt tracking (Debt to the Penny), Daily Treasury Statements, Monthly Treasury Statements, Treasury securities auctions, interest rates on Treasury securities, foreign exchange rates, savings bonds, or any U.S. government financial statistics."
+description: "Use when working with U.S. federal fiscal data, national debt tracking (Debt to the Penny), Daily Treasury Statements, Monthly Treasury Statements, Treasury securities auctions, interest rates on Treasury securities, foreign exchange rates, savings bonds, or any U.S. government financial statistics."
 license: MIT
 metadata:
     skill-author: K-Dense Inc.

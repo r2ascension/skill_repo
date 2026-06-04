@@ -1,6 +1,6 @@
 ---
 name: bio-genome-annotation-functional-annotation
-description: "Use whenadding functional annotation to predicted genes or characterizing protein functions in a new genome."
+description: "Use when adding functional annotation to predicted genes or characterizing protein functions in a new genome."
 tool_type: cli
 primary_tool: eggNOG-mapper
 ---

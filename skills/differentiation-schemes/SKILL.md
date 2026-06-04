@@ -1,6 +1,6 @@
 ---
 name: differentiation-schemes
-description: "Use whenchoosing finite difference/volume/spectral schemes, building stencils, handling boundaries, estimating truncation error, or analyzing dispersion and dissipation."
+description: "Use when choosing finite difference/volume/spectral schemes, building stencils, handling boundaries, estimating truncation error, or analyzing dispersion and dissipation."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

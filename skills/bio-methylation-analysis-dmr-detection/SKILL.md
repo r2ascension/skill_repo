@@ -1,6 +1,6 @@
 ---
 name: bio-methylation-analysis-dmr-detection
-description: "Use whenidentifying contiguous genomic regions with methylation differences between experimental conditions or cell types."
+description: "Use when identifying contiguous genomic regions with methylation differences between experimental conditions or cell types."
 tool_type: r
 primary_tool: methylKit
 ---

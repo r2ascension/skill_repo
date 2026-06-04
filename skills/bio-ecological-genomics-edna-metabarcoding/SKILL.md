@@ -1,6 +1,6 @@
 ---
 name: bio-ecological-genomics-edna-metabarcoding
-description: "Use whenanalyzing eDNA from water, soil, or bulk samples for biodiversity monitoring. Not for 16S human microbiome (see microbiome/amplicon-processing)."
+description: "Use when analyzing eDNA from water, soil, or bulk samples for biodiversity monitoring. Not for 16S human microbiome (see microbiome/amplicon-processing)."
 tool_type: mixed
 primary_tool: obitools3
 ---

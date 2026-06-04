@@ -1,6 +1,6 @@
 ---
 name: neuropixels-analysis
-description: "Use whenworking with neural recordings, spike sorting, extracellular electrophysiology, or when the user mentions Neuropixels, SpikeGLX, Open Ephys, Kilosort, quality metrics, or unit curation."
+description: "Use when working with neural recordings, spike sorting, extracellular electrophysiology, or when the user mentions Neuropixels, SpikeGLX, Open Ephys, Kilosort, quality metrics, or unit curation."
 ---
 
 # Neuropixels Data Analysis

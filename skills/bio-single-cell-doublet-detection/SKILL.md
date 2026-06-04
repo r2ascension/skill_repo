@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-doublet-detection
-description: "Use whenidentifying and removing doublets from scRNA-seq data."
+description: "Use when identifying and removing doublets from scRNA-seq data."
 tool_type: mixed
 primary_tool: Scrublet
 ---

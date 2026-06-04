@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-contamination-screening
-description: "Use whensuspecting cross-contamination or working with samples prone to microbial contamination."
+description: "Use when suspecting cross-contamination or working with samples prone to microbial contamination."
 tool_type: cli
 primary_tool: fastq_screen
 ---

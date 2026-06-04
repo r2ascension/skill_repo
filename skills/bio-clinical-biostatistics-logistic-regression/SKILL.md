@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-biostatistics-logistic-regression
-description: "Use whenmodeling binary or ordinal endpoints from clinical data."
+description: "Use when modeling binary or ordinal endpoints from clinical data."
 tool_type: python
 primary_tool: statsmodels
 ---

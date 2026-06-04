@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-assembly-polishing
-description: "Use whenimproving assembly accuracy with polishing tools."
+description: "Use when improving assembly accuracy with polishing tools."
 tool_type: cli
 primary_tool: Pilon
 ---

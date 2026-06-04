@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-immunotherapy-response-prediction
-description: "Use whenoncologists ask about immunotherapy eligibility, checkpoint inhibitor selection, or biomarker-guided ICI treatment decisions."
+description: "Use when oncologists ask about immunotherapy eligibility, checkpoint inhibitor selection, or biomarker-guided ICI treatment decisions."
 ---
 
 # Immunotherapy Response Prediction

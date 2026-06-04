@@ -1,6 +1,6 @@
 ---
 name: bio-gene-regulatory-networks-differential-networks
-description: "Use whencomparing co-expression networks between disease vs control, treatment conditions, or developmental stages."
+description: "Use when comparing co-expression networks between disease vs control, treatment conditions, or developmental stages."
 tool_type: r
 primary_tool: DiffCorr
 ---

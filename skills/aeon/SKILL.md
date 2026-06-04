@@ -1,6 +1,6 @@
 ---
 name: aeon
-description: "Use whenworking with temporal data, sequential patterns, or time-indexed observations requiring specialized algorithms beyond standard ML approaches. Particularly suited for univariate and multivariate time series analysis with scikit-learn compatible APIs."
+description: "Use when working with temporal data, sequential patterns, or time-indexed observations requiring specialized algorithms beyond standard ML approaches. Particularly suited for univariate and multivariate time series analysis with scikit-learn compatible APIs."
 license: BSD-3-Clause license
 metadata:
     skill-author: K-Dense Inc.

@@ -1,6 +1,6 @@
 ---
 name: bio-clip-seq-clip-peak-calling
-description: "Use whenidentifying RBP binding sites from aligned CLIP reads."
+description: "Use when identifying RBP binding sites from aligned CLIP reads."
 tool_type: cli
 primary_tool: CLIPper
 ---

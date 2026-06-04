@@ -1,6 +1,6 @@
 ---
 name: bio-multi-omics-integration-data-harmonization
-description: "Use whenpreparing multi-omics datasets for integration analysis."
+description: "Use when preparing multi-omics datasets for integration analysis."
 tool_type: r
 primary_tool: MultiAssayExperiment
 ---

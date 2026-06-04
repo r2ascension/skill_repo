@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-multimodal-integration
-description: "Use whenworking with data that measures multiple modalities per cell like RNA + protein or RNA + ATAC. Use whenanalyzing CITE-seq, Multiome, or other multi-modal single-cell data."
+description: "Use when working with data that measures multiple modalities per cell like RNA + protein or RNA + ATAC. Use whenanalyzing CITE-seq, Multiome, or other multi-modal single-cell data."
 tool_type: mixed
 primary_tool: Seurat
 ---
@@ -240,3 +240,5 @@ all_markers <- rbind(
 - single-cell/clustering - Clustering methods
 - single-cell/markers-annotation - Cell type annotation
 - chip-seq/peak-calling - For ATAC peak calling
+
+- **single-multiomics** - The OmicVerse-specific (single-*) equivalent covering multi-omics integration with MOFA, GLUE, SIMBA, TOSICA, and StaVIA.

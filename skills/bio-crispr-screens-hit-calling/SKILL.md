@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-hit-calling
-description: "Use whenidentifying significant genes from screen count data after QC passes."
+description: "Use when identifying significant genes from screen count data after QC passes."
 tool_type: mixed
 primary_tool: bagel2
 ---

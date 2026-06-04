@@ -3,8 +3,8 @@ name: 'chip-clonal-hematopoiesis-agent'
 description: "Use when you need aI-powered clonal hematopoiesis of indeterminate potential (CHIP) detection, risk stratification, and cardiovascular/malignancy risk prediction using genomic and clinical data."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

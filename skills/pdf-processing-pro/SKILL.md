@@ -1,6 +1,6 @@
 ---
 name: pdf-processing-pro
-description: "Use whenworking with complex PDF workflows in production environments, processing large volumes of PDFs, or requiring robust error handling and validation."
+description: "Use when working with complex PDF workflows in production environments, processing large volumes of PDFs, or requiring robust error handling and validation."
 ---
 
 # PDF Processing Pro

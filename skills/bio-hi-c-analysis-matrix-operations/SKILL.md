@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-matrix-operations
-description: "Use whennormalizing or transforming Hi-C matrices."
+description: "Use when normalizing or transforming Hi-C matrices."
 tool_type: python
 primary_tool: cooltools
 ---

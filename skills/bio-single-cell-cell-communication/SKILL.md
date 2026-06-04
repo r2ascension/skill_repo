@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-cell-communication
-description: "Use wheninferring ligand-receptor interactions between cell types."
+description: "Use when inferring ligand-receptor interactions between cell types."
 tool_type: mixed
 primary_tool: CellChat
 ---
@@ -255,3 +255,5 @@ li.pl.factor_loadings(adata, factor_idx=0)
 - single-cell/trajectory-inference - Communication along trajectory
 - spatial-transcriptomics/spatial-communication - Spatial context
 - pathway-analysis/go-enrichment - Pathway enrichment of targets
+
+- **single-cellphone-db** - The OmicVerse-specific (single-*) equivalent covering CellPhoneDB communication mapping with CellChatViz-style visualizations.

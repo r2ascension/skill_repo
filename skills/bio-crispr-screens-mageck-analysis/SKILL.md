@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-mageck-analysis
-description: "Use whenidentifying essential genes, drug targets, or resistance mechanisms from dropout or enrichment screens."
+description: "Use when identifying essential genes, drug targets, or resistance mechanisms from dropout or enrichment screens."
 tool_type: cli
 primary_tool: mageck
 ---

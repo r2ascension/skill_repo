@@ -1,6 +1,6 @@
 ---
 name: bio-proteomics-proteomics-qc
-description: "Use whenevaluating proteomics data quality before downstream analysis. Covers sample metrics, missing value patterns, replicate correlation, batch effects, and intensity distributions."
+description: "Use when evaluating proteomics data quality before downstream analysis. Covers sample metrics, missing value patterns, replicate correlation, batch effects, and intensity distributions."
 tool_type: mixed
 primary_tool: pandas
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-rnaseq-qc
-description: "Use whenvalidating RNA-seq libraries before differential expression analysis."
+description: "Use when validating RNA-seq libraries before differential expression analysis."
 tool_type: mixed
 primary_tool: RSeQC
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-temporal-genomics-temporal-grn
-description: "Use wheninferring causal regulatory relationships from bulk temporal expression data or detecting TF influence propagation over time. Not for static co-expression networks (see gene-regulatory-networks/coexpression-networks)."
+description: "Use when inferring causal regulatory relationships from bulk temporal expression data or detecting TF influence propagation over time. Not for static co-expression networks (see gene-regulatory-networks/coexpression-networks)."
 tool_type: mixed
 primary_tool: statsmodels
 ---

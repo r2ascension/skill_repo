@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-bead-normalization
-description: "Use whencorrecting instrument drift in CyTOF or harmonizing data across batches."
+description: "Use when correcting instrument drift in CyTOF or harmonizing data across batches."
 tool_type: r
 primary_tool: CATALYST
 ---

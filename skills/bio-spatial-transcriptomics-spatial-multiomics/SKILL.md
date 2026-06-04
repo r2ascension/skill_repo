@@ -1,6 +1,6 @@
 ---
 name: bio-spatial-transcriptomics-spatial-multiomics
-description: "Use whenworking with subcellular resolution or high-density spatial data."
+description: "Use when working with subcellular resolution or high-density spatial data."
 tool_type: python
 primary_tool: squidpy
 ---

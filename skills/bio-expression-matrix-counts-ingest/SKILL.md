@@ -1,6 +1,6 @@
 ---
 name: bio-expression-matrix-counts-ingest
-description: "Use whenimporting quantification results for downstream analysis."
+description: "Use when importing quantification results for downstream analysis."
 tool_type: python
 primary_tool: pandas
 ---

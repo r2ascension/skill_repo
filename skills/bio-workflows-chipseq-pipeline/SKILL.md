@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-chipseq-pipeline
-description: "Use whenprocessing ChIP-seq data from alignment through peak annotation."
+description: "Use when processing ChIP-seq data from alignment through peak annotation."
 tool_type: mixed
 primary_tool: MACS3
 workflow: true

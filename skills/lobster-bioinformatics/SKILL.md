@@ -1,6 +1,6 @@
 ---
 name: lobster-bioinformatics
-description: "Use whenanalyzing genomics data, searching for papers/datasets, or working with H5AD, CSV, GEO/SRA accessions, or biological data. Requires lobster-ai package installed."
+description: "Use when analyzing genomics data, searching for papers/datasets, or working with H5AD, CSV, GEO/SRA accessions, or biological data. Requires lobster-ai package installed."
 ---
 
 # Lobster Bioinformatics Agent

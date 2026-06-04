@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-hic-data-io
-description: "Use whenloading or converting Hi-C contact matrices."
+description: "Use when loading or converting Hi-C contact matrices."
 tool_type: mixed
 primary_tool: cooler
 ---

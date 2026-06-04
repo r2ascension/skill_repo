@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-clinvar-lookup
-description: "Use whendetermining clinical significance of variants for diagnostic or research purposes."
+description: "Use when determining clinical significance of variants for diagnostic or research purposes."
 tool_type: python
 primary_tool: requests
 ---

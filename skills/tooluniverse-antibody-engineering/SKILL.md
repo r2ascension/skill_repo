@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-antibody-engineering
-description: "Use whenasked to optimize antibodies, humanize sequences, or engineer therapeutic antibodies from lead to clinical candidate."
+description: "Use when asked to optimize antibodies, humanize sequences, or engineer therapeutic antibodies from lead to clinical candidate."
 ---
 
 # Antibody Engineering & Optimization

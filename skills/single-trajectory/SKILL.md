@@ -60,3 +60,7 @@ This skill describes how to reproduce and extend the single-trajectory analysis 
 - **Palantir convergence issues**: reduce diffusion components or reinitialize start cells; ensure no NaN values in data matrix.
 - **VIA terminal states unstable**: increase iterations (`cluster_graph_pruning_iter`), or provide manual terminal state hints based on marker expression.
 - **Notebook kernel memory errors**: downsample cells or precompute summaries (metacells) before rerunning.
+
+## Related Skills
+
+- **bio-single-cell-trajectory-inference** - The general (non-OmicVerse) equivalent covering the same analysis step with Monocle3/Slingshot/scVelo.

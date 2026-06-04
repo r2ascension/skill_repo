@@ -1,6 +1,6 @@
 ---
 name: bio-liquid-biopsy-methylation-based-detection
-description: "Use whenusing methylation biomarkers for early cancer detection or minimal residual disease."
+description: "Use when using methylation biomarkers for early cancer detection or minimal residual disease."
 tool_type: python
 primary_tool: MethylDackel
 ---

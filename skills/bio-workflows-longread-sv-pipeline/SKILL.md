@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-longread-sv-pipeline
-description: "Use whendetecting structural variants from long reads."
+description: "Use when detecting structural variants from long reads."
 tool_type: cli
 primary_tool: Sniffles
 workflow: true

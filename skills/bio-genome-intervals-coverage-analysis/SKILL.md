@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-coverage-analysis
-description: "Use whenassessing sequencing depth, creating coverage tracks, or evaluating target capture efficiency."
+description: "Use when assessing sequencing depth, creating coverage tracks, or evaluating target capture efficiency."
 tool_type: mixed
 primary_tool: bedtools
 ---

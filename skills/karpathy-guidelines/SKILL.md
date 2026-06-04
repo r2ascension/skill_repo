@@ -1,6 +1,6 @@
 ---
 name: karpathy-guidelines
-description: "Use whenwriting, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria."
+description: "Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria."
 license: MIT
 ---
 

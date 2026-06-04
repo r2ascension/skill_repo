@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-edna-pipeline
-description: "Use whenprocessing environmental DNA samples for biodiversity assessment or ecological surveys."
+description: "Use when processing environmental DNA samples for biodiversity assessment or ecological surveys."
 tool_type: mixed
 primary_tool: obitools3
 workflow: true

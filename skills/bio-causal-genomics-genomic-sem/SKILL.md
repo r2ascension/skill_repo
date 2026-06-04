@@ -1,6 +1,6 @@
 ---
 name: bio-causal-genomics-genomic-sem
-description: "Use whenmodeling latent genetic architecture across correlated traits, running multivariate GWAS on a shared factor, distinguishing factor-mediated from trait-specific SNP effects, or comparing GenomicSEM common-factor results against MTAG when both depend on accurate sampling covariance."
+description: "Use when modeling latent genetic architecture across correlated traits, running multivariate GWAS on a shared factor, distinguishing factor-mediated from trait-specific SNP effects, or comparing GenomicSEM common-factor results against MTAG when both depend on accurate sampling covariance."
 tool_type: r
 primary_tool: GenomicSEM
 ---

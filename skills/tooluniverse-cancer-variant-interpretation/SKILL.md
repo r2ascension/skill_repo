@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-cancer-variant-interpretation
-description: "Use whenoncologists, molecular tumor boards, or researchers ask about treatment options for specific cancer mutations, resistance mechanisms, or clinical trial matching."
+description: "Use when oncologists, molecular tumor boards, or researchers ask about treatment options for specific cancer mutations, resistance mechanisms, or clinical trial matching."
 ---
 
 # Cancer Variant Interpretation for Precision Oncology

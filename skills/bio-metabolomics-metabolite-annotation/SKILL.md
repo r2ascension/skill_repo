@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-metabolite-annotation
-description: "Use whenassigning compound identities to detected features in untargeted metabolomics."
+description: "Use when assigning compound identities to detected features in untargeted metabolomics."
 tool_type: mixed
 primary_tool: HMDB
 ---

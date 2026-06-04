@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-chemical-compound-retrieval
-description: "Use whenusers need chemical data, drug information, or mention PubChem CID, ChEMBL ID, SMILES, InChI, or compound names."
+description: "Use when users need chemical data, drug information, or mention PubChem CID, ChEMBL ID, SMILES, InChI, or compound names."
 ---
 
 # Chemical Compound Information Retrieval

@@ -1,6 +1,6 @@
 ---
 name: biorxiv-database
-description: "Use whensearching for life sciences preprints by keywords, authors, date ranges, or categories, retrieving paper metadata, downloading PDFs, or conducting literature reviews."
+description: "Use when searching for life sciences preprints by keywords, authors, date ranges, or categories, retrieving paper metadata, downloading PDFs, or conducting literature reviews."
 ---
 
 # bioRxiv Database

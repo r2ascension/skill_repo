@@ -1,6 +1,6 @@
 ---
 name: bio-proteomics-dia-analysis
-description: "Use whenanalyzing DIA mass spectrometry data with library-free or library-based workflows for deep proteome profiling."
+description: "Use when analyzing DIA mass spectrometry data with library-free or library-based workflows for deep proteome profiling."
 tool_type: cli
 primary_tool: diann
 ---

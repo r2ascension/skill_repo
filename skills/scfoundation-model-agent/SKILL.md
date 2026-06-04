@@ -3,8 +3,8 @@ name: 'scfoundation-model-agent'
 description: "Use when working on unified agent for leveraging single-cell foundation models (scGPT, scBERT, Geneformer, scFoundation) for cross-species annotation, perturbation prediction, and gene network inference."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

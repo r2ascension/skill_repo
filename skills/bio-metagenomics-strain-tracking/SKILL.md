@@ -1,6 +1,6 @@
 ---
 name: bio-metagenomics-strain-tracking
-description: "Use whenneeding sub-species resolution for outbreak tracking, transmission analysis, or within-host strain dynamics."
+description: "Use when needing sub-species resolution for outbreak tracking, transmission analysis, or within-host strain dynamics."
 tool_type: cli
 primary_tool: MASH
 ---

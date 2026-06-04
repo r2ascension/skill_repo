@@ -1,6 +1,6 @@
 ---
 name: bio-pathway-analysis-gsea
-description: "Use whenanalyzing ranked gene lists to find coordinated expression changes in gene sets without arbitrary significance cutoffs. Detects subtle but coordinated expression changes."
+description: "Use when analyzing ranked gene lists to find coordinated expression changes in gene sets without arbitrary significance cutoffs. Detects subtle but coordinated expression changes."
 tool_type: r
 primary_tool: clusterProfiler
 ---

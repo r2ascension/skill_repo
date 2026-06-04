@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-alignment-indexing
-description: "Use whenenabling random access to alignment files or fetching specific genomic regions."
+description: "Use when enabling random access to alignment files or fetching specific genomic regions."
 tool_type: cli
 primary_tool: samtools
 ---

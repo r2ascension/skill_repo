@@ -1,6 +1,6 @@
 ---
 name: ginkgo-cloud-lab
-description: "Use whenthe user wants to run cell-free protein expression (validation or optimization), generate fluorescent pixel art, or interact with Ginkgo Cloud Lab services. Covers protocol selection, input preparation, pricing, and ordering workflows."
+description: "Use when the user wants to run cell-free protein expression (validation or optimization), generate fluorescent pixel art, or interact with Ginkgo Cloud Lab services. Covers protocol selection, input preparation, pricing, and ordering workflows."
 ---
 
 # Ginkgo Cloud Lab

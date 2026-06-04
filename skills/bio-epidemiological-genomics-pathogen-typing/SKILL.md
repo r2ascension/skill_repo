@@ -1,6 +1,6 @@
 ---
 name: bio-epidemiological-genomics-pathogen-typing
-description: "Use whenidentifying strain types, tracking outbreak clones, or characterizing bacterial isolates."
+description: "Use when identifying strain types, tracking outbreak clones, or characterizing bacterial isolates."
 tool_type: cli
 primary_tool: mlst
 ---

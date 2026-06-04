@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-sam-bam-basics
-description: "Use wheninspecting alignments, converting between formats, or understanding alignment file structure."
+description: "Use when inspecting alignments, converting between formats, or understanding alignment file structure."
 tool_type: cli
 primary_tool: samtools
 ---

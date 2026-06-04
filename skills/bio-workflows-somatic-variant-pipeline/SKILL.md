@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-somatic-variant-pipeline
-description: "Use whencalling somatic mutations from tumor-normal pairs."
+description: "Use when calling somatic mutations from tumor-normal pairs."
 tool_type: cli
 primary_tool: GATK Mutect2
 ---

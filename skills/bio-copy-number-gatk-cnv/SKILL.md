@@ -1,6 +1,6 @@
 ---
 name: bio-copy-number-gatk-cnv
-description: "Use whenfollowing GATK best practices or integrating CNV calling with other GATK variant pipelines."
+description: "Use when following GATK best practices or integrating CNV calling with other GATK variant pipelines."
 tool_type: cli
 primary_tool: gatk
 ---

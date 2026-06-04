@@ -148,3 +148,7 @@ any **optional validation or export steps** surfaced in the notebooks.
   - Report generation writes to disk; ensure output path is writable.
 - **Optional validation / exports**
   - Customize embeddings by color key; store HTML report and reference table alongside project documentation.
+
+## Related Skills
+
+- _No direct `bio-single-cell-*` counterpart exists for this skill. It covers OmicVerse-specific downstream tools (AUCell, cNMF, NOCD, lazy pipeline) that span multiple general domains._

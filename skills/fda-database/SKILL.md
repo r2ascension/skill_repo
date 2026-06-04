@@ -490,6 +490,64 @@ python scripts/fda_examples.py
 - **GitHub Repository**: https://github.com/FDA/openfda
 - **Terms of Service**: https://open.fda.gov/terms/
 
+## Complementary Method: Drug Labels Semantic Search
+
+In addition to the openFDA API approach above, drug label information can also be accessed via semantic search using the Valyu API. This is useful when you need natural-language queries against FDA drug label data without constructing complex openFDA query syntax.
+
+### When to Use Semantic Search
+
+- **Natural language queries**: "What are the warnings for ibuprofen?" instead of structured API queries
+- **Quick lookups**: Rapidly find prescribing information by drug name or condition
+- **Complementary coverage**: When openFDA results are insufficient or need verification
+
+### Requirements
+
+- Node.js 18+
+- Valyu API key (free tier available at https://platform.valyu.ai)
+
+### Usage
+
+```bash
+# Search by natural language query
+scripts/search "ibuprofen warnings" 10
+scripts/search "pediatric dosing guidelines for antibiotics" 20
+scripts/search "CYP450 drug interaction warnings" 15
+```
+
+### Output Format
+
+```json
+{
+  "success": true,
+  "query": "ibuprofen warnings",
+  "result_count": 10,
+  "results": [
+    {
+      "title": "Drug Label Title",
+      "url": "https://fda.gov/...",
+      "content": "Label content, warnings, dosing...",
+      "source": "drug-labels",
+      "relevance_score": 0.95
+    }
+  ]
+}
+```
+
+### Integration with Python
+
+```python
+from valyu import Valyu
+
+client = Valyu(api_key="your-api-key")
+response = client.search(
+    query="your search query here",
+    included_sources=["valyu/valyu-drug-labels"],
+    max_results=20
+)
+```
+
+This method provides a semantic search alternative to the structured openFDA API queries and is especially useful for natural-language exploratory searches of drug labeling information.
+
 ## Support and Troubleshooting
 
 ### Common Issues

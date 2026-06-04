@@ -1,6 +1,6 @@
 ---
 name: bio-machine-learning-biomarker-discovery
-description: "Use whenidentifying biomarkers from high-dimensional omics data."
+description: "Use when identifying biomarkers from high-dimensional omics data."
 tool_type: python
 primary_tool: boruta
 ---

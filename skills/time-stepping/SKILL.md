@@ -1,6 +1,6 @@
 ---
 name: time-stepping
-description: "Use whencoupling CFL/physics limits with adaptive stepping, ramping initial transients, scheduling outputs/checkpoints, or planning restart strategies for long runs."
+description: "Use when coupling CFL/physics limits with adaptive stepping, ramping initial transients, scheduling outputs/checkpoints, or planning restart strategies for long runs."
 allowed-tools: Read, Bash, Write, Grep, Glob
 ---
 

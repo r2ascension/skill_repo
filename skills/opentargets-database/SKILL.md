@@ -1,6 +1,13 @@
 ---
 name: opentargets-database
 description: "Use when querying Open Targets Platform for target-disease associations, drug target discovery, tractability/safety data, genetics/omics evidence, known drugs, for therapeutic target identification."
+keywords:
+  - open-targets
+  - drug-targets
+  - target-validation
+  - disease-associations
+  - precision-medicine
+license: MIT
 ---
 
 # Open Targets Database
@@ -16,8 +23,9 @@ The Open Targets Platform is a comprehensive resource for systematic identificat
 - Find known drugs for diseases and their mechanisms
 - Access drug information including clinical trial phases and adverse events
 - Evaluate target druggability and therapeutic potential
+- Natural language semantic search via Valyu API for rapid exploration
 
-**Data access:** The platform provides a GraphQL API, web interface, data downloads, and Google BigQuery access. This skill focuses on the GraphQL API for programmatic access.
+**Data access:** The platform provides a GraphQL API, web interface, data downloads, and Google BigQuery access. This skill focuses on the GraphQL API for programmatic access, with an alternative semantic search approach via Valyu.
 
 ## When to Use This Skill
 
@@ -33,7 +41,9 @@ This skill should be used when:
 - **Biomarker discovery:** Finding genes differentially expressed in disease
 - **Safety assessment:** Identifying potential toxicity concerns for drug targets
 
-## Core Workflow
+## Approach 1: GraphQL API (Primary)
+
+Use the Open Targets Platform GraphQL API for structured, programmatic access. This is the recommended approach for systematic analysis.
 
 ### 1. Search for Entities
 
@@ -160,12 +170,7 @@ drugs = get_known_drugs_for_disease("EFO_0000249")
 # drugs contains:
 # - uniqueDrugs: Total number of unique drugs
 # - uniqueTargets: Total number of unique targets
-# - rows: List of drug-target-indication records with:
-#   - drug: {name, drugType, maximumClinicalTrialPhase}
-#   - targets: Genes targeted by the drug
-#   - phase: Clinical trial phase for this indication
-#   - status: Trial status (active, completed, etc.)
-#   - mechanismOfAction: How drug works
+# - rows: List of drug-target-indication records
 ```
 
 **Clinical phases:**
@@ -204,18 +209,85 @@ associations = get_target_associations(
     ensembl_id="ENSG00000157764",
     min_score=0.5
 )
-
-# Each association contains:
-# - disease: {id, name}
-# - score: Overall association score (0-1)
-# - datatypeScores: Breakdown by evidence type
 ```
 
 **Association scores:**
 - Range: 0-1 (higher = stronger evidence)
 - Aggregate evidence across all data types using harmonic sum
 - NOT confidence scores but relative ranking metrics
-- Under-studied diseases may have lower scores despite good evidence
+
+## Approach 2: Natural Language Semantic Search (Valyu)
+
+Alternative approach for rapid exploration using natural language queries, no API parameter parsing needed.
+
+### Requirements
+
+1. Node.js 18+ (uses built-in fetch)
+2. Valyu API key from https://platform.valyu.ai ($10 free credits)
+
+### Critical: Script Path Resolution
+
+The scripts in this skill are relative to the installation directory. Locate using:
+
+```bash
+OPEN_TARGETS_SCRIPT=$(find ~/.claude/plugins/cache -name "search" -path "*/open-targets-search/*/scripts/*" -type f 2>/dev/null | head -1)
+```
+
+### API Key Setup Flow
+
+When search returns `"setup_required": true`:
+
+1. Ask user for Valyu API key (free at https://platform.valyu.ai)
+2. Run: `scripts/search setup <api-key>`
+3. Retry original search
+
+### Use Cases
+
+```bash
+# Target validation
+scripts/search "kinase targets in inflammatory diseases" 50
+
+# Drug repurposing
+scripts/search "drugs targeting IL-6 pathway" 20
+
+# Genetic evidence
+scripts/search "loss of function variants protective effects" 15
+
+# Disease mechanism
+scripts/search "immune checkpoint targets in cancer" 25
+```
+
+### Output Format
+
+```json
+{
+  "success": true,
+  "type": "open_targets_search",
+  "query": "JAK2 inhibitors",
+  "result_count": 10,
+  "results": [
+    {
+      "title": "Target-Disease Association",
+      "url": "https://platform.opentargets.org/...",
+      "content": "Association data, evidence, scores...",
+      "source": "open-targets",
+      "relevance_score": 0.95
+    }
+  ]
+}
+```
+
+### SDK Integration
+
+```python
+from valyu import Valyu
+client = Valyu(api_key="your-api-key")
+response = client.search(
+    query="your search query here",
+    included_sources=["valyu/valyu-open-targets"],
+    max_results=20
+)
+```
 
 ## GraphQL API Details
 
@@ -273,7 +345,7 @@ When prioritizing drug targets:
 ### Common Workflows
 
 **Workflow 1: Target Discovery for a Disease**
-1. Search for disease → get EFO ID
+1. Search for disease -> get EFO ID
 2. Query disease info with `include_targets=True`
 3. Review top targets sorted by association score
 4. For promising targets, get detailed target info
@@ -281,7 +353,7 @@ When prioritizing drug targets:
 6. Assess tractability and safety for prioritized targets
 
 **Workflow 2: Target Validation**
-1. Search for target → get Ensembl ID
+1. Search for target -> get Ensembl ID
 2. Get comprehensive target info
 3. Check tractability (especially clinical precedence)
 4. Review safety liabilities and genetic constraint
@@ -290,7 +362,7 @@ When prioritizing drug targets:
 7. Check known drugs targeting gene for mechanism insights
 
 **Workflow 3: Drug Repurposing**
-1. Search for disease → get EFO ID
+1. Search for disease -> get EFO ID
 2. Get known drugs for disease
 3. For each drug, get detailed drug info
 4. Examine mechanisms of action and targets
@@ -321,6 +393,9 @@ Helper functions for common API operations:
 - `get_target_associations()` - Get all associations for a target
 - `execute_query()` - Execute custom GraphQL queries
 
+**scripts/search and scripts/search.mjs**
+Natural language semantic search scripts using Valyu API (Node.js, zero external deps).
+
 ### References
 
 **references/api_reference.md**
@@ -337,7 +412,6 @@ Comprehensive guide to evidence types and data sources:
 - Scoring methodologies for each source
 - Evidence interpretation guidelines
 - Strengths and limitations of each evidence type
-- Quality assessment recommendations
 
 **references/target_annotations.md**
 Complete target annotation reference:
@@ -345,12 +419,10 @@ Complete target annotation reference:
 - Tractability assessment details
 - Safety liability sources
 - Expression, essentiality, and constraint data
-- Interpretation guidelines for target prioritization
-- Red flags and green flags for target assessment
 
 ## Data Updates and Versioning
 
-The Open Targets Platform is updated **quarterly** with new data releases. The current release (as of October 2025) is available at the API endpoint.
+The Open Targets Platform is updated **quarterly** with new data releases.
 
 **Release information:** Check https://platform-docs.opentargets.org/release-notes for the latest updates.
 

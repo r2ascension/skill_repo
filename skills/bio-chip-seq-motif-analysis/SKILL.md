@@ -1,6 +1,6 @@
 ---
 name: bio-chip-seq-motif-analysis
-description: "Use whenfinding enriched DNA motifs in peak sequences."
+description: "Use when finding enriched DNA motifs in peak sequences."
 tool_type: cli
 primary_tool: HOMER
 ---

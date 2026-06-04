@@ -1,6 +1,6 @@
 ---
 name: bio-machine-learning-omics-classifiers
-description: "Use whenbuilding diagnostic or prognostic classifiers from expression or variant data."
+description: "Use when building diagnostic or prognostic classifiers from expression or variant data."
 tool_type: python
 primary_tool: sklearn
 ---

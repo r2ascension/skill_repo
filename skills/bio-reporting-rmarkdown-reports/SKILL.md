@@ -1,6 +1,6 @@
 ---
 name: bio-reporting-rmarkdown-reports
-description: "Use whengenerating analysis reports with RMarkdown."
+description: "Use when generating analysis reports with RMarkdown."
 tool_type: r
 primary_tool: rmarkdown
 ---

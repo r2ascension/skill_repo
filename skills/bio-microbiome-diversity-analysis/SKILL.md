@@ -1,6 +1,6 @@
 ---
 name: bio-microbiome-diversity-analysis
-description: "Use whencomparing community composition across samples or testing for group differences in microbiome structure."
+description: "Use when comparing community composition across samples or testing for group differences in microbiome structure."
 tool_type: r
 primary_tool: phyloseq
 ---

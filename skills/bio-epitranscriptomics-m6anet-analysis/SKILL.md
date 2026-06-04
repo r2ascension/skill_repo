@@ -1,6 +1,6 @@
 ---
 name: bio-epitranscriptomics-m6anet-analysis
-description: "Use whenanalyzing epitranscriptomic modifications from long-read RNA data without immunoprecipitation."
+description: "Use when analyzing epitranscriptomic modifications from long-read RNA data without immunoprecipitation."
 tool_type: python
 primary_tool: m6Anet
 ---

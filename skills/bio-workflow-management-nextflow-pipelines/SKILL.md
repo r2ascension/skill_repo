@@ -1,6 +1,6 @@
 ---
 name: bio-workflow-management-nextflow-pipelines
-description: "Use whenbuilding portable pipelines with container support, running workflows on cloud platforms (AWS, Google Cloud), or leveraging nf-core community pipelines."
+description: "Use when building portable pipelines with container support, running workflows on cloud platforms (AWS, Google Cloud), or leveraging nf-core community pipelines."
 tool_type: cli
 primary_tool: Nextflow
 ---

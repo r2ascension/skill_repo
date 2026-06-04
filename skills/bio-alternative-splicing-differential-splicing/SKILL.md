@@ -1,6 +1,6 @@
 ---
 name: bio-alternative-splicing-differential-splicing
-description: "Use whencomparing splicing patterns between treatment groups, tissues, or disease states."
+description: "Use when comparing splicing patterns between treatment groups, tissues, or disease states."
 tool_type: mixed
 primary_tool: rMATS-turbo
 ---

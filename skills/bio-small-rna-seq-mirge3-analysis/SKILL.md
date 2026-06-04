@@ -1,6 +1,6 @@
 ---
 name: bio-small-rna-seq-mirge3-analysis
-description: "Use whenquantifying known miRNAs quickly or analyzing isomiR variants and RNA editing."
+description: "Use when quantifying known miRNAs quickly or analyzing isomiR variants and RNA editing."
 tool_type: python
 primary_tool: miRge3
 ---

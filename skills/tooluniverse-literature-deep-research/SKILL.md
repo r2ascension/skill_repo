@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-literature-deep-research
-description: "Use whenusers need thorough literature reviews, target profiles, or to verify specific claims from the literature."
+description: "Use when users need thorough literature reviews, target profiles, or to verify specific claims from the literature."
 ---
 
 # Literature Deep Research Strategy (Enhanced)

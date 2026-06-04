@@ -1,6 +1,6 @@
 ---
 name: bio-population-genetics-scikit-allel-analysis
-description: "Use whenanalyzing population genetics in Python."
+description: "Use when analyzing population genetics in Python."
 tool_type: python
 primary_tool: scikit-allel
 ---

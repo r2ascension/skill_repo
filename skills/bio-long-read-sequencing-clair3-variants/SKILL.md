@@ -1,6 +1,6 @@
 ---
 name: bio-long-read-sequencing-clair3-variants
-description: "Use whencalling germline variants from ONT or PacBio alignments, particularly when high accuracy is needed for clinical or research applications."
+description: "Use when calling germline variants from ONT or PacBio alignments, particularly when high accuracy is needed for clinical or research applications."
 tool_type: cli
 primary_tool: Clair3
 ---

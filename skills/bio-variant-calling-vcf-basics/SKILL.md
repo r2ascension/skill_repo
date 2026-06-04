@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-vcf-basics
-description: "Use wheninspecting variants, extracting specific fields, or understanding VCF format structure."
+description: "Use when inspecting variants, extracting specific fields, or understanding VCF format structure."
 tool_type: cli
 primary_tool: bcftools
 ---

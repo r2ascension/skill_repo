@@ -1,6 +1,6 @@
 ---
 name: bio-gene-regulatory-networks-coexpression-networks
-description: "Use whenfinding co-expression modules, identifying hub genes, or relating gene networks to clinical or experimental variables."
+description: "Use when finding co-expression modules, identifying hub genes, or relating gene networks to clinical or experimental variables."
 tool_type: r
 primary_tool: WGCNA
 ---

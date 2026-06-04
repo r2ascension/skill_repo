@@ -99,6 +99,53 @@ Adapt depth to user request:
 - **Standard research** (default): 8–15 sources, full structured report
 - **Comprehensive review** (user asks explicitly): 20+ sources, deep synthesis with evidence grading
 
+## Swarm / Parallel Execution Mode
+
+For exhaustive topics requiring broad coverage, use a parallel agent swarm approach to research multiple sub-questions simultaneously.
+
+### When to Use Swarm Mode
+- Topic spans multiple distinct sub-disciplines
+- User explicitly requests comprehensive/exhaustive review
+- Topic benefits from searching 5+ databases in parallel
+- Need to verify findings by cross-referencing independent sources
+
+### Swarm Workflow
+
+1. **Decompose into Parallel Tasks** (3-5 agents):
+   - Agent 1: PubMed / biomedical literature
+   - Agent 2: Web search (guidelines, news, regulatory)
+   - Agent 3: Preprint servers (bioRxiv, medRxiv, arXiv)
+   - Agent 4: Specialized databases (ClinicalTrials.gov, FDA)
+   
+2. **Coordinate Execution**: Launch agents in parallel, each searching their designated sources with the same core research question.
+
+3. **Aggregate Findings**: Collect all results into a unified evidence table.
+
+4. **Cross-Validate**: Compare findings across agents to identify:
+   - Points of consensus (strong evidence)
+   - Contradictions (needs deeper investigation)
+   - Unique findings from specific sources
+
+5. **Synthesize Report**: Compose final report with all findings, noting where evidence originated.
+
+### Architecture
+```python
+# Conceptual parallel search coordinator
+agents = [
+    {"name": "pubmed_agent", "source": "pubmed-search"},
+    {"name": "web_agent", "source": "multi-search-engine"},
+    {"name": "preprint_agent", "source": "biorxiv-search"},
+    {"name": "trial_agent", "source": "clinicaltrials-search"}
+]
+
+# Launch all in parallel, collect results
+results = parallel_execute(agents, query=topic)
+report = synthesize(collect(results))
+```
+
+### Performance Target
+Generate comprehensive literature review with >50 verified citations in <5 minutes using parallel execution.
+
 ## Example Execution
 
 **User:** "Research the evidence for metformin use in longevity/anti-aging"

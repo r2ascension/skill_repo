@@ -1,6 +1,6 @@
 ---
 name: bio-metabolomics-pathway-mapping
-description: "Use wheninterpreting metabolomics results in the context of biochemical pathways."
+description: "Use when interpreting metabolomics results in the context of biochemical pathways."
 tool_type: r
 primary_tool: MetaboAnalystR
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-chip-seq-differential-binding
-description: "Use whencomparing ChIP-seq binding between experimental conditions."
+description: "Use when comparing ChIP-seq binding between experimental conditions."
 tool_type: mixed
 primary_tool: DiffBind
 ---

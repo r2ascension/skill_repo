@@ -1,6 +1,6 @@
 ---
 name: bio-gene-regulatory-networks-multiomics-grn
-description: "Use whenanalyzing 10x multiome or paired scRNA+scATAC data to infer cis-regulatory GRNs."
+description: "Use when analyzing 10x multiome or paired scRNA+scATAC data to infer cis-regulatory GRNs."
 tool_type: python
 primary_tool: SCENIC+
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-genome-annotation-ncrna-annotation
-description: "Use whenperforming genome-wide ncRNA annotation with assembly input producing GFF output."
+description: "Use when performing genome-wide ncRNA annotation with assembly input producing GFF output."
 tool_type: cli
 primary_tool: Infernal
 ---

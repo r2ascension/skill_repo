@@ -1,6 +1,6 @@
 ---
 name: bio-methylation-analysis-differential-cpg-testing
-description: "Use whencomparing methylation at individual CpG sites between experimental groups from WGBS, RRBS, or targeted bisulfite sequencing."
+description: "Use when comparing methylation at individual CpG sites between experimental groups from WGBS, RRBS, or targeted bisulfite sequencing."
 tool_type: mixed
 primary_tool: scipy
 ---

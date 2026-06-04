@@ -1,6 +1,6 @@
 ---
 name: bio-liquid-biopsy-fragment-analysis
-description: "Use whenleveraging fragment patterns for tumor detection or tissue-of-origin analysis."
+description: "Use when leveraging fragment patterns for tumor detection or tissue-of-origin analysis."
 tool_type: python
 primary_tool: FinaleToolkit
 ---

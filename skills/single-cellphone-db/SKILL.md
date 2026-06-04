@@ -66,3 +66,7 @@ Apply this skill when a user wants to quantify ligand–receptor communication b
 - Tutorial notebook: [`t_cellphonedb.ipynb`](../../omicverse_guide/docs/Tutorials-single/t_cellphonedb.ipynb)
 - Example data: [`omicverse_guide/docs/Tutorials-single/data/cpdb/`](../../omicverse_guide/docs/Tutorials-single/data/cpdb/)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- **bio-single-cell-cell-communication** - The general (non-OmicVerse) equivalent covering cell-cell communication analysis with CellChat/LIANA.

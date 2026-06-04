@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-biostatistics-subgroup-analysis
-description: "Use whenanalyzing treatment effects across patient subgroups or controlling for stratification variables."
+description: "Use when analyzing treatment effects across patient subgroups or controlling for stratification variables."
 tool_type: python
 primary_tool: statsmodels
 ---

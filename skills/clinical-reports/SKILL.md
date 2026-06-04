@@ -947,6 +947,85 @@ Validation scripts are available in the `scripts/` directory.
 
 For data presentation standards, see `references/data_presentation.md`.
 
+## Clinical Note Summarization and Input Normalization
+
+### Overview
+
+Raw clinical notes from dictation, OCR, or EHR exports often contain inconsistencies, missing data, and disorganized information. Use this workflow to normalize and structure raw notes into SOAP-format summaries with explicit contradiction flagging and missing data identification.
+
+### Inputs
+
+- `note_text`: Raw clinical text (dictation, OCR, EHR export)
+- `patient_context`: Optional metadata (demographics, visit date, provider)
+- `output_format`: `markdown` (default) or `json` (for downstream validation)
+
+### Outputs
+
+1. Structured SOAP summary with Subjective/Objective/Assessment/Plan sections
+2. Alerts and missing-information checklist
+3. Optional JSON payload with structured schema
+
+### Workflow
+
+1. **Normalize input**: Pre-clean vitals, labs, and timeline context
+2. **Generate summary**: Call LLM with system prompt enforcing no-hallucination + data gap surfacing
+3. **Validate**: Cross-check extracted values vs. source text; flag contradictions and missing data
+4. **Deliver**: Provide markdown + JSON as required; log PHI handling steps
+
+### Guardrails
+
+- Never invent findings; state "not provided" explicitly
+- Mark outputs as documentation support only -- not clinical decisions
+- Strip/re-mask PHI before storing prompts/responses
+- Flag any contradiction between subjective and objective data
+- Link assessments to ICD-10 codes where appropriate
+- Aim for >=95% note coverage; explicitly list any uncovered content
+
+### Validation Checklist
+
+- [ ] All SOAP sections populated (flag empty sections)
+- [ ] No hallucinated findings
+- [ ] Contradictions between subjective/objective data flagged
+- [ ] Missing information checklist complete
+- [ ] PHI stripped before storage
+- [ ] ICD-10 codes present in assessment
+
+## EHR Chat and Chart Summarization
+
+### Overview
+
+AI-assisted interaction with electronic health records via natural language queries. Useful for rapid chart review, data extraction, and draft documentation generation.
+
+### When to Use
+
+- **Rapid Review**: "Summarize the patient's cardiology history."
+- **Data Extraction**: "What was the last creatinine level?"
+- **Documentation**: Generating draft notes or discharge summaries.
+
+### Core Capabilities
+
+1. **Chart Summarization**: Condense complex history into readable notes
+2. **QA**: Answer specific questions about patient data
+3. **FHIR Integration**: Works with standard FHIR resources
+
+### Workflow
+
+1. **Connect**: Authenticate with EHR system (sandbox or secure instance)
+2. **Select Patient**: Load patient context
+3. **Query**: Submit natural language questions
+4. **Verify**: Cross-check extracted information against source records
+
+### Performance Target
+
+Answer 5 clinical queries and generate a discharge summary from a patient record with <10s latency.
+
+### Integration Requirements
+
+- Python 3.10+
+- FHIR-compatible EHR access
+- Secure authentication (OAuth2 recommended)
+- Audit logging for all patient data access
+
 ## Integration with Other Skills
 
 This clinical reports skill integrates with:

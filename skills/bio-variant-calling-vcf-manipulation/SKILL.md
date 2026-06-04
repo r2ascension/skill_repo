@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-vcf-manipulation
-description: "Use whencombining variant files, comparing call sets, or restructuring VCF data."
+description: "Use when combining variant files, comparing call sets, or restructuring VCF data."
 tool_type: cli
 primary_tool: bcftools
 ---

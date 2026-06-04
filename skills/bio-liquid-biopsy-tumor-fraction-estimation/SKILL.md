@@ -1,6 +1,6 @@
 ---
 name: bio-liquid-biopsy-tumor-fraction-estimation
-description: "Use whenquantifying tumor burden from liquid biopsy or monitoring treatment response."
+description: "Use when quantifying tumor burden from liquid biopsy or monitoring treatment response."
 tool_type: r
 primary_tool: ichorCNA
 ---

@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-protein-therapeutic-design
-description: "Use whenasked to design protein binders, therapeutic proteins, or engineer protein function."
+description: "Use when asked to design protein binders, therapeutic proteins, or engineer protein function."
 ---
 
 # Therapeutic Protein Designer

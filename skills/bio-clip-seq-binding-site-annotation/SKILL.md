@@ -1,6 +1,6 @@
 ---
 name: bio-clip-seq-binding-site-annotation
-description: "Use whencharacterizing where an RBP binds in transcripts."
+description: "Use when characterizing where an RBP binds in transcripts."
 tool_type: mixed
 primary_tool: ChIPseeker
 ---

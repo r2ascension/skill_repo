@@ -1,6 +1,6 @@
 ---
 name: bio-proteomics-data-import
-description: "Use whenstarting a proteomics analysis with raw or processed MS data. Handles contaminant filtering and missing value assessment."
+description: "Use when starting a proteomics analysis with raw or processed MS data. Handles contaminant filtering and missing value assessment."
 tool_type: mixed
 primary_tool: pyOpenMS
 ---

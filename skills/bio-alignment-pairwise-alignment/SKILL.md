@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-pairwise-alignment
-description: "Use whencomparing two sequences, finding optimal alignments, scoring similarity, and identifying local or global matches between DNA, RNA, or protein sequences."
+description: "Use when comparing two sequences, finding optimal alignments, scoring similarity, and identifying local or global matches between DNA, RNA, or protein sequences."
 tool_type: python
 primary_tool: Bio.Align
 ---

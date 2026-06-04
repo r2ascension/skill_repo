@@ -52,3 +52,7 @@ tenation.
 - Tutorial notebook: [`t_bulk_combat.ipynb`](../../omicverse_guide/docs/Tutorials-bulk/t_bulk_combat.ipynb)
 - Example inputs: [`omicverse_guide/docs/Tutorials-bulk/data/combat/`](../../omicverse_guide/docs/Tutorials-bulk/data/combat/)
 - Quick copy/paste commands: [`reference.md`](reference.md)
+
+## Related Skills
+
+- **bio-differential-expression-batch-correction** - The general (non-OmicVerse) equivalent covering batch correction methods for differential expression.

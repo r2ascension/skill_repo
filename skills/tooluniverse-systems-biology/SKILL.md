@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-systems-biology
-description: "Use whenanalyzing gene sets, exploring biological pathways, or investigating systems-level biology."
+description: "Use when analyzing gene sets, exploring biological pathways, or investigating systems-level biology."
 ---
 
 # Systems Biology & Pathway Analysis

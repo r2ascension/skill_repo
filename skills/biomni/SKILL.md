@@ -1,13 +1,56 @@
 ---
 name: biomni
-description: "Use whenconducting multi-step biomedical research including CRISPR screening design, single-cell RNA-seq analysis, ADMET prediction, GWAS interpretation, rare disease diagnosis, or lab protocol optimization. Leverages LLM reasoning with code execution and integrated biomedical databases."
+description: "Use when conducting multi-step biomedical research including CRISPR screening design, single-cell RNA-seq analysis, ADMET prediction, GWAS interpretation, rare disease diagnosis, or lab protocol optimization. Leverages LLM reasoning with code execution and integrated biomedical databases."
+license: MIT
+metadata:
+  author: Stanford (Snap Lab)
+  source: "https://github.com/snap-stanford/Biomni"
+  version: "1.0.0"
+compatibility:
+  - system: Python 3.9+
+allowed-tools:
+  - Read
+  - Bash
+  - WebFetch
+keywords:
+  - biomni
+  - automation
+  - biomedical
+  - reasoning
+  - tools
+  - multi-tool
+  - know-how
+  - tutorials
+  - protocols
+  - databases
+measurable_outcome: Execute complex research tasks with >95% success rate and validated tool usage.
 ---
+
+<!--
+# COPYRIGHT NOTICE
+# This file is part of the "Universal Biomedical Skills" project.
+# Copyright (c) 2026 MD BABU MIA, PhD <md.babu.mia@mssm.edu>
+# All Rights Reserved.
+#
+# This code is proprietary and confidential.
+# Unauthorized copying of this file, via any medium is strictly prohibited.
+#
+# Provenance: Authenticated by MD BABU MIA
+
+-->
 
 # Biomni
 
 ## Overview
 
 Biomni is an open-source biomedical AI agent framework from Stanford's SNAP lab that autonomously executes complex research tasks across biomedical domains. Use this skill when working on multi-step biological reasoning tasks, analyzing biomedical data, or conducting research spanning genomics, drug discovery, molecular biology, and clinical analysis.
+
+Biomni is a "General-Purpose" biomedical agent. Unlike specialized skills (e.g., just for folding proteins), Biomni acts as a high-level orchestrator that can break down complex open-ended research questions into solvable sub-tasks using a vast library of tools and databases.
+
+## At-a-Glance
+- **description (10-20 chars):** Omni bio agent
+- **keywords:** multi-tool, know-how, tutorials, protocols, databases
+- **measurable_outcome:** Execute a Biomni workflow that touches >=2 tool categories and returns a cited research summary or artifact within 15 minutes per request.
 
 ## Core Capabilities
 
@@ -17,6 +60,10 @@ Biomni excels at:
 2. **Code generation and execution** - Dynamic analysis pipeline creation for data processing
 3. **Knowledge retrieval** - Access to ~11GB of integrated biomedical databases and literature
 4. **Cross-domain problem solving** - Unified interface for genomics, proteomics, drug discovery, and clinical tasks
+5. **Tool Use** - Access to 150+ tools, 105 software packages, and 59 databases
+6. **Hypothesis Generation** - Can formulate scientific hypotheses and plan experiments to test them
+7. **Plan & Execute** - Breaks down queries into a dependency graph of tasks
+8. **Database QA** - High accuracy (74.4%) in querying biomedical databases
 
 ## When to Use This Skill
 
@@ -27,6 +74,24 @@ Use biomni for:
 - **GWAS analysis** - Variant interpretation, causal gene identification, pathway enrichment
 - **Clinical genomics** - Rare disease diagnosis, variant pathogenicity, phenotype-genotype mapping
 - **Lab protocols** - Protocol optimization, literature synthesis, experimental design
+
+## General Workflow
+
+### Workflow A: Task-Oriented (A1 Agent)
+1. **Query Parsing**: The agent analyzes the user's natural language request.
+2. **Tool Selection**: It selects relevant tools (e.g., "Search GWAS Catalog", "Run GO Enrichment", "Fetch Uniprot Data").
+3. **Execution Loop**:
+   - Step 1: Get data.
+   - Step 2: Analyze data.
+   - Step 3: Refine plan based on intermediate results.
+4. **Synthesis**: Combines all findings into a comprehensive answer.
+
+### Workflow B: Environment-Oriented
+1. **Environment:** `cd repo && pip install .` (or follow tutorials env set up). Activate the environment with required GPUs if using heavy models.
+2. **Select mode:** Choose Standard (full stack), Light (API-only), or Commercial (license-safe) per task.
+3. **Plan tools:** Query the Know-How library for relevant protocols/databases before executing.
+4. **Execute notebooks/scripts:** Use `repo/tutorials` or CLI entrypoints to run pipelines; log tool versions.
+5. **Summarize:** Provide outputs + citations pulled from the Know-How metadata.
 
 ## Quick Start
 
@@ -172,7 +237,17 @@ Summary statistics file: [path/to/gwas_summary.txt]
 
 See `references/use_cases.md` for comprehensive task examples across all biomedical domains.
 
-### 4. Data Integration
+### 4. Example Usage
+
+**User**: "Identify genes associated with Type 2 Diabetes that are also expressed in the pancreas and have approved drugs."
+
+**Agent Action**:
+1. Tool: `OpenTargets` -> Get T2D associated genes.
+2. Tool: `GTEx` -> Filter for high expression in Pancreas.
+3. Tool: `DrugBank` -> Intersect with drug targets.
+4. Result: Returns a list of genes (e.g., *GLP1R*, *DPP4*) and their drugs.
+
+### 5. Data Integration
 
 Biomni integrates ~11GB of biomedical knowledge sources:
 - **Gene databases** - Ensembl, NCBI Gene, UniProt
@@ -183,7 +258,7 @@ Biomni integrates ~11GB of biomedical knowledge sources:
 
 Data is automatically downloaded to the specified `path` on first use.
 
-### 5. MCP Server Integration
+### 6. MCP Server Integration
 
 Extend biomni with external tools via Model Context Protocol:
 
@@ -197,7 +272,7 @@ Extend biomni with external tools via Model Context Protocol:
 # Configure MCP servers in .biomni/mcp_config.json
 ```
 
-### 6. Evaluation Framework
+### 7. Evaluation Framework
 
 Benchmark agent performance on biomedical tasks:
 
@@ -217,6 +292,13 @@ score = evaluator.evaluate(
 dataset = evaluator.load_dataset()
 ```
 
+## Guardrails
+- Respect tool/data licenses when selecting Light vs Commercial mode.
+- Track provenance (tool versions, dataset snapshots) in final response.
+- Keep workflows modular -- reuse Biomni recipes rather than ad-hoc scripts when possible.
+- Run in isolated environments (Docker, VMs) for production.
+- Avoid exposing sensitive credentials to LLM-generated code.
+
 ## Best Practices
 
 ### Task Formulation
@@ -226,11 +308,11 @@ dataset = evaluator.load_dataset()
 - **Set constraints** - Mention time/computational limits if relevant
 
 ### Security Considerations
-⚠️ **Important**: Biomni executes LLM-generated code with full system privileges. For production use:
-- Run in isolated environments (Docker, VMs)
-- Avoid exposing sensitive credentials
-- Review generated code before execution in sensitive contexts
-- Use sandboxed execution environments when possible
+- **Important**: Biomni executes LLM-generated code with full system privileges. For production use:
+  - Run in isolated environments (Docker, VMs)
+  - Avoid exposing sensitive credentials
+  - Review generated code before execution in sensitive contexts
+  - Use sandboxed execution environments when possible
 
 ### Performance Optimization
 - **Choose appropriate LLMs** - Claude Sonnet 4 recommended for balance of speed/quality

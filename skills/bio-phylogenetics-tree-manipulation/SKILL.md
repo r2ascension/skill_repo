@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-tree-manipulation
-description: "Use whenrooting trees with outgroups, midpoint, or MAD methods, pruning taxa, collapsing clades, ladderizing branches, or extracting subtrees. Includes rooting method decision guidance."
+description: "Use when rooting trees with outgroups, midpoint, or MAD methods, pruning taxa, collapsing clades, ladderizing branches, or extracting subtrees. Includes rooting method decision guidance."
 tool_type: python
 primary_tool: Bio.Phylo
 ---

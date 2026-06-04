@@ -1,6 +1,6 @@
 ---
 name: bio-liquid-biopsy-longitudinal-monitoring
-description: "Use whenmonitoring patients during therapy or detecting molecular relapse before clinical progression."
+description: "Use when monitoring patients during therapy or detecting molecular relapse before clinical progression."
 tool_type: python
 primary_tool: pandas
 ---

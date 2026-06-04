@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-msa-statistics
-description: "Use whencomparing alignment quality, measuring sequence divergence, and analyzing evolutionary patterns."
+description: "Use when comparing alignment quality, measuring sequence divergence, and analyzing evolutionary patterns."
 tool_type: python
 primary_tool: Bio.Align
 ---

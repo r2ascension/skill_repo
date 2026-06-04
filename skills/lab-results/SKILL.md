@@ -3,8 +3,8 @@ name: 'lab-results'
 description: "Use when interpreting, summarizing, or structuring laboratory results, abnormal values, trends, reference ranges, or lab-report workflows."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

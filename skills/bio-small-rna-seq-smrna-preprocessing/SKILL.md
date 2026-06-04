@@ -1,6 +1,6 @@
 ---
 name: bio-small-rna-seq-smrna-preprocessing
-description: "Use whenpreparing small RNA-seq reads for downstream quantification or discovery analysis."
+description: "Use when preparing small RNA-seq reads for downstream quantification or discovery analysis."
 tool_type: cli
 primary_tool: cutadapt
 ---

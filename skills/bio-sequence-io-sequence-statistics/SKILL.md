@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-sequence-statistics
-description: "Use whenanalyzing sequence datasets, generating QC reports, or comparing assemblies."
+description: "Use when analyzing sequence datasets, generating QC reports, or comparing assemblies."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

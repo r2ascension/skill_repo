@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-interval-arithmetic
-description: "Use whenfinding overlapping regions, removing overlaps, combining adjacent intervals, or transferring annotations between interval files."
+description: "Use when finding overlapping regions, removing overlaps, combining adjacent intervals, or transferring annotations between interval files."
 tool_type: mixed
 primary_tool: bedtools
 ---

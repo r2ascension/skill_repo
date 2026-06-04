@@ -1,6 +1,6 @@
 ---
 name: bio-rna-quantification-featurecounts-counting
-description: "Use whenprocessing BAM files from STAR/HISAT2 to generate gene-level counts for DESeq2/edgeR."
+description: "Use when processing BAM files from STAR/HISAT2 to generate gene-level counts for DESeq2/edgeR."
 tool_type: cli
 primary_tool: featureCounts
 ---

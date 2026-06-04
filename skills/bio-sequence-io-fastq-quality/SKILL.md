@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-io-fastq-quality
-description: "Use whenanalyzing read quality, filtering by quality, trimming low-quality bases, or generating quality reports."
+description: "Use when analyzing read quality, filtering by quality, trimming low-quality bases, or generating quality reports."
 tool_type: python
 primary_tool: Bio.SeqIO
 ---

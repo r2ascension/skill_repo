@@ -1,6 +1,6 @@
 ---
 name: bio-phasing-imputation-imputation-qc
-description: "Use whenfiltering low-quality imputed variants or validating imputation accuracy before GWAS."
+description: "Use when filtering low-quality imputed variants or validating imputation accuracy before GWAS."
 tool_type: mixed
 primary_tool: bcftools
 ---

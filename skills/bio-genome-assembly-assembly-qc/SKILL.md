@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-assembly-qc
-description: "Use whenevaluating assembly completeness and quality."
+description: "Use when evaluating assembly completeness and quality."
 tool_type: cli
 primary_tool: QUAST
 ---

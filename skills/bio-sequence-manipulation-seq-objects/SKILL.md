@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-seq-objects
-description: "Use whencreating sequences from strings, modifying sequence data in-place, or building annotated sequence records."
+description: "Use when creating sequences from strings, modifying sequence data in-place, or building annotated sequence records."
 tool_type: python
 primary_tool: Bio.Seq
 ---

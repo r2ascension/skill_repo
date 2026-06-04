@@ -1,6 +1,6 @@
 ---
 name: bio-database-access-sra-data
-description: "Use whendownloading FASTQ files from SRA accessions, prefetching large datasets, or validating SRA downloads."
+description: "Use when downloading FASTQ files from SRA accessions, prefetching large datasets, or validating SRA downloads."
 tool_type: cli
 primary_tool: sra-tools
 ---

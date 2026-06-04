@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-structural-alignment
-description: "Use whensequence MSA fails (<25% identity), when the dark proteome is the target, when AlphaFoldDB / ESM Atlas search is needed, or when structural superposition is the goal."
+description: "Use when sequence MSA fails (<25% identity), when the dark proteome is the target, when AlphaFoldDB / ESM Atlas search is needed, or when structural superposition is the goal."
 tool_type: mixed
 primary_tool: Foldseek
 ---

@@ -111,3 +111,7 @@ After running, verify:
 - No infinite `-log10(p_val_adj)` values remain unhandled in plots.
 - Volcano labels are selected from significant genes only unless explicitly requested.
 - Excel/CSV/PDF files are written and non-empty.
+
+## Related Skills
+
+- **bio-differential-expression-de-visualization** - The general (non-bio-single-cell-specific) equivalent covering bulk DE visualization with DESeq2/edgeR built-in plots.

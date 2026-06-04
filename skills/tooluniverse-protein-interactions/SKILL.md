@@ -1,6 +1,6 @@
 ---
 name: protein-interaction-network-analysis
-description: "Use whenanalyzing protein networks, discovering interaction partners, identifying functional modules, or studying protein complexes."
+description: "Use when analyzing protein networks, discovering interaction partners, identifying functional modules, or studying protein complexes."
 ---
 
 # Protein Interaction Network Analysis

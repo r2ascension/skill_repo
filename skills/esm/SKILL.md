@@ -1,6 +1,6 @@
 ---
 name: esm
-description: "Use whenworking with protein sequences, structures, or function prediction; designing novel proteins; generating protein embeddings; performing inverse folding; or conducting protein engineering tasks. Supports both local model usage and cloud-based Forge API for scalable inference."
+description: "Use when working with protein sequences, structures, or function prediction; designing novel proteins; generating protein embeddings; performing inverse folding; or conducting protein engineering tasks. Supports both local model usage and cloud-based Forge API for scalable inference."
 ---
 
 # ESM: Evolutionary Scale Modeling

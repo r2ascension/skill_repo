@@ -1,6 +1,6 @@
 ---
 name: bio-genome-engineering-hdr-template-design
-description: "Use whendesigning donor templates for precise insertions, tagging, or allele replacement."
+description: "Use when designing donor templates for precise insertions, tagging, or allele replacement."
 tool_type: python
 primary_tool: primer3-py
 ---

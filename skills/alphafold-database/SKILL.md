@@ -88,6 +88,37 @@ def get_uniprot_ids(query, query_type='PDB_ID'):
 protein_ids = get_uniprot_ids("hemoglobin", query_type="GENE_NAME")
 ```
 
+**Check if Prediction Exists:**
+
+```python
+def check_alphafold_exists(uniprot_id):
+    """Check if AlphaFold prediction exists for a UniProt ID"""
+    url = f'https://alphafold.ebi.ac.uk/api/prediction/{uniprot_id}'
+    response = requests.get(url)
+    return response.status_code == 200
+
+if check_alphafold_exists('P04637'):
+    print('AlphaFold structure available for p53')
+```
+
+**Quick Metadata Retrieval:**
+
+```python
+def get_alphafold_info(uniprot_id):
+    """Get AlphaFold prediction metadata"""
+    url = f'https://alphafold.ebi.ac.uk/api/prediction/{uniprot_id}'
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.json()[0]
+    return None
+
+info = get_alphafold_info('P04637')
+if info:
+    print(f"Gene: {info['gene']}")
+    print(f"Organism: {info['organismScientificName']}")
+    print(f"Model version: {info['latestVersion']}")
+```
+
 ### 2. Downloading Structure Files
 
 AlphaFold provides multiple file formats for each prediction:
@@ -131,6 +162,40 @@ pdb_url = f"https://alphafold.ebi.ac.uk/files/{alphafold_id}-model_{version}.pdb
 response = requests.get(pdb_url)
 with open(f"{alphafold_id}.pdb", "wb") as f:
     f.write(response.content)
+```
+
+**Simplified Download Function:**
+
+```python
+def download_alphafold(uniprot_id, output_dir='.'):
+    """Download AlphaFold structure for a UniProt accession"""
+    base_url = 'https://alphafold.ebi.ac.uk/files'
+    pdb_url = f'{base_url}/AF-{uniprot_id}-F1-model_v4.pdb'
+
+    response = requests.get(pdb_url)
+    if response.status_code == 200:
+        output_path = f'{output_dir}/AF-{uniprot_id}-F1-model_v4.pdb'
+        with open(output_path, 'w') as f:
+            f.write(response.text)
+        return output_path
+    return None
+
+pdb_file = download_alphafold('P04637')  # Human p53
+```
+
+**Download PAE (Predicted Aligned Error):**
+
+```python
+def download_pae(uniprot_id, output_dir='.'):
+    """Download PAE matrix for a prediction"""
+    url = f'https://alphafold.ebi.ac.uk/files/AF-{uniprot_id}-F1-predicted_aligned_error_v4.json'
+    response = requests.get(url)
+    if response.status_code == 200:
+        output_path = f'{output_dir}/AF-{uniprot_id}-F1-pae.json'
+        with open(output_path, 'w') as f:
+            f.write(response.text)
+        return output_path
+    return None
 ```
 
 ### 3. Working with Confidence Metrics
@@ -185,6 +250,86 @@ plt.savefig(f'{alphafold_id}_pae.png', dpi=300, bbox_inches='tight')
 
 # Low PAE values (<5 Å) indicate confident relative positioning
 # High PAE values (>15 Å) suggest uncertain domain arrangements
+```
+
+**Extract pLDDT from PDB B-factors:**
+
+AlphaFold stores pLDDT scores in the PDB B-factor column:
+
+```python
+from Bio.PDB import PDBParser
+
+def extract_plddt(pdb_file):
+    """Extract pLDDT confidence scores from AlphaFold PDB file"""
+    parser = PDBParser(QUIET=True)
+    structure = parser.get_structure('protein', pdb_file)
+
+    residue_plddt = {}
+    for model in structure:
+        for chain in model:
+            for residue in chain:
+                if residue.id[0] == ' ':
+                    ca = residue['CA'] if 'CA' in residue else list(residue.get_atoms())[0]
+                    residue_plddt[residue.id[1]] = ca.get_bfactor()
+    return residue_plddt
+
+plddt = extract_plddt('AF-P04637-F1-model_v4.pdb')
+avg_plddt = sum(plddt.values()) / len(plddt)
+print(f'Average pLDDT: {avg_plddt:.1f}')
+```
+
+**Plot pLDDT per Residue:**
+
+```python
+import matplotlib.pyplot as plt
+
+def plot_plddt(plddt_dict, output='plddt_plot.png'):
+    residues = sorted(plddt_dict.keys())
+    scores = [plddt_dict[r] for r in residues]
+
+    plt.figure(figsize=(12, 4))
+    plt.fill_between(residues, scores, alpha=0.3)
+    plt.plot(residues, scores)
+    plt.axhline(y=70, color='orange', linestyle='--', label='Confident threshold')
+    plt.axhline(y=90, color='green', linestyle='--', label='Very high threshold')
+    plt.xlabel('Residue')
+    plt.ylabel('pLDDT')
+    plt.ylim(0, 100)
+    plt.legend()
+    plt.savefig(output, dpi=150, bbox_inches='tight')
+    plt.close()
+
+plot_plddt(plddt)
+```
+
+**Load and Plot PAE from JSON:**
+
+```python
+import json
+import numpy as np
+
+def load_pae(pae_file):
+    """Load PAE matrix from JSON file"""
+    with open(pae_file) as f:
+        data = json.load(f)
+
+    # Handle both v4 and older PAE formats
+    if 'predicted_aligned_error' in data[0]:
+        return np.array(data[0]['predicted_aligned_error'])
+    return np.array(data['predicted_aligned_error'])
+
+def plot_pae(pae_matrix, output='pae_plot.png'):
+    plt.figure(figsize=(8, 8))
+    plt.imshow(pae_matrix, cmap='Greens_r', vmin=0, vmax=30)
+    plt.colorbar(label='Expected position error (A)')
+    plt.xlabel('Scored residue')
+    plt.ylabel('Aligned residue')
+    plt.title('Predicted Aligned Error')
+    plt.savefig(output, dpi=150, bbox_inches='tight')
+    plt.close()
+
+pae = load_pae('AF-P04637-F1-pae.json')
+plot_pae(pae)
 ```
 
 ### 4. Bulk Data Access via Google Cloud
@@ -351,6 +496,69 @@ for uniprot_id in uniprot_ids:
 # Create summary DataFrame
 df = pd.DataFrame(results)
 print(df)
+```
+
+**Simpler Batch Download:**
+
+```python
+def download_alphafold(uniprot_id, output_dir='.'):
+    base_url = 'https://alphafold.ebi.ac.uk/files'
+    pdb_url = f'{base_url}/AF-{uniprot_id}-F1-model_v4.pdb'
+    response = requests.get(pdb_url)
+    if response.status_code == 200:
+        path = f'{output_dir}/AF-{uniprot_id}-F1-model_v4.pdb'
+        with open(path, 'w') as f:
+            f.write(response.text)
+        return path
+    return None
+
+def batch_download_alphafold(uniprot_ids, output_dir='.'):
+    """Download multiple AlphaFold structures"""
+    import os
+    os.makedirs(output_dir, exist_ok=True)
+    results = {}
+    for uid in uniprot_ids:
+        pdb_file = download_alphafold(uid, output_dir)
+        results[uid] = pdb_file
+        if pdb_file:
+            print(f'Downloaded: {uid}')
+        else:
+            print(f'Not found: {uid}')
+    return results
+
+ids = ['P04637', 'P53_HUMAN', 'Q9Y6K9']
+files = batch_download_alphafold(ids, 'alphafold_structures')
+```
+
+### 7. Comparing with Experimental Structures
+
+Compare AlphaFold predictions with experimentally determined structures:
+
+```python
+from Bio.PDB import PDBParser, Superimposer
+
+def compare_structures(alphafold_pdb, experimental_pdb):
+    """Calculate RMSD between AlphaFold and experimental structure"""
+    parser = PDBParser(QUIET=True)
+    af_struct = parser.get_structure('af', alphafold_pdb)
+    exp_struct = parser.get_structure('exp', experimental_pdb)
+
+    # Get CA atoms from first chain
+    af_atoms = [r['CA'] for r in af_struct[0].get_residues() if 'CA' in r]
+    exp_atoms = [r['CA'] for r in exp_struct[0].get_residues() if 'CA' in r]
+
+    # Align by shortest chain
+    min_len = min(len(af_atoms), len(exp_atoms))
+    af_atoms = af_atoms[:min_len]
+    exp_atoms = exp_atoms[:min_len]
+
+    super_imposer = Superimposer()
+    super_imposer.set_atoms(exp_atoms, af_atoms)
+    return super_imposer.rms
+
+# Example: compare predicted p53 with experimental structure
+rmsd = compare_structures('AF-P04637-F1-model_v4.pdb', 'experimental_p53.pdb')
+print(f'RMSD: {rmsd:.2f} Angstrom')
 ```
 
 ## Installation and Setup

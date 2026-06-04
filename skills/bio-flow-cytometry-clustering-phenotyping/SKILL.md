@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-clustering-phenotyping
-description: "Use whendiscovering cell populations in high-dimensional cytometry data without predefined gates."
+description: "Use when discovering cell populations in high-dimensional cytometry data without predefined gates."
 tool_type: r
 primary_tool: CATALYST
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-systems-biology-gene-essentiality
-description: "Use whenidentifying essential genes or finding synthetic lethal drug targets."
+description: "Use when identifying essential genes or finding synthetic lethal drug targets."
 tool_type: python
 primary_tool: cobrapy
 ---

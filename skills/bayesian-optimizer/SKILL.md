@@ -3,8 +3,8 @@ name: 'bayesian-optimizer'
 description: "Use when optimizing parameters with Bayesian optimization, surrogate models, acquisition functions, experiment design, hyperparameter search, or sample-efficient tuning."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

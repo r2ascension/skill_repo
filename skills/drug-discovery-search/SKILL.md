@@ -212,3 +212,14 @@ response.results.forEach((result) => {
 ```
 
 See the [Valyu docs](https://docs.valyu.ai) for full integration examples and SDK reference.
+
+## Related Database Skills
+
+This skill provides multi-database semantic search across ChEMBL, DrugBank, FDA labels, and Open Targets. For deeper structured access to individual databases, use these companion skills:
+
+- **[chembl-database](/home/h2048/.claude/skills/chembl-database/SKILL.md)** -- Full ChEMBL Python client for bioactivity queries, compound property filtering, similarity/substructure searches, and bulk data access
+- **[drugbank-database](/home/h2048/.claude/skills/drugbank-database/SKILL.md)** -- Full DrugBank XML/API access for drug interactions, target analysis, ADMET predictions, and chemical similarity
+- **[fda-database](/home/h2048/.claude/skills/fda-database/SKILL.md)** -- FDA drug labels, adverse event reporting, and regulatory data
+- **[opentargets-database](/home/h2048/.claude/skills/opentargets-database/SKILL.md)** -- Open Targets platform for target-disease associations, known drugs, and pathway data
+
+Use **drug-discovery-search** for quick multi-source semantic exploration, then drill into the individual database skills for detailed programmatic access.

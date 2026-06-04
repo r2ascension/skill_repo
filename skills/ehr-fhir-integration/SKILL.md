@@ -3,8 +3,8 @@ name: 'ehr-fhir-integration'
 description: "Use when working on provides comprehensive tools for working with Electronic Health Records (EHR) using the HL7 FHIR standard."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

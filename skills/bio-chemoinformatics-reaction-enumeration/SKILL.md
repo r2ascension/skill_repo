@@ -1,6 +1,6 @@
 ---
 name: bio-chemoinformatics-reaction-enumeration
-description: "Use whencreating combinatorial libraries or enumerating products from synthetic routes."
+description: "Use when creating combinatorial libraries or enumerating products from synthetic routes."
 tool_type: python
 primary_tool: RDKit
 ---

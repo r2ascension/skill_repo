@@ -1,6 +1,6 @@
 ---
 name: simpy
-description: "Use whenbuilding simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time."
+description: "Use when building simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time."
 ---
 
 # SimPy - Discrete-Event Simulation

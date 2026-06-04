@@ -1,6 +1,6 @@
 ---
 name: bio-differential-expression-timeseries-de
-description: "Use whenanalyzing time-series or longitudinal expression data."
+description: "Use when analyzing time-series or longitudinal expression data."
 tool_type: r
 primary_tool: limma
 ---

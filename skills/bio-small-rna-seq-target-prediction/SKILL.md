@@ -1,6 +1,6 @@
 ---
 name: bio-small-rna-seq-target-prediction
-description: "Use whenidentifying potential mRNA targets of differentially expressed or functionally important miRNAs."
+description: "Use when identifying potential mRNA targets of differentially expressed or functionally important miRNAs."
 tool_type: mixed
 primary_tool: miRanda
 ---

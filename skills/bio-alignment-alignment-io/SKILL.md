@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-alignment-io
-description: "Use whenreading, writing, or converting alignment file formats."
+description: "Use when reading, writing, or converting alignment file formats."
 tool_type: python
 primary_tool: Bio.AlignIO
 ---

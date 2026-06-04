@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-genome-tracks
-description: "Use whenvisualizing genomic data at specific loci with multiple aligned tracks."
+description: "Use when visualizing genomic data at specific loci with multiple aligned tracks."
 tool_type: mixed
 primary_tool: pyGenomeTracks
 ---
@@ -107,6 +107,82 @@ tracks = pygtk.PlotTracks('tracks.ini', fig_width=40, dpi=150)
 tracks.plot('output.png', 'chr1', 1000000, 2000000)
 ```
 
+## Track Types
+
+### bigWig Coverage
+
+```ini
+[bigwig_coverage]
+file = signal.bw
+title = Coverage
+height = 4
+color = #4DBBD5
+min_value = 0
+max_value = auto
+number_of_bins = 700
+nans_to_zeros = true
+summary_method = mean
+# overlay_previous = share-y  # For overlaying multiple tracks
+```
+
+### BED / narrowPeak
+
+```ini
+[peaks]
+file = peaks.narrowPeak
+title = Peaks
+height = 2
+color = #E64B35
+display = collapsed  # or stacked, interleaved, triangles
+labels = false
+
+[loops]
+file = interactions.bedpe
+title = Loops
+height = 3
+file_type = links
+links_type = arcs
+color = purple
+line_width = 1
+```
+
+### Gene Annotations
+
+```ini
+[genes]
+file = genes.gtf
+title = Genes
+height = 6
+fontsize = 10
+style = UCSC  # or flybase
+prefered_name = gene_name
+merge_transcripts = false
+color = navy
+border_color = black
+
+[transcripts_bed12]
+file = transcripts.bed12
+title = Transcripts
+height = 5
+fontsize = 8
+color = darkblue
+```
+
+### Hi-C Matrix
+
+```ini
+[hic_matrix]
+file = matrix.cool
+title = Hi-C
+height = 10
+depth = 1000000
+min_value = 0
+max_value = 100
+transform = log1p
+colormap = RdYlBu_r
+show_masked_bins = false
+```
+
 ## Gviz (R)
 
 **Goal:** Create a stacked genome track visualization combining ideogram, coverage, peaks, and gene annotations.
@@ -210,6 +286,46 @@ plotTracks(list(gtrack, ht, grtrack), from = 1000000, to = 2000000)
 </html>
 ```
 
+## IGV Batch Scripting
+
+Create automated IGV screenshots for multiple regions or samples:
+
+```bash
+# Create batch script
+cat > igv_batch.txt << 'EOF'
+new
+genome hg38
+load sample1.bam
+load peaks.bed
+snapshotDirectory ./snapshots
+goto chr1:1000000-2000000
+snapshot region1.png
+goto chr2:5000000-6000000
+snapshot region2.png
+exit
+EOF
+
+# Run IGV in batch mode
+igv -b igv_batch.txt
+```
+
+### IGV Batch Commands
+
+| Command | Description |
+|---------|-------------|
+| `new` | New session |
+| `genome hg38` | Load genome |
+| `load file.bam` | Load track |
+| `snapshotDirectory ./out` | Set output dir |
+| `goto chr1:1000000-2000000` | Navigate to region |
+| `sort base` | Sort reads |
+| `collapse` | Collapse tracks |
+| `expand` | Expand tracks |
+| `squish` | Squish display |
+| `maxPanelHeight 500` | Set panel height |
+| `snapshot file.png` | Take screenshot |
+| `exit` | Exit IGV |
+
 ## Create BigWig from BAM
 
 ```bash
@@ -240,6 +356,24 @@ for (i in seq_along(regions)) {
     plotTracks(track_list, from = start(regions[i]), to = end(regions[i]))
 }
 dev.off()
+```
+
+## Publication Export
+
+Export track figures in publication-ready formats:
+
+```bash
+# High resolution PNG
+pyGenomeTracks --tracks tracks.ini --region chr1:1-1000000 \
+    --outFileName figure.png --dpi 300 --width 40
+
+# PDF for vector graphics
+pyGenomeTracks --tracks tracks.ini --region chr1:1-1000000 \
+    --outFileName figure.pdf --width 40
+
+# SVG for editing
+pyGenomeTracks --tracks tracks.ini --region chr1:1-1000000 \
+    --outFileName figure.svg --width 40
 ```
 
 ## Related Skills

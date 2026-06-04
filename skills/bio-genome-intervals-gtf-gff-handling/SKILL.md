@@ -1,6 +1,6 @@
 ---
 name: bio-genome-intervals-gtf-gff-handling
-description: "Use whenextracting specific features from gene annotations or converting between annotation formats."
+description: "Use when extracting specific features from gene annotations or converting between annotation formats."
 tool_type: mixed
 primary_tool: gffread
 ---

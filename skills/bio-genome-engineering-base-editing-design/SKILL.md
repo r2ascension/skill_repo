@@ -1,6 +1,6 @@
 ---
 name: bio-genome-engineering-base-editing-design
-description: "Use whendesigning base editor experiments for precise nucleotide changes."
+description: "Use when designing base editor experiments for precise nucleotide changes."
 tool_type: python
 primary_tool: BE-Hive
 ---

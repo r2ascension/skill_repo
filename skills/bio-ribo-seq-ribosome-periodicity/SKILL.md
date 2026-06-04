@@ -1,6 +1,6 @@
 ---
 name: bio-ribo-seq-ribosome-periodicity
-description: "Use whenassessing library quality or determining read offsets for downstream analysis."
+description: "Use when assessing library quality or determining read offsets for downstream analysis."
 tool_type: python
 primary_tool: Plastid
 ---

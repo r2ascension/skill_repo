@@ -1,6 +1,6 @@
 ---
 name: bio-rna-quantification-tximport-workflow
-description: "Use whenimporting transcript counts into R for DESeq2/edgeR."
+description: "Use when importing transcript counts into R for DESeq2/edgeR."
 tool_type: r
 primary_tool: tximport
 ---

@@ -3,8 +3,8 @@ name: 'coagulation-thrombosis-agent'
 description: "Use when you need aI-powered analysis of coagulation disorders, thrombosis risk prediction, anticoagulation management, and platelet function assessment using machine learning."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-hi-c-analysis-hic-differential
-description: "Use whencomparing Hi-C contacts between conditions."
+description: "Use when comparing Hi-C contacts between conditions."
 tool_type: python
 primary_tool: cooltools
 ---

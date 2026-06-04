@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-crispresso-editing
-description: "Use whenanalyzing amplicon sequencing data from CRISPR editing experiments to assess editing efficiency."
+description: "Use when analyzing amplicon sequencing data from CRISPR editing experiments to assess editing efficiency."
 tool_type: cli
 primary_tool: CRISPResso2
 ---

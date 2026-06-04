@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-metabolic-modeling-pipeline
-description: "Use whenbuilding metabolic models or predicting metabolic phenotypes from genomic data."
+description: "Use when building metabolic models or predicting metabolic phenotypes from genomic data."
 tool_type: mixed
 primary_tool: cobrapy
 workflow: true

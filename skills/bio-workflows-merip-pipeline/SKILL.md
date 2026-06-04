@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-merip-pipeline
-description: "Use whenanalyzing epitranscriptomic m6A modifications from immunoprecipitation data."
+description: "Use when analyzing epitranscriptomic m6A modifications from immunoprecipitation data."
 tool_type: mixed
 primary_tool: exomePeak2
 ---

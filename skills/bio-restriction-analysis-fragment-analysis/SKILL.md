@@ -1,6 +1,6 @@
 ---
 name: bio-restriction-analysis-fragment-analysis
-description: "Use whenanalyzing restriction digest fragment patterns."
+description: "Use when analyzing restriction digest fragment patterns."
 tool_type: python
 primary_tool: Bio.Restriction
 ---

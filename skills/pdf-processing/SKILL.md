@@ -1,6 +1,6 @@
 ---
 name: pdf-processing
-description: "Use whenworking with PDF files or when the user mentions PDFs, forms, or document extraction."
+description: "Use when working with PDF files or when the user mentions PDFs, forms, or document extraction."
 ---
 
 # PDF Processing

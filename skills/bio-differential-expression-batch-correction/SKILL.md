@@ -1,6 +1,6 @@
 ---
 name: bio-differential-expression-batch-correction
-description: "Use whencorrecting batch effects in expression data."
+description: "Use when correcting batch effects in expression data."
 tool_type: r
 primary_tool: sva
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-immunoinformatics-neoantigen-prediction
-description: "Use whenidentifying vaccine targets or checkpoint inhibitor response biomarkers from tumor sequencing data."
+description: "Use when identifying vaccine targets or checkpoint inhibitor response biomarkers from tumor sequencing data."
 tool_type: python
 primary_tool: pVACtools
 ---

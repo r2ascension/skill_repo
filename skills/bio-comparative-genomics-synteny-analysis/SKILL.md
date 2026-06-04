@@ -1,6 +1,6 @@
 ---
 name: bio-comparative-genomics-synteny-analysis
-description: "Use whencomparing genome structure between species or identifying conserved genomic regions."
+description: "Use when comparing genome structure between species or identifying conserved genomic regions."
 tool_type: mixed
 primary_tool: MCScanX
 ---

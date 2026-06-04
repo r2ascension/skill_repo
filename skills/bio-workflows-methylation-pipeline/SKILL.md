@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-methylation-pipeline
-description: "Use whenanalyzing bisulfite sequencing data."
+description: "Use when analyzing bisulfite sequencing data."
 tool_type: mixed
 primary_tool: Bismark
 workflow: true

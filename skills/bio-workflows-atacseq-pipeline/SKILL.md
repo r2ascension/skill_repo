@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-atacseq-pipeline
-description: "Use whenrunning end-to-end ATAC-seq analysis from FASTQ to differential accessibility."
+description: "Use when running end-to-end ATAC-seq analysis from FASTQ to differential accessibility."
 tool_type: mixed
 primary_tool: MACS3
 workflow: true

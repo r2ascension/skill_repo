@@ -3,8 +3,8 @@ name: 'pdx-model-analysis-agent'
 description: "Use when you need aI-powered analysis of patient-derived xenograft (PDX) models for drug response prediction, translational research, and personalized treatment selection."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-reporting-quarto-reports
-description: "Use whencreating reproducible reports with Quarto."
+description: "Use when creating reproducible reports with Quarto."
 tool_type: mixed
 primary_tool: Quarto
 ---

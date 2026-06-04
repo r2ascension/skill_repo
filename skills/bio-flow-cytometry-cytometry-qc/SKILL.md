@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-cytometry-qc
-description: "Use whenassessing acquisition quality or identifying problematic samples before analysis."
+description: "Use when assessing acquisition quality or identifying problematic samples before analysis."
 tool_type: r
 primary_tool: flowAI
 ---

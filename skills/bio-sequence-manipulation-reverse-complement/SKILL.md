@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-reverse-complement
-description: "Use whenworking with opposite strands, primer design, or converting between template and coding strands."
+description: "Use when working with opposite strands, primer design, or converting between template and coding strands."
 tool_type: python
 primary_tool: Bio.Seq
 ---

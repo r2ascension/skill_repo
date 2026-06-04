@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-biostatistics-cdisc-data-handling
-description: "Use whenworking with clinical trial datasets in CDISC/SDTM format or .xpt files."
+description: "Use when working with clinical trial datasets in CDISC/SDTM format or .xpt files."
 tool_type: python
 primary_tool: pyreadstat
 ---

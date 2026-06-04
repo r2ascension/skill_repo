@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-adapter-trimming
-description: "Use whenFastQC shows adapter contamination or before alignment of short reads."
+description: "Use when FastQC shows adapter contamination or before alignment of short reads."
 tool_type: cli
 primary_tool: cutadapt
 ---

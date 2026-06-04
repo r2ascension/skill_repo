@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-alignment-trimming
-description: "Use whenremoving unreliable columns or contaminating residues before phylogenetic inference, HMM building, or selection analysis."
+description: "Use when removing unreliable columns or contaminating residues before phylogenetic inference, HMM building, or selection analysis."
 tool_type: mixed
 primary_tool: ClipKIT
 ---

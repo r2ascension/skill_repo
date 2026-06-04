@@ -1,6 +1,6 @@
 ---
 name: bio-pathway-analysis-enrichment-visualization
-description: "Use whencreating publication-quality figures from clusterProfiler results. Covers dotplot, barplot, cnetplot, emapplot, gseaplot2, ridgeplot, and treeplot."
+description: "Use when creating publication-quality figures from clusterProfiler results. Covers dotplot, barplot, cnetplot, emapplot, gseaplot2, ridgeplot, and treeplot."
 tool_type: r
 primary_tool: enrichplot
 ---

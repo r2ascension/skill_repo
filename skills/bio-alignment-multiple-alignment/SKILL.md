@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-multiple-alignment
-description: "Use whenaligning three or more homologous sequences for phylogenetics, conservation analysis, or evolutionary studies."
+description: "Use when aligning three or more homologous sequences for phylogenetics, conservation analysis, or evolutionary studies."
 tool_type: mixed
 primary_tool: MAFFT
 ---

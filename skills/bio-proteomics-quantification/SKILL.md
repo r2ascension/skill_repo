@@ -1,6 +1,6 @@
 ---
 name: bio-proteomics-quantification
-description: "Use whenextracting protein abundances from MS data for differential analysis."
+description: "Use when extracting protein abundances from MS data for differential analysis."
 tool_type: mixed
 primary_tool: MSstats
 ---

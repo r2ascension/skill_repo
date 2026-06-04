@@ -1,6 +1,6 @@
 ---
 name: bio-genome-assembly-scaffolding
-description: "Use whenscaffolding contigs to chromosome-level assemblies."
+description: "Use when scaffolding contigs to chromosome-level assemblies."
 tool_type: cli
 primary_tool: YaHS
 ---

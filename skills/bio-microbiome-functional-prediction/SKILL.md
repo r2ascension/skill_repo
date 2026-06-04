@@ -1,6 +1,6 @@
 ---
 name: bio-microbiome-functional-prediction
-description: "Use whenfunctional profiling is needed from 16S data without shotgun metagenomics sequencing."
+description: "Use when functional profiling is needed from 16S data without shotgun metagenomics sequencing."
 tool_type: cli
 primary_tool: picrust2
 ---

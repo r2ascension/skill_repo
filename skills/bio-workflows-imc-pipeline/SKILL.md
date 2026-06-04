@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-imc-pipeline
-description: "Use whenanalyzing imaging mass cytometry data end-to-end."
+description: "Use when analyzing imaging mass cytometry data end-to-end."
 tool_type: python
 primary_tool: steinbock
 workflow: true

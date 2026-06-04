@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-gwas-study-explorer
-description: "Use whencomparing GWAS studies for a trait, performing meta-analysis of genetic loci, assessing replication across cohorts, or exploring the genetic architecture of complex diseases."
+description: "Use when comparing GWAS studies for a trait, performing meta-analysis of genetic loci, assessing replication across cohorts, or exploring the genetic architecture of complex diseases."
 ---
 
 

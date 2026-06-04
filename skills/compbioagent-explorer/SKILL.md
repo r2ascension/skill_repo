@@ -15,8 +15,8 @@ metadata:
 compatibility:
   - system: Python 3.9+
 allowed-tools:
-  - run_shell_command
-  - web_fetch
+  - Bash
+  - WebFetch
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-structural-biology-structure-io
-description: "Use whenreading PDB, mmCIF, and MMTF files, downloading structures from RCSB PDB, or writing structures to various formats."
+description: "Use when reading PDB, mmCIF, and MMTF files, downloading structures from RCSB PDB, or writing structures to various formats."
 tool_type: python
 primary_tool: Bio.PDB
 ---

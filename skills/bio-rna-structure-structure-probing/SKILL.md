@@ -1,6 +1,6 @@
 ---
 name: bio-rna-structure-structure-probing
-description: "Use whenprocessing SHAPE-MaP or DMS-MaPseq sequencing data to obtain experimental RNA structure information."
+description: "Use when processing SHAPE-MaP or DMS-MaPseq sequencing data to obtain experimental RNA structure information."
 tool_type: cli
 primary_tool: ShapeMapper2
 ---

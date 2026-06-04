@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-screen-qc
-description: "Use whenassessing screen quality before hit calling or diagnosing poor screen performance."
+description: "Use when assessing screen quality before hit calling or diagnosing poor screen performance."
 tool_type: python
 primary_tool: pandas
 ---

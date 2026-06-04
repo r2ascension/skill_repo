@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-clinical-guidelines
-description: "Use whenusers ask about clinical guidelines, treatment recommendations, standard of care, evidence-based medicine, or drug-gene dosing recommendations."
+description: "Use when users ask about clinical guidelines, treatment recommendations, standard of care, evidence-based medicine, or drug-gene dosing recommendations."
 ---
 
 # Clinical Guidelines Search & Retrieval

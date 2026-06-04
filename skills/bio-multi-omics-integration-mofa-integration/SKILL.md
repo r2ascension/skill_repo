@@ -1,6 +1,6 @@
 ---
 name: bio-multi-omics-integration-mofa-integration
-description: "Use whenintegrating RNA-seq, proteomics, methylation, or other omics to discover latent factors driving biological variation across modalities."
+description: "Use when integrating RNA-seq, proteomics, methylation, or other omics to discover latent factors driving biological variation across modalities."
 tool_type: r
 primary_tool: MOFA2
 ---

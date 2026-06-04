@@ -15,8 +15,8 @@ metadata:
 compatibility:
   - system: Python 3.9+ / GPU
 allowed-tools:
-  - run_shell_command
-  - read_file
+  - Bash
+  - Read
 ---
 
 <!--

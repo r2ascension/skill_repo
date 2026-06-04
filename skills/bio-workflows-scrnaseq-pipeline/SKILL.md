@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-scrnaseq-pipeline
-description: "Use whenanalyzing single-cell RNA-seq data."
+description: "Use when analyzing single-cell RNA-seq data."
 tool_type: mixed
 primary_tool: Seurat
 workflow: true

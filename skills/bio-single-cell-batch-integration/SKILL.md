@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-batch-integration
-description: "Use whenintegrating multiple scRNA-seq batches or datasets."
+description: "Use when integrating multiple scRNA-seq batches or datasets."
 tool_type: mixed
 primary_tool: Harmony
 ---

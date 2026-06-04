@@ -1,6 +1,6 @@
 ---
 name: bio-genome-engineering-prime-editing-design
-description: "Use whendesigning prime editing experiments for precise insertions, deletions, or point mutations."
+description: "Use when designing prime editing experiments for precise insertions, deletions, or point mutations."
 tool_type: python
 primary_tool: PrimeDesign
 ---

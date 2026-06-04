@@ -9,8 +9,8 @@ keywords:
   - strategy
 measurable_outcome: Successfully decomposes 100% of complex queries into source-specific sub-queries targeting relevant databases.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

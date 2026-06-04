@@ -1,6 +1,6 @@
 ---
 name: bio-experimental-design-batch-design
-description: "Use whenplanning multi-batch experiments, assigning samples to sequencing lanes, or designing studies where technical variation could confound biological signals."
+description: "Use when planning multi-batch experiments, assigning samples to sequencing lanes, or designing studies where technical variation could confound biological signals."
 tool_type: r
 primary_tool: sva
 ---

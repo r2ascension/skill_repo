@@ -9,8 +9,8 @@ keywords:
   - treatment-response
 measurable_outcome: 'Detects circulating tumor DNA with 0.01% sensitivity and accurately predicts treatment response in longitudinal samples.'
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

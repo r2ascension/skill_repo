@@ -1,6 +1,6 @@
 ---
 name: pyzotero
-description: "Use whenworking with Zotero libraries programmatically, managing bibliographic references, exporting citations, searching library contents, uploading PDF attachments, or building research automation workflows that integrate with Zotero."
+description: "Use when working with Zotero libraries programmatically, managing bibliographic references, exporting citations, searching library contents, uploading PDF attachments, or building research automation workflows that integrate with Zotero."
 allowed-tools: Read Write Edit Bash
 license: MIT License
 metadata:

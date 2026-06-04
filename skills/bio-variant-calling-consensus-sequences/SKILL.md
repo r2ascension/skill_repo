@@ -1,6 +1,6 @@
 ---
 name: bio-variant-calling-consensus-sequences
-description: "Use whencreating sample-specific reference sequences or reconstructing haplotypes."
+description: "Use when creating sample-specific reference sequences or reconstructing haplotypes."
 tool_type: cli
 primary_tool: bcftools
 ---

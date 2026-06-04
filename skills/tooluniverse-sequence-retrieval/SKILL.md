@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-sequence-retrieval
-description: "Use whenusers need nucleotide sequences, protein sequences, genome data, or mention GenBank, RefSeq, EMBL accessions."
+description: "Use when users need nucleotide sequences, protein sequences, genome data, or mention GenBank, RefSeq, EMBL accessions."
 ---
 
 # Biological Sequence Retrieval

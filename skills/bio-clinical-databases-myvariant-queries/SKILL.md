@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-myvariant-queries
-description: "Use whenannotating variants with clinical and population data from multiple sources simultaneously."
+description: "Use when annotating variants with clinical and population data from multiple sources simultaneously."
 tool_type: python
 primary_tool: myvariant
 ---

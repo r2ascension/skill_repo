@@ -1,6 +1,6 @@
 ---
 name: bio-alignment-files-alignment-validation
-description: "Use whenverifying alignment data quality before variant calling or quantification."
+description: "Use when verifying alignment data quality before variant calling or quantification."
 tool_type: mixed
 primary_tool: samtools
 ---

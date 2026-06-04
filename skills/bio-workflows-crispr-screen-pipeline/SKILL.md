@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-crispr-screen-pipeline
-description: "Use whenanalyzing pooled CRISPR screens from count data to hit calling."
+description: "Use when analyzing pooled CRISPR screens from count data to hit calling."
 tool_type: mixed
 primary_tool: MAGeCK
 workflow: true

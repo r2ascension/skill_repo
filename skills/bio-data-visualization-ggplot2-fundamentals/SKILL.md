@@ -1,6 +1,6 @@
 ---
 name: bio-data-visualization-ggplot2-fundamentals
-description: "Use whencreating static figures for papers, presentations, or reports in R."
+description: "Use when creating static figures for papers, presentations, or reports in R."
 tool_type: r
 primary_tool: ggplot2
 ---

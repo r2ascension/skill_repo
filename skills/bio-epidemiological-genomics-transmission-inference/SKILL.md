@@ -1,6 +1,6 @@
 ---
 name: bio-epidemiological-genomics-transmission-inference
-description: "Use wheninvestigating outbreak transmission chains or identifying superspreaders."
+description: "Use when investigating outbreak transmission chains or identifying superspreaders."
 tool_type: r
 primary_tool: TransPhylo
 ---

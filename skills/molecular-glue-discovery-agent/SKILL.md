@@ -3,8 +3,8 @@ name: 'molecular-glue-discovery-agent'
 description: "Use when you need aI-powered molecular glue discovery for targeted protein degradation, enabling neo-substrate recruitment and undruggable target degradation through E3 ligase interface modulation."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

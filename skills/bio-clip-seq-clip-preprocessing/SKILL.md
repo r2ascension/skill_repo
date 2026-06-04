@@ -1,6 +1,6 @@
 ---
 name: bio-clip-seq-clip-preprocessing
-description: "Use whenpreparing raw CLIP, iCLIP, or eCLIP reads for peak calling."
+description: "Use when preparing raw CLIP, iCLIP, or eCLIP reads for peak calling."
 tool_type: cli
 primary_tool: umi_tools
 ---

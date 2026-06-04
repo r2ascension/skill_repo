@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-tree-io
-description: "Use whenparsing Newick, Nexus, PhyloXML, or NeXML tree formats, converting between formats, or handling multiple trees."
+description: "Use when parsing Newick, Nexus, PhyloXML, or NeXML tree formats, converting between formats, or handling multiple trees."
 tool_type: python
 primary_tool: Bio.Phylo
 ---

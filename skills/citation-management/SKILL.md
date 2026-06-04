@@ -1,6 +1,6 @@
 ---
 name: citation-management
-description: "Use whenyou need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing."
+description: "Use when you need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing."
 allowed-tools: [Read, Write, Edit, Bash]
 ---
 

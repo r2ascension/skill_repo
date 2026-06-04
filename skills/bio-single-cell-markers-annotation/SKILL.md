@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-markers-annotation
-description: "Use whenfinding marker genes and annotating clusters."
+description: "Use when finding marker genes and annotating clusters."
 tool_type: mixed
 primary_tool: Seurat
 ---
@@ -315,3 +315,5 @@ write.csv(top_markers, file = 'top_markers.csv', row.names = FALSE)
 - clustering - Must cluster before finding markers
 - preprocessing - Data must be normalized
 - data-io - Export annotated data
+
+- **single-annotation** - The OmicVerse-specific (single-*) equivalent covering cell annotation (complementary to marker-based annotation).

@@ -3,8 +3,8 @@ name: 'tcr-repertoire-analysis-agent'
 description: "Use when you need aI-powered T-cell receptor repertoire analysis for cancer diagnosis, immunotherapy response prediction, and therapeutic TCR selection using deep learning and multi-layer ML approaches."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 name: bio-copy-number-cnvkit-analysis
-description: "Use whendetecting CNVs from WES or targeted panel sequencing data."
+description: "Use when detecting CNVs from WES or targeted panel sequencing data."
 tool_type: cli
 primary_tool: cnvkit
 ---

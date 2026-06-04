@@ -1,6 +1,6 @@
 ---
 name: bio-phylogenetics-divergence-dating
-description: "Use whendating speciation events, calibrating phylogenies with fossils, choosing between strict and relaxed clock models, or estimating evolutionary rates across lineages."
+description: "Use when dating speciation events, calibrating phylogenies with fossils, choosing between strict and relaxed clock models, or estimating evolutionary rates across lineages."
 tool_type: mixed
 primary_tool: BEAST2
 ---

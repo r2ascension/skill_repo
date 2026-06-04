@@ -3,8 +3,8 @@ name: 'digital-twin-clinical-agent'
 description: "Use when creating clinical digital twins, simulating patient trajectories, predicting treatment response, running in-silico clinical trials, integrating real-world data or multi-omics, or personalizing medicine models."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

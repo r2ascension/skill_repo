@@ -3,8 +3,8 @@ name: 'protein-structure-prediction'
 description: "Use when working on predicts 3D protein structures from amino acid sequences using ESMFold or AlphaFold3 (mock)."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

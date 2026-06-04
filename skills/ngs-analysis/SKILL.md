@@ -1,6 +1,6 @@
 ---
 name: ngs-analysis
-description: "Use whenworking with FASTQ files, alignment (STAR, BWA), quantification (featureCounts, Salmon), DESeq2/edgeR analysis, or building NGS pipelines. Supports GEO/SRA data retrieval."
+description: "Use when working with FASTQ files, alignment (STAR, BWA), quantification (featureCounts, Salmon), DESeq2/edgeR analysis, or building NGS pipelines. Supports GEO/SRA data retrieval."
 license: Proprietary
 ---
 

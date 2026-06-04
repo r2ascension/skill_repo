@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-biostatistics-categorical-tests
-description: "Use whenanalyzing categorical outcomes or testing treatment-outcome independence in clinical trials."
+description: "Use when analyzing categorical outcomes or testing treatment-outcome independence in clinical trials."
 tool_type: python
 primary_tool: scipy
 ---

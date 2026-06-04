@@ -1,6 +1,6 @@
 ---
 name: bio-immunoinformatics-mhc-binding-prediction
-description: "Use whenpredicting MHC binding for vaccine design or neoantigen identification."
+description: "Use when predicting MHC binding for vaccine design or neoantigen identification."
 tool_type: python
 primary_tool: mhcflurry
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-tcr-bcr-analysis-mixcr-analysis
-description: "Use whenprocessing raw immune repertoire sequencing data to identify clonotypes and their frequencies."
+description: "Use when processing raw immune repertoire sequencing data to identify clonotypes and their frequencies."
 tool_type: cli
 primary_tool: MiXCR
 ---

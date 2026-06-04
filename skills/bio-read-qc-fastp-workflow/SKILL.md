@@ -1,6 +1,6 @@
 ---
 name: bio-read-qc-fastp-workflow
-description: "Use whenpreprocessing Illumina data and wanting a single fast tool instead of separate Cutadapt, Trimmomatic, and FastQC steps."
+description: "Use when preprocessing Illumina data and wanting a single fast tool instead of separate Cutadapt, Trimmomatic, and FastQC steps."
 tool_type: cli
 primary_tool: fastp
 ---

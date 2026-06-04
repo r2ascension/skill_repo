@@ -1,6 +1,6 @@
 ---
 name: bio-experimental-design-multiple-testing
-description: "Use whenfiltering differential expression results, setting significance thresholds, or choosing between correction methods for different study designs."
+description: "Use when filtering differential expression results, setting significance thresholds, or choosing between correction methods for different study designs."
 tool_type: r
 primary_tool: qvalue
 ---

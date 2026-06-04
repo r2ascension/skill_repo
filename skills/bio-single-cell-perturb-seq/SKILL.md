@@ -1,6 +1,6 @@
 ---
 name: bio-single-cell-perturb-seq
-description: "Use whenidentifying gene function through pooled genetic perturbations in single cells."
+description: "Use when identifying gene function through pooled genetic perturbations in single cells."
 tool_type: python
 primary_tool: Pertpy
 ---

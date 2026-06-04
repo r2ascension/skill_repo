@@ -1,6 +1,6 @@
 ---
 name: bio-workflows-gwas-pipeline
-description: "Use whenrunning genome-wide association studies."
+description: "Use when running genome-wide association studies."
 tool_type: mixed
 primary_tool: PLINK2
 workflow: true

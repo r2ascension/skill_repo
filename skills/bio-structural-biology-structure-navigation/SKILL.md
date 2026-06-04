@@ -1,6 +1,6 @@
 ---
 name: bio-structural-biology-structure-navigation
-description: "Use whenaccessing models, chains, residues, and atoms, iterating over structure levels, or extracting sequences from PDB files."
+description: "Use when accessing models, chains, residues, and atoms, iterating over structure levels, or extracting sequences from PDB files."
 tool_type: python
 primary_tool: Bio.PDB
 ---

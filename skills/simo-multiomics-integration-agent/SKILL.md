@@ -3,8 +3,8 @@ name: 'simo-multiomics-integration-agent'
 description: "Use when you need aI-powered spatial integration of multi-omics datasets using probabilistic alignment for comprehensive tissue atlas construction and cellular state mapping."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--

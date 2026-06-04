@@ -1,6 +1,6 @@
 ---
 name: bio-sequence-manipulation-sequence-properties
-description: "Use whenanalyzing sequence composition, computing physical properties, or comparing sequences."
+description: "Use when analyzing sequence composition, computing physical properties, or comparing sequences."
 tool_type: python
 primary_tool: Bio.SeqUtils
 ---

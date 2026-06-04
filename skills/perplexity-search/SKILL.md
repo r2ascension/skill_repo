@@ -1,6 +1,6 @@
 ---
 name: perplexity-search
-description: "Use whenconducting web searches for current information, finding recent scientific literature, getting grounded answers with source citations, or accessing information beyond the model's knowledge cutoff. Provides access to multiple Perplexity models including Sonar Pro, Sonar Pro Search (advanced agentic search), and Sonar Reasoning Pro through a single OpenRouter API key."
+description: "Use when conducting web searches for current information, finding recent scientific literature, getting grounded answers with source citations, or accessing information beyond the model's knowledge cutoff. Provides access to multiple Perplexity models including Sonar Pro, Sonar Pro Search (advanced agentic search), and Sonar Reasoning Pro through a single OpenRouter API key."
 ---
 
 # Perplexity Search
@@ -139,6 +139,74 @@ Break complex questions into clear components:
 "What improvements does AlphaFold3 offer over AlphaFold2 for protein structure prediction, according to research published between 2023 and 2024? Include specific accuracy metrics and benchmarks."
 
 See `references/search_strategies.md` for comprehensive guidance on query design, domain-specific patterns, and advanced techniques.
+
+## Query Complexity and Automatic Model Selection
+
+This skill supports **intelligent model selection** based on query complexity, automatically choosing between standard search and advanced reasoning models.
+
+### Complexity Assessment
+
+Query complexity can be assessed using these indicators:
+
+**Reasoning Keywords** (indicating complex analysis is needed):
+- Analytical: `compare`, `contrast`, `analyze`, `evaluate`, `critique`
+- Comparative: `versus`, `vs`, `vs.`, `compared to`, `differences between`, `similarities`
+- Synthesis: `meta-analysis`, `systematic review`, `synthesis`, `integrate`
+- Causal: `mechanism`, `why`, `how does`, `how do`, `explain`, `relationship`, `causal relationship`
+- Theoretical: `theoretical framework`, `implications`, `interpret`, `reasoning`
+- Debate: `controversy`, `conflicting`, `paradox`, `debate`, `reconcile`
+- Trade-offs: `pros and cons`, `advantages and disadvantages`, `trade-off`, `tradeoff`
+- Complexity: `multifaceted`, `complex interaction`, `critical analysis`
+
+**Query Classification Examples:**
+
+| Query Type | Example | Recommended Model |
+|---|---|---|
+| Simple lookup | "Recent advances in CRISPR gene editing 2024" | sonar-pro |
+| Protocol/method | "Western blot protocol for protein detection" | sonar-pro |
+| Statistical data | "Prevalence of diabetes in US population 2024" | sonar-pro |
+| Comparative analysis | "Compare mRNA vaccines vs traditional vaccines for cancer treatment" | sonar-reasoning-pro |
+| Mechanism explanation | "Explain the mechanism underlying the relationship between gut microbiome and depression" | sonar-reasoning-pro |
+| Complex analysis | "Analyze the controversy surrounding AI in medical diagnosis and evaluate trade-offs" | sonar-pro-search |
+
+### Manual Model Override
+
+Force a specific model when you know what level of analysis you need:
+
+```bash
+# Force basic search for fast lookup
+python scripts/perplexity_search.py "your query" --model sonar-pro
+
+# Force reasoning for deep analysis
+python scripts/perplexity_search.py "your query" --model sonar-reasoning-pro
+
+# Force agentic search for multi-step analysis
+python scripts/perplexity_search.py "your query" --model sonar-pro-search
+```
+
+For programmatic usage:
+```python
+from scripts.perplexity_search import search_with_perplexity
+
+# Force reasoning model
+result = search_with_perplexity(
+    query="Compare efficacy of mRNA and viral vector vaccines",
+    model="openrouter/perplexity/sonar-reasoning-pro"
+)
+```
+
+### Structured Query Format
+
+For best results with complex queries, structure them clearly:
+
+```
+[Topic] + [Specific Aspect] + [Time Frame] + [Type of Information]
+```
+
+**Examples:**
+- "CRISPR gene editing + off-target effects + 2024 + clinical trials"
+- "Quantum computing + error correction + recent advances + review papers"
+- "Renewable energy + solar efficiency + 2023-2024 + statistical data"
 
 ## Common Use Cases
 
@@ -330,6 +398,20 @@ Use with `scientific-critical-thinking` skill:
 2. Locate methodological critiques
 3. Identify controversies in the field
 4. Verify claims with current evidence
+
+## Complementary Tools
+
+Use Perplexity search alongside standard web search for comprehensive research:
+
+| Task | Recommended Tool |
+|------|-----------------|
+| Find academic papers | Perplexity search |
+| Literature search | Perplexity search |
+| Deep analysis/comparison | Perplexity search (sonar-reasoning-pro or sonar-pro-search) |
+| Quick metadata/DOI lookup | WebSearch |
+| Verify publication details | WebSearch |
+| Current events/news | WebSearch |
+| Non-scholarly sources | WebSearch |
 
 ## Best Practices
 

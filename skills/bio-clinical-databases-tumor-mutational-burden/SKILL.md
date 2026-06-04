@@ -1,6 +1,6 @@
 ---
 name: bio-clinical-databases-tumor-mutational-burden
-description: "Use whenassessing immunotherapy eligibility or characterizing tumor immunogenicity."
+description: "Use when assessing immunotherapy eligibility or characterizing tumor immunogenicity."
 tool_type: python
 primary_tool: cyvcf2
 ---

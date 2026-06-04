@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-drug-drug-interaction
-description: "Use whenusers ask about drug interactions, medication safety, polypharmacy risks, or need DDI assessment for clinical decision support."
+description: "Use when users ask about drug interactions, medication safety, polypharmacy risks, or need DDI assessment for clinical decision support."
 ---
 
 # Drug-Drug Interaction Prediction & Risk Assessment
@@ -71,3 +71,17 @@ Before finalizing DDI report:
 ✅ Data sources cited throughout
 
 When all criteria met → **Ready for Clinical Use** 🎉
+
+### Quick Drug Pair Check
+
+For a rapid single-pair interaction check (simpler verification without full report creation):
+
+**User**: "Check interactions for Warfarin and Aspirin."
+
+**Workflow**:
+1. Input drug names (e.g., "Warfarin, Aspirin")
+2. Query interaction database for the specific pair
+3. Return: Interaction severity (Minor/Moderate/Major), mechanism, and clinical recommendation
+4. Output in compact format: "[DRUG_A] + [DRUG_B] → [Severity]: [Mechanism]. [Recommendation]"
+
+This quick-check mode is appropriate for simple queries; for comprehensive polypharmacy analysis (>5 drugs), always use the full report workflow.

@@ -1,6 +1,6 @@
 ---
 name: bio-crispr-screens-batch-correction
-description: "Use whencombining screens from multiple batches or correcting systematic technical variation."
+description: "Use when combining screens from multiple batches or correcting systematic technical variation."
 tool_type: python
 primary_tool: scipy
 ---

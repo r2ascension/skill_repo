@@ -1,6 +1,6 @@
 ---
 name: bio-metagenomics-functional-profiling
-description: "Use whenobtaining pathway abundances, gene family counts, or functional annotations from metagenomic data."
+description: "Use when obtaining pathway abundances, gene family counts, or functional annotations from metagenomic data."
 tool_type: cli
 primary_tool: humann
 ---

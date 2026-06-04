@@ -1,6 +1,6 @@
 ---
 name: find-skills
-description: "Use whenthe user is looking for functionality that might exist as an installable skill."
+description: "Use when the user is looking for functionality that might exist as an installable skill."
 ---
 
 # Find Skills

@@ -1,6 +1,6 @@
 ---
 name: bio-differential-expression-de-visualization
-description: "Use whenvisualizing differential expression results."
+description: "Use when visualizing differential expression results."
 tool_type: r
 primary_tool: DESeq2
 ---
@@ -450,3 +450,5 @@ Use shrunken LFCs (apeglm/ashr) on the x-axis and un-shrunken p-values on the y-
 - de-results - Filter genes before visualization
 - data-visualization/specialized-omics-plots - Custom ggplot2 volcano/MA/PCA functions
 - data-visualization/heatmaps-clustering - Advanced heatmap customization
+
+- **single-cell-deg-visualization** - The single-cell-specific equivalent covering per-celltype DEG visualization with Seurat FindMarkers and jjVolcano plots.

@@ -1,6 +1,6 @@
 ---
 name: bio-epitranscriptomics-m6a-peak-calling
-description: "Use whenidentifying m6A modification sites from methylated RNA immunoprecipitation data."
+description: "Use when identifying m6A modification sites from methylated RNA immunoprecipitation data."
 tool_type: mixed
 primary_tool: exomePeak2
 ---

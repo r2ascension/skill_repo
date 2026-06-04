@@ -1,6 +1,6 @@
 ---
 name: bio-ecological-genomics-landscape-genomics
-description: "Use whenidentifying adaptive loci across environmental gradients, testing for signatures of local adaptation, or predicting genetic vulnerability to climate change with gradientForest."
+description: "Use when identifying adaptive loci across environmental gradients, testing for signatures of local adaptation, or predicting genetic vulnerability to climate change with gradientForest."
 tool_type: r
 primary_tool: LEA
 ---

@@ -1,6 +1,6 @@
 ---
 name: bio-read-alignment-hisat2-alignment
-description: "Use whenSTAR's memory requirements are too high or for general RNA-seq alignment."
+description: "Use when STAR's memory requirements are too high or for general RNA-seq alignment."
 tool_type: cli
 primary_tool: HISAT2
 ---

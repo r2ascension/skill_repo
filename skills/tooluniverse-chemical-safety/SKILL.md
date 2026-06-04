@@ -1,6 +1,6 @@
 ---
 name: tooluniverse-chemical-safety
-description: "Use whenasked about chemical toxicity, drug safety profiling, ADMET properties, environmental health risks, chemical hazard assessment, or toxicogenomic analysis."
+description: "Use when asked about chemical toxicity, drug safety profiling, ADMET properties, environmental health risks, chemical hazard assessment, or toxicogenomic analysis."
 ---
 
 # Chemical Safety & Toxicology Assessment

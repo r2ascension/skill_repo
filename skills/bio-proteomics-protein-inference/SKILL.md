@@ -1,6 +1,6 @@
 ---
 name: bio-proteomics-protein-inference
-description: "Use whenresolving protein ambiguity from shared peptides. Handles protein groups and protein-level FDR control using parsimony and probabilistic approaches."
+description: "Use when resolving protein ambiguity from shared peptides. Handles protein groups and protein-level FDR control using parsimony and probabilistic approaches."
 tool_type: mixed
 primary_tool: pyOpenMS
 ---

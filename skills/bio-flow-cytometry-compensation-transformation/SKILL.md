@@ -1,6 +1,6 @@
 ---
 name: bio-flow-cytometry-compensation-transformation
-description: "Use whencorrecting spectral overlap between fluorophores or transforming data for analysis."
+description: "Use when correcting spectral overlap between fluorophores or transforming data for analysis."
 tool_type: r
 primary_tool: flowCore
 ---

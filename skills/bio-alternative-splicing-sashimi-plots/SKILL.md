@@ -1,6 +1,6 @@
 ---
 name: bio-alternative-splicing-sashimi-plots
-description: "Use whenvisualizing specific splicing events, validating differential splicing calls, or producing publication-quality figures."
+description: "Use when visualizing specific splicing events, validating differential splicing calls, or producing publication-quality figures."
 tool_type: python
 primary_tool: ggsashimi
 ---

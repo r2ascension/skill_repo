@@ -1,6 +1,6 @@
 ---
 name: bio-population-genetics-population-structure
-description: "Use whenanalyzing population stratification with PCA or admixture."
+description: "Use when analyzing population stratification with PCA or admixture."
 tool_type: cli
 primary_tool: plink2
 ---

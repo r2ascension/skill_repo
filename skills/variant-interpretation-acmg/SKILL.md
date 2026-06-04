@@ -3,8 +3,8 @@ name: 'variant-interpretation-acmg'
 description: "Use when working on classifies genetic variants according to ACMG (American College of Medical Genetics) guidelines."
 measurable_outcome: Execute skill workflow successfully with valid output within 15 minutes.
 allowed-tools:
-  - read_file
-  - run_shell_command
+  - Read
+  - Bash
 ---
 
 <!--
