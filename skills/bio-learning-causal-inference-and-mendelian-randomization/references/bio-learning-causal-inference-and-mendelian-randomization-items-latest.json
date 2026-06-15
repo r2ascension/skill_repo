@@ -1,0 +1,35 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-causal-inference-and-mendelian-randomization",
+  "focus": "causal inference and Mendelian randomization",
+  "count": 1,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "第一作者视角：带你看懂SCI中孟德尔随机化分析和简单实验验证",
+      "date": "2026-05-31",
+      "url": "https://www.bilibili.com/video/BV1REV56YEhk",
+      "id": "BV1REV56YEhk",
+      "category": "Causal Inference And Mendelian Randomization",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "第一作者视角：带你看懂SCI中孟德尔随机化分析和简单实验验证",
+        "date": "2026-05-31",
+        "url": "https://www.bilibili.com/video/BV1REV56YEhk",
+        "bvid": "BV1REV56YEhk",
+        "plays": 1852,
+        "likes": 0,
+        "category_key": "causal-inference-and-mr",
+        "category_title": "Causal Inference And Mendelian Randomization"
+      },
+      "text_blob": "第一作者视角：带你看懂sci中孟德尔随机化分析和简单实验验证 causal inference and mendelian randomization  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "causal inference and mendelian randomization",
+      "title_lower": "第一作者视角：带你看懂sci中孟德尔随机化分析和简单实验验证"
+    }
+  ]
+}

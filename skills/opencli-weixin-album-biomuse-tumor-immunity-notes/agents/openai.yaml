@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin Biomuse Tumor Immunity Notes"
+  short_description: "Curate the tumor immunity note album via opencli."
+  default_prompt: "Use $opencli-weixin-album-biomuse-tumor-immunity-notes to refresh and summarize the 单细胞天地 Weixin album biomuse的肿瘤免疫笔记, especially tumor immunology, single-cell multi-omics, and paper-note articles."

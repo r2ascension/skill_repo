@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tumor Immunology Literature Learning"
+  short_description: "Cross-source learning skill for tumor immunology paper reading, interpretation, and single-cell-informed immunology study digestion."
+  default_prompt: "Use $bio-learning-tumor-immunology-literature when the user wants learning content organized by concrete function rather than by creator or album source."

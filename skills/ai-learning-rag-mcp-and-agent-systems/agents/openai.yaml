@@ -1,0 +1,4 @@
+interface:
+  display_name: "RAG MCP And Agent Systems Learning"
+  short_description: "Cross-source learning skill for RAG, MCP, agent systems, and workflow orchestration patterns."
+  default_prompt: "Use $ai-learning-rag-mcp-and-agent-systems when the user wants learning content organized by concrete function rather than by creator or album source."

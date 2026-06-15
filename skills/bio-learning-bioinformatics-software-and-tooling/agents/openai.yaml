@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bioinformatics Software And Tooling Learning"
+  short_description: "Cross-source learning skill for concrete bioinformatics software, tooling walkthroughs, and method-supporting utilities."
+  default_prompt: "Use $bio-learning-bioinformatics-software-and-tooling when the user wants learning content organized by concrete function rather than by creator or album source."

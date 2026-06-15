@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI 外科小小硕 AI Plotting Research Videos"
+  short_description: "Curate 外科小小硕 AI, plotting, and method videos."
+  default_prompt: "Use $opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos to refresh and summarize 外科小小硕 videos about AI-assisted medical research, plotting, Codex or ClaudeR workflow, and clinical research methods."

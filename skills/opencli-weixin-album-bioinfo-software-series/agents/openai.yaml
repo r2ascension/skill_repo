@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin Bioinfo Software Series"
+  short_description: "Curate the Weixin bioinfo software album via opencli."
+  default_prompt: "Use $opencli-weixin-album-bioinfo-software-series to refresh and summarize the 生信宝库 Weixin album 软件系列介绍, especially the software and method articles around single-cell, multi-omics, and practical bioinformatics tools."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enrichment And Pathway Interpretation Learning"
+  short_description: "Cross-source learning skill for GO, KEGG, GSEA, pathway interpretation, and enrichment visualization."
+  default_prompt: "Use $bio-learning-enrichment-and-pathway-interpretation when the user wants learning content organized by concrete function rather than by creator or album source."

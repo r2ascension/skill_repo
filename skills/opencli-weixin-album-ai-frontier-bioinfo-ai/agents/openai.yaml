@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin AI Frontier"
+  short_description: "Curate the Weixin AI frontier album via opencli."
+  default_prompt: "Use $opencli-weixin-album-ai-frontier-bioinfo-ai to refresh and summarize the 生物信息与人工智能 Weixin album AI最前沿, especially articles about RAG, agents, MCP, Biomni, and AI-for-biology workflow."

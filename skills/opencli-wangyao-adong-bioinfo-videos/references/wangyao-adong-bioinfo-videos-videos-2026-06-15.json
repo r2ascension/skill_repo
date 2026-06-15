@@ -1,0 +1,359 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "网药阿东",
+  "uid": "3546805061028473",
+  "channel_url": "https://space.bilibili.com/3546805061028473",
+  "scope_note": "keep the full current channel because the uploaded series is already a tightly scoped network-pharmacology and bioinformatics tutorial line",
+  "count": 25,
+  "videos": [
+    {
+      "title": "16.2分子对接（pymol）-",
+      "date": "2026-03-27",
+      "url": "https://www.bilibili.com/video/BV12VXMBcEPD",
+      "bvid": "BV12VXMBcEPD",
+      "plays": 4784,
+      "likes": 0,
+      "category_key": "docking",
+      "category_title": "Molecular Docking",
+      "matched_words": [
+        "分子对接",
+        "pymol"
+      ]
+    },
+    {
+      "title": "10、如何利用cytoscape构建“中药-疾病-交集靶点”网络",
+      "date": "2026-03-27",
+      "url": "https://www.bilibili.com/video/BV1STXMBNEsx",
+      "bvid": "BV1STXMBNEsx",
+      "plays": 7301,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "cytoscape",
+        "靶点",
+        "网络"
+      ]
+    },
+    {
+      "title": "22.”中药-疾病-交集靶点-通路“网络构建",
+      "date": "2026-01-19",
+      "url": "https://www.bilibili.com/video/BV1w6kaBeEeT",
+      "bvid": "BV1w6kaBeEeT",
+      "plays": 8787,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "靶点",
+        "网络"
+      ]
+    },
+    {
+      "title": "12、筛选关键靶点与核心活性成分",
+      "date": "2026-01-19",
+      "url": "https://www.bilibili.com/video/BV1AzkaBNEHY",
+      "bvid": "BV1AzkaBNEHY",
+      "plays": 5364,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "活性成分"
+      ]
+    },
+    {
+      "title": "23.新版DAVID数据库的使用方法",
+      "date": "2026-01-07",
+      "url": "https://www.bilibili.com/video/BV1cEquBXEot",
+      "bvid": "BV1cEquBXEot",
+      "plays": 3116,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "数据库",
+        "DAVID"
+      ]
+    },
+    {
+      "title": "21、Autodock安装教程",
+      "date": "2025-07-22",
+      "url": "https://www.bilibili.com/video/BV1E5gpzBEm5",
+      "bvid": "BV1E5gpzBEm5",
+      "plays": 4196,
+      "likes": 0,
+      "category_key": "docking",
+      "category_title": "Molecular Docking",
+      "matched_words": [
+        "Autodock",
+        "autodock"
+      ]
+    },
+    {
+      "title": "20.  batman数据库、症状映射数据库（SymMap）、中医药整合药理学研究平台---获取中药活性成分",
+      "date": "2025-05-20",
+      "url": "https://www.bilibili.com/video/BV1NFJGz6EMB",
+      "bvid": "BV1NFJGz6EMB",
+      "plays": 2747,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "活性成分",
+        "数据库"
+      ]
+    },
+    {
+      "title": "18.TCMSP中找不到活性成分改怎么办：用Herb查找活性成分",
+      "date": "2025-05-18",
+      "url": "https://www.bilibili.com/video/BV1TdJ3zVELW",
+      "bvid": "BV1TdJ3zVELW",
+      "plays": 8716,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "TCMSP",
+        "Herb",
+        "活性成分"
+      ]
+    },
+    {
+      "title": "17.1 分子对接可视化1（PyMol软件）",
+      "date": "2025-04-30",
+      "url": "https://www.bilibili.com/video/BV1n1G9zvEEf",
+      "bvid": "BV1n1G9zvEEf",
+      "plays": 7286,
+      "likes": 0,
+      "category_key": "docking",
+      "category_title": "Molecular Docking",
+      "matched_words": [
+        "分子对接",
+        "pymol"
+      ]
+    },
+    {
+      "title": "16.2  GO、KEGG富集气泡图可视化（微生信）",
+      "date": "2025-04-28",
+      "url": "https://www.bilibili.com/video/BV1BALmzDEeo",
+      "bvid": "BV1BALmzDEeo",
+      "plays": 52617,
+      "likes": 0,
+      "category_key": "enrichment",
+      "category_title": "Enrichment And Visualization",
+      "matched_words": [
+        "GO",
+        "KEGG",
+        "富集",
+        "气泡图"
+      ]
+    },
+    {
+      "title": "16.1  GO、KEGG富集分析（DAVID数据库获取数据）",
+      "date": "2025-04-28",
+      "url": "https://www.bilibili.com/video/BV1LMLmz7EU8",
+      "bvid": "BV1LMLmz7EU8",
+      "plays": 48686,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "数据库",
+        "DAVID"
+      ]
+    },
+    {
+      "title": "15、最简单获得富集分析气泡图的方法",
+      "date": "2025-04-21",
+      "url": "https://www.bilibili.com/video/BV1QA5yzFExm",
+      "bvid": "BV1QA5yzFExm",
+      "plays": 2416,
+      "likes": 0,
+      "category_key": "enrichment",
+      "category_title": "Enrichment And Visualization",
+      "matched_words": [
+        "富集",
+        "气泡图"
+      ]
+    },
+    {
+      "title": "14、利用autodock vina完成分子对接的详细步骤",
+      "date": "2025-04-21",
+      "url": "https://www.bilibili.com/video/BV1hA5yzFEfk",
+      "bvid": "BV1hA5yzFEfk",
+      "plays": 16771,
+      "likes": 0,
+      "category_key": "docking",
+      "category_title": "Molecular Docking",
+      "matched_words": [
+        "Autodock",
+        "autodock",
+        "分子对接",
+        "vina"
+      ]
+    },
+    {
+      "title": "13、如何下载活性成分的2D结构和关键靶点的3D结构",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1vT5EzhEm3",
+      "bvid": "BV1vT5EzhEm3",
+      "plays": 5872,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "活性成分"
+      ]
+    },
+    {
+      "title": "11、如何利用metascape进行GO、KEGG富集分析",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1VR5EzbEFi",
+      "bvid": "BV1VR5EzbEFi",
+      "plays": 27050,
+      "likes": 0,
+      "category_key": "enrichment",
+      "category_title": "Enrichment And Visualization",
+      "matched_words": [
+        "GO",
+        "KEGG",
+        "metascape",
+        "富集"
+      ]
+    },
+    {
+      "title": "8、如何运用Cytoscape构建PPI网络",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1YZ5rzdEP9",
+      "bvid": "BV1YZ5rzdEP9",
+      "plays": 36863,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "cytoscape",
+        "PPI",
+        "网络"
+      ]
+    },
+    {
+      "title": "9、构建“中药-疾病-交集靶点”网络的前期准备",
+      "date": "2025-04-17",
+      "url": "https://www.bilibili.com/video/BV1pc5ezDE1K",
+      "bvid": "BV1pc5ezDE1K",
+      "plays": 23652,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "靶点",
+        "网络"
+      ]
+    },
+    {
+      "title": "7、如何安装cytoscape",
+      "date": "2025-04-17",
+      "url": "https://www.bilibili.com/video/BV1mQ5YzoE76",
+      "bvid": "BV1mQ5YzoE76",
+      "plays": 9262,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "cytoscape"
+      ]
+    },
+    {
+      "title": "6、如何利用string构建PPI网络",
+      "date": "2025-04-15",
+      "url": "https://www.bilibili.com/video/BV1JqdoYgEna",
+      "bvid": "BV1JqdoYgEna",
+      "plays": 31098,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "string",
+        "PPI",
+        "网络"
+      ]
+    },
+    {
+      "title": "4、疾病致病靶点的筛选",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1Tvo5YvEFZ",
+      "bvid": "BV1Tvo5YvEFZ",
+      "plays": 4290,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "靶点"
+      ]
+    },
+    {
+      "title": "5、韦恩图的制作",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1Kqo5YPEiB",
+      "bvid": "BV1Kqo5YPEiB",
+      "plays": 10593,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": []
+    },
+    {
+      "title": "4、疾病致病靶点的筛选",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1KaoGYfEUE",
+      "bvid": "BV1KaoGYfEUE",
+      "plays": 4174,
+      "likes": 0,
+      "category_key": "ppi-and-cytoscape",
+      "category_title": "PPI And Cytoscape",
+      "matched_words": [
+        "靶点"
+      ]
+    },
+    {
+      "title": "3、中药活性成分对应靶点的汇总",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1NvoGYoEVd",
+      "bvid": "BV1NvoGYoEVd",
+      "plays": 6604,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "活性成分"
+      ]
+    },
+    {
+      "title": "2、如何获取中药活性成分对应的靶点",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1GnoGYTEWS",
+      "bvid": "BV1GnoGYTEWS",
+      "plays": 8829,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "活性成分"
+      ]
+    },
+    {
+      "title": "1、中药活性成分的筛选",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV19EoGYBEJ4",
+      "bvid": "BV19EoGYBEJ4",
+      "plays": 7156,
+      "likes": 0,
+      "category_key": "activity-and-databases",
+      "category_title": "Active Components And Databases",
+      "matched_words": [
+        "活性成分"
+      ]
+    }
+  ]
+}

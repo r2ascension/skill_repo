@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI 网药阿东 Bioinfo Videos"
+  short_description: "Curate 网药阿东 bioinformatics videos with opencli."
+  default_prompt: "Use $opencli-wangyao-adong-bioinfo-videos to refresh and summarize 网药阿东 videos about network pharmacology, enrichment analysis, PPI, Cytoscape, and molecular docking."

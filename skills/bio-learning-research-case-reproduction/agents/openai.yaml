@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Case Reproduction Learning"
+  short_description: "Cross-source learning skill for case-driven reproduction, Nature-style walkthroughs, and project-style end-to-end learning examples."
+  default_prompt: "Use $bio-learning-research-case-reproduction when the user wants learning content organized by concrete function rather than by creator or album source."

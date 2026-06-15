@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin AI Or AI Fail"
+  short_description: "Curate the practical AI research album via opencli."
+  default_prompt: "Use $opencli-weixin-album-ai-or-ai-fail to refresh and summarize the 生信菜鸟团 Weixin album 人工智能or人工智障, focusing on practical AI-assisted coding, automation pitfalls, and research-workflow lessons."

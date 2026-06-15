@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI 呼同学 Source Cache"
+  short_description: "Internal source cache for 呼同学 research and bioinformatics videos."
+  default_prompt: "Use $opencli-hutongxue-research-bioinfo-cache only as an evidence cache for rebuilding function-level skills from 呼同学 content."

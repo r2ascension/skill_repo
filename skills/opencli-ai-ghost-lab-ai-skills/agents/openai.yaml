@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI AI-Ghost-Lab AI Skills"
+  short_description: "Curate AI-Ghost-Lab AI skill videos with opencli."
+  default_prompt: "Use $opencli-ai-ghost-lab-ai-skills to refresh and summarize AI-Ghost-Lab videos about AI skills, prompts, AGENTS, Codex, subagents, and AI coding workflow."

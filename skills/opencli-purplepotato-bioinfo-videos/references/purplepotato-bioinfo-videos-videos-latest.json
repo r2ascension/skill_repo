@@ -1,0 +1,287 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "小紫薯PurplePotato",
+  "uid": "361123190",
+  "channel_url": "https://space.bilibili.com/361123190",
+  "scope_note": "keep videos that directly cover bioinformatics workflow or that clearly support bioinformatics onboarding through AI coding, R, RStudio, Linux, RNA-seq, or single-cell practice",
+  "count": 21,
+  "videos": [
+    {
+      "title": "只需3步，5分钟带你用上codex (claude code同理)",
+      "date": "2026-06-14",
+      "url": "https://www.bilibili.com/video/BV1PUJW64E3d",
+      "bvid": "BV1PUJW64E3d",
+      "plays": 478,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow For Bioinformatics Beginners",
+      "matched_words": [
+        "Codex",
+        "Claude"
+      ]
+    },
+    {
+      "title": "AI时代下，如何建立自己的知识库 | 入门篇",
+      "date": "2026-06-07",
+      "url": "https://www.bilibili.com/video/BV1uBEb61EPS",
+      "bvid": "BV1uBEb61EPS",
+      "plays": 1125,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow For Bioinformatics Beginners",
+      "matched_words": [
+        "知识库"
+      ]
+    },
+    {
+      "title": "让AI编程的输出更可控 | 面向医学科研小白的skill介绍和演示",
+      "date": "2026-05-25",
+      "url": "https://www.bilibili.com/video/BV1tnGo6uEsa",
+      "bvid": "BV1tnGo6uEsa",
+      "plays": 1009,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow For Bioinformatics Beginners",
+      "matched_words": [
+        "skill"
+      ]
+    },
+    {
+      "title": "AI编程 | R studio里就能操作的AI编程代理",
+      "date": "2026-05-04",
+      "url": "https://www.bilibili.com/video/BV1KTRzBWEgZ",
+      "bvid": "BV1KTRzBWEgZ",
+      "plays": 2742,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R studio"
+      ]
+    },
+    {
+      "title": "Conda 环境配置，拒绝“版本地狱”| 单细胞分析预习视频",
+      "date": "2026-04-09",
+      "url": "https://www.bilibili.com/video/BV1sgDxBuExR",
+      "bvid": "BV1sgDxBuExR",
+      "plays": 1949,
+      "likes": 0,
+      "category_key": "rna-and-single-cell",
+      "category_title": "RNA-Seq And Single-Cell Practice",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "R和R studio的安装",
+      "date": "2026-02-22",
+      "url": "https://www.bilibili.com/video/BV1SmfwBNEWE",
+      "bvid": "BV1SmfwBNEWE",
+      "plays": 1185,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R studio",
+        "R和R"
+      ]
+    },
+    {
+      "title": "每天学点R语言 应用篇 连载中 ~day5",
+      "date": "2026-01-25",
+      "url": "https://www.bilibili.com/video/BV1EeztB3Eog",
+      "bvid": "BV1EeztB3Eog",
+      "plays": 4959,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "每天学点R语言 进阶篇 - 已完结",
+      "date": "2025-11-05",
+      "url": "https://www.bilibili.com/video/BV1BW14BDEEM",
+      "bvid": "BV1BW14BDEEM",
+      "plays": 16978,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "每天一点R语言(基础篇) 已完结",
+      "date": "2025-10-13",
+      "url": "https://www.bilibili.com/video/BV1G84Uz3EgB",
+      "bvid": "BV1G84Uz3EgB",
+      "plays": 82679,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "单细胞转录组学分析-上游",
+      "date": "2025-07-25",
+      "url": "https://www.bilibili.com/video/BV1DAbdzfEMZ",
+      "bvid": "BV1DAbdzfEMZ",
+      "plays": 6277,
+      "likes": 0,
+      "category_key": "rna-and-single-cell",
+      "category_title": "RNA-Seq And Single-Cell Practice",
+      "matched_words": [
+        "单细胞",
+        "转录组"
+      ]
+    },
+    {
+      "title": "RNA count标准化 | RPKM和TPM的计算以及R语言实现从count矩阵转换",
+      "date": "2025-05-30",
+      "url": "https://www.bilibili.com/video/BV1oP7xz4Ec2",
+      "bvid": "BV1oP7xz4Ec2",
+      "plays": 2887,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "R语言运行加速之 并行化介绍",
+      "date": "2025-05-27",
+      "url": "https://www.bilibili.com/video/BV11ajdzdE9F",
+      "bvid": "BV11ajdzdE9F",
+      "plays": 3149,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "医学编程小白的RNA-Seq上游分析 手把手教学",
+      "date": "2025-05-02",
+      "url": "https://www.bilibili.com/video/BV1eEVjzHE78",
+      "bvid": "BV1eEVjzHE78",
+      "plays": 9680,
+      "likes": 0,
+      "category_key": "rna-and-single-cell",
+      "category_title": "RNA-Seq And Single-Cell Practice",
+      "matched_words": [
+        "RNA",
+        "RNA-Seq"
+      ]
+    },
+    {
+      "title": "无基础医学生如何上手Linux",
+      "date": "2025-04-30",
+      "url": "https://www.bilibili.com/video/BV1JnGtzdEFv",
+      "bvid": "BV1JnGtzdEFv",
+      "plays": 7213,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "Linux"
+      ]
+    },
+    {
+      "title": "单细胞RNA分析 | 课题导向的R语言教程 | 适合医学编程小白",
+      "date": "2025-04-20",
+      "url": "https://www.bilibili.com/video/BV1dkLFzmEnq",
+      "bvid": "BV1dkLFzmEnq",
+      "plays": 7283,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "生存分析 | 课题导向的R语言教程 | 适合医学编程小白",
+      "date": "2025-04-07",
+      "url": "https://www.bilibili.com/video/BV197d7YSEqF",
+      "bvid": "BV197d7YSEqF",
+      "plays": 4985,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "DeepSeek帮你做生信分析写代码|转录组下游分析",
+      "date": "2025-03-15",
+      "url": "https://www.bilibili.com/video/BV1fXQSY3EWQ",
+      "bvid": "BV1fXQSY3EWQ",
+      "plays": 5758,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow For Bioinformatics Beginners",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "从零到一：AI助你快速掌握R语言",
+      "date": "2025-01-13",
+      "url": "https://www.bilibili.com/video/BV12Ecke9Eiz",
+      "bvid": "BV12Ecke9Eiz",
+      "plays": 7290,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "R语言报错2|借助chatGPT解决报错问题|紫薯医学科研",
+      "date": "2024-11-10",
+      "url": "https://www.bilibili.com/video/BV15mmqYWEYx",
+      "bvid": "BV15mmqYWEYx",
+      "plays": 1627,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "R语言常见报错原因及解决方案|紫薯医学科研教程",
+      "date": "2024-09-15",
+      "url": "https://www.bilibili.com/video/BV1MetgeBELb",
+      "bvid": "BV1MetgeBELb",
+      "plays": 12891,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    },
+    {
+      "title": "R语言极速入门(一) | 紫薯医学科研教程",
+      "date": "2024-09-03",
+      "url": "https://www.bilibili.com/video/BV1EaH4epEq8",
+      "bvid": "BV1EaH4epEq8",
+      "plays": 5739,
+      "likes": 0,
+      "category_key": "r-linux-foundations",
+      "category_title": "R And Linux Foundations",
+      "matched_words": [
+        "R语言"
+      ]
+    }
+  ]
+}

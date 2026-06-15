@@ -1,4 +1,0 @@
-interface:
-  display_name: "Biomamba multiMiR miRNA"
-  short_description: "multiMiR miRNA target disease drug analysis"
-  default_prompt: "Use the biomamba-multimir-mirna skill to query multiMiR and visualize miRNA target results within this repository's R/output conventions."

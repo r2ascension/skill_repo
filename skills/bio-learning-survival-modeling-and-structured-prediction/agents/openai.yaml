@@ -1,0 +1,4 @@
+interface:
+  display_name: "Survival Modeling And Structured Prediction Learning"
+  short_description: "Cross-source learning skill for survival analysis, Cox modeling, structured prediction, and related biomedical modeling workflows."
+  default_prompt: "Use $bio-learning-survival-modeling-and-structured-prediction when the user wants learning content organized by concrete function rather than by creator or album source."

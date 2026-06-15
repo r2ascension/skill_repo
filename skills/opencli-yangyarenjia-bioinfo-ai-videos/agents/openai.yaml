@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI 养鸭人家 Bioinfo AI Videos"
+  short_description: "Curate 养鸭人家 AI-for-research videos with opencli."
+  default_prompt: "Use $opencli-yangyarenjia-bioinfo-ai-videos to refresh and summarize 养鸭人家 videos about AI for research, DeepSeek, AI-assisted data analysis, scientific writing, and broader research workflow enablement."

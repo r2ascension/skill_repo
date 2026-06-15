@@ -1,0 +1,1474 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "academic-learning-plotting-and-visual-communication",
+  "focus": "plotting, figures, and visual communication",
+  "count": 40,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（2）",
+      "date": "2025-09-14",
+      "url": "https://www.bilibili.com/video/BV1CmpczUEDD",
+      "id": "BV1CmpczUEDD",
+      "category": "Plotting And Color",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（2）",
+        "date": "2025-09-14",
+        "url": "https://www.bilibili.com/video/BV1CmpczUEDD",
+        "bvid": "BV1CmpczUEDD",
+        "plays": 1020,
+        "likes": 0,
+        "category_key": "plotting-and-color",
+        "category_title": "Plotting And Color"
+      },
+      "text_blob": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（2） plotting and color  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "plotting and color",
+      "title_lower": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（2）"
+    },
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（1）",
+      "date": "2025-09-14",
+      "url": "https://www.bilibili.com/video/BV1QapczfEst",
+      "id": "BV1QapczfEst",
+      "category": "Plotting And Color",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（1）",
+        "date": "2025-09-14",
+        "url": "https://www.bilibili.com/video/BV1QapczfEst",
+        "bvid": "BV1QapczfEst",
+        "plays": 1049,
+        "likes": 0,
+        "category_key": "plotting-and-color",
+        "category_title": "Plotting And Color"
+      },
+      "text_blob": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（1） plotting and color  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "plotting and color",
+      "title_lower": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（1）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0119生信实战：ggplot2原理和实操演示",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1aa7mzmE3E",
+      "id": "BV1aa7mzmE3E",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "生信实战"
+      ],
+      "extra": {
+        "title": "0119生信实战：ggplot2原理和实操演示",
+        "date": "2025-06-02",
+        "url": "https://www.bilibili.com/video/BV1aa7mzmE3E",
+        "bvid": "BV1aa7mzmE3E",
+        "plays": 210,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "生信实战"
+        ]
+      },
+      "text_blob": "0119生信实战：ggplot2原理和实操演示 bioinformatics strategy and practice  生信实战",
+      "tags_lower": [
+        "生信实战"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "0119生信实战：ggplot2原理和实操演示"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "科研绘图高级感：R包ggmagnify一键自动局部放大",
+      "date": "2026-04-16",
+      "url": "https://www.bilibili.com/video/BV1DhdaB2ER3",
+      "id": "BV1DhdaB2ER3",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图"
+      ],
+      "extra": {
+        "title": "科研绘图高级感：R包ggmagnify一键自动局部放大",
+        "date": "2026-04-16",
+        "url": "https://www.bilibili.com/video/BV1DhdaB2ER3",
+        "bvid": "BV1DhdaB2ER3",
+        "plays": 1715,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图"
+        ]
+      },
+      "text_blob": "科研绘图高级感：r包ggmagnify一键自动局部放大 plotting and visualization  绘图",
+      "tags_lower": [
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "科研绘图高级感：r包ggmagnify一键自动局部放大"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "8分钟学会科研图表拼图和美化基本操作【Adobe illustrator (AI)】",
+      "date": "2024-08-05",
+      "url": "https://www.bilibili.com/video/BV1WxYceDEsC",
+      "id": "BV1WxYceDEsC",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "图表",
+        "Adobe illustrator"
+      ],
+      "extra": {
+        "title": "8分钟学会科研图表拼图和美化基本操作【Adobe illustrator (AI)】",
+        "date": "2024-08-05",
+        "url": "https://www.bilibili.com/video/BV1WxYceDEsC",
+        "bvid": "BV1WxYceDEsC",
+        "plays": 15986,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "图表",
+          "Adobe illustrator"
+        ]
+      },
+      "text_blob": "8分钟学会科研图表拼图和美化基本操作【adobe illustrator (ai)】 plotting and visualization  图表 adobe illustrator",
+      "tags_lower": [
+        "adobe illustrator",
+        "图表"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "8分钟学会科研图表拼图和美化基本操作【adobe illustrator (ai)】"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "SCI科研绘图配色，从艺术作品中提取高级配色方案有多牛！",
+      "date": "2024-04-11",
+      "url": "https://www.bilibili.com/video/BV1tA4m1w7UV",
+      "id": "BV1tA4m1w7UV",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图"
+      ],
+      "extra": {
+        "title": "SCI科研绘图配色，从艺术作品中提取高级配色方案有多牛！",
+        "date": "2024-04-11",
+        "url": "https://www.bilibili.com/video/BV1tA4m1w7UV",
+        "bvid": "BV1tA4m1w7UV",
+        "plays": 2819,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图"
+        ]
+      },
+      "text_blob": "sci科研绘图配色，从艺术作品中提取高级配色方案有多牛！ plotting and visualization  绘图",
+      "tags_lower": [
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "sci科研绘图配色，从艺术作品中提取高级配色方案有多牛！"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "R语言绘图丨两矩阵之间的相关性热图，叠加显著性检验",
+      "date": "2024-01-26",
+      "url": "https://www.bilibili.com/video/BV1QK4y1i7tS",
+      "id": "BV1QK4y1i7tS",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图"
+      ],
+      "extra": {
+        "title": "R语言绘图丨两矩阵之间的相关性热图，叠加显著性检验",
+        "date": "2024-01-26",
+        "url": "https://www.bilibili.com/video/BV1QK4y1i7tS",
+        "bvid": "BV1QK4y1i7tS",
+        "plays": 4628,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图"
+        ]
+      },
+      "text_blob": "r语言绘图丨两矩阵之间的相关性热图，叠加显著性检验 plotting and visualization  绘图",
+      "tags_lower": [
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "r语言绘图丨两矩阵之间的相关性热图，叠加显著性检验"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "两分钟AI科研绘图006，临摹工具的应用",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV1H84y1C7yF",
+      "id": "BV1H84y1C7yF",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图",
+        "AI科研绘图"
+      ],
+      "extra": {
+        "title": "两分钟AI科研绘图006，临摹工具的应用",
+        "date": "2022-11-23",
+        "url": "https://www.bilibili.com/video/BV1H84y1C7yF",
+        "bvid": "BV1H84y1C7yF",
+        "plays": 11781,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图",
+          "AI科研绘图"
+        ]
+      },
+      "text_blob": "两分钟ai科研绘图006，临摹工具的应用 plotting and visualization  绘图 ai科研绘图",
+      "tags_lower": [
+        "ai科研绘图",
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "两分钟ai科研绘图006，临摹工具的应用"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "两分钟ai科研绘图系列005 临摹胞吞细胞",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV1uK411o73C",
+      "id": "BV1uK411o73C",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图",
+        "AI科研绘图"
+      ],
+      "extra": {
+        "title": "两分钟ai科研绘图系列005 临摹胞吞细胞",
+        "date": "2022-11-23",
+        "url": "https://www.bilibili.com/video/BV1uK411o73C",
+        "bvid": "BV1uK411o73C",
+        "plays": 1208,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图",
+          "AI科研绘图"
+        ]
+      },
+      "text_blob": "两分钟ai科研绘图系列005 临摹胞吞细胞 plotting and visualization  绘图 ai科研绘图",
+      "tags_lower": [
+        "ai科研绘图",
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "两分钟ai科研绘图系列005 临摹胞吞细胞"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "两分钟科研绘图，细胞抗体标记",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV1W84y1C7yM",
+      "id": "BV1W84y1C7yM",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图"
+      ],
+      "extra": {
+        "title": "两分钟科研绘图，细胞抗体标记",
+        "date": "2022-11-23",
+        "url": "https://www.bilibili.com/video/BV1W84y1C7yM",
+        "bvid": "BV1W84y1C7yM",
+        "plays": 688,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图"
+        ]
+      },
+      "text_blob": "两分钟科研绘图，细胞抗体标记 plotting and visualization  绘图",
+      "tags_lower": [
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "两分钟科研绘图，细胞抗体标记"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "一分钟科研绘图纯享版，血细胞临摹",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV15v4y127LV",
+      "id": "BV15v4y127LV",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图"
+      ],
+      "extra": {
+        "title": "一分钟科研绘图纯享版，血细胞临摹",
+        "date": "2022-11-23",
+        "url": "https://www.bilibili.com/video/BV15v4y127LV",
+        "bvid": "BV15v4y127LV",
+        "plays": 430,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图"
+        ]
+      },
+      "text_blob": "一分钟科研绘图纯享版，血细胞临摹 plotting and visualization  绘图",
+      "tags_lower": [
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "一分钟科研绘图纯享版，血细胞临摹"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "两分钟AI科研绘图系列002《离心管》",
+      "date": "2022-11-03",
+      "url": "https://www.bilibili.com/video/BV1oP4y1m7Pu",
+      "id": "BV1oP4y1m7Pu",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图",
+        "AI科研绘图"
+      ],
+      "extra": {
+        "title": "两分钟AI科研绘图系列002《离心管》",
+        "date": "2022-11-03",
+        "url": "https://www.bilibili.com/video/BV1oP4y1m7Pu",
+        "bvid": "BV1oP4y1m7Pu",
+        "plays": 1263,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图",
+          "AI科研绘图"
+        ]
+      },
+      "text_blob": "两分钟ai科研绘图系列002《离心管》 plotting and visualization  绘图 ai科研绘图",
+      "tags_lower": [
+        "ai科研绘图",
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "两分钟ai科研绘图系列002《离心管》"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "两分钟AI科研绘图系列001《巨噬细胞》",
+      "date": "2022-11-03",
+      "url": "https://www.bilibili.com/video/BV1Tg411B7zF",
+      "id": "BV1Tg411B7zF",
+      "category": "Plotting And Visualization",
+      "summary": "",
+      "tags": [
+        "绘图",
+        "AI科研绘图"
+      ],
+      "extra": {
+        "title": "两分钟AI科研绘图系列001《巨噬细胞》",
+        "date": "2022-11-03",
+        "url": "https://www.bilibili.com/video/BV1Tg411B7zF",
+        "bvid": "BV1Tg411B7zF",
+        "plays": 4052,
+        "likes": 0,
+        "category_key": "plotting-and-visualization",
+        "category_title": "Plotting And Visualization",
+        "matched_words": [
+          "绘图",
+          "AI科研绘图"
+        ]
+      },
+      "text_blob": "两分钟ai科研绘图系列001《巨噬细胞》 plotting and visualization  绘图 ai科研绘图",
+      "tags_lower": [
+        "ai科研绘图",
+        "绘图"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "plotting and visualization",
+      "title_lower": "两分钟ai科研绘图系列001《巨噬细胞》"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "10.OTU丰度数据绘制聚类热图",
+      "date": "2025-08-01",
+      "url": "https://www.bilibili.com/video/BV1D38wzmEqS",
+      "id": "BV1D38wzmEqS",
+      "category": "R语言与可视化",
+      "summary": "讲 OTU 丰度矩阵热图，适合微生物组结果可视化。",
+      "tags": [
+        "plotting",
+        "OTU"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "OTU"
+        ],
+        "title": "10.OTU丰度数据绘制聚类热图",
+        "date": "2025-08-01",
+        "plays": 290,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1D38wzmEqS",
+        "bvid": "BV1D38wzmEqS",
+        "content_summary": "讲 OTU 丰度矩阵热图，适合微生物组结果可视化。"
+      },
+      "text_blob": "10.otu丰度数据绘制聚类热图 r语言与可视化 讲 otu 丰度矩阵热图，适合微生物组结果可视化。 plotting otu",
+      "tags_lower": [
+        "otu",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "10.otu丰度数据绘制聚类热图"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "09.基因表达数据绘制聚类热图（下）",
+      "date": "2025-07-31",
+      "url": "https://www.bilibili.com/video/BV1DV8wzjEgN",
+      "id": "BV1DV8wzjEgN",
+      "category": "R语言与可视化",
+      "summary": "讲基因表达矩阵的聚类热图绘制与版式控制。",
+      "tags": [
+        "plotting",
+        "heatmap"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "heatmap"
+        ],
+        "title": "09.基因表达数据绘制聚类热图（下）",
+        "date": "2025-07-31",
+        "plays": 79,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1DV8wzjEgN",
+        "bvid": "BV1DV8wzjEgN",
+        "content_summary": "讲基因表达矩阵的聚类热图绘制与版式控制。"
+      },
+      "text_blob": "09.基因表达数据绘制聚类热图（下） r语言与可视化 讲基因表达矩阵的聚类热图绘制与版式控制。 plotting heatmap",
+      "tags_lower": [
+        "heatmap",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "09.基因表达数据绘制聚类热图（下）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "08.基因表达数据绘制聚类热图（上）",
+      "date": "2025-07-30",
+      "url": "https://www.bilibili.com/video/BV1dk8wz4EDy",
+      "id": "BV1dk8wz4EDy",
+      "category": "R语言与可视化",
+      "summary": "讲基因表达矩阵的聚类热图绘制与版式控制。",
+      "tags": [
+        "plotting",
+        "heatmap"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "heatmap"
+        ],
+        "title": "08.基因表达数据绘制聚类热图（上）",
+        "date": "2025-07-30",
+        "plays": 194,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1dk8wz4EDy",
+        "bvid": "BV1dk8wz4EDy",
+        "content_summary": "讲基因表达矩阵的聚类热图绘制与版式控制。",
+        "page_tags": [
+          "统计",
+          "绘图",
+          "R语言",
+          "生物信息"
+        ],
+        "duration_seconds": 1848,
+        "view_count": 194,
+        "like_count": 1,
+        "favorite_count": 6,
+        "share_count": 0,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "08.基因表达数据绘制聚类热图（上） r语言与可视化 讲基因表达矩阵的聚类热图绘制与版式控制。 plotting heatmap",
+      "tags_lower": [
+        "heatmap",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "08.基因表达数据绘制聚类热图（上）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "07.柱状图和气泡图（富集分析结果可视化）",
+      "date": "2025-07-29",
+      "url": "https://www.bilibili.com/video/BV1q68wzZEcq",
+      "id": "BV1q68wzZEcq",
+      "category": "R语言与可视化",
+      "summary": "讲富集分析结果常见的柱状图和气泡图展示。",
+      "tags": [
+        "plotting",
+        "enrichment"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "enrichment"
+        ],
+        "title": "07.柱状图和气泡图（富集分析结果可视化）",
+        "date": "2025-07-29",
+        "plays": 88,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1q68wzZEcq",
+        "bvid": "BV1q68wzZEcq",
+        "content_summary": "讲富集分析结果常见的柱状图和气泡图展示。"
+      },
+      "text_blob": "07.柱状图和气泡图（富集分析结果可视化） r语言与可视化 讲富集分析结果常见的柱状图和气泡图展示。 plotting enrichment",
+      "tags_lower": [
+        "enrichment",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "07.柱状图和气泡图（富集分析结果可视化）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "06.特殊点图--火山图和MA图绘制过程",
+      "date": "2025-07-28",
+      "url": "https://www.bilibili.com/video/BV1YS8wzXEV6",
+      "id": "BV1YS8wzXEV6",
+      "category": "R语言与可视化",
+      "summary": "围绕差异分析常见的火山图和 MA 图讲绘制与解读。",
+      "tags": [
+        "plotting",
+        "DEG"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "DEG"
+        ],
+        "title": "06.特殊点图--火山图和MA图绘制过程",
+        "date": "2025-07-28",
+        "plays": 165,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1YS8wzXEV6",
+        "bvid": "BV1YS8wzXEV6",
+        "content_summary": "围绕差异分析常见的火山图和 MA 图讲绘制与解读。"
+      },
+      "text_blob": "06.特殊点图--火山图和ma图绘制过程 r语言与可视化 围绕差异分析常见的火山图和 ma 图讲绘制与解读。 plotting deg",
+      "tags_lower": [
+        "deg",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "06.特殊点图--火山图和ma图绘制过程"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "05.数据分布--密度图、箱线图、直方图绘图过程",
+      "date": "2025-07-24",
+      "url": "https://www.bilibili.com/video/BV1v28wz9Ege",
+      "id": "BV1v28wz9Ege",
+      "category": "R语言与可视化",
+      "summary": "讲几种常见分布图的场景和绘制流程。",
+      "tags": [
+        "plotting",
+        "distribution"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "distribution"
+        ],
+        "title": "05.数据分布--密度图、箱线图、直方图绘图过程",
+        "date": "2025-07-24",
+        "plays": 106,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1v28wz9Ege",
+        "bvid": "BV1v28wz9Ege",
+        "content_summary": "讲几种常见分布图的场景和绘制流程。"
+      },
+      "text_blob": "05.数据分布--密度图、箱线图、直方图绘图过程 r语言与可视化 讲几种常见分布图的场景和绘制流程。 plotting distribution",
+      "tags_lower": [
+        "distribution",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "05.数据分布--密度图、箱线图、直方图绘图过程"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "04.折线图绘图过程（结合点图、误差线显示）",
+      "date": "2025-07-11",
+      "url": "https://www.bilibili.com/video/BV1kJKmziEYV",
+      "id": "BV1kJKmziEYV",
+      "category": "R语言与可视化",
+      "summary": "讲折线图与误差线的结合展示，适合时间序列或分组趋势。",
+      "tags": [
+        "plotting",
+        "line"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "line"
+        ],
+        "title": "04.折线图绘图过程（结合点图、误差线显示）",
+        "date": "2025-07-11",
+        "plays": 63,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1kJKmziEYV",
+        "bvid": "BV1kJKmziEYV",
+        "content_summary": "讲折线图与误差线的结合展示，适合时间序列或分组趋势。"
+      },
+      "text_blob": "04.折线图绘图过程（结合点图、误差线显示） r语言与可视化 讲折线图与误差线的结合展示，适合时间序列或分组趋势。 plotting line",
+      "tags_lower": [
+        "line",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "04.折线图绘图过程（结合点图、误差线显示）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.基础饼图的绘制过程",
+      "date": "2025-07-07",
+      "url": "https://www.bilibili.com/video/BV1BbKmz8EAD",
+      "id": "BV1BbKmz8EAD",
+      "category": "R语言与可视化",
+      "summary": "讲基础饼图的绘制步骤和比例展示逻辑。",
+      "tags": [
+        "plotting",
+        "pie"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "pie"
+        ],
+        "title": "03.基础饼图的绘制过程",
+        "date": "2025-07-07",
+        "plays": 166,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1BbKmz8EAD",
+        "bvid": "BV1BbKmz8EAD",
+        "content_summary": "讲基础饼图的绘制步骤和比例展示逻辑。"
+      },
+      "text_blob": "03.基础饼图的绘制过程 r语言与可视化 讲基础饼图的绘制步骤和比例展示逻辑。 plotting pie",
+      "tags_lower": [
+        "pie",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "03.基础饼图的绘制过程"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.分组柱状图与堆叠柱状图绘制过程",
+      "date": "2025-07-04",
+      "url": "https://www.bilibili.com/video/BV1zxKmzaELn",
+      "id": "BV1zxKmzaELn",
+      "category": "R语言与可视化",
+      "summary": "比较分组柱状图与堆叠柱状图的绘制方式。",
+      "tags": [
+        "plotting",
+        "barplot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "barplot"
+        ],
+        "title": "02.分组柱状图与堆叠柱状图绘制过程",
+        "date": "2025-07-04",
+        "plays": 226,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1zxKmzaELn",
+        "bvid": "BV1zxKmzaELn",
+        "content_summary": "比较分组柱状图与堆叠柱状图的绘制方式。"
+      },
+      "text_blob": "02.分组柱状图与堆叠柱状图绘制过程 r语言与可视化 比较分组柱状图与堆叠柱状图的绘制方式。 plotting barplot",
+      "tags_lower": [
+        "barplot",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "02.分组柱状图与堆叠柱状图绘制过程"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.基础柱状图绘制方法",
+      "date": "2025-06-30",
+      "url": "https://www.bilibili.com/video/BV11GKmz3Ems",
+      "id": "BV11GKmz3Ems",
+      "category": "R语言与可视化",
+      "summary": "讲基础柱状图的构建思路和常用展示场景。",
+      "tags": [
+        "plotting",
+        "barplot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "plotting",
+          "barplot"
+        ],
+        "title": "01.基础柱状图绘制方法",
+        "date": "2025-06-30",
+        "plays": 281,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV11GKmz3Ems",
+        "bvid": "BV11GKmz3Ems",
+        "content_summary": "讲基础柱状图的构建思路和常用展示场景。"
+      },
+      "text_blob": "01.基础柱状图绘制方法 r语言与可视化 讲基础柱状图的构建思路和常用展示场景。 plotting barplot",
+      "tags_lower": [
+        "barplot",
+        "plotting"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "01.基础柱状图绘制方法"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "19.R语言绘图-拼图之画布的分隔",
+      "date": "2025-06-29",
+      "url": "https://www.bilibili.com/video/BV1LJKDzPEja",
+      "id": "BV1LJKDzPEja",
+      "category": "R语言与可视化",
+      "summary": "讲多图拼接时的画布切分与布局安排。",
+      "tags": [
+        "R",
+        "layout"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "layout"
+        ],
+        "title": "19.R语言绘图-拼图之画布的分隔",
+        "date": "2025-06-29",
+        "plays": 164,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1LJKDzPEja",
+        "bvid": "BV1LJKDzPEja",
+        "content_summary": "讲多图拼接时的画布切分与布局安排。"
+      },
+      "text_blob": "19.r语言绘图-拼图之画布的分隔 r语言与可视化 讲多图拼接时的画布切分与布局安排。 r layout",
+      "tags_lower": [
+        "layout",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "19.r语言绘图-拼图之画布的分隔"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "18.R语言绘图-pie饼图绘制",
+      "date": "2025-06-28",
+      "url": "https://www.bilibili.com/video/BV1WwKDz1ENK",
+      "id": "BV1WwKDz1ENK",
+      "category": "R语言与可视化",
+      "summary": "讲饼图绘制与类别占比展示。",
+      "tags": [
+        "R",
+        "pie"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "pie"
+        ],
+        "title": "18.R语言绘图-pie饼图绘制",
+        "date": "2025-06-28",
+        "plays": 198,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1WwKDz1ENK",
+        "bvid": "BV1WwKDz1ENK",
+        "content_summary": "讲饼图绘制与类别占比展示。"
+      },
+      "text_blob": "18.r语言绘图-pie饼图绘制 r语言与可视化 讲饼图绘制与类别占比展示。 r pie",
+      "tags_lower": [
+        "pie",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "18.r语言绘图-pie饼图绘制"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "17.R语言绘图-hist频率直方图绘制",
+      "date": "2025-06-27",
+      "url": "https://www.bilibili.com/video/BV1sfKSzmEst",
+      "id": "BV1sfKSzmEst",
+      "category": "R语言与可视化",
+      "summary": "讲直方图绘制，用于连续变量分布观察。",
+      "tags": [
+        "R",
+        "histogram"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "histogram"
+        ],
+        "title": "17.R语言绘图-hist频率直方图绘制",
+        "date": "2025-06-27",
+        "plays": 255,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1sfKSzmEst",
+        "bvid": "BV1sfKSzmEst",
+        "content_summary": "讲直方图绘制，用于连续变量分布观察。"
+      },
+      "text_blob": "17.r语言绘图-hist频率直方图绘制 r语言与可视化 讲直方图绘制，用于连续变量分布观察。 r histogram",
+      "tags_lower": [
+        "histogram",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "17.r语言绘图-hist频率直方图绘制"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "16.R语言绘图-boxplot箱形图绘制",
+      "date": "2025-06-26",
+      "url": "https://www.bilibili.com/video/BV1zgKDzgE9n",
+      "id": "BV1zgKDzgE9n",
+      "category": "R语言与可视化",
+      "summary": "讲箱线图绘制，用于分布比较和异常值展示。",
+      "tags": [
+        "R",
+        "boxplot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "boxplot"
+        ],
+        "title": "16.R语言绘图-boxplot箱形图绘制",
+        "date": "2025-06-26",
+        "plays": 479,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1zgKDzgE9n",
+        "bvid": "BV1zgKDzgE9n",
+        "content_summary": "讲箱线图绘制，用于分布比较和异常值展示。"
+      },
+      "text_blob": "16.r语言绘图-boxplot箱形图绘制 r语言与可视化 讲箱线图绘制，用于分布比较和异常值展示。 r boxplot",
+      "tags_lower": [
+        "boxplot",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "16.r语言绘图-boxplot箱形图绘制"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "15.R语言绘图-text图片中添加文字及调整",
+      "date": "2025-06-20",
+      "url": "https://www.bilibili.com/video/BV1Q9NizSEii",
+      "id": "BV1Q9NizSEii",
+      "category": "R语言与可视化",
+      "summary": "讲在图中添加文字注释与位置样式调整。",
+      "tags": [
+        "R",
+        "annotation"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "annotation"
+        ],
+        "title": "15.R语言绘图-text图片中添加文字及调整",
+        "date": "2025-06-20",
+        "plays": 622,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1Q9NizSEii",
+        "bvid": "BV1Q9NizSEii",
+        "content_summary": "讲在图中添加文字注释与位置样式调整。"
+      },
+      "text_blob": "15.r语言绘图-text图片中添加文字及调整 r语言与可视化 讲在图中添加文字注释与位置样式调整。 r annotation",
+      "tags_lower": [
+        "annotation",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "15.r语言绘图-text图片中添加文字及调整"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "14.R语言柱状图绘制-及x坐标轴调整",
+      "date": "2025-06-18",
+      "url": "https://www.bilibili.com/video/BV1ufNiz7ESD",
+      "id": "BV1ufNiz7ESD",
+      "category": "R语言与可视化",
+      "summary": "演示柱状图绘制和坐标轴微调。",
+      "tags": [
+        "R",
+        "barplot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "barplot"
+        ],
+        "title": "14.R语言柱状图绘制-及x坐标轴调整",
+        "date": "2025-06-18",
+        "plays": 287,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ufNiz7ESD",
+        "bvid": "BV1ufNiz7ESD",
+        "content_summary": "演示柱状图绘制和坐标轴微调。"
+      },
+      "text_blob": "14.r语言柱状图绘制-及x坐标轴调整 r语言与可视化 演示柱状图绘制和坐标轴微调。 r barplot",
+      "tags_lower": [
+        "barplot",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "14.r语言柱状图绘制-及x坐标轴调整"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "13.R语言颜色透明色表示-添加图例legend及位置调整",
+      "date": "2025-06-13",
+      "url": "https://www.bilibili.com/video/BV1k5TQzJESd",
+      "id": "BV1k5TQzJESd",
+      "category": "R语言与可视化",
+      "summary": "讲颜色透明度、图例添加与位置调整等图形细节。",
+      "tags": [
+        "R",
+        "plot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "plot"
+        ],
+        "title": "13.R语言颜色透明色表示-添加图例legend及位置调整",
+        "date": "2025-06-13",
+        "plays": 183,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1k5TQzJESd",
+        "bvid": "BV1k5TQzJESd",
+        "content_summary": "讲颜色透明度、图例添加与位置调整等图形细节。"
+      },
+      "text_blob": "13.r语言颜色透明色表示-添加图例legend及位置调整 r语言与可视化 讲颜色透明度、图例添加与位置调整等图形细节。 r plot",
+      "tags_lower": [
+        "plot",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "13.r语言颜色透明色表示-添加图例legend及位置调整"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "10.R语言方差分析分析原理-代码实现-结果可视化",
+      "date": "2025-06-04",
+      "url": "https://www.bilibili.com/video/BV15S7qzxEW3",
+      "id": "BV15S7qzxEW3",
+      "category": "R语言与可视化",
+      "summary": "介绍方差分析的原理、代码实现与结果展示。",
+      "tags": [
+        "R",
+        "statistics"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "statistics"
+        ],
+        "title": "10.R语言方差分析分析原理-代码实现-结果可视化",
+        "date": "2025-06-04",
+        "plays": 319,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV15S7qzxEW3",
+        "bvid": "BV15S7qzxEW3",
+        "content_summary": "介绍方差分析的原理、代码实现与结果展示。"
+      },
+      "text_blob": "10.r语言方差分析分析原理-代码实现-结果可视化 r语言与可视化 介绍方差分析的原理、代码实现与结果展示。 r statistics",
+      "tags_lower": [
+        "r",
+        "statistics"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "10.r语言方差分析分析原理-代码实现-结果可视化"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "09.R语言T检验分析原理-代码实现-结果可视化-批量T检验",
+      "date": "2025-05-30",
+      "url": "https://www.bilibili.com/video/BV1kVjuzpEQy",
+      "id": "BV1kVjuzpEQy",
+      "category": "R语言与可视化",
+      "summary": "介绍 T 检验原理、代码实现和结果可视化。",
+      "tags": [
+        "R",
+        "statistics"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "statistics"
+        ],
+        "title": "09.R语言T检验分析原理-代码实现-结果可视化-批量T检验",
+        "date": "2025-05-30",
+        "plays": 227,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1kVjuzpEQy",
+        "bvid": "BV1kVjuzpEQy",
+        "content_summary": "介绍 T 检验原理、代码实现和结果可视化。"
+      },
+      "text_blob": "09.r语言t检验分析原理-代码实现-结果可视化-批量t检验 r语言与可视化 介绍 t 检验原理、代码实现和结果可视化。 r statistics",
+      "tags_lower": [
+        "r",
+        "statistics"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "09.r语言t检验分析原理-代码实现-结果可视化-批量t检验"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "08.R语言数据reshape-长型数据与宽型数据转换-方便数据后续分析",
+      "date": "2025-05-28",
+      "url": "https://www.bilibili.com/video/BV1wVjuzWE9m",
+      "id": "BV1wVjuzWE9m",
+      "category": "R语言与可视化",
+      "summary": "讲长宽表转换，适合下游统计建模与可视化准备。",
+      "tags": [
+        "R",
+        "reshape"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "reshape"
+        ],
+        "title": "08.R语言数据reshape-长型数据与宽型数据转换-方便数据后续分析",
+        "date": "2025-05-28",
+        "plays": 255,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1wVjuzWE9m",
+        "bvid": "BV1wVjuzWE9m",
+        "content_summary": "讲长宽表转换，适合下游统计建模与可视化准备。"
+      },
+      "text_blob": "08.r语言数据reshape-长型数据与宽型数据转换-方便数据后续分析 r语言与可视化 讲长宽表转换，适合下游统计建模与可视化准备。 r reshape",
+      "tags_lower": [
+        "r",
+        "reshape"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "08.r语言数据reshape-长型数据与宽型数据转换-方便数据后续分析"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "07.R语言数据分类汇总统计applytapplylapplyaggregate学习",
+      "date": "2025-05-26",
+      "url": "https://www.bilibili.com/video/BV1CVjuzpEh4",
+      "id": "BV1CVjuzpEh4",
+      "category": "R语言与可视化",
+      "summary": "介绍 apply、tapply、lapply、aggregate 等汇总统计方法。",
+      "tags": [
+        "R",
+        "aggregation"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "aggregation"
+        ],
+        "title": "07.R语言数据分类汇总统计applytapplylapplyaggregate学习",
+        "date": "2025-05-26",
+        "plays": 136,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1CVjuzpEh4",
+        "bvid": "BV1CVjuzpEh4",
+        "content_summary": "介绍 apply、tapply、lapply、aggregate 等汇总统计方法。"
+      },
+      "text_blob": "07.r语言数据分类汇总统计applytapplylapplyaggregate学习 r语言与可视化 介绍 apply、tapply、lapply、aggregate 等汇总统计方法。 r aggregation",
+      "tags_lower": [
+        "aggregation",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "07.r语言数据分类汇总统计applytapplylapplyaggregate学习"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "06.R语言循环与判断语句",
+      "date": "2025-05-23",
+      "url": "https://www.bilibili.com/video/BV1dfJGzFE1V",
+      "id": "BV1dfJGzFE1V",
+      "category": "R语言与可视化",
+      "summary": "讲循环和条件判断，为批量分析脚本打基础。",
+      "tags": [
+        "R",
+        "control-flow"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "control-flow"
+        ],
+        "title": "06.R语言循环与判断语句",
+        "date": "2025-05-23",
+        "plays": 181,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1dfJGzFE1V",
+        "bvid": "BV1dfJGzFE1V",
+        "content_summary": "讲循环和条件判断，为批量分析脚本打基础。"
+      },
+      "text_blob": "06.r语言循环与判断语句 r语言与可视化 讲循环和条件判断，为批量分析脚本打基础。 r control-flow",
+      "tags_lower": [
+        "control-flow",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "06.r语言循环与判断语句"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "05.R语言数据读入与写出方法与技巧readtable-writetable",
+      "date": "2025-05-21",
+      "url": "https://www.bilibili.com/video/BV1ofJGzFEjz",
+      "id": "BV1ofJGzFEjz",
+      "category": "R语言与可视化",
+      "summary": "讲表格数据读写和文件输入输出，是生信数据处理基础。",
+      "tags": [
+        "R",
+        "io"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "io"
+        ],
+        "title": "05.R语言数据读入与写出方法与技巧readtable-writetable",
+        "date": "2025-05-21",
+        "plays": 435,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ofJGzFEjz",
+        "bvid": "BV1ofJGzFEjz",
+        "content_summary": "讲表格数据读写和文件输入输出，是生信数据处理基础。"
+      },
+      "text_blob": "05.r语言数据读入与写出方法与技巧readtable-writetable r语言与可视化 讲表格数据读写和文件输入输出，是生信数据处理基础。 r io",
+      "tags_lower": [
+        "io",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "05.r语言数据读入与写出方法与技巧readtable-writetable"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "04.R语言数据类型使用技巧标量，向量，数据框，因子，列表（下）",
+      "date": "2025-05-19",
+      "url": "https://www.bilibili.com/video/BV1ifJGzFESw",
+      "id": "BV1ifJGzFESw",
+      "category": "R语言与可视化",
+      "summary": "解释向量、数据框、因子和列表等核心数据结构。",
+      "tags": [
+        "R",
+        "data-structures"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "data-structures"
+        ],
+        "title": "04.R语言数据类型使用技巧标量，向量，数据框，因子，列表（下）",
+        "date": "2025-05-19",
+        "plays": 218,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ifJGzFESw",
+        "bvid": "BV1ifJGzFESw",
+        "content_summary": "解释向量、数据框、因子和列表等核心数据结构。"
+      },
+      "text_blob": "04.r语言数据类型使用技巧标量，向量，数据框，因子，列表（下） r语言与可视化 解释向量、数据框、因子和列表等核心数据结构。 r data-structures",
+      "tags_lower": [
+        "data-structures",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "04.r语言数据类型使用技巧标量，向量，数据框，因子，列表（下）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.R语言数据类型使用技巧标量，向量，数据框，因子，列表（上）",
+      "date": "2025-05-16",
+      "url": "https://www.bilibili.com/video/BV16GEJzDEBS",
+      "id": "BV16GEJzDEBS",
+      "category": "R语言与可视化",
+      "summary": "解释向量、数据框、因子和列表等核心数据结构。",
+      "tags": [
+        "R",
+        "data-structures"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "data-structures"
+        ],
+        "title": "03.R语言数据类型使用技巧标量，向量，数据框，因子，列表（上）",
+        "date": "2025-05-16",
+        "plays": 276,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV16GEJzDEBS",
+        "bvid": "BV16GEJzDEBS",
+        "content_summary": "解释向量、数据框、因子和列表等核心数据结构。"
+      },
+      "text_blob": "03.r语言数据类型使用技巧标量，向量，数据框，因子，列表（上） r语言与可视化 解释向量、数据框、因子和列表等核心数据结构。 r data-structures",
+      "tags_lower": [
+        "data-structures",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "03.r语言数据类型使用技巧标量，向量，数据框，因子，列表（上）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.R语言第三方包安装方法与技巧（CRANbioconductor）",
+      "date": "2025-05-14",
+      "url": "https://www.bilibili.com/video/BV1z5EJzJE9z",
+      "id": "BV1z5EJzJE9z",
+      "category": "R语言与可视化",
+      "summary": "讲 CRAN 与 Bioconductor 包安装，是后续生信分析环境准备。",
+      "tags": [
+        "R",
+        "packages"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "packages"
+        ],
+        "title": "02.R语言第三方包安装方法与技巧（CRANbioconductor）",
+        "date": "2025-05-14",
+        "plays": 305,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1z5EJzJE9z",
+        "bvid": "BV1z5EJzJE9z",
+        "content_summary": "讲 CRAN 与 Bioconductor 包安装，是后续生信分析环境准备。"
+      },
+      "text_blob": "02.r语言第三方包安装方法与技巧（cranbioconductor） r语言与可视化 讲 cran 与 bioconductor 包安装，是后续生信分析环境准备。 r packages",
+      "tags_lower": [
+        "packages",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "02.r语言第三方包安装方法与技巧（cranbioconductor）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.R语言简介及R语言编程运行环境搭建",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1p2E7zSEKm",
+      "id": "BV1p2E7zSEKm",
+      "category": "R语言与可视化",
+      "summary": "介绍 R 语言定位并完成基础运行环境搭建。",
+      "tags": [
+        "R",
+        "setup"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "setup"
+        ],
+        "title": "01.R语言简介及R语言编程运行环境搭建",
+        "date": "2025-05-12",
+        "plays": 202,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1p2E7zSEKm",
+        "bvid": "BV1p2E7zSEKm",
+        "content_summary": "介绍 R 语言定位并完成基础运行环境搭建。",
+        "page_tags": [
+          "绘图",
+          "统计",
+          "R语言",
+          "生物信息"
+        ],
+        "duration_seconds": 1158,
+        "view_count": 202,
+        "like_count": 6,
+        "favorite_count": 10,
+        "share_count": 3,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "01.r语言简介及r语言编程运行环境搭建 r语言与可视化 介绍 r 语言定位并完成基础运行环境搭建。 r setup",
+      "tags_lower": [
+        "r",
+        "setup"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "01.r语言简介及r语言编程运行环境搭建"
+    }
+  ]
+}

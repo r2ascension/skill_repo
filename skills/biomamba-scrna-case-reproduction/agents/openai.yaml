@@ -1,4 +1,0 @@
-interface:
-  display_name: "Biomamba scRNA Case Reproduction"
-  short_description: "scRNA paper reproduction case workflows"
-  default_prompt: "Use the biomamba-scrna-case-reproduction skill to reproduce a Biomamba single-cell paper case study with this repository's dated output and journaling conventions."

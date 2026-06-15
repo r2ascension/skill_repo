@@ -1,0 +1,4 @@
+interface:
+  display_name: "Causal Inference And Mendelian Randomization Learning"
+  short_description: "Cross-source learning skill for causal-inference framing, Mendelian randomization, and how those analyses are read and reproduced in biomedical research."
+  default_prompt: "Use $bio-learning-causal-inference-and-mendelian-randomization when the user wants learning content organized by concrete function rather than by creator or album source."

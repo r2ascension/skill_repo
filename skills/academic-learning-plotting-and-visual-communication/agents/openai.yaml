@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plotting And Visual Communication Learning"
+  short_description: "Cross-source learning skill for plotting, figure styling, and turning analysis into readable visual communication artifacts."
+  default_prompt: "Use $academic-learning-plotting-and-visual-communication when the user wants learning content organized by concrete function rather than by creator or album source."

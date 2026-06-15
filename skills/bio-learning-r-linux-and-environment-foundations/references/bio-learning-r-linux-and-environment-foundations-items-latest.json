@@ -1,0 +1,794 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-r-linux-and-environment-foundations",
+  "focus": "R, Linux, environment setup, and foundational bioinformatics onboarding",
+  "count": 24,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "Docker部署RStudio服务器全流程｜西柚云服务器+私有镜像配置教程｜R语言环境搭建实操指南",
+      "date": "2025-04-07",
+      "url": "https://www.bilibili.com/video/BV1fGRmYrEJX",
+      "id": "BV1fGRmYrEJX",
+      "category": "Docker And Research Environment",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "Docker部署RStudio服务器全流程｜西柚云服务器+私有镜像配置教程｜R语言环境搭建实操指南",
+        "date": "2025-04-07",
+        "url": "https://www.bilibili.com/video/BV1fGRmYrEJX",
+        "bvid": "BV1fGRmYrEJX",
+        "plays": 1861,
+        "likes": 0,
+        "category_key": "docker-and-research-environment",
+        "category_title": "Docker And Research Environment"
+      },
+      "text_blob": "docker部署rstudio服务器全流程｜西柚云服务器+私有镜像配置教程｜r语言环境搭建实操指南 docker and research environment  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "docker and research environment",
+      "title_lower": "docker部署rstudio服务器全流程｜西柚云服务器+私有镜像配置教程｜r语言环境搭建实操指南"
+    },
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "西柚云服务器搭建Docker私有仓库教程｜手把手配置镜像仓库解决拉取失败问题！",
+      "date": "2025-04-07",
+      "url": "https://www.bilibili.com/video/BV1CyRmYSE73",
+      "id": "BV1CyRmYSE73",
+      "category": "Docker And Research Environment",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "西柚云服务器搭建Docker私有仓库教程｜手把手配置镜像仓库解决拉取失败问题！",
+        "date": "2025-04-07",
+        "url": "https://www.bilibili.com/video/BV1CyRmYSE73",
+        "bvid": "BV1CyRmYSE73",
+        "plays": 1138,
+        "likes": 0,
+        "category_key": "docker-and-research-environment",
+        "category_title": "Docker And Research Environment"
+      },
+      "text_blob": "西柚云服务器搭建docker私有仓库教程｜手把手配置镜像仓库解决拉取失败问题！ docker and research environment  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "docker and research environment",
+      "title_lower": "西柚云服务器搭建docker私有仓库教程｜手把手配置镜像仓库解决拉取失败问题！"
+    },
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "科研环境搭建时常出问题？Docker 来帮你,Docker入门课程01-如何安装Docker",
+      "date": "2025-03-29",
+      "url": "https://www.bilibili.com/video/BV1hUofYeEHF",
+      "id": "BV1hUofYeEHF",
+      "category": "Docker And Research Environment",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "科研环境搭建时常出问题？Docker 来帮你,Docker入门课程01-如何安装Docker",
+        "date": "2025-03-29",
+        "url": "https://www.bilibili.com/video/BV1hUofYeEHF",
+        "bvid": "BV1hUofYeEHF",
+        "plays": 1265,
+        "likes": 0,
+        "category_key": "docker-and-research-environment",
+        "category_title": "Docker And Research Environment"
+      },
+      "text_blob": "科研环境搭建时常出问题？docker 来帮你,docker入门课程01-如何安装docker docker and research environment  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "docker and research environment",
+      "title_lower": "科研环境搭建时常出问题？docker 来帮你,docker入门课程01-如何安装docker"
+    },
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "30秒告诉你什么是生信云服务器，UP主自己都在用，非常推荐",
+      "date": "2025-03-25",
+      "url": "https://www.bilibili.com/video/BV1VnoxYyE8F",
+      "id": "BV1VnoxYyE8F",
+      "category": "Docker And Research Environment",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "30秒告诉你什么是生信云服务器，UP主自己都在用，非常推荐",
+        "date": "2025-03-25",
+        "url": "https://www.bilibili.com/video/BV1VnoxYyE8F",
+        "bvid": "BV1VnoxYyE8F",
+        "plays": 1400,
+        "likes": 0,
+        "category_key": "docker-and-research-environment",
+        "category_title": "Docker And Research Environment"
+      },
+      "text_blob": "30秒告诉你什么是生信云服务器，up主自己都在用，非常推荐 docker and research environment  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "docker and research environment",
+      "title_lower": "30秒告诉你什么是生信云服务器，up主自己都在用，非常推荐"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0915生信实操：FileZilla和Linux简介",
+      "date": "2025-06-03",
+      "url": "https://www.bilibili.com/video/BV1oN7tzeEfh",
+      "id": "BV1oN7tzeEfh",
+      "category": "Practical Omics Foundations",
+      "summary": "",
+      "tags": [
+        "Linux"
+      ],
+      "extra": {
+        "title": "0915生信实操：FileZilla和Linux简介",
+        "date": "2025-06-03",
+        "url": "https://www.bilibili.com/video/BV1oN7tzeEfh",
+        "bvid": "BV1oN7tzeEfh",
+        "plays": 165,
+        "likes": 0,
+        "category_key": "practical-foundations",
+        "category_title": "Practical Omics Foundations",
+        "matched_words": [
+          "Linux"
+        ]
+      },
+      "text_blob": "0915生信实操：filezilla和linux简介 practical omics foundations  linux",
+      "tags_lower": [
+        "linux"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "practical omics foundations",
+      "title_lower": "0915生信实操：filezilla和linux简介"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "AI编程 | R studio里就能操作的AI编程代理",
+      "date": "2026-05-04",
+      "url": "https://www.bilibili.com/video/BV1KTRzBWEgZ",
+      "id": "BV1KTRzBWEgZ",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R studio"
+      ],
+      "extra": {
+        "title": "AI编程 | R studio里就能操作的AI编程代理",
+        "date": "2026-05-04",
+        "url": "https://www.bilibili.com/video/BV1KTRzBWEgZ",
+        "bvid": "BV1KTRzBWEgZ",
+        "plays": 2742,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R studio"
+        ]
+      },
+      "text_blob": "ai编程 | r studio里就能操作的ai编程代理 r and linux foundations  r studio",
+      "tags_lower": [
+        "r studio"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "ai编程 | r studio里就能操作的ai编程代理"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "R和R studio的安装",
+      "date": "2026-02-22",
+      "url": "https://www.bilibili.com/video/BV1SmfwBNEWE",
+      "id": "BV1SmfwBNEWE",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R studio",
+        "R和R"
+      ],
+      "extra": {
+        "title": "R和R studio的安装",
+        "date": "2026-02-22",
+        "url": "https://www.bilibili.com/video/BV1SmfwBNEWE",
+        "bvid": "BV1SmfwBNEWE",
+        "plays": 1185,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R studio",
+          "R和R"
+        ]
+      },
+      "text_blob": "r和r studio的安装 r and linux foundations  r studio r和r",
+      "tags_lower": [
+        "r studio",
+        "r和r"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "r和r studio的安装"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "每天学点R语言 应用篇 连载中 ~day5",
+      "date": "2026-01-25",
+      "url": "https://www.bilibili.com/video/BV1EeztB3Eog",
+      "id": "BV1EeztB3Eog",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "每天学点R语言 应用篇 连载中 ~day5",
+        "date": "2026-01-25",
+        "url": "https://www.bilibili.com/video/BV1EeztB3Eog",
+        "bvid": "BV1EeztB3Eog",
+        "plays": 4959,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "每天学点r语言 应用篇 连载中 ~day5 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "每天学点r语言 应用篇 连载中 ~day5"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "每天学点R语言 进阶篇 - 已完结",
+      "date": "2025-11-05",
+      "url": "https://www.bilibili.com/video/BV1BW14BDEEM",
+      "id": "BV1BW14BDEEM",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "每天学点R语言 进阶篇 - 已完结",
+        "date": "2025-11-05",
+        "url": "https://www.bilibili.com/video/BV1BW14BDEEM",
+        "bvid": "BV1BW14BDEEM",
+        "plays": 16978,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "每天学点r语言 进阶篇 - 已完结 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "每天学点r语言 进阶篇 - 已完结"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "每天一点R语言(基础篇) 已完结",
+      "date": "2025-10-13",
+      "url": "https://www.bilibili.com/video/BV1G84Uz3EgB",
+      "id": "BV1G84Uz3EgB",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "每天一点R语言(基础篇) 已完结",
+        "date": "2025-10-13",
+        "url": "https://www.bilibili.com/video/BV1G84Uz3EgB",
+        "bvid": "BV1G84Uz3EgB",
+        "plays": 82679,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "每天一点r语言(基础篇) 已完结 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "每天一点r语言(基础篇) 已完结"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "RNA count标准化 | RPKM和TPM的计算以及R语言实现从count矩阵转换",
+      "date": "2025-05-30",
+      "url": "https://www.bilibili.com/video/BV1oP7xz4Ec2",
+      "id": "BV1oP7xz4Ec2",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "RNA count标准化 | RPKM和TPM的计算以及R语言实现从count矩阵转换",
+        "date": "2025-05-30",
+        "url": "https://www.bilibili.com/video/BV1oP7xz4Ec2",
+        "bvid": "BV1oP7xz4Ec2",
+        "plays": 2887,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "rna count标准化 | rpkm和tpm的计算以及r语言实现从count矩阵转换 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "rna count标准化 | rpkm和tpm的计算以及r语言实现从count矩阵转换"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "R语言运行加速之 并行化介绍",
+      "date": "2025-05-27",
+      "url": "https://www.bilibili.com/video/BV11ajdzdE9F",
+      "id": "BV11ajdzdE9F",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "R语言运行加速之 并行化介绍",
+        "date": "2025-05-27",
+        "url": "https://www.bilibili.com/video/BV11ajdzdE9F",
+        "bvid": "BV11ajdzdE9F",
+        "plays": 3149,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "r语言运行加速之 并行化介绍 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "r语言运行加速之 并行化介绍"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "无基础医学生如何上手Linux",
+      "date": "2025-04-30",
+      "url": "https://www.bilibili.com/video/BV1JnGtzdEFv",
+      "id": "BV1JnGtzdEFv",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "Linux"
+      ],
+      "extra": {
+        "title": "无基础医学生如何上手Linux",
+        "date": "2025-04-30",
+        "url": "https://www.bilibili.com/video/BV1JnGtzdEFv",
+        "bvid": "BV1JnGtzdEFv",
+        "plays": 7213,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "Linux"
+        ]
+      },
+      "text_blob": "无基础医学生如何上手linux r and linux foundations  linux",
+      "tags_lower": [
+        "linux"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "无基础医学生如何上手linux"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "从零到一：AI助你快速掌握R语言",
+      "date": "2025-01-13",
+      "url": "https://www.bilibili.com/video/BV12Ecke9Eiz",
+      "id": "BV12Ecke9Eiz",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "从零到一：AI助你快速掌握R语言",
+        "date": "2025-01-13",
+        "url": "https://www.bilibili.com/video/BV12Ecke9Eiz",
+        "bvid": "BV12Ecke9Eiz",
+        "plays": 7290,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "从零到一：ai助你快速掌握r语言 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "从零到一：ai助你快速掌握r语言"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "R语言报错2|借助chatGPT解决报错问题|紫薯医学科研",
+      "date": "2024-11-10",
+      "url": "https://www.bilibili.com/video/BV15mmqYWEYx",
+      "id": "BV15mmqYWEYx",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "R语言报错2|借助chatGPT解决报错问题|紫薯医学科研",
+        "date": "2024-11-10",
+        "url": "https://www.bilibili.com/video/BV15mmqYWEYx",
+        "bvid": "BV15mmqYWEYx",
+        "plays": 1627,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "r语言报错2|借助chatgpt解决报错问题|紫薯医学科研 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "r语言报错2|借助chatgpt解决报错问题|紫薯医学科研"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "R语言常见报错原因及解决方案|紫薯医学科研教程",
+      "date": "2024-09-15",
+      "url": "https://www.bilibili.com/video/BV1MetgeBELb",
+      "id": "BV1MetgeBELb",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "R语言常见报错原因及解决方案|紫薯医学科研教程",
+        "date": "2024-09-15",
+        "url": "https://www.bilibili.com/video/BV1MetgeBELb",
+        "bvid": "BV1MetgeBELb",
+        "plays": 12891,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "r语言常见报错原因及解决方案|紫薯医学科研教程 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "r语言常见报错原因及解决方案|紫薯医学科研教程"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "R语言极速入门(一) | 紫薯医学科研教程",
+      "date": "2024-09-03",
+      "url": "https://www.bilibili.com/video/BV1EaH4epEq8",
+      "id": "BV1EaH4epEq8",
+      "category": "R And Linux Foundations",
+      "summary": "",
+      "tags": [
+        "R语言"
+      ],
+      "extra": {
+        "title": "R语言极速入门(一) | 紫薯医学科研教程",
+        "date": "2024-09-03",
+        "url": "https://www.bilibili.com/video/BV1EaH4epEq8",
+        "bvid": "BV1EaH4epEq8",
+        "plays": 5739,
+        "likes": 0,
+        "category_key": "r-linux-foundations",
+        "category_title": "R And Linux Foundations",
+        "matched_words": [
+          "R语言"
+        ]
+      },
+      "text_blob": "r语言极速入门(一) | 紫薯医学科研教程 r and linux foundations  r语言",
+      "tags_lower": [
+        "r语言"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "r and linux foundations",
+      "title_lower": "r语言极速入门(一) | 紫薯医学科研教程"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "12 WSL2 Linux、Miniconda与RStudio Server环境搭建",
+      "date": "2026-05-19",
+      "url": "https://www.bilibili.com/video/BV1nNL76oEb2",
+      "id": "BV1nNL76oEb2",
+      "category": "入门与环境",
+      "summary": "偏环境与工具准备，主要讲WSL2 Linux、Miniconda与RStudio Server环境搭建。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "12 WSL2 Linux、Miniconda与RStudio Server环境搭建",
+        "date": "2026-05-19",
+        "plays": 154,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1nNL76oEb2",
+        "bvid": "BV1nNL76oEb2",
+        "category": "入门与环境",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "偏环境与工具准备，主要讲WSL2 Linux、Miniconda与RStudio Server环境搭建。"
+      },
+      "text_blob": "12 wsl2 linux、miniconda与rstudio server环境搭建 入门与环境 偏环境与工具准备，主要讲wsl2 linux、miniconda与rstudio server环境搭建。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "入门与环境",
+      "title_lower": "12 wsl2 linux、miniconda与rstudio server环境搭建"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "01 R语言基础与RStudio、R包安装使用入门",
+      "date": "2026-05-06",
+      "url": "https://www.bilibili.com/video/BV1uSRsBtEdC",
+      "id": "BV1uSRsBtEdC",
+      "category": "入门与环境",
+      "summary": "偏环境与工具准备，主要讲R语言基础与RStudio、R包安装使用入门。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "01 R语言基础与RStudio、R包安装使用入门",
+        "date": "2026-05-06",
+        "plays": 525,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1uSRsBtEdC",
+        "bvid": "BV1uSRsBtEdC",
+        "category": "入门与环境",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "偏环境与工具准备，主要讲R语言基础与RStudio、R包安装使用入门。"
+      },
+      "text_blob": "01 r语言基础与rstudio、r包安装使用入门 入门与环境 偏环境与工具准备，主要讲r语言基础与rstudio、r包安装使用入门。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "入门与环境",
+      "title_lower": "01 r语言基础与rstudio、r包安装使用入门"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "2.R语言基础知识讲解",
+      "date": "2026-04-11",
+      "url": "https://www.bilibili.com/video/BV1b9QKBwEUc",
+      "id": "BV1b9QKBwEUc",
+      "category": "入门与环境",
+      "summary": "偏环境与工具准备，主要讲R语言基础知识讲解。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "2.R语言基础知识讲解",
+        "date": "2026-04-11",
+        "plays": 219,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1b9QKBwEUc",
+        "bvid": "BV1b9QKBwEUc",
+        "category": "入门与环境",
+        "series": "2026-04 精简生信基础课",
+        "focus": "偏环境与工具准备，主要讲R语言基础知识讲解。"
+      },
+      "text_blob": "2.r语言基础知识讲解 入门与环境 偏环境与工具准备，主要讲r语言基础知识讲解。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "入门与环境",
+      "title_lower": "2.r语言基础知识讲解"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "1.R语言基础与环境配置",
+      "date": "2026-04-10",
+      "url": "https://www.bilibili.com/video/BV1X5QcBpEea",
+      "id": "BV1X5QcBpEea",
+      "category": "入门与环境",
+      "summary": "偏环境与工具准备，主要讲R语言基础与环境配置。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "1.R语言基础与环境配置",
+        "date": "2026-04-10",
+        "plays": 531,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1X5QcBpEea",
+        "bvid": "BV1X5QcBpEea",
+        "category": "入门与环境",
+        "series": "2026-04 精简生信基础课",
+        "focus": "偏环境与工具准备，主要讲R语言基础与环境配置。"
+      },
+      "text_blob": "1.r语言基础与环境配置 入门与环境 偏环境与工具准备，主要讲r语言基础与环境配置。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "入门与环境",
+      "title_lower": "1.r语言基础与环境配置"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "OnekeyComp-Comp8-指标汇总（智能版）",
+      "date": "2026-04-21",
+      "url": "https://www.bilibili.com/video/BV1Fjd1BvEUE",
+      "id": "BV1Fjd1BvEUE",
+      "category": "extended",
+      "summary": "",
+      "tags": [
+        "foundation"
+      ],
+      "extra": {
+        "category": "extended",
+        "matched_rules": [
+          "foundation"
+        ],
+        "title": "OnekeyComp-Comp8-指标汇总（智能版）",
+        "date": "2026-04-21",
+        "url": "https://www.bilibili.com/video/BV1Fjd1BvEUE",
+        "bvid": "BV1Fjd1BvEUE",
+        "plays": 627,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "onekeycomp-comp8-指标汇总（智能版） extended  foundation",
+      "tags_lower": [
+        "foundation"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "extended",
+      "title_lower": "onekeycomp-comp8-指标汇总（智能版）"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "OnekeyComp8-机器学习算法可解释性",
+      "date": "2024-03-21",
+      "url": "https://www.bilibili.com/video/BV1KJ4m1h7wM",
+      "id": "BV1KJ4m1h7wM",
+      "category": "extended",
+      "summary": "",
+      "tags": [
+        "foundation"
+      ],
+      "extra": {
+        "category": "extended",
+        "matched_rules": [
+          "foundation"
+        ],
+        "title": "OnekeyComp8-机器学习算法可解释性",
+        "date": "2024-03-21",
+        "url": "https://www.bilibili.com/video/BV1KJ4m1h7wM",
+        "bvid": "BV1KJ4m1h7wM",
+        "plays": 2325,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "onekeycomp8-机器学习算法可解释性 extended  foundation",
+      "tags_lower": [
+        "foundation"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "extended",
+      "title_lower": "onekeycomp8-机器学习算法可解释性"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "OnekeyComp-深度学习特征提取",
+      "date": "2022-04-10",
+      "url": "https://www.bilibili.com/video/BV1Zu411e7hH",
+      "id": "BV1Zu411e7hH",
+      "category": "extended",
+      "summary": "",
+      "tags": [
+        "foundation"
+      ],
+      "extra": {
+        "category": "extended",
+        "matched_rules": [
+          "foundation"
+        ],
+        "title": "OnekeyComp-深度学习特征提取",
+        "date": "2022-04-10",
+        "url": "https://www.bilibili.com/video/BV1Zu411e7hH",
+        "bvid": "BV1Zu411e7hH",
+        "plays": 6062,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "onekeycomp-深度学习特征提取 extended  foundation",
+      "tags_lower": [
+        "foundation"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "extended",
+      "title_lower": "onekeycomp-深度学习特征提取"
+    }
+  ]
+}

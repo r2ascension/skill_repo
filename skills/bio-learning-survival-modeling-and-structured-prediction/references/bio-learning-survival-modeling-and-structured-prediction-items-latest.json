@@ -1,0 +1,1285 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-survival-modeling-and-structured-prediction",
+  "focus": "survival modeling, structured prediction, and biomedical modeling",
+  "count": 38,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "第一作者视角：带你看懂SCI文章中的113种机器学习模型丨列线图丨免疫浸润",
+      "date": "2026-05-23",
+      "url": "https://www.bilibili.com/video/BV1rsG86DE3K",
+      "id": "BV1rsG86DE3K",
+      "category": "Machine Learning And Immune Modeling",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "第一作者视角：带你看懂SCI文章中的113种机器学习模型丨列线图丨免疫浸润",
+        "date": "2026-05-23",
+        "url": "https://www.bilibili.com/video/BV1rsG86DE3K",
+        "bvid": "BV1rsG86DE3K",
+        "plays": 1559,
+        "likes": 0,
+        "category_key": "ml-and-immune-modeling",
+        "category_title": "Machine Learning And Immune Modeling"
+      },
+      "text_blob": "第一作者视角：带你看懂sci文章中的113种机器学习模型丨列线图丨免疫浸润 machine learning and immune modeling  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "machine learning and immune modeling",
+      "title_lower": "第一作者视角：带你看懂sci文章中的113种机器学习模型丨列线图丨免疫浸润"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "15.单细胞测序数据分析 细胞亚群再聚类 细胞注释",
+      "date": "2024-05-24",
+      "url": "https://www.bilibili.com/video/BV1tb421z7N7",
+      "id": "BV1tb421z7N7",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "15.单细胞测序数据分析 细胞亚群再聚类 细胞注释",
+        "date": "2024-05-24",
+        "url": "https://www.bilibili.com/video/BV1tb421z7N7",
+        "bvid": "BV1tb421z7N7",
+        "plays": 23805,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "15.单细胞测序数据分析 细胞亚群再聚类 细胞注释 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "15.单细胞测序数据分析 细胞亚群再聚类 细胞注释"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "（scRNA-seq持续更新）单细胞测序数据分析/多样本单细胞SeuratV5标准流程分析全代码/单细胞转录组最新教程/Harmony去批次/单细胞实战/入门",
+      "date": "2024-04-26",
+      "url": "https://www.bilibili.com/video/BV1Yz4216787",
+      "id": "BV1Yz4216787",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "scRNA",
+        "Seurat"
+      ],
+      "extra": {
+        "title": "（scRNA-seq持续更新）单细胞测序数据分析/多样本单细胞SeuratV5标准流程分析全代码/单细胞转录组最新教程/Harmony去批次/单细胞实战/入门",
+        "date": "2024-04-26",
+        "url": "https://www.bilibili.com/video/BV1Yz4216787",
+        "bvid": "BV1Yz4216787",
+        "plays": 80759,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "scRNA",
+          "Seurat"
+        ]
+      },
+      "text_blob": "（scrna-seq持续更新）单细胞测序数据分析/多样本单细胞seuratv5标准流程分析全代码/单细胞转录组最新教程/harmony去批次/单细胞实战/入门 single-cell workflow  单细胞 scrna seurat",
+      "tags_lower": [
+        "scrna",
+        "seurat",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "（scrna-seq持续更新）单细胞测序数据分析/多样本单细胞seuratv5标准流程分析全代码/单细胞转录组最新教程/harmony去批次/单细胞实战/入门"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "08.单细胞Seurat标准流程分析：如何做出理想的Umap降维聚类图",
+      "date": "2023-12-21",
+      "url": "https://www.bilibili.com/video/BV1KN4y187A6",
+      "id": "BV1KN4y187A6",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Seurat",
+        "Umap"
+      ],
+      "extra": {
+        "title": "08.单细胞Seurat标准流程分析：如何做出理想的Umap降维聚类图",
+        "date": "2023-12-21",
+        "url": "https://www.bilibili.com/video/BV1KN4y187A6",
+        "bvid": "BV1KN4y187A6",
+        "plays": 15151,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "Seurat",
+          "Umap"
+        ]
+      },
+      "text_blob": "08.单细胞seurat标准流程分析：如何做出理想的umap降维聚类图 single-cell workflow  单细胞 seurat umap",
+      "tags_lower": [
+        "seurat",
+        "umap",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "08.单细胞seurat标准流程分析：如何做出理想的umap降维聚类图"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "4. R语言GO富集分析【超简单】",
+      "date": "2023-11-08",
+      "url": "https://www.bilibili.com/video/BV13w411T78C",
+      "id": "BV13w411T78C",
+      "category": "Immune, Enrichment, And Survival",
+      "summary": "",
+      "tags": [
+        "GO"
+      ],
+      "extra": {
+        "title": "4. R语言GO富集分析【超简单】",
+        "date": "2023-11-08",
+        "url": "https://www.bilibili.com/video/BV13w411T78C",
+        "bvid": "BV13w411T78C",
+        "plays": 10017,
+        "likes": 0,
+        "category_key": "immune-enrichment-survival",
+        "category_title": "Immune, Enrichment, And Survival",
+        "matched_words": [
+          "GO"
+        ]
+      },
+      "text_blob": "4. r语言go富集分析【超简单】 immune, enrichment, and survival  go",
+      "tags_lower": [
+        "go"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "immune, enrichment, and survival",
+      "title_lower": "4. r语言go富集分析【超简单】"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "3. 【RNA-Seq转录组分析三】R语言整合GTEX数据和TCGA数据，去批次效应",
+      "date": "2023-10-26",
+      "url": "https://www.bilibili.com/video/BV1NG411C7x1",
+      "id": "BV1NG411C7x1",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "TCGA",
+        "RNA-Seq",
+        "GTEX"
+      ],
+      "extra": {
+        "title": "3. 【RNA-Seq转录组分析三】R语言整合GTEX数据和TCGA数据，去批次效应",
+        "date": "2023-10-26",
+        "url": "https://www.bilibili.com/video/BV1NG411C7x1",
+        "bvid": "BV1NG411C7x1",
+        "plays": 5008,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "TCGA",
+          "RNA-Seq",
+          "GTEX"
+        ]
+      },
+      "text_blob": "3. 【rna-seq转录组分析三】r语言整合gtex数据和tcga数据，去批次效应 geo, tcga, and rna-seq  tcga rna-seq gtex",
+      "tags_lower": [
+        "gtex",
+        "rna-seq",
+        "tcga"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "3. 【rna-seq转录组分析三】r语言整合gtex数据和tcga数据，去批次效应"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "2. GEO数据挖掘：R语言生存分析",
+      "date": "2023-10-21",
+      "url": "https://www.bilibili.com/video/BV1KM411R7y3",
+      "id": "BV1KM411R7y3",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "GEO"
+      ],
+      "extra": {
+        "title": "2. GEO数据挖掘：R语言生存分析",
+        "date": "2023-10-21",
+        "url": "https://www.bilibili.com/video/BV1KM411R7y3",
+        "bvid": "BV1KM411R7y3",
+        "plays": 5460,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "GEO"
+        ]
+      },
+      "text_blob": "2. geo数据挖掘：r语言生存分析 geo, tcga, and rna-seq  geo",
+      "tags_lower": [
+        "geo"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "2. geo数据挖掘：r语言生存分析"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "02.单细胞转录组测序分析流程(多样本harmony整合去批次)【手把手教】",
+      "date": "2023-04-19",
+      "url": "https://www.bilibili.com/video/BV1M24y1c7R3",
+      "id": "BV1M24y1c7R3",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "02.单细胞转录组测序分析流程(多样本harmony整合去批次)【手把手教】",
+        "date": "2023-04-19",
+        "url": "https://www.bilibili.com/video/BV1M24y1c7R3",
+        "bvid": "BV1M24y1c7R3",
+        "plays": 43232,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "02.单细胞转录组测序分析流程(多样本harmony整合去批次)【手把手教】 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "02.单细胞转录组测序分析流程(多样本harmony整合去批次)【手把手教】"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "跟着顶刊学画图，今天要学的是：单细胞聚类圈图",
+      "date": "2025-09-22",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487776&idx=1&sn=f15368b3c38aa5343dfcf6e3f9f23faa&chksm=fe37846bc9400d7d95b41e71ffaf4964b747db5c199c3ef22d02d9f374973fa0926130d30f72#rd",
+      "id": "2247487776_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "跟着顶刊学画图，今天要学的是：单细胞聚类圈图",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487776&idx=1&sn=f15368b3c38aa5343dfcf6e3f9f23faa&chksm=fe37846bc9400d7d95b41e71ffaf4964b747db5c199c3ef22d02d9f374973fa0926130d30f72#rd",
+        "msgid": "2247487776",
+        "itemidx": "1",
+        "pos_num": "5",
+        "date": "2025-09-22",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "跟着顶刊学画图，今天要学的是：单细胞聚类圈图 single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "跟着顶刊学画图，今天要学的是：单细胞聚类圈图"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "bigSCale代码实操（一）：对scRNA-seq聚类、拟时序分析",
+      "date": "2023-08-02",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247488649&idx=1&sn=c5b1eee571fd9e048189640b0e37d8e1&chksm=eb94a3f7dce32ae199c67092797c39529692ca339dcccd1c2674d7bdf456ea822cafb1d84280#rd",
+      "id": "2247488649_1",
+      "category": "Single-Cell And Multi-Omics Software",
+      "summary": "Relevant single-cell and multi-omics software entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "bigSCale代码实操（一）：对scRNA-seq聚类、拟时序分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247488649&idx=1&sn=c5b1eee571fd9e048189640b0e37d8e1&chksm=eb94a3f7dce32ae199c67092797c39529692ca339dcccd1c2674d7bdf456ea822cafb1d84280#rd",
+        "msgid": "2247488649",
+        "itemidx": "1",
+        "pos_num": "65",
+        "date": "2023-08-02",
+        "category_key": "single-cell-and-omics",
+        "category_title": "Single-Cell And Multi-Omics Software",
+        "brief": "Relevant single-cell and multi-omics software entry kept from the curated album."
+      },
+      "text_blob": "bigscale代码实操（一）：对scrna-seq聚类、拟时序分析 single-cell and multi-omics software relevant single-cell and multi-omics software entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "single-cell and multi-omics software",
+      "title_lower": "bigscale代码实操（一）：对scrna-seq聚类、拟时序分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Scissor实操（一）：利用Cox回归模型识别特征细胞",
+      "date": "2022-08-29",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247486287&idx=1&sn=670cff633ff3cf4e948f3a1a445d4358&chksm=eb94bc31dce3352721fdffab250478da7d1702a9878da7a7f660ad51581c7f3301332cdee4a2#rd",
+      "id": "2247486287_1",
+      "category": "Single-Cell And Multi-Omics Software",
+      "summary": "Relevant single-cell and multi-omics software entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "Scissor实操（一）：利用Cox回归模型识别特征细胞",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247486287&idx=1&sn=670cff633ff3cf4e948f3a1a445d4358&chksm=eb94bc31dce3352721fdffab250478da7d1702a9878da7a7f660ad51581c7f3301332cdee4a2#rd",
+        "msgid": "2247486287",
+        "itemidx": "1",
+        "pos_num": "15",
+        "date": "2022-08-29",
+        "category_key": "single-cell-and-omics",
+        "category_title": "Single-Cell And Multi-Omics Software",
+        "brief": "Relevant single-cell and multi-omics software entry kept from the curated album."
+      },
+      "text_blob": "scissor实操（一）：利用cox回归模型识别特征细胞 single-cell and multi-omics software relevant single-cell and multi-omics software entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "single-cell and multi-omics software",
+      "title_lower": "scissor实操（一）：利用cox回归模型识别特征细胞"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "对单细胞亚群取子集后继续降维聚类分群该如何做",
+      "date": "2022-01-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510343&idx=1&sn=9a8c3db167ae2324913d6ac8d0d8f01b&chksm=9b4be9fcac3c60ea69ffcf65ceb6062ae26c71d22be9c4b5644b13d1870f52f295b15bd11d61#rd",
+      "id": "2247510343_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "对单细胞亚群取子集后继续降维聚类分群该如何做",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510343&idx=1&sn=9a8c3db167ae2324913d6ac8d0d8f01b&chksm=9b4be9fcac3c60ea69ffcf65ceb6062ae26c71d22be9c4b5644b13d1870f52f295b15bd11d61#rd",
+        "msgid": "2247510343",
+        "itemidx": "1",
+        "pos_num": "135",
+        "date": "2022-01-10",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "对单细胞亚群取子集后继续降维聚类分群该如何做 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "对单细胞亚群取子集后继续降维聚类分群该如何做"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "急！计划招募100个单细胞爱好者，免费学全套单细胞降维聚类分群和生物学亚群注释，仅限今天！",
+      "date": "2021-06-12",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503683&idx=1&sn=6872a7825afbcdf096f717dc78af0116&chksm=9b4b8ff8ac3c06eebace288d15dafdbc183c067ba0e1c1c5150818c48aa271becc608c16a014#rd",
+      "id": "2247503683_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "急！计划招募100个单细胞爱好者，免费学全套单细胞降维聚类分群和生物学亚群注释，仅限今天！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503683&idx=1&sn=6872a7825afbcdf096f717dc78af0116&chksm=9b4b8ff8ac3c06eebace288d15dafdbc183c067ba0e1c1c5150818c48aa271becc608c16a014#rd",
+        "msgid": "2247503683",
+        "itemidx": "1",
+        "pos_num": "111",
+        "date": "2021-06-12",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "急！计划招募100个单细胞爱好者，免费学全套单细胞降维聚类分群和生物学亚群注释，仅限今天！ advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "急！计划招募100个单细胞爱好者，免费学全套单细胞降维聚类分群和生物学亚群注释，仅限今天！"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞转录组测序中的批次效应知多少？ （上）",
+      "date": "2020-11-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496901&idx=1&sn=7efc2988104043051f55b2a3c6e64730&chksm=9b4bb47eac3c3d6884c332e19d0e190d156f0c3bf57319c36ddc70243efd81bb2c12fdbc197b#rd",
+      "id": "2247496901_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞转录组测序中的批次效应知多少？ （上）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496901&idx=1&sn=7efc2988104043051f55b2a3c6e64730&chksm=9b4bb47eac3c3d6884c332e19d0e190d156f0c3bf57319c36ddc70243efd81bb2c12fdbc197b#rd",
+        "msgid": "2247496901",
+        "itemidx": "1",
+        "pos_num": "77",
+        "date": "2020-11-07",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞转录组测序中的批次效应知多少？ （上） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞转录组测序中的批次效应知多少？ （上）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "比较不同的对单细胞转录组数据聚类的方法",
+      "date": "2018-01-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247485770&idx=1&sn=5414b225439306bb2d0f8bc9fb5b392c&chksm=9b4849f1ac3fc0e7ff3e9e8f28c70d512aab863d3d79124b667f30c7754f1518ad11712b3366#rd",
+      "id": "2247485770_1",
+      "category": "Comparison And Visualization",
+      "summary": "Relevant comparison and visualization entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "比较不同的对单细胞转录组数据聚类的方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247485770&idx=1&sn=5414b225439306bb2d0f8bc9fb5b392c&chksm=9b4849f1ac3fc0e7ff3e9e8f28c70d512aab863d3d79124b667f30c7754f1518ad11712b3366#rd",
+        "msgid": "2247485770",
+        "itemidx": "1",
+        "pos_num": "44",
+        "date": "2018-01-19",
+        "category_key": "comparison-and-visualization",
+        "category_title": "Comparison And Visualization",
+        "brief": "Relevant comparison and visualization entry kept from the curated album."
+      },
+      "text_blob": "比较不同的对单细胞转录组数据聚类的方法 comparison and visualization relevant comparison and visualization entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "comparison and visualization",
+      "title_lower": "比较不同的对单细胞转录组数据聚类的方法"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "人人都能学会的单细胞聚类分群注释",
+      "date": "2020-12-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497956&idx=1&sn=5d4deb7cf7b7848b3e2273cbd663bb6a&chksm=9b4bb85fac3c3149d72f3e722615fda764df268d0f6aabfa077cb25dbf91420e6840e84a494f#rd",
+      "id": "2247497956_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "人人都能学会的单细胞聚类分群注释",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497956&idx=1&sn=5d4deb7cf7b7848b3e2273cbd663bb6a&chksm=9b4bb85fac3c3149d72f3e722615fda764df268d0f6aabfa077cb25dbf91420e6840e84a494f#rd",
+        "msgid": "2247497956",
+        "itemidx": "1",
+        "pos_num": "30",
+        "date": "2020-12-24",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "人人都能学会的单细胞聚类分群注释 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "人人都能学会的单细胞聚类分群注释"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞转录组测序中的批次效应知多少？ （下）",
+      "date": "2020-11-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497037&idx=2&sn=37e5cd49577b2a95609b12e28f2096f1&chksm=9b4bb5f6ac3c3ce0747ca0397e4c340b3902cb4bd0e478197a255d31b9f3d7e963ea0bf2c8ca#rd",
+      "id": "2247497037_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞转录组测序中的批次效应知多少？ （下）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497037&idx=2&sn=37e5cd49577b2a95609b12e28f2096f1&chksm=9b4bb5f6ac3c3ce0747ca0397e4c340b3902cb4bd0e478197a255d31b9f3d7e963ea0bf2c8ca#rd",
+        "msgid": "2247497037",
+        "itemidx": "2",
+        "pos_num": "19",
+        "date": "2020-11-08",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞转录组测序中的批次效应知多少？ （下） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞转录组测序中的批次效应知多少？ （下）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "06.KM-plotter网站使用方法",
+      "date": "2025-04-15",
+      "url": "https://www.bilibili.com/video/BV1HJopYmEjt",
+      "id": "BV1HJopYmEjt",
+      "category": "核心生信分析",
+      "summary": "介绍 KM-plotter 的生存分析用法，用于快速验证候选基因与预后的关系。",
+      "tags": [
+        "survival",
+        "web-tool"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "survival",
+          "web-tool"
+        ],
+        "title": "06.KM-plotter网站使用方法",
+        "date": "2025-04-15",
+        "plays": 478,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1HJopYmEjt",
+        "bvid": "BV1HJopYmEjt",
+        "content_summary": "介绍 KM-plotter 的生存分析用法，用于快速验证候选基因与预后的关系。"
+      },
+      "text_blob": "06.km-plotter网站使用方法 核心生信分析 介绍 km-plotter 的生存分析用法，用于快速验证候选基因与预后的关系。 survival web-tool",
+      "tags_lower": [
+        "survival",
+        "web-tool"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "06.km-plotter网站使用方法"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "聚类热图之Hiplot",
+      "date": "2025-03-14",
+      "url": "https://www.bilibili.com/video/BV1QiQgYSEPn",
+      "id": "BV1QiQgYSEPn",
+      "category": "核心生信分析",
+      "summary": "介绍 Hiplot 绘制聚类热图的用法，适合作为表达矩阵可视化补充。",
+      "tags": [
+        "heatmap",
+        "hiplot"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "heatmap",
+          "hiplot"
+        ],
+        "title": "聚类热图之Hiplot",
+        "date": "2025-03-14",
+        "plays": 181,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1QiQgYSEPn",
+        "bvid": "BV1QiQgYSEPn",
+        "content_summary": "介绍 Hiplot 绘制聚类热图的用法，适合作为表达矩阵可视化补充。"
+      },
+      "text_blob": "聚类热图之hiplot 核心生信分析 介绍 hiplot 绘制聚类热图的用法，适合作为表达矩阵可视化补充。 heatmap hiplot",
+      "tags_lower": [
+        "heatmap",
+        "hiplot"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "聚类热图之hiplot"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "05 Seurat多样本整合、批次校正与SCTTransform流程",
+      "date": "2026-05-10",
+      "url": "https://www.bilibili.com/video/BV1L6RsBeETC",
+      "id": "BV1L6RsBeETC",
+      "category": "单细胞基础",
+      "summary": "重点讲Seurat多样本整合、批次校正与SCTTransform流程。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "05 Seurat多样本整合、批次校正与SCTTransform流程",
+        "date": "2026-05-10",
+        "plays": 108,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1L6RsBeETC",
+        "bvid": "BV1L6RsBeETC",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲Seurat多样本整合、批次校正与SCTTransform流程。"
+      },
+      "text_blob": "05 seurat多样本整合、批次校正与scttransform流程 单细胞基础 重点讲seurat多样本整合、批次校正与scttransform流程。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "05 seurat多样本整合、批次校正与scttransform流程"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "10.单细胞降维聚类与注释",
+      "date": "2026-04-20",
+      "url": "https://www.bilibili.com/video/BV1ZwdvBPEN5",
+      "id": "BV1ZwdvBPEN5",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞降维聚类与注释。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "10.单细胞降维聚类与注释",
+        "date": "2026-04-20",
+        "plays": 176,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ZwdvBPEN5",
+        "bvid": "BV1ZwdvBPEN5",
+        "category": "单细胞基础",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲单细胞降维聚类与注释。"
+      },
+      "text_blob": "10.单细胞降维聚类与注释 单细胞基础 重点讲单细胞降维聚类与注释。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "10.单细胞降维聚类与注释"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "3.生存曲线",
+      "date": "2026-04-12",
+      "url": "https://www.bilibili.com/video/BV1oHQuBSE3Z",
+      "id": "BV1oHQuBSE3Z",
+      "category": "Bulk RNA-seq / 芯片 / 公共数据库",
+      "summary": "重点讲生存曲线。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "3.生存曲线",
+        "date": "2026-04-12",
+        "plays": 259,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1oHQuBSE3Z",
+        "bvid": "BV1oHQuBSE3Z",
+        "category": "Bulk RNA-seq / 芯片 / 公共数据库",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲生存曲线。"
+      },
+      "text_blob": "3.生存曲线 bulk rna-seq / 芯片 / 公共数据库 重点讲生存曲线。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "bulk rna-seq / 芯片 / 公共数据库",
+      "title_lower": "3.生存曲线"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20260517训练营-传统组学+深度学习，内涵深度学习的多种玩法，with 交叉验证教程",
+      "date": "2026-05-17",
+      "url": "https://www.bilibili.com/video/BV1jsLH68ETa",
+      "id": "BV1jsLH68ETa",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling",
+        "omics"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling",
+          "omics"
+        ],
+        "title": "20260517训练营-传统组学+深度学习，内涵深度学习的多种玩法，with 交叉验证教程",
+        "date": "2026-05-17",
+        "url": "https://www.bilibili.com/video/BV1jsLH68ETa",
+        "bvid": "BV1jsLH68ETa",
+        "plays": 1080,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20260517训练营-传统组学+深度学习，内涵深度学习的多种玩法，with 交叉验证教程 core  modeling omics",
+      "tags_lower": [
+        "modeling",
+        "omics"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20260517训练营-传统组学+深度学习，内涵深度学习的多种玩法，with 交叉验证教程"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20260412训练营-多分类深度学习+组学(with One vs Other)",
+      "date": "2026-04-14",
+      "url": "https://www.bilibili.com/video/BV19EQvBmE4F",
+      "id": "BV19EQvBmE4F",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling",
+        "omics"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling",
+          "omics"
+        ],
+        "title": "20260412训练营-多分类深度学习+组学(with One vs Other)",
+        "date": "2026-04-14",
+        "url": "https://www.bilibili.com/video/BV19EQvBmE4F",
+        "bvid": "BV19EQvBmE4F",
+        "plays": 819,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20260412训练营-多分类深度学习+组学(with one vs other) core  modeling omics",
+      "tags_lower": [
+        "modeling",
+        "omics"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20260412训练营-多分类深度学习+组学(with one vs other)"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20260329训练营-多分类在Onekey中如何实现（with One vs Others组件）",
+      "date": "2026-03-30",
+      "url": "https://www.bilibili.com/video/BV1J3XeBtEhR",
+      "id": "BV1J3XeBtEhR",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "20260329训练营-多分类在Onekey中如何实现（with One vs Others组件）",
+        "date": "2026-03-30",
+        "url": "https://www.bilibili.com/video/BV1J3XeBtEhR",
+        "bvid": "BV1J3XeBtEhR",
+        "plays": 814,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20260329训练营-多分类在onekey中如何实现（with one vs others组件） core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20260329训练营-多分类在onekey中如何实现（with one vs others组件）"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "OnekeyComp-Comp8-Combat批次矫正",
+      "date": "2026-03-15",
+      "url": "https://www.bilibili.com/video/BV1Fsw3zXE1V",
+      "id": "BV1Fsw3zXE1V",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "OnekeyComp-Comp8-Combat批次矫正",
+        "date": "2026-03-15",
+        "url": "https://www.bilibili.com/video/BV1Fsw3zXE1V",
+        "bvid": "BV1Fsw3zXE1V",
+        "plays": 557,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "onekeycomp-comp8-combat批次矫正 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "onekeycomp-comp8-combat批次矫正"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20260208训练营-交叉验证在Onekey中如何做？",
+      "date": "2026-02-28",
+      "url": "https://www.bilibili.com/video/BV1wzAtz3E9f",
+      "id": "BV1wzAtz3E9f",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "20260208训练营-交叉验证在Onekey中如何做？",
+        "date": "2026-02-28",
+        "url": "https://www.bilibili.com/video/BV1wzAtz3E9f",
+        "bvid": "BV1wzAtz3E9f",
+        "plays": 656,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20260208训练营-交叉验证在onekey中如何做？ core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20260208训练营-交叉验证在onekey中如何做？"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20250713训练营-任意结构化数据的生存模型，兼容任何表格数据",
+      "date": "2025-07-16",
+      "url": "https://www.bilibili.com/video/BV19xutzrE1P",
+      "id": "BV19xutzrE1P",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling",
+        "survival"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling",
+          "survival"
+        ],
+        "title": "20250713训练营-任意结构化数据的生存模型，兼容任何表格数据",
+        "date": "2025-07-16",
+        "url": "https://www.bilibili.com/video/BV19xutzrE1P",
+        "bvid": "BV19xutzrE1P",
+        "plays": 1435,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20250713训练营-任意结构化数据的生存模型，兼容任何表格数据 core  modeling survival",
+      "tags_lower": [
+        "modeling",
+        "survival"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20250713训练营-任意结构化数据的生存模型，兼容任何表格数据"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20250629训练营-基于原生cox loss的深度学习模型以及组学特征",
+      "date": "2025-07-02",
+      "url": "https://www.bilibili.com/video/BV1Qcg6zgEbq",
+      "id": "BV1Qcg6zgEbq",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "omics",
+        "survival"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "omics",
+          "survival"
+        ],
+        "title": "20250629训练营-基于原生cox loss的深度学习模型以及组学特征",
+        "date": "2025-07-02",
+        "url": "https://www.bilibili.com/video/BV1Qcg6zgEbq",
+        "bvid": "BV1Qcg6zgEbq",
+        "plays": 1660,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20250629训练营-基于原生cox loss的深度学习模型以及组学特征 core  omics survival",
+      "tags_lower": [
+        "omics",
+        "survival"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20250629训练营-基于原生cox loss的深度学习模型以及组学特征"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20250622训练营-基于深度学习的Cox loss模型。",
+      "date": "2025-06-28",
+      "url": "https://www.bilibili.com/video/BV1DdKkziEMt",
+      "id": "BV1DdKkziEMt",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "survival"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "survival"
+        ],
+        "title": "20250622训练营-基于深度学习的Cox loss模型。",
+        "date": "2025-06-28",
+        "url": "https://www.bilibili.com/video/BV1DdKkziEMt",
+        "bvid": "BV1DdKkziEMt",
+        "plays": 1377,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20250622训练营-基于深度学习的cox loss模型。 core  survival",
+      "tags_lower": [
+        "survival"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20250622训练营-基于深度学习的cox loss模型。"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20250615训练营-无监督ITH Score以及多种聚类算法",
+      "date": "2025-06-18",
+      "url": "https://www.bilibili.com/video/BV1siNhzoEoL",
+      "id": "BV1siNhzoEoL",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "20250615训练营-无监督ITH Score以及多种聚类算法",
+        "date": "2025-06-18",
+        "url": "https://www.bilibili.com/video/BV1siNhzoEoL",
+        "bvid": "BV1siNhzoEoL",
+        "plays": 1508,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20250615训练营-无监督ith score以及多种聚类算法 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20250615训练营-无监督ith score以及多种聚类算法"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20250608训练营-Fast模式、聚类separate一网打尽",
+      "date": "2025-06-09",
+      "url": "https://www.bilibili.com/video/BV1WnTYzYEAz",
+      "id": "BV1WnTYzYEAz",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "20250608训练营-Fast模式、聚类separate一网打尽",
+        "date": "2025-06-09",
+        "url": "https://www.bilibili.com/video/BV1WnTYzYEAz",
+        "bvid": "BV1WnTYzYEAz",
+        "plays": 1562,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20250608训练营-fast模式、聚类separate一网打尽 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20250608训练营-fast模式、聚类separate一网打尽"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20250309训练营-病理patch聚类，然后分类新范式。",
+      "date": "2025-04-06",
+      "url": "https://www.bilibili.com/video/BV1TUR9YGEvh",
+      "id": "BV1TUR9YGEvh",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "20250309训练营-病理patch聚类，然后分类新范式。",
+        "date": "2025-04-06",
+        "url": "https://www.bilibili.com/video/BV1TUR9YGEvh",
+        "bvid": "BV1TUR9YGEvh",
+        "plays": 1150,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20250309训练营-病理patch聚类，然后分类新范式。 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20250309训练营-病理patch聚类，然后分类新范式。"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20241117训练营-还能活多少年？5年的生存风险？生存分析怎么搞？Onekey一文解千愁。",
+      "date": "2024-11-20",
+      "url": "https://www.bilibili.com/video/BV1EKScYaE93",
+      "id": "BV1EKScYaE93",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "survival"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "survival"
+        ],
+        "title": "20241117训练营-还能活多少年？5年的生存风险？生存分析怎么搞？Onekey一文解千愁。",
+        "date": "2024-11-20",
+        "url": "https://www.bilibili.com/video/BV1EKScYaE93",
+        "bvid": "BV1EKScYaE93",
+        "plays": 2052,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20241117训练营-还能活多少年？5年的生存风险？生存分析怎么搞？onekey一文解千愁。 core  survival",
+      "tags_lower": [
+        "survival"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20241117训练营-还能活多少年？5年的生存风险？生存分析怎么搞？onekey一文解千愁。"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20240728训练营-多分类在Onekey中如何实现，Micro-Macro AUC，混淆矩阵",
+      "date": "2024-08-01",
+      "url": "https://www.bilibili.com/video/BV1jT42167vE",
+      "id": "BV1jT42167vE",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "20240728训练营-多分类在Onekey中如何实现，Micro-Macro AUC，混淆矩阵",
+        "date": "2024-08-01",
+        "url": "https://www.bilibili.com/video/BV1jT42167vE",
+        "bvid": "BV1jT42167vE",
+        "plays": 1799,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20240728训练营-多分类在onekey中如何实现，micro-macro auc，混淆矩阵 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20240728训练营-多分类在onekey中如何实现，micro-macro auc，混淆矩阵"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "OnekeyComp-Comp2结构化数据建模",
+      "date": "2024-06-03",
+      "url": "https://www.bilibili.com/video/BV1Eb421i7nn",
+      "id": "BV1Eb421i7nn",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "OnekeyComp-Comp2结构化数据建模",
+        "date": "2024-06-03",
+        "url": "https://www.bilibili.com/video/BV1Eb421i7nn",
+        "bvid": "BV1Eb421i7nn",
+        "plays": 2961,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "onekeycomp-comp2结构化数据建模 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "onekeycomp-comp2结构化数据建模"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "20240204训练营-生存分析在Onekey中如何实现？",
+      "date": "2024-02-28",
+      "url": "https://www.bilibili.com/video/BV1zy421q7Vj",
+      "id": "BV1zy421q7Vj",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "survival"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "survival"
+        ],
+        "title": "20240204训练营-生存分析在Onekey中如何实现？",
+        "date": "2024-02-28",
+        "url": "https://www.bilibili.com/video/BV1zy421q7Vj",
+        "bvid": "BV1zy421q7Vj",
+        "plays": 2065,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "20240204训练营-生存分析在onekey中如何实现？ core  survival",
+      "tags_lower": [
+        "survival"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "20240204训练营-生存分析在onekey中如何实现？"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "Onekey工具箱-OKT-gen_feature_cluster，可以对任意特征进行聚类分析以及可视化。",
+      "date": "2023-11-12",
+      "url": "https://www.bilibili.com/video/BV1mN4y1D7sK",
+      "id": "BV1mN4y1D7sK",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "modeling"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "modeling"
+        ],
+        "title": "Onekey工具箱-OKT-gen_feature_cluster，可以对任意特征进行聚类分析以及可视化。",
+        "date": "2023-11-12",
+        "url": "https://www.bilibili.com/video/BV1mN4y1D7sK",
+        "bvid": "BV1mN4y1D7sK",
+        "plays": 1447,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "onekey工具箱-okt-gen_feature_cluster，可以对任意特征进行聚类分析以及可视化。 core  modeling",
+      "tags_lower": [
+        "modeling"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "onekey工具箱-okt-gen_feature_cluster，可以对任意特征进行聚类分析以及可视化。"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "ai-learning-research-productivity-and-editing",
+  "focus": "editing, office productivity, and AI-assisted research workflow",
+  "count": 10,
+  "items": [
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "1103生信实操：Linux实操中的Vim编辑器",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV18p7DzHE9z",
+      "id": "BV18p7DzHE9z",
+      "category": "Practical Omics Foundations",
+      "summary": "",
+      "tags": [
+        "Linux"
+      ],
+      "extra": {
+        "title": "1103生信实操：Linux实操中的Vim编辑器",
+        "date": "2025-06-02",
+        "url": "https://www.bilibili.com/video/BV18p7DzHE9z",
+        "bvid": "BV18p7DzHE9z",
+        "plays": 138,
+        "likes": 0,
+        "category_key": "practical-foundations",
+        "category_title": "Practical Omics Foundations",
+        "matched_words": [
+          "Linux"
+        ]
+      },
+      "text_blob": "1103生信实操：linux实操中的vim编辑器 practical omics foundations  linux",
+      "tags_lower": [
+        "linux"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "practical omics foundations",
+      "title_lower": "1103生信实操：linux实操中的vim编辑器"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20251030 人工智能的社会影响力与图书馆员的能力增强",
+      "date": "2025-10-30",
+      "url": "https://www.bilibili.com/video/BV1ffy8B8E7S",
+      "id": "BV1ffy8B8E7S",
+      "category": "Productivity, Editing, And AI Literacy",
+      "summary": "",
+      "tags": [
+        "图书馆"
+      ],
+      "extra": {
+        "title": "20251030 人工智能的社会影响力与图书馆员的能力增强",
+        "date": "2025-10-30",
+        "url": "https://www.bilibili.com/video/BV1ffy8B8E7S",
+        "bvid": "BV1ffy8B8E7S",
+        "plays": 170,
+        "likes": 0,
+        "category_key": "productivity-and-literacy",
+        "category_title": "Productivity, Editing, And AI Literacy",
+        "matched_words": [
+          "图书馆"
+        ]
+      },
+      "text_blob": "20251030 人工智能的社会影响力与图书馆员的能力增强 productivity, editing, and ai literacy  图书馆",
+      "tags_lower": [
+        "图书馆"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "productivity, editing, and ai literacy",
+      "title_lower": "20251030 人工智能的社会影响力与图书馆员的能力增强"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250916 利用AI工具提升办公与科学研究的效率",
+      "date": "2025-09-17",
+      "url": "https://www.bilibili.com/video/BV1Unp4zAE65",
+      "id": "BV1Unp4zAE65",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250916 利用AI工具提升办公与科学研究的效率",
+        "date": "2025-09-17",
+        "url": "https://www.bilibili.com/video/BV1Unp4zAE65",
+        "bvid": "BV1Unp4zAE65",
+        "plays": 358,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250916 利用ai工具提升办公与科学研究的效率 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250916 利用ai工具提升办公与科学研究的效率"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250620 利用AI工具辅助编辑出版工作（下）",
+      "date": "2025-06-20",
+      "url": "https://www.bilibili.com/video/BV1pCKTzZE49",
+      "id": "BV1pCKTzZE49",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250620 利用AI工具辅助编辑出版工作（下）",
+        "date": "2025-06-20",
+        "url": "https://www.bilibili.com/video/BV1pCKTzZE49",
+        "bvid": "BV1pCKTzZE49",
+        "plays": 457,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250620 利用ai工具辅助编辑出版工作（下） ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250620 利用ai工具辅助编辑出版工作（下）"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250620 利用 AI工具辅助编辑出版工作（上）",
+      "date": "2025-06-20",
+      "url": "https://www.bilibili.com/video/BV1AxKMzFET6",
+      "id": "BV1AxKMzFET6",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250620 利用 AI工具辅助编辑出版工作（上）",
+        "date": "2025-06-20",
+        "url": "https://www.bilibili.com/video/BV1AxKMzFET6",
+        "bvid": "BV1AxKMzFET6",
+        "plays": 299,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250620 利用 ai工具辅助编辑出版工作（上） ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250620 利用 ai工具辅助编辑出版工作（上）"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250508 人工智能赋能行政办公（上）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1ak79zNEiw",
+      "id": "BV1ak79zNEiw",
+      "category": "Productivity, Editing, And AI Literacy",
+      "summary": "",
+      "tags": [
+        "办公"
+      ],
+      "extra": {
+        "title": "20250508 人工智能赋能行政办公（上）",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1ak79zNEiw",
+        "bvid": "BV1ak79zNEiw",
+        "plays": 1103,
+        "likes": 0,
+        "category_key": "productivity-and-literacy",
+        "category_title": "Productivity, Editing, And AI Literacy",
+        "matched_words": [
+          "办公"
+        ]
+      },
+      "text_blob": "20250508 人工智能赋能行政办公（上） productivity, editing, and ai literacy  办公",
+      "tags_lower": [
+        "办公"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "productivity, editing, and ai literacy",
+      "title_lower": "20250508 人工智能赋能行政办公（上）"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250508 人工智能赋能行政办公（下）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1h179zAExg",
+      "id": "BV1h179zAExg",
+      "category": "Productivity, Editing, And AI Literacy",
+      "summary": "",
+      "tags": [
+        "办公"
+      ],
+      "extra": {
+        "title": "20250508 人工智能赋能行政办公（下）",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1h179zAExg",
+        "bvid": "BV1h179zAExg",
+        "plays": 616,
+        "likes": 0,
+        "category_key": "productivity-and-literacy",
+        "category_title": "Productivity, Editing, And AI Literacy",
+        "matched_words": [
+          "办公"
+        ]
+      },
+      "text_blob": "20250508 人工智能赋能行政办公（下） productivity, editing, and ai literacy  办公",
+      "tags_lower": [
+        "办公"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "productivity, editing, and ai literacy",
+      "title_lower": "20250508 人工智能赋能行政办公（下）"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250402 利用推理大模型（Reason LLMs) 提升办公效率",
+      "date": "2025-04-02",
+      "url": "https://www.bilibili.com/video/BV1q2fwYxEAD",
+      "id": "BV1q2fwYxEAD",
+      "category": "Productivity, Editing, And AI Literacy",
+      "summary": "",
+      "tags": [
+        "办公"
+      ],
+      "extra": {
+        "title": "20250402 利用推理大模型（Reason LLMs) 提升办公效率",
+        "date": "2025-04-02",
+        "url": "https://www.bilibili.com/video/BV1q2fwYxEAD",
+        "bvid": "BV1q2fwYxEAD",
+        "plays": 165,
+        "likes": 0,
+        "category_key": "productivity-and-literacy",
+        "category_title": "Productivity, Editing, And AI Literacy",
+        "matched_words": [
+          "办公"
+        ]
+      },
+      "text_blob": "20250402 利用推理大模型（reason llms) 提升办公效率 productivity, editing, and ai literacy  办公",
+      "tags_lower": [
+        "办公"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "productivity, editing, and ai literacy",
+      "title_lower": "20250402 利用推理大模型（reason llms) 提升办公效率"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250303_智选DeepSeek提升办公效率的方式",
+      "date": "2025-03-10",
+      "url": "https://www.bilibili.com/video/BV1XHRVYqEvA",
+      "id": "BV1XHRVYqEvA",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250303_智选DeepSeek提升办公效率的方式",
+        "date": "2025-03-10",
+        "url": "https://www.bilibili.com/video/BV1XHRVYqEvA",
+        "bvid": "BV1XHRVYqEvA",
+        "plays": 389,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250303_智选deepseek提升办公效率的方式 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250303_智选deepseek提升办公效率的方式"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "source_name": "生物信息与人工智能 / AI最前沿",
+      "platform": "weixin",
+      "title": "NC | 一键理解、预测甚至生成基因组！全能模型OmniReg-GPT大幅提升基因解码效率",
+      "date": "2025-11-20",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247485707&idx=1&sn=a1f44d3d8daa35ae26995ca87dd1e68d&chksm=ec1856c6db6fdfd056bff4ce4277d0a36dbdb719424832358675f5348fe630b81b31e8fec6fc#rd",
+      "id": "2247485707_1",
+      "category": "AI Trends And Frontier Discussion",
+      "summary": "Relevant ai trends and frontier discussion entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "NC | 一键理解、预测甚至生成基因组！全能模型OmniReg-GPT大幅提升基因解码效率",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247485707&idx=1&sn=a1f44d3d8daa35ae26995ca87dd1e68d&chksm=ec1856c6db6fdfd056bff4ce4277d0a36dbdb719424832358675f5348fe630b81b31e8fec6fc#rd",
+        "msgid": "2247485707",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-20",
+        "category_key": "ai-trends",
+        "category_title": "AI Trends And Frontier Discussion",
+        "brief": "Relevant ai trends and frontier discussion entry kept from the curated album."
+      },
+      "text_blob": "nc | 一键理解、预测甚至生成基因组！全能模型omnireg-gpt大幅提升基因解码效率 ai trends and frontier discussion relevant ai trends and frontier discussion entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "category_lower": "ai trends and frontier discussion",
+      "title_lower": "nc | 一键理解、预测甚至生成基因组！全能模型omnireg-gpt大幅提升基因解码效率"
+    }
+  ]
+}

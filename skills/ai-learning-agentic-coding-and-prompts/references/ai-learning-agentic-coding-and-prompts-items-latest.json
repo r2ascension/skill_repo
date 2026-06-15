@@ -1,0 +1,2974 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "ai-learning-agentic-coding-and-prompts",
+  "focus": "AI coding workflow, prompting, collaboration, and agent-assisted execution",
+  "count": 95,
+  "items": [
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "以前折腾半天的worflow,现在一个prompt就够了",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV1hwVm6WEz7",
+      "id": "BV1hwVm6WEz7",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "prompt"
+      ],
+      "extra": {
+        "title": "以前折腾半天的worflow,现在一个prompt就够了",
+        "date": "2026-06-03",
+        "url": "https://www.bilibili.com/video/BV1hwVm6WEz7",
+        "bvid": "BV1hwVm6WEz7",
+        "plays": 1823,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "prompt"
+        ]
+      },
+      "text_blob": "以前折腾半天的worflow,现在一个prompt就够了 skills, prompts, and collaboration  prompt",
+      "tags_lower": [
+        "prompt"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "以前折腾半天的worflow,现在一个prompt就够了"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "AI Coding 真正难的不是写代码",
+      "date": "2026-05-19",
+      "url": "https://www.bilibili.com/video/BV1FuL66WEvf",
+      "id": "BV1FuL66WEvf",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "AI Coding 真正难的不是写代码",
+        "date": "2026-05-19",
+        "url": "https://www.bilibili.com/video/BV1FuL66WEvf",
+        "bvid": "BV1FuL66WEvf",
+        "plays": 13068,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": []
+      },
+      "text_blob": "ai coding 真正难的不是写代码 skills, prompts, and collaboration  ",
+      "tags_lower": [],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "ai coding 真正难的不是写代码"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "AI时代下，UI探索流水线、bugfix文档以及测试的范式转移",
+      "date": "2026-04-28",
+      "url": "https://www.bilibili.com/video/BV1jw9CBJE8L",
+      "id": "BV1jw9CBJE8L",
+      "category": "AI Coding Workflow",
+      "summary": "",
+      "tags": [
+        "bugfix",
+        "测试",
+        "流水线"
+      ],
+      "extra": {
+        "title": "AI时代下，UI探索流水线、bugfix文档以及测试的范式转移",
+        "date": "2026-04-28",
+        "url": "https://www.bilibili.com/video/BV1jw9CBJE8L",
+        "bvid": "BV1jw9CBJE8L",
+        "plays": 1256,
+        "likes": 0,
+        "category_key": "ai-coding-workflow",
+        "category_title": "AI Coding Workflow",
+        "matched_words": [
+          "bugfix",
+          "测试",
+          "流水线"
+        ]
+      },
+      "text_blob": "ai时代下，ui探索流水线、bugfix文档以及测试的范式转移 ai coding workflow  bugfix 测试 流水线",
+      "tags_lower": [
+        "bugfix",
+        "流水线",
+        "测试"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "ai coding workflow",
+      "title_lower": "ai时代下，ui探索流水线、bugfix文档以及测试的范式转移"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "浅聊Skills、AGENTS.md与经验萃取",
+      "date": "2026-01-25",
+      "url": "https://www.bilibili.com/video/BV1UbzmBjEU4",
+      "id": "BV1UbzmBjEU4",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "Skills",
+        "AGENTS"
+      ],
+      "extra": {
+        "title": "浅聊Skills、AGENTS.md与经验萃取",
+        "date": "2026-01-25",
+        "url": "https://www.bilibili.com/video/BV1UbzmBjEU4",
+        "bvid": "BV1UbzmBjEU4",
+        "plays": 14431,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "Skills",
+          "AGENTS"
+        ]
+      },
+      "text_blob": "浅聊skills、agents.md与经验萃取 skills, prompts, and collaboration  skills agents",
+      "tags_lower": [
+        "agents",
+        "skills"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "浅聊skills、agents.md与经验萃取"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "元认知01：我如何用ChatGPT逼出自己的思维盲区",
+      "date": "2026-01-17",
+      "url": "https://www.bilibili.com/video/BV1xekpB2EwN",
+      "id": "BV1xekpB2EwN",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "ChatGPT"
+      ],
+      "extra": {
+        "title": "元认知01：我如何用ChatGPT逼出自己的思维盲区",
+        "date": "2026-01-17",
+        "url": "https://www.bilibili.com/video/BV1xekpB2EwN",
+        "bvid": "BV1xekpB2EwN",
+        "plays": 2243,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "ChatGPT"
+        ]
+      },
+      "text_blob": "元认知01：我如何用chatgpt逼出自己的思维盲区 skills, prompts, and collaboration  chatgpt",
+      "tags_lower": [
+        "chatgpt"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "元认知01：我如何用chatgpt逼出自己的思维盲区"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "别再找万能 prompt：不同任务必须配不同协作模式",
+      "date": "2026-01-09",
+      "url": "https://www.bilibili.com/video/BV1DJrABhEQe",
+      "id": "BV1DJrABhEQe",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "prompt"
+      ],
+      "extra": {
+        "title": "别再找万能 prompt：不同任务必须配不同协作模式",
+        "date": "2026-01-09",
+        "url": "https://www.bilibili.com/video/BV1DJrABhEQe",
+        "bvid": "BV1DJrABhEQe",
+        "plays": 3313,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "prompt"
+        ]
+      },
+      "text_blob": "别再找万能 prompt：不同任务必须配不同协作模式 skills, prompts, and collaboration  prompt",
+      "tags_lower": [
+        "prompt"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "别再找万能 prompt：不同任务必须配不同协作模式"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "AI Coding流水线真实边界升级：执行路线+验收条件",
+      "date": "2025-12-27",
+      "url": "https://www.bilibili.com/video/BV1pABCB9Ehc",
+      "id": "BV1pABCB9Ehc",
+      "category": "AI Coding Workflow",
+      "summary": "",
+      "tags": [
+        "验收",
+        "流水线"
+      ],
+      "extra": {
+        "title": "AI Coding流水线真实边界升级：执行路线+验收条件",
+        "date": "2025-12-27",
+        "url": "https://www.bilibili.com/video/BV1pABCB9Ehc",
+        "bvid": "BV1pABCB9Ehc",
+        "plays": 6329,
+        "likes": 0,
+        "category_key": "ai-coding-workflow",
+        "category_title": "AI Coding Workflow",
+        "matched_words": [
+          "验收",
+          "流水线"
+        ]
+      },
+      "text_blob": "ai coding流水线真实边界升级：执行路线+验收条件 ai coding workflow  验收 流水线",
+      "tags_lower": [
+        "流水线",
+        "验收"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "ai coding workflow",
+      "title_lower": "ai coding流水线真实边界升级：执行路线+验收条件"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "我直接演示AI Coding流水线是怎么从需求跑到验收的",
+      "date": "2025-12-24",
+      "url": "https://www.bilibili.com/video/BV1GaBVBpEGE",
+      "id": "BV1GaBVBpEGE",
+      "category": "AI Coding Workflow",
+      "summary": "",
+      "tags": [
+        "验收",
+        "流水线"
+      ],
+      "extra": {
+        "title": "我直接演示AI Coding流水线是怎么从需求跑到验收的",
+        "date": "2025-12-24",
+        "url": "https://www.bilibili.com/video/BV1GaBVBpEGE",
+        "bvid": "BV1GaBVBpEGE",
+        "plays": 29956,
+        "likes": 0,
+        "category_key": "ai-coding-workflow",
+        "category_title": "AI Coding Workflow",
+        "matched_words": [
+          "验收",
+          "流水线"
+        ]
+      },
+      "text_blob": "我直接演示ai coding流水线是怎么从需求跑到验收的 ai coding workflow  验收 流水线",
+      "tags_lower": [
+        "流水线",
+        "验收"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "ai coding workflow",
+      "title_lower": "我直接演示ai coding流水线是怎么从需求跑到验收的"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "subagent_shim从脚本到工程演化实例",
+      "date": "2025-12-19",
+      "url": "https://www.bilibili.com/video/BV1QkqoB6E6M",
+      "id": "BV1QkqoB6E6M",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "subagent"
+      ],
+      "extra": {
+        "title": "subagent_shim从脚本到工程演化实例",
+        "date": "2025-12-19",
+        "url": "https://www.bilibili.com/video/BV1QkqoB6E6M",
+        "bvid": "BV1QkqoB6E6M",
+        "plays": 2036,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "subagent"
+        ]
+      },
+      "text_blob": "subagent_shim从脚本到工程演化实例 skills, prompts, and collaboration  subagent",
+      "tags_lower": [
+        "subagent"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "subagent_shim从脚本到工程演化实例"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "睡前布置任务，睡醒验收：先解决信任问题",
+      "date": "2025-12-16",
+      "url": "https://www.bilibili.com/video/BV18eqtBWErA",
+      "id": "BV18eqtBWErA",
+      "category": "AI Coding Workflow",
+      "summary": "",
+      "tags": [
+        "验收"
+      ],
+      "extra": {
+        "title": "睡前布置任务，睡醒验收：先解决信任问题",
+        "date": "2025-12-16",
+        "url": "https://www.bilibili.com/video/BV18eqtBWErA",
+        "bvid": "BV18eqtBWErA",
+        "plays": 17429,
+        "likes": 0,
+        "category_key": "ai-coding-workflow",
+        "category_title": "AI Coding Workflow",
+        "matched_words": [
+          "验收"
+        ]
+      },
+      "text_blob": "睡前布置任务，睡醒验收：先解决信任问题 ai coding workflow  验收",
+      "tags_lower": [
+        "验收"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "ai coding workflow",
+      "title_lower": "睡前布置任务，睡醒验收：先解决信任问题"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "我把 Codex 变成了一个自动执行的工程流水线",
+      "date": "2025-12-12",
+      "url": "https://www.bilibili.com/video/BV1Ygm7BxEi6",
+      "id": "BV1Ygm7BxEi6",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "Codex"
+      ],
+      "extra": {
+        "title": "我把 Codex 变成了一个自动执行的工程流水线",
+        "date": "2025-12-12",
+        "url": "https://www.bilibili.com/video/BV1Ygm7BxEi6",
+        "bvid": "BV1Ygm7BxEi6",
+        "plays": 17246,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "Codex"
+        ]
+      },
+      "text_blob": "我把 codex 变成了一个自动执行的工程流水线 skills, prompts, and collaboration  codex",
+      "tags_lower": [
+        "codex"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "我把 codex 变成了一个自动执行的工程流水线"
+    },
+    {
+      "source_skill": "opencli-ai-ghost-lab-ai-skills",
+      "source_name": "AI-Ghost-Lab",
+      "platform": "bilibili",
+      "title": "ChatGPT高级使用技巧（一）",
+      "date": "2025-12-07",
+      "url": "https://www.bilibili.com/video/BV1FH2ZB7EZv",
+      "id": "BV1FH2ZB7EZv",
+      "category": "Skills, Prompts, And Collaboration",
+      "summary": "",
+      "tags": [
+        "ChatGPT"
+      ],
+      "extra": {
+        "title": "ChatGPT高级使用技巧（一）",
+        "date": "2025-12-07",
+        "url": "https://www.bilibili.com/video/BV1FH2ZB7EZv",
+        "bvid": "BV1FH2ZB7EZv",
+        "plays": 2062,
+        "likes": 0,
+        "category_key": "skills-and-collaboration",
+        "category_title": "Skills, Prompts, And Collaboration",
+        "matched_words": [
+          "ChatGPT"
+        ]
+      },
+      "text_blob": "chatgpt高级使用技巧（一） skills, prompts, and collaboration  chatgpt",
+      "tags_lower": [
+        "chatgpt"
+      ],
+      "source_lower": "opencli-ai-ghost-lab-ai-skills",
+      "category_lower": "skills, prompts, and collaboration",
+      "title_lower": "chatgpt高级使用技巧（一）"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "只需3步，5分钟带你用上codex (claude code同理)",
+      "date": "2026-06-14",
+      "url": "https://www.bilibili.com/video/BV1PUJW64E3d",
+      "id": "BV1PUJW64E3d",
+      "category": "AI Workflow For Bioinformatics Beginners",
+      "summary": "",
+      "tags": [
+        "Codex",
+        "Claude"
+      ],
+      "extra": {
+        "title": "只需3步，5分钟带你用上codex (claude code同理)",
+        "date": "2026-06-14",
+        "url": "https://www.bilibili.com/video/BV1PUJW64E3d",
+        "bvid": "BV1PUJW64E3d",
+        "plays": 478,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow For Bioinformatics Beginners",
+        "matched_words": [
+          "Codex",
+          "Claude"
+        ]
+      },
+      "text_blob": "只需3步，5分钟带你用上codex (claude code同理) ai workflow for bioinformatics beginners  codex claude",
+      "tags_lower": [
+        "claude",
+        "codex"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "ai workflow for bioinformatics beginners",
+      "title_lower": "只需3步，5分钟带你用上codex (claude code同理)"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "AI时代下，如何建立自己的知识库 | 入门篇",
+      "date": "2026-06-07",
+      "url": "https://www.bilibili.com/video/BV1uBEb61EPS",
+      "id": "BV1uBEb61EPS",
+      "category": "AI Workflow For Bioinformatics Beginners",
+      "summary": "",
+      "tags": [
+        "知识库"
+      ],
+      "extra": {
+        "title": "AI时代下，如何建立自己的知识库 | 入门篇",
+        "date": "2026-06-07",
+        "url": "https://www.bilibili.com/video/BV1uBEb61EPS",
+        "bvid": "BV1uBEb61EPS",
+        "plays": 1125,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow For Bioinformatics Beginners",
+        "matched_words": [
+          "知识库"
+        ]
+      },
+      "text_blob": "ai时代下，如何建立自己的知识库 | 入门篇 ai workflow for bioinformatics beginners  知识库",
+      "tags_lower": [
+        "知识库"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "ai workflow for bioinformatics beginners",
+      "title_lower": "ai时代下，如何建立自己的知识库 | 入门篇"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "让AI编程的输出更可控 | 面向医学科研小白的skill介绍和演示",
+      "date": "2026-05-25",
+      "url": "https://www.bilibili.com/video/BV1tnGo6uEsa",
+      "id": "BV1tnGo6uEsa",
+      "category": "AI Workflow For Bioinformatics Beginners",
+      "summary": "",
+      "tags": [
+        "skill"
+      ],
+      "extra": {
+        "title": "让AI编程的输出更可控 | 面向医学科研小白的skill介绍和演示",
+        "date": "2026-05-25",
+        "url": "https://www.bilibili.com/video/BV1tnGo6uEsa",
+        "bvid": "BV1tnGo6uEsa",
+        "plays": 1009,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow For Bioinformatics Beginners",
+        "matched_words": [
+          "skill"
+        ]
+      },
+      "text_blob": "让ai编程的输出更可控 | 面向医学科研小白的skill介绍和演示 ai workflow for bioinformatics beginners  skill",
+      "tags_lower": [
+        "skill"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "ai workflow for bioinformatics beginners",
+      "title_lower": "让ai编程的输出更可控 | 面向医学科研小白的skill介绍和演示"
+    },
+    {
+      "source_skill": "opencli-purplepotato-bioinfo-videos",
+      "source_name": "小紫薯PurplePotato",
+      "platform": "bilibili",
+      "title": "DeepSeek帮你做生信分析写代码|转录组下游分析",
+      "date": "2025-03-15",
+      "url": "https://www.bilibili.com/video/BV1fXQSY3EWQ",
+      "id": "BV1fXQSY3EWQ",
+      "category": "AI Workflow For Bioinformatics Beginners",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "DeepSeek帮你做生信分析写代码|转录组下游分析",
+        "date": "2025-03-15",
+        "url": "https://www.bilibili.com/video/BV1fXQSY3EWQ",
+        "bvid": "BV1fXQSY3EWQ",
+        "plays": 5758,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow For Bioinformatics Beginners",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "deepseek帮你做生信分析写代码|转录组下游分析 ai workflow for bioinformatics beginners  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-purplepotato-bioinfo-videos",
+      "category_lower": "ai workflow for bioinformatics beginners",
+      "title_lower": "deepseek帮你做生信分析写代码|转录组下游分析"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "投稿改格式太烦？Codex 搞定期刊格式调整",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV1ht7X61EQr",
+      "id": "BV1ht7X61EQr",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "Codex"
+      ],
+      "extra": {
+        "title": "投稿改格式太烦？Codex 搞定期刊格式调整",
+        "date": "2026-06-03",
+        "url": "https://www.bilibili.com/video/BV1ht7X61EQr",
+        "bvid": "BV1ht7X61EQr",
+        "plays": 1633,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "Codex"
+        ]
+      },
+      "text_blob": "投稿改格式太烦？codex 搞定期刊格式调整 ai workflow and coding agents  codex",
+      "tags_lower": [
+        "codex"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "投稿改格式太烦？codex 搞定期刊格式调整"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "把Claude code丨Codex接入Rstudio的工具ClaudeR体验分享，在分析步骤可控的情况下vibe coding",
+      "date": "2026-05-29",
+      "url": "https://www.bilibili.com/video/BV1E6Vh6WEDa",
+      "id": "BV1E6Vh6WEDa",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "Codex",
+        "Claude",
+        "Rstudio"
+      ],
+      "extra": {
+        "title": "把Claude code丨Codex接入Rstudio的工具ClaudeR体验分享，在分析步骤可控的情况下vibe coding",
+        "date": "2026-05-29",
+        "url": "https://www.bilibili.com/video/BV1E6Vh6WEDa",
+        "bvid": "BV1E6Vh6WEDa",
+        "plays": 2664,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "Codex",
+          "Claude",
+          "Rstudio"
+        ]
+      },
+      "text_blob": "把claude code丨codex接入rstudio的工具clauder体验分享，在分析步骤可控的情况下vibe coding ai workflow and coding agents  codex claude rstudio",
+      "tags_lower": [
+        "claude",
+        "codex",
+        "rstudio"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "把claude code丨codex接入rstudio的工具clauder体验分享，在分析步骤可控的情况下vibe coding"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "Gemini+BioGDP科研绘图：草图变身顶刊标准",
+      "date": "2026-04-02",
+      "url": "https://www.bilibili.com/video/BV1kL9cBzEbg",
+      "id": "BV1kL9cBzEbg",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "Gemini"
+      ],
+      "extra": {
+        "title": "Gemini+BioGDP科研绘图：草图变身顶刊标准",
+        "date": "2026-04-02",
+        "url": "https://www.bilibili.com/video/BV1kL9cBzEbg",
+        "bvid": "BV1kL9cBzEbg",
+        "plays": 6949,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "Gemini"
+        ]
+      },
+      "text_blob": "gemini+biogdp科研绘图：草图变身顶刊标准 ai workflow and coding agents  gemini",
+      "tags_lower": [
+        "gemini"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "gemini+biogdp科研绘图：草图变身顶刊标准"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "医学生科研代码基本不用自己写了：AI Agent 直接替你写、替你跑、替你改错",
+      "date": "2026-01-16",
+      "url": "https://www.bilibili.com/video/BV1tkkKBTE6M",
+      "id": "BV1tkkKBTE6M",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "AI Agent"
+      ],
+      "extra": {
+        "title": "医学生科研代码基本不用自己写了：AI Agent 直接替你写、替你跑、替你改错",
+        "date": "2026-01-16",
+        "url": "https://www.bilibili.com/video/BV1tkkKBTE6M",
+        "bvid": "BV1tkkKBTE6M",
+        "plays": 5841,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "AI Agent"
+        ]
+      },
+      "text_blob": "医学生科研代码基本不用自己写了：ai agent 直接替你写、替你跑、替你改错 ai workflow and coding agents  ai agent",
+      "tags_lower": [
+        "ai agent"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "医学生科研代码基本不用自己写了：ai agent 直接替你写、替你跑、替你改错"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "Gemini 顶刊风格科研绘图提示词设置",
+      "date": "2025-11-30",
+      "url": "https://www.bilibili.com/video/BV17fSPBAEWX",
+      "id": "BV17fSPBAEWX",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "Gemini"
+      ],
+      "extra": {
+        "title": "Gemini 顶刊风格科研绘图提示词设置",
+        "date": "2025-11-30",
+        "url": "https://www.bilibili.com/video/BV17fSPBAEWX",
+        "bvid": "BV17fSPBAEWX",
+        "plays": 159404,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "Gemini"
+        ]
+      },
+      "text_blob": "gemini 顶刊风格科研绘图提示词设置 ai workflow and coding agents  gemini",
+      "tags_lower": [
+        "gemini"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "gemini 顶刊风格科研绘图提示词设置"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "大语言模型在医学科研的使用经验分享【随便说说】ChatGPT, Gemini 3, Deepseek, Claude",
+      "date": "2025-11-24",
+      "url": "https://www.bilibili.com/video/BV1U5UkBXEvF",
+      "id": "BV1U5UkBXEvF",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "Claude",
+        "DeepSeek",
+        "Gemini"
+      ],
+      "extra": {
+        "title": "大语言模型在医学科研的使用经验分享【随便说说】ChatGPT, Gemini 3, Deepseek, Claude",
+        "date": "2025-11-24",
+        "url": "https://www.bilibili.com/video/BV1U5UkBXEvF",
+        "bvid": "BV1U5UkBXEvF",
+        "plays": 1977,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "Claude",
+          "DeepSeek",
+          "Gemini"
+        ]
+      },
+      "text_blob": "大语言模型在医学科研的使用经验分享【随便说说】chatgpt, gemini 3, deepseek, claude ai workflow and coding agents  claude deepseek gemini",
+      "tags_lower": [
+        "claude",
+        "deepseek",
+        "gemini"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "大语言模型在医学科研的使用经验分享【随便说说】chatgpt, gemini 3, deepseek, claude"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "【解决】DeepSeek服务器开小差导致全球科研工作难以开展怎么办？",
+      "date": "2025-02-09",
+      "url": "https://www.bilibili.com/video/BV1JzNUeuEW5",
+      "id": "BV1JzNUeuEW5",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "【解决】DeepSeek服务器开小差导致全球科研工作难以开展怎么办？",
+        "date": "2025-02-09",
+        "url": "https://www.bilibili.com/video/BV1JzNUeuEW5",
+        "bvid": "BV1JzNUeuEW5",
+        "plays": 1491,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "【解决】deepseek服务器开小差导致全球科研工作难以开展怎么办？ ai workflow and coding agents  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "【解决】deepseek服务器开小差导致全球科研工作难以开展怎么办？"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "DeepSeek科研笔记和PPT速通方法【VS Code丨Markdown丨Marp】",
+      "date": "2025-02-05",
+      "url": "https://www.bilibili.com/video/BV1ojPUecEuW",
+      "id": "BV1ojPUecEuW",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "DeepSeek科研笔记和PPT速通方法【VS Code丨Markdown丨Marp】",
+        "date": "2025-02-05",
+        "url": "https://www.bilibili.com/video/BV1ojPUecEuW",
+        "bvid": "BV1ojPUecEuW",
+        "plays": 9315,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "deepseek科研笔记和ppt速通方法【vs code丨markdown丨marp】 ai workflow and coding agents  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "deepseek科研笔记和ppt速通方法【vs code丨markdown丨marp】"
+    },
+    {
+      "source_skill": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "source_name": "外科小小硕",
+      "platform": "bilibili",
+      "title": "Rstudio最简单的导入数据方法丨R语言数据导入",
+      "date": "2023-02-08",
+      "url": "https://www.bilibili.com/video/BV1224y1q7wt",
+      "id": "BV1224y1q7wt",
+      "category": "AI Workflow And Coding Agents",
+      "summary": "",
+      "tags": [
+        "Rstudio"
+      ],
+      "extra": {
+        "title": "Rstudio最简单的导入数据方法丨R语言数据导入",
+        "date": "2023-02-08",
+        "url": "https://www.bilibili.com/video/BV1224y1q7wt",
+        "bvid": "BV1224y1q7wt",
+        "plays": 8803,
+        "likes": 0,
+        "category_key": "ai-workflow",
+        "category_title": "AI Workflow And Coding Agents",
+        "matched_words": [
+          "Rstudio"
+        ]
+      },
+      "text_blob": "rstudio最简单的导入数据方法丨r语言数据导入 ai workflow and coding agents  rstudio",
+      "tags_lower": [
+        "rstudio"
+      ],
+      "source_lower": "opencli-waike-xiaoxiaoshuo-ai-plotting-research-videos",
+      "category_lower": "ai workflow and coding agents",
+      "title_lower": "rstudio最简单的导入数据方法丨r语言数据导入"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20260526_OpenClaw与DeepSeek的一些应用",
+      "date": "2026-05-26",
+      "url": "https://www.bilibili.com/video/BV1FDVN6DEFF",
+      "id": "BV1FDVN6DEFF",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek",
+        "OpenClaw"
+      ],
+      "extra": {
+        "title": "20260526_OpenClaw与DeepSeek的一些应用",
+        "date": "2026-05-26",
+        "url": "https://www.bilibili.com/video/BV1FDVN6DEFF",
+        "bvid": "BV1FDVN6DEFF",
+        "plays": 176,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek",
+          "OpenClaw"
+        ]
+      },
+      "text_blob": "20260526_openclaw与deepseek的一些应用 ai tools and practical workflow  deepseek openclaw",
+      "tags_lower": [
+        "deepseek",
+        "openclaw"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20260526_openclaw与deepseek的一些应用"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20251031 AI辅助编程和数据分析应用",
+      "date": "2025-10-31",
+      "url": "https://www.bilibili.com/video/BV1Df1NB7Eep",
+      "id": "BV1Df1NB7Eep",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI",
+        "编程",
+        "数据分析"
+      ],
+      "extra": {
+        "title": "20251031 AI辅助编程和数据分析应用",
+        "date": "2025-10-31",
+        "url": "https://www.bilibili.com/video/BV1Df1NB7Eep",
+        "bvid": "BV1Df1NB7Eep",
+        "plays": 280,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI",
+          "编程",
+          "数据分析"
+        ]
+      },
+      "text_blob": "20251031 ai辅助编程和数据分析应用 ai tools and practical workflow  ai 编程 数据分析",
+      "tags_lower": [
+        "ai",
+        "数据分析",
+        "编程"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20251031 ai辅助编程和数据分析应用"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250920 AI技术赋能下的科研项目全流程管理实践",
+      "date": "2025-09-23",
+      "url": "https://www.bilibili.com/video/BV1x8pKziEhi",
+      "id": "BV1x8pKziEhi",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250920 AI技术赋能下的科研项目全流程管理实践",
+        "date": "2025-09-23",
+        "url": "https://www.bilibili.com/video/BV1x8pKziEhi",
+        "bvid": "BV1x8pKziEhi",
+        "plays": 394,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250920 ai技术赋能下的科研项目全流程管理实践 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250920 ai技术赋能下的科研项目全流程管理实践"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250707 生成式人工智能与DeepSeek实战",
+      "date": "2025-07-07",
+      "url": "https://www.bilibili.com/video/BV1mT32zWEuq",
+      "id": "BV1mT32zWEuq",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250707 生成式人工智能与DeepSeek实战",
+        "date": "2025-07-07",
+        "url": "https://www.bilibili.com/video/BV1mT32zWEuq",
+        "bvid": "BV1mT32zWEuq",
+        "plays": 383,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250707 生成式人工智能与deepseek实战 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250707 生成式人工智能与deepseek实战"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250517 AI辅助临床医疗知识与科学传播",
+      "date": "2025-05-17",
+      "url": "https://www.bilibili.com/video/BV1A2JAz7EW3",
+      "id": "BV1A2JAz7EW3",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250517 AI辅助临床医疗知识与科学传播",
+        "date": "2025-05-17",
+        "url": "https://www.bilibili.com/video/BV1A2JAz7EW3",
+        "bvid": "BV1A2JAz7EW3",
+        "plays": 73,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250517 ai辅助临床医疗知识与科学传播 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250517 ai辅助临床医疗知识与科学传播"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250509 AI赋能科研创新与智慧管理",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1hC79zeEnF",
+      "id": "BV1hC79zeEnF",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250509 AI赋能科研创新与智慧管理",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1hC79zeEnF",
+        "bvid": "BV1hC79zeEnF",
+        "plays": 145,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250509 ai赋能科研创新与智慧管理 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250509 ai赋能科研创新与智慧管理"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250428 DeepSeek实践与应用",
+      "date": "2025-04-29",
+      "url": "https://www.bilibili.com/video/BV1VvGrz9EWs",
+      "id": "BV1VvGrz9EWs",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250428 DeepSeek实践与应用",
+        "date": "2025-04-29",
+        "url": "https://www.bilibili.com/video/BV1VvGrz9EWs",
+        "bvid": "BV1VvGrz9EWs",
+        "plays": 141,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250428 deepseek实践与应用 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250428 deepseek实践与应用"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250408 深度求索DeepSeek介绍",
+      "date": "2025-04-28",
+      "url": "https://www.bilibili.com/video/BV1kxLCzEEu4",
+      "id": "BV1kxLCzEEu4",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250408 深度求索DeepSeek介绍",
+        "date": "2025-04-28",
+        "url": "https://www.bilibili.com/video/BV1kxLCzEEu4",
+        "bvid": "BV1kxLCzEEu4",
+        "plays": 45,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250408 深度求索deepseek介绍 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250408 深度求索deepseek介绍"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250401 深度求索DeepSeek培训",
+      "date": "2025-04-27",
+      "url": "https://www.bilibili.com/video/BV1FyL6zzEYT",
+      "id": "BV1FyL6zzEYT",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250401 深度求索DeepSeek培训",
+        "date": "2025-04-27",
+        "url": "https://www.bilibili.com/video/BV1FyL6zzEYT",
+        "bvid": "BV1FyL6zzEYT",
+        "plays": 80,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250401 深度求索deepseek培训 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250401 深度求索deepseek培训"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250422 人工智能系列讲座之三——DeepSeek加速办公科研学习生活",
+      "date": "2025-04-24",
+      "url": "https://www.bilibili.com/video/BV1AaLizwE47",
+      "id": "BV1AaLizwE47",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250422 人工智能系列讲座之三——DeepSeek加速办公科研学习生活",
+        "date": "2025-04-24",
+        "url": "https://www.bilibili.com/video/BV1AaLizwE47",
+        "bvid": "BV1AaLizwE47",
+        "plays": 179,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250422 人工智能系列讲座之三——deepseek加速办公科研学习生活 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250422 人工智能系列讲座之三——deepseek加速办公科研学习生活"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250409_图书馆员在当前情势下具备的AI素养",
+      "date": "2025-04-11",
+      "url": "https://www.bilibili.com/video/BV14udDYNEaF",
+      "id": "BV14udDYNEaF",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250409_图书馆员在当前情势下具备的AI素养",
+        "date": "2025-04-11",
+        "url": "https://www.bilibili.com/video/BV14udDYNEaF",
+        "bvid": "BV14udDYNEaF",
+        "plays": 133,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250409_图书馆员在当前情势下具备的ai素养 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250409_图书馆员在当前情势下具备的ai素养"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250325_利用AI辅助科研管理_讨论部分_顾立平",
+      "date": "2025-03-31",
+      "url": "https://www.bilibili.com/video/BV1BbZHY1EZ7",
+      "id": "BV1BbZHY1EZ7",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250325_利用AI辅助科研管理_讨论部分_顾立平",
+        "date": "2025-03-31",
+        "url": "https://www.bilibili.com/video/BV1BbZHY1EZ7",
+        "bvid": "BV1BbZHY1EZ7",
+        "plays": 98,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250325_利用ai辅助科研管理_讨论部分_顾立平 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250325_利用ai辅助科研管理_讨论部分_顾立平"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250325_利用AI辅助科研管理_顾立平",
+      "date": "2025-03-31",
+      "url": "https://www.bilibili.com/video/BV1fbZHY1Efv",
+      "id": "BV1fbZHY1Efv",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250325_利用AI辅助科研管理_顾立平",
+        "date": "2025-03-31",
+        "url": "https://www.bilibili.com/video/BV1fbZHY1Efv",
+        "bvid": "BV1fbZHY1Efv",
+        "plays": 386,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250325_利用ai辅助科研管理_顾立平 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250325_利用ai辅助科研管理_顾立平"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250321_齐鲁学术论坛100期系列学术活动_利用AI辅助科研设计与提案修改",
+      "date": "2025-03-22",
+      "url": "https://www.bilibili.com/video/BV1JNXHYeEuZ",
+      "id": "BV1JNXHYeEuZ",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "20250321_齐鲁学术论坛100期系列学术活动_利用AI辅助科研设计与提案修改",
+        "date": "2025-03-22",
+        "url": "https://www.bilibili.com/video/BV1JNXHYeEuZ",
+        "bvid": "BV1JNXHYeEuZ",
+        "plays": 149,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "20250321_齐鲁学术论坛100期系列学术活动_利用ai辅助科研设计与提案修改 ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250321_齐鲁学术论坛100期系列学术活动_利用ai辅助科研设计与提案修改"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20250304_利用泛DeepSeek开展新型信息服务",
+      "date": "2025-03-10",
+      "url": "https://www.bilibili.com/video/BV1S4RVYPEm6",
+      "id": "BV1S4RVYPEm6",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "extra": {
+        "title": "20250304_利用泛DeepSeek开展新型信息服务",
+        "date": "2025-03-10",
+        "url": "https://www.bilibili.com/video/BV1S4RVYPEm6",
+        "bvid": "BV1S4RVYPEm6",
+        "plays": 248,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "DeepSeek"
+        ]
+      },
+      "text_blob": "20250304_利用泛deepseek开展新型信息服务 ai tools and practical workflow  deepseek",
+      "tags_lower": [
+        "deepseek"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20250304_利用泛deepseek开展新型信息服务"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20241212谷歌AI最新进展（Gemini2.0）",
+      "date": "2024-12-11",
+      "url": "https://www.bilibili.com/video/BV1dFqtYTEG5",
+      "id": "BV1dFqtYTEG5",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI",
+        "Gemini"
+      ],
+      "extra": {
+        "title": "20241212谷歌AI最新进展（Gemini2.0）",
+        "date": "2024-12-11",
+        "url": "https://www.bilibili.com/video/BV1dFqtYTEG5",
+        "bvid": "BV1dFqtYTEG5",
+        "plays": 186,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI",
+          "Gemini"
+        ]
+      },
+      "text_blob": "20241212谷歌ai最新进展（gemini2.0） ai tools and practical workflow  ai gemini",
+      "tags_lower": [
+        "ai",
+        "gemini"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20241212谷歌ai最新进展（gemini2.0）"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "20241209GPTo1的特殊用法",
+      "date": "2024-12-09",
+      "url": "https://www.bilibili.com/video/BV132qNYqEd8",
+      "id": "BV132qNYqEd8",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "GPT"
+      ],
+      "extra": {
+        "title": "20241209GPTo1的特殊用法",
+        "date": "2024-12-09",
+        "url": "https://www.bilibili.com/video/BV132qNYqEd8",
+        "bvid": "BV132qNYqEd8",
+        "plays": 42,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "GPT"
+        ]
+      },
+      "text_blob": "20241209gpto1的特殊用法 ai tools and practical workflow  gpt",
+      "tags_lower": [
+        "gpt"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "20241209gpto1的特殊用法"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "全球AI研究议程与行动指南（美国）",
+      "date": "2024-12-08",
+      "url": "https://www.bilibili.com/video/BV1rfqHYYEhr",
+      "id": "BV1rfqHYYEhr",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI"
+      ],
+      "extra": {
+        "title": "全球AI研究议程与行动指南（美国）",
+        "date": "2024-12-08",
+        "url": "https://www.bilibili.com/video/BV1rfqHYYEhr",
+        "bvid": "BV1rfqHYYEhr",
+        "plays": 15,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI"
+        ]
+      },
+      "text_blob": "全球ai研究议程与行动指南（美国） ai tools and practical workflow  ai",
+      "tags_lower": [
+        "ai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "全球ai研究议程与行动指南（美国）"
+    },
+    {
+      "source_skill": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "source_name": "养鸭人家",
+      "platform": "bilibili",
+      "title": "OpenAI发布GPT4.5及其行业影响",
+      "date": "2024-12-08",
+      "url": "https://www.bilibili.com/video/BV1nQq7YQEGd",
+      "id": "BV1nQq7YQEGd",
+      "category": "AI Tools And Practical Workflow",
+      "summary": "",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "GPT"
+      ],
+      "extra": {
+        "title": "OpenAI发布GPT4.5及其行业影响",
+        "date": "2024-12-08",
+        "url": "https://www.bilibili.com/video/BV1nQq7YQEGd",
+        "bvid": "BV1nQq7YQEGd",
+        "plays": 172,
+        "likes": 0,
+        "category_key": "ai-tools-and-practice",
+        "category_title": "AI Tools And Practical Workflow",
+        "matched_words": [
+          "AI",
+          "OpenAI",
+          "GPT"
+        ]
+      },
+      "text_blob": "openai发布gpt4.5及其行业影响 ai tools and practical workflow  ai openai gpt",
+      "tags_lower": [
+        "ai",
+        "gpt",
+        "openai"
+      ],
+      "source_lower": "opencli-yangyarenjia-bioinfo-ai-videos",
+      "category_lower": "ai tools and practical workflow",
+      "title_lower": "openai发布gpt4.5及其行业影响"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "source_name": "生物信息与人工智能 / AI最前沿",
+      "platform": "weixin",
+      "title": "“提示词工程” or “上下文工程” ？",
+      "date": "2025-07-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247483998&idx=1&sn=d9711c08f01b2f625b162f2671636048&chksm=ec185d93db6fd485c7a45c1e97e83465cb0b065e0fb17116758c5a3c523363b0cbe776f67a96#rd",
+      "id": "2247483998_1",
+      "category": "AI Trends And Frontier Discussion",
+      "summary": "Relevant ai trends and frontier discussion entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "“提示词工程” or “上下文工程” ？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247483998&idx=1&sn=d9711c08f01b2f625b162f2671636048&chksm=ec185d93db6fd485c7a45c1e97e83465cb0b065e0fb17116758c5a3c523363b0cbe776f67a96#rd",
+        "msgid": "2247483998",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-13",
+        "category_key": "ai-trends",
+        "category_title": "AI Trends And Frontier Discussion",
+        "brief": "Relevant ai trends and frontier discussion entry kept from the curated album."
+      },
+      "text_blob": "“提示词工程” or “上下文工程” ？ ai trends and frontier discussion relevant ai trends and frontier discussion entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "category_lower": "ai trends and frontier discussion",
+      "title_lower": "“提示词工程” or “上下文工程” ？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "source_name": "生物信息与人工智能 / AI最前沿",
+      "platform": "weixin",
+      "title": "bioRxiv | OmniExtract：基于大模型和提示词工程的自动化数据提取工具",
+      "date": "2025-09-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247485014&idx=1&sn=c8be2298efa5598b509b5ad281e6972c&chksm=ec18599bdb6fd08ddc2346d5d1c18129c5b31f81ae2722c840a477afe5cc9a81bf12c1477516#rd",
+      "id": "2247485014_1",
+      "category": "AI For Biology And Research",
+      "summary": "Relevant ai for biology and research entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "bioRxiv | OmniExtract：基于大模型和提示词工程的自动化数据提取工具",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247485014&idx=1&sn=c8be2298efa5598b509b5ad281e6972c&chksm=ec18599bdb6fd08ddc2346d5d1c18129c5b31f81ae2722c840a477afe5cc9a81bf12c1477516#rd",
+        "msgid": "2247485014",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-18",
+        "category_key": "ai-for-biology",
+        "category_title": "AI For Biology And Research",
+        "brief": "Relevant ai for biology and research entry kept from the curated album."
+      },
+      "text_blob": "biorxiv | omniextract：基于大模型和提示词工程的自动化数据提取工具 ai for biology and research relevant ai for biology and research entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "category_lower": "ai for biology and research",
+      "title_lower": "biorxiv | omniextract：基于大模型和提示词工程的自动化数据提取工具"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "很简单的文件夹里面的全部文本内容合并编程需求但ai给的代码都是错的？",
+      "date": "2025-07-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535587&idx=1&sn=36dae7e08f468e5855bfc66dc4c63dd3&chksm=fa458edecd3207c8506b570b826148e0c5823ac16fa70cfa81de91bb939a90260902c0b8a596#rd",
+      "id": "2247535587_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "很简单的文件夹里面的全部文本内容合并编程需求但ai给的代码都是错的？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535587&idx=1&sn=36dae7e08f468e5855bfc66dc4c63dd3&chksm=fa458edecd3207c8506b570b826148e0c5823ac16fa70cfa81de91bb939a90260902c0b8a596#rd",
+        "msgid": "2247535587",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-07",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "很简单的文件夹里面的全部文本内容合并编程需求但ai给的代码都是错的？ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "很简单的文件夹里面的全部文本内容合并编程需求但ai给的代码都是错的？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "有一些代码确实是没必要自己写了",
+      "date": "2025-06-20",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535231&idx=1&sn=9c96531ff5d05337e32b61583570ad6b&chksm=fa458f42cd3206544a5f534c19e622cd71601924d0fac48d977c4472a8aabe6f99269a24d7b1#rd",
+      "id": "2247535231_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "有一些代码确实是没必要自己写了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535231&idx=1&sn=9c96531ff5d05337e32b61583570ad6b&chksm=fa458f42cd3206544a5f534c19e622cd71601924d0fac48d977c4472a8aabe6f99269a24d7b1#rd",
+        "msgid": "2247535231",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-06-20",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "有一些代码确实是没必要自己写了 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "有一些代码确实是没必要自己写了"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "人工智能给R和Python搭建桥梁",
+      "date": "2025-07-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535712&idx=1&sn=63966bc89be9e7d63e0e218e6493bed1&chksm=fa45895dcd32004ba891e280e91309c03cfff9272ca1622d188b89fa43fa084c6439b1ed19e9#rd",
+      "id": "2247535712_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "人工智能给R和Python搭建桥梁",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535712&idx=1&sn=63966bc89be9e7d63e0e218e6493bed1&chksm=fa45895dcd32004ba891e280e91309c03cfff9272ca1622d188b89fa43fa084c6439b1ed19e9#rd",
+        "msgid": "2247535712",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-14",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "人工智能给r和python搭建桥梁 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "人工智能给r和python搭建桥梁"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "复杂一点的代码也可以人工智能大模型搞定",
+      "date": "2025-07-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535723&idx=1&sn=efc3969d274cad89a7a9b355acb38d43&chksm=fa458956cd320040ca557bce4943ad68548b88368960380c0db8e7eaa50e61d10ac2441dec90#rd",
+      "id": "2247535723_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "复杂一点的代码也可以人工智能大模型搞定",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535723&idx=1&sn=efc3969d274cad89a7a9b355acb38d43&chksm=fa458956cd320040ca557bce4943ad68548b88368960380c0db8e7eaa50e61d10ac2441dec90#rd",
+        "msgid": "2247535723",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-14",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "复杂一点的代码也可以人工智能大模型搞定 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "复杂一点的代码也可以人工智能大模型搞定"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "大模型帮我读取不规则的突变信息",
+      "date": "2025-07-21",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535846&idx=1&sn=1fbdfacb0f22f022e267a8b6122b433f&chksm=fa4589dbcd3200cd79df70ae4ac453ef8db1c999fe08ea2086097fa4f037d8e1b440fb120544#rd",
+      "id": "2247535846_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "大模型帮我读取不规则的突变信息",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535846&idx=1&sn=1fbdfacb0f22f022e267a8b6122b433f&chksm=fa4589dbcd3200cd79df70ae4ac453ef8db1c999fe08ea2086097fa4f037d8e1b440fb120544#rd",
+        "msgid": "2247535846",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-21",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "大模型帮我读取不规则的突变信息 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "大模型帮我读取不规则的突变信息"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "现在写日常代码基本上都靠人工智能大模型啦",
+      "date": "2025-07-21",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535872&idx=1&sn=e5c4a9c900fae10f40bf992f1dbd0ce9&chksm=fa45883dcd32012bb939474a5b49670ff6bdd9b72e4bd7a1bbc736c481c6fe1a3478c75cbf7d#rd",
+      "id": "2247535872_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "现在写日常代码基本上都靠人工智能大模型啦",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535872&idx=1&sn=e5c4a9c900fae10f40bf992f1dbd0ce9&chksm=fa45883dcd32012bb939474a5b49670ff6bdd9b72e4bd7a1bbc736c481c6fe1a3478c75cbf7d#rd",
+        "msgid": "2247535872",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-21",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "现在写日常代码基本上都靠人工智能大模型啦 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "现在写日常代码基本上都靠人工智能大模型啦"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "想看看你的差异分析跟作者结果是不是一致",
+      "date": "2025-07-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535965&idx=1&sn=ba46f59fa78637efd74afb609ddd813d&chksm=fa458860cd320176cbe54622c179b14ac01d982c12061d4ad76e26957cd3f485f5bc5afbd76e#rd",
+      "id": "2247535965_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "想看看你的差异分析跟作者结果是不是一致",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535965&idx=1&sn=ba46f59fa78637efd74afb609ddd813d&chksm=fa458860cd320176cbe54622c179b14ac01d982c12061d4ad76e26957cd3f485f5bc5afbd76e#rd",
+        "msgid": "2247535965",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-28",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "想看看你的差异分析跟作者结果是不是一致 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "想看看你的差异分析跟作者结果是不是一致"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "可视化文献附件Excel表格里面的基因",
+      "date": "2025-07-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535975&idx=1&sn=88395c1040861f8d81a9d2d3f2e32b87&chksm=fa45885acd32014c94fa8d7cf4842ac547cddd69bbb04def15a58dd3172c51910b55bb3de696#rd",
+      "id": "2247535975_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "可视化文献附件Excel表格里面的基因",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247535975&idx=1&sn=88395c1040861f8d81a9d2d3f2e32b87&chksm=fa45885acd32014c94fa8d7cf4842ac547cddd69bbb04def15a58dd3172c51910b55bb3de696#rd",
+        "msgid": "2247535975",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-07-28",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "可视化文献附件excel表格里面的基因 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "可视化文献附件excel表格里面的基因"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "谁能说清楚特定的癌症易感基因突变频率呢",
+      "date": "2025-08-04",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536084&idx=1&sn=66101295c36fd5373dd4d9aa8f705aa3&chksm=fa4588e9cd3201ff6a627576a1838da4a599e904b890d90842b44c16b04bbaff992354a8ffa9#rd",
+      "id": "2247536084_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "谁能说清楚特定的癌症易感基因突变频率呢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536084&idx=1&sn=66101295c36fd5373dd4d9aa8f705aa3&chksm=fa4588e9cd3201ff6a627576a1838da4a599e904b890d90842b44c16b04bbaff992354a8ffa9#rd",
+        "msgid": "2247536084",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-08-04",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "谁能说清楚特定的癌症易感基因突变频率呢 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "谁能说清楚特定的癌症易感基因突变频率呢"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "做科研能力还比不上人工智能大模型？",
+      "date": "2025-08-11",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536209&idx=1&sn=4086dc13163259a04e1e462909d7fd13&chksm=fa458b6ccd32027a5b6a3f8907238c89f9685c7bb77d81ac0f6dc431e9e243a2a7088ea9cec0#rd",
+      "id": "2247536209_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "做科研能力还比不上人工智能大模型？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536209&idx=1&sn=4086dc13163259a04e1e462909d7fd13&chksm=fa458b6ccd32027a5b6a3f8907238c89f9685c7bb77d81ac0f6dc431e9e243a2a7088ea9cec0#rd",
+        "msgid": "2247536209",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-08-11",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "做科研能力还比不上人工智能大模型？ prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "做科研能力还比不上人工智能大模型？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "不会用ai的生信工程师都可以淘汰了",
+      "date": "2025-08-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536448&idx=1&sn=0cc9f4a129d66d693c2b36f28a030926&chksm=fa458a7dcd32036b5c1d01a36d519f309cace00ecb24b5a2e25c4a54800940daf18ea94fba0b#rd",
+      "id": "2247536448_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "不会用ai的生信工程师都可以淘汰了",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536448&idx=1&sn=0cc9f4a129d66d693c2b36f28a030926&chksm=fa458a7dcd32036b5c1d01a36d519f309cace00ecb24b5a2e25c4a54800940daf18ea94fba0b#rd",
+        "msgid": "2247536448",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-08-25",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "不会用ai的生信工程师都可以淘汰了 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "不会用ai的生信工程师都可以淘汰了"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "用R绘图之前可以让ai先给出草稿代码",
+      "date": "2025-09-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536629&idx=1&sn=74acdcba920c2a7437eefe5d762c6482&chksm=fa458ac8cd3203de0217b339674d10125239f593dbc86dd0e8727c82f4ca402c58d0f6896176#rd",
+      "id": "2247536629_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "用R绘图之前可以让ai先给出草稿代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536629&idx=1&sn=74acdcba920c2a7437eefe5d762c6482&chksm=fa458ac8cd3203de0217b339674d10125239f593dbc86dd0e8727c82f4ca402c58d0f6896176#rd",
+        "msgid": "2247536629",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-01",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "用r绘图之前可以让ai先给出草稿代码 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "用r绘图之前可以让ai先给出草稿代码"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "这可能是一图胜千言的最好诠释",
+      "date": "2025-09-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536721&idx=1&sn=c5b796a4ec98b92cca66f42d04c8fdcd&chksm=fa45956ccd321c7aca9ef2a9629df8035d4ad1b1f6863546afd9ba840592b6c7b5f3e8128ae5#rd",
+      "id": "2247536721_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "这可能是一图胜千言的最好诠释",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536721&idx=1&sn=c5b796a4ec98b92cca66f42d04c8fdcd&chksm=fa45956ccd321c7aca9ef2a9629df8035d4ad1b1f6863546afd9ba840592b6c7b5f3e8128ae5#rd",
+        "msgid": "2247536721",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-08",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "这可能是一图胜千言的最好诠释 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "这可能是一图胜千言的最好诠释"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "差异分析后那么多基因和通路为何选择它",
+      "date": "2025-09-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536743&idx=1&sn=701dd27028194e9baaa4c874bcc34f1e&chksm=fa45955acd321c4ce430edbfc6925b0a700e1285379ac4c001bee1a2d4c2cf320404c31608bb#rd",
+      "id": "2247536743_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "差异分析后那么多基因和通路为何选择它",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536743&idx=1&sn=701dd27028194e9baaa4c874bcc34f1e&chksm=fa45955acd321c4ce430edbfc6925b0a700e1285379ac4c001bee1a2d4c2cf320404c31608bb#rd",
+        "msgid": "2247536743",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-10",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "差异分析后那么多基因和通路为何选择它 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "差异分析后那么多基因和通路为何选择它"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "这么好的癌症知识仅限于英语听众？",
+      "date": "2025-09-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536924&idx=1&sn=189999cb28f406a71fa3cd896f98b1b1&chksm=fa459421cd321d3747316c300945eb1adc201585c72be7654ac66ede778f419647b608c07c83#rd",
+      "id": "2247536924_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "这么好的癌症知识仅限于英语听众？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536924&idx=1&sn=189999cb28f406a71fa3cd896f98b1b1&chksm=fa459421cd321d3747316c300945eb1adc201585c72be7654ac66ede778f419647b608c07c83#rd",
+        "msgid": "2247536924",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-15",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "这么好的癌症知识仅限于英语听众？ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "这么好的癌症知识仅限于英语听众？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "惊！同样的rename命令在不同服务器效果不一样？",
+      "date": "2025-09-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536945&idx=1&sn=c953f11d8ed5396fecbe7368de985ad4&chksm=fa45940ccd321d1aa8a63c8878126e56b674e153eb447f03aadb8b720985cd85b8ca9dfb9e9a#rd",
+      "id": "2247536945_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "惊！同样的rename命令在不同服务器效果不一样？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536945&idx=1&sn=c953f11d8ed5396fecbe7368de985ad4&chksm=fa45940ccd321d1aa8a63c8878126e56b674e153eb447f03aadb8b720985cd85b8ca9dfb9e9a#rd",
+        "msgid": "2247536945",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-15",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "惊！同样的rename命令在不同服务器效果不一样？ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "惊！同样的rename命令在不同服务器效果不一样？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "没有点背景知识你咋高效使用人工智能大模型呢",
+      "date": "2025-09-29",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537254&idx=1&sn=74eaf230de1d178959d7fbd44c11b244&chksm=fa45975bcd321e4dd77baf181d534144a974a65f24a3e367ed975ca5047b3394162c2705aa63#rd",
+      "id": "2247537254_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "没有点背景知识你咋高效使用人工智能大模型呢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537254&idx=1&sn=74eaf230de1d178959d7fbd44c11b244&chksm=fa45975bcd321e4dd77baf181d534144a974a65f24a3e367ed975ca5047b3394162c2705aa63#rd",
+        "msgid": "2247537254",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-29",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "没有点背景知识你咋高效使用人工智能大模型呢 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "没有点背景知识你咋高效使用人工智能大模型呢"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "多组学分析必然有大量假阳性（任何算法都不能解决这个问题）",
+      "date": "2025-10-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537375&idx=1&sn=fac939b5c80e15533b8e02c054459fd3&chksm=fa4597e2cd321ef4a708690b38db633926a60c3e6b9f78d459515756b36ce8186460e30cb817#rd",
+      "id": "2247537375_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "多组学分析必然有大量假阳性（任何算法都不能解决这个问题）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537375&idx=1&sn=fac939b5c80e15533b8e02c054459fd3&chksm=fa4597e2cd321ef4a708690b38db633926a60c3e6b9f78d459515756b36ce8186460e30cb817#rd",
+        "msgid": "2247537375",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-06",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "多组学分析必然有大量假阳性（任何算法都不能解决这个问题） ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "多组学分析必然有大量假阳性（任何算法都不能解决这个问题）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "大模型可以升级和注释我们的生物信息学代码",
+      "date": "2025-10-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537384&idx=1&sn=09d57853494317504668ad4a0e1478ca&chksm=fa4597d5cd321ec37aace9eb46a0e15ab5c7a6b852aa7f6e570abb1b1366cd8a9acc29785e65#rd",
+      "id": "2247537384_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "大模型可以升级和注释我们的生物信息学代码",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537384&idx=1&sn=09d57853494317504668ad4a0e1478ca&chksm=fa4597d5cd321ec37aace9eb46a0e15ab5c7a6b852aa7f6e570abb1b1366cd8a9acc29785e65#rd",
+        "msgid": "2247537384",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-06",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "大模型可以升级和注释我们的生物信息学代码 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "大模型可以升级和注释我们的生物信息学代码"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "批量判断当前文件夹下面全部的bam文件的完整性",
+      "date": "2025-10-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537513&idx=1&sn=806f6bac8c985a83d53d1cf5be2fae31&chksm=fa459654cd321f4282d404037434de4f27c14e42a51c912b6cd723c0df699344d53eb5455643#rd",
+      "id": "2247537513_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "批量判断当前文件夹下面全部的bam文件的完整性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537513&idx=1&sn=806f6bac8c985a83d53d1cf5be2fae31&chksm=fa459654cd321f4282d404037434de4f27c14e42a51c912b6cd723c0df699344d53eb5455643#rd",
+        "msgid": "2247537513",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-13",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "批量判断当前文件夹下面全部的bam文件的完整性 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "批量判断当前文件夹下面全部的bam文件的完整性"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "修改后的bam文件没办法index和Salmon定量操作了？",
+      "date": "2025-10-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537526&idx=1&sn=538c9462d2eb01207132c18533723981&chksm=fa45964bcd321f5d837386e070b1a6c83090f133c72bd94bbcf7f99e0a024683bdd7999c41d4#rd",
+      "id": "2247537526_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "修改后的bam文件没办法index和Salmon定量操作了？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537526&idx=1&sn=538c9462d2eb01207132c18533723981&chksm=fa45964bcd321f5d837386e070b1a6c83090f133c72bd94bbcf7f99e0a024683bdd7999c41d4#rd",
+        "msgid": "2247537526",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-13",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "修改后的bam文件没办法index和salmon定量操作了？ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "修改后的bam文件没办法index和salmon定量操作了？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "总以为所有的Linux的shell语法都是bash",
+      "date": "2025-10-20",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537617&idx=1&sn=62026ea1925cb66ae7fcd7f999170129&chksm=fa4596eccd321ffabb9eeef2b6ad6fa3d5bf30022da874f1e1395fa526ce6a130033115455ff#rd",
+      "id": "2247537617_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "总以为所有的Linux的shell语法都是bash",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537617&idx=1&sn=62026ea1925cb66ae7fcd7f999170129&chksm=fa4596eccd321ffabb9eeef2b6ad6fa3d5bf30022da874f1e1395fa526ce6a130033115455ff#rd",
+        "msgid": "2247537617",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-20",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "总以为所有的linux的shell语法都是bash ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "总以为所有的linux的shell语法都是bash"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "两次对话就让人工智能大模型教你搞清楚DNA测序样品是panel还是wes还是wgs",
+      "date": "2025-10-27",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537714&idx=1&sn=16ef646e3c8a49dfac0a4ca57999868e&chksm=fa45910fcd321819821034558282c006d044421f0b893034c2ea115d87215d57eadbac97c2e8#rd",
+      "id": "2247537714_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "两次对话就让人工智能大模型教你搞清楚DNA测序样品是panel还是wes还是wgs",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537714&idx=1&sn=16ef646e3c8a49dfac0a4ca57999868e&chksm=fa45910fcd321819821034558282c006d044421f0b893034c2ea115d87215d57eadbac97c2e8#rd",
+        "msgid": "2247537714",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-27",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "两次对话就让人工智能大模型教你搞清楚dna测序样品是panel还是wes还是wgs prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "两次对话就让人工智能大模型教你搞清楚dna测序样品是panel还是wes还是wgs"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "偶尔不用人工智能大模型还蛮有成就感的",
+      "date": "2025-11-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537981&idx=1&sn=908648dee9c756f826e0f96f2076a03e&chksm=fa459000cd32191605b679d137278786a0429be00a1c6e1a1b9fc6233bdffe193046b56e5305#rd",
+      "id": "2247537981_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "偶尔不用人工智能大模型还蛮有成就感的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537981&idx=1&sn=908648dee9c756f826e0f96f2076a03e&chksm=fa459000cd32191605b679d137278786a0429be00a1c6e1a1b9fc6233bdffe193046b56e5305#rd",
+        "msgid": "2247537981",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-10",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "偶尔不用人工智能大模型还蛮有成就感的 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "偶尔不用人工智能大模型还蛮有成就感的"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "你喜欢哪种附件表格模式呢？",
+      "date": "2025-11-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538161&idx=1&sn=bcd10948c457320bb54ded589c7ad5a9&chksm=fa4590cccd3219da8fdf760a9cb4a74703cc3112e92d321d852eb63f404f5ff86925ccfd5778#rd",
+      "id": "2247538161_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "你喜欢哪种附件表格模式呢？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538161&idx=1&sn=bcd10948c457320bb54ded589c7ad5a9&chksm=fa4590cccd3219da8fdf760a9cb4a74703cc3112e92d321d852eb63f404f5ff86925ccfd5778#rd",
+        "msgid": "2247538161",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-19",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "你喜欢哪种附件表格模式呢？ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "你喜欢哪种附件表格模式呢？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "从此再也无需背诵正则表达式规则啦",
+      "date": "2025-11-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538234&idx=1&sn=558c7626881b6a09ec96081551f9de80&chksm=fa459307cd321a1141b39f20765a2f1b51add168d61d049a1b98384daba39bdd758e139fe144#rd",
+      "id": "2247538234_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "从此再也无需背诵正则表达式规则啦",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538234&idx=1&sn=558c7626881b6a09ec96081551f9de80&chksm=fa459307cd321a1141b39f20765a2f1b51add168d61d049a1b98384daba39bdd758e139fe144#rd",
+        "msgid": "2247538234",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-24",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "从此再也无需背诵正则表达式规则啦 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "从此再也无需背诵正则表达式规则啦"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "随时随地让人工智能大模型改进我们的生信流程",
+      "date": "2025-11-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538251&idx=1&sn=60ea8dd11d15ca1eca9010049ae16de3&chksm=fa459376cd321a60a0ab5808a311d3ab929e42b164d5610b6eff12f5deec93eaaaf657895538#rd",
+      "id": "2247538251_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "随时随地让人工智能大模型改进我们的生信流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538251&idx=1&sn=60ea8dd11d15ca1eca9010049ae16de3&chksm=fa459376cd321a60a0ab5808a311d3ab929e42b164d5610b6eff12f5deec93eaaaf657895538#rd",
+        "msgid": "2247538251",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-24",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "随时随地让人工智能大模型改进我们的生信流程 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "随时随地让人工智能大模型改进我们的生信流程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "仅仅是根据文章附表就推测出来这个科研成果（大部分是人工智能大模型瞎说。。。）",
+      "date": "2025-11-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538258&idx=1&sn=878ee561eac03f586057df826675d339&chksm=fa45936fcd321a7963c88d92df5df63015ce526dfaf18293d065e68c6a68e4df9207b581b3aa#rd",
+      "id": "2247538258_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "仅仅是根据文章附表就推测出来这个科研成果（大部分是人工智能大模型瞎说。。。）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538258&idx=1&sn=878ee561eac03f586057df826675d339&chksm=fa45936fcd321a7963c88d92df5df63015ce526dfaf18293d065e68c6a68e4df9207b581b3aa#rd",
+        "msgid": "2247538258",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-25",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "仅仅是根据文章附表就推测出来这个科研成果（大部分是人工智能大模型瞎说。。。） prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "仅仅是根据文章附表就推测出来这个科研成果（大部分是人工智能大模型瞎说。。。）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "PDX小鼠DNA测序比对到人类或者小鼠参考基因组（你以为的比对并不是真正的比对）",
+      "date": "2025-11-26",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538298&idx=1&sn=59bd299693570cbcb39fd84948671b12&chksm=fa459347cd321a51ea38c7b776cdcb0ef8e2e6bdd5bd6d5a649beb6b5073afccd1c68f5ff7d3#rd",
+      "id": "2247538298_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "PDX小鼠DNA测序比对到人类或者小鼠参考基因组（你以为的比对并不是真正的比对）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538298&idx=1&sn=59bd299693570cbcb39fd84948671b12&chksm=fa459347cd321a51ea38c7b776cdcb0ef8e2e6bdd5bd6d5a649beb6b5073afccd1c68f5ff7d3#rd",
+        "msgid": "2247538298",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-26",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "pdx小鼠dna测序比对到人类或者小鼠参考基因组（你以为的比对并不是真正的比对） ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "pdx小鼠dna测序比对到人类或者小鼠参考基因组（你以为的比对并不是真正的比对）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "难绷！我发现自己没办法判断人工智能大模型说的对不对",
+      "date": "2025-12-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538370&idx=1&sn=0563090532a79c808ee4b071c6a7221a&chksm=fa4593ffcd321ae9cdf1a3377aa7dba5eb474a0237aa76f81146d7fe3b165356cb76d3a62b67#rd",
+      "id": "2247538370_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "难绷！我发现自己没办法判断人工智能大模型说的对不对",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538370&idx=1&sn=0563090532a79c808ee4b071c6a7221a&chksm=fa4593ffcd321ae9cdf1a3377aa7dba5eb474a0237aa76f81146d7fe3b165356cb76d3a62b67#rd",
+        "msgid": "2247538370",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-12-01",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "难绷！我发现自己没办法判断人工智能大模型说的对不对 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "难绷！我发现自己没办法判断人工智能大模型说的对不对"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "人工智能大模型辅助初学者画图也很棒啊",
+      "date": "2025-12-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538465&idx=1&sn=ee3fca40f369abc79824f0355193c34d&chksm=fa45921ccd321b0a0947163fc0a8dce117c1b7418d5428aedf54d760819fdd73655d30a3f631#rd",
+      "id": "2247538465_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "人工智能大模型辅助初学者画图也很棒啊",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538465&idx=1&sn=ee3fca40f369abc79824f0355193c34d&chksm=fa45921ccd321b0a0947163fc0a8dce117c1b7418d5428aedf54d760819fdd73655d30a3f631#rd",
+        "msgid": "2247538465",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-12-08",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "人工智能大模型辅助初学者画图也很棒啊 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "人工智能大模型辅助初学者画图也很棒啊"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "y叔要被人工智能大模型淘汰了吗？",
+      "date": "2025-12-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538477&idx=1&sn=68fa0ac90408532e91bc0a2431541b8f&chksm=fa459210cd321b064c388cacaf4ac6fdc895607599a1386acd29bbc09c3068476e76f2e2858e#rd",
+      "id": "2247538477_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "y叔要被人工智能大模型淘汰了吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538477&idx=1&sn=68fa0ac90408532e91bc0a2431541b8f&chksm=fa459210cd321b064c388cacaf4ac6fdc895607599a1386acd29bbc09c3068476e76f2e2858e#rd",
+        "msgid": "2247538477",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-12-08",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "y叔要被人工智能大模型淘汰了吗？ prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "y叔要被人工智能大模型淘汰了吗？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "下划线 vs 短横线，CPU看了都想罢工",
+      "date": "2025-12-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538487&idx=1&sn=13a5e17b23405af7c7c54f0fe056688b&chksm=fa45920acd321b1cd70ba63dded5e0e5d74053726e9a960945b97230f2bc7d0f2283664c576f#rd",
+      "id": "2247538487_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "下划线 vs 短横线，CPU看了都想罢工",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538487&idx=1&sn=13a5e17b23405af7c7c54f0fe056688b&chksm=fa45920acd321b1cd70ba63dded5e0e5d74053726e9a960945b97230f2bc7d0f2283664c576f#rd",
+        "msgid": "2247538487",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-12-08",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "下划线 vs 短横线，cpu看了都想罢工 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "下划线 vs 短横线，cpu看了都想罢工"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "不需要科研资助也能做肿瘤病人大队列测序",
+      "date": "2025-12-22",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538714&idx=1&sn=8d8d836a7c6ebce6b24437955d2c6c32&chksm=fa459d27cd321431ba79ec453fb797570f044a874f39c072f248f04d6645ae7f2ff1093ae59d#rd",
+      "id": "2247538714_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "不需要科研资助也能做肿瘤病人大队列测序",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538714&idx=1&sn=8d8d836a7c6ebce6b24437955d2c6c32&chksm=fa459d27cd321431ba79ec453fb797570f044a874f39c072f248f04d6645ae7f2ff1093ae59d#rd",
+        "msgid": "2247538714",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-12-22",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "不需要科研资助也能做肿瘤病人大队列测序 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "不需要科研资助也能做肿瘤病人大队列测序"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "导师的（经费、能力、性格）不可能三角",
+      "date": "2025-12-22",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538719&idx=1&sn=39575cb32b171fbae48fb842d7fc1d45&chksm=fa459d22cd3214348f95acc66d6a150e4c61c2f9262221f6f87bc39385a5738149da238494a2#rd",
+      "id": "2247538719_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "导师的（经费、能力、性格）不可能三角",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538719&idx=1&sn=39575cb32b171fbae48fb842d7fc1d45&chksm=fa459d22cd3214348f95acc66d6a150e4c61c2f9262221f6f87bc39385a5738149da238494a2#rd",
+        "msgid": "2247538719",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-12-22",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "导师的（经费、能力、性格）不可能三角 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "导师的（经费、能力、性格）不可能三角"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "函数运行不报错就偷着乐吗？",
+      "date": "2026-01-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538983&idx=1&sn=0184a75661931ddd076780f7f8e4a8b6&chksm=fa459c1acd32150c3b9b5aab198c5b63c3c50770e13b3f0b438b03a99e32cc7314b393916417#rd",
+      "id": "2247538983_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "函数运行不报错就偷着乐吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538983&idx=1&sn=0184a75661931ddd076780f7f8e4a8b6&chksm=fa459c1acd32150c3b9b5aab198c5b63c3c50770e13b3f0b438b03a99e32cc7314b393916417#rd",
+        "msgid": "2247538983",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-01-07",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "函数运行不报错就偷着乐吗？ prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "函数运行不报错就偷着乐吗？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "导师让我做某基因突变与否的癌症病人的转录组差异分析?",
+      "date": "2026-02-11",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247539462&idx=1&sn=21032588b29ad5412951027af2eb649a&chksm=fa459e3bcd32172d117057a9e60287f32b8bd0a68793d0f662a0eba805ade53d359e0abd8ccb#rd",
+      "id": "2247539462_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "导师让我做某基因突变与否的癌症病人的转录组差异分析?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247539462&idx=1&sn=21032588b29ad5412951027af2eb649a&chksm=fa459e3bcd32172d117057a9e60287f32b8bd0a68793d0f662a0eba805ade53d359e0abd8ccb#rd",
+        "msgid": "2247539462",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-02-11",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "导师让我做某基因突变与否的癌症病人的转录组差异分析? ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "导师让我做某基因突变与否的癌症病人的转录组差异分析?"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "你必须要首先会一点Linux然后人工智能大模型才能让你起飞啊！",
+      "date": "2026-02-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247539596&idx=1&sn=7eca920bc602ab5a62c8547c07ab38ae&chksm=fa459eb1cd3217a7d2aff174027a3e6e4f2166816f753df40e69beba92a55c2f1a2f9ecd5395#rd",
+      "id": "2247539596_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "你必须要首先会一点Linux然后人工智能大模型才能让你起飞啊！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247539596&idx=1&sn=7eca920bc602ab5a62c8547c07ab38ae&chksm=fa459eb1cd3217a7d2aff174027a3e6e4f2166816f753df40e69beba92a55c2f1a2f9ecd5395#rd",
+        "msgid": "2247539596",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-02-23",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "你必须要首先会一点linux然后人工智能大模型才能让你起飞啊！ prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "你必须要首先会一点linux然后人工智能大模型才能让你起飞啊！"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "简单的两次提问精准定位到Y叔R包的“bug”",
+      "date": "2026-03-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247539924&idx=1&sn=16f47d454a341f6964d5447c20a1eab4&chksm=fa4599e9cd3210ff50d355c1418a2445485816338c6700607419fb3878225ad79fc8426afa03#rd",
+      "id": "2247539924_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "简单的两次提问精准定位到Y叔R包的“bug”",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247539924&idx=1&sn=16f47d454a341f6964d5447c20a1eab4&chksm=fa4599e9cd3210ff50d355c1418a2445485816338c6700607419fb3878225ad79fc8426afa03#rd",
+        "msgid": "2247539924",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-03-09",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "简单的两次提问精准定位到y叔r包的“bug” ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "简单的两次提问精准定位到y叔r包的“bug”"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "现在选择到美国做博士后是49年加入国军？",
+      "date": "2026-03-16",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540014&idx=1&sn=1aaceb7dde7f447a0d82b22989032486&chksm=fa459813cd32110518335a47266f80e8a0a8cb46981a5f6309c2c9fa4d2a7620adf6277702b8#rd",
+      "id": "2247540014_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "现在选择到美国做博士后是49年加入国军？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540014&idx=1&sn=1aaceb7dde7f447a0d82b22989032486&chksm=fa459813cd32110518335a47266f80e8a0a8cb46981a5f6309c2c9fa4d2a7620adf6277702b8#rd",
+        "msgid": "2247540014",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-03-16",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "现在选择到美国做博士后是49年加入国军？ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "现在选择到美国做博士后是49年加入国军？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "人工智能大模型解读人类基因突变的命名都失败",
+      "date": "2026-03-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540100&idx=1&sn=b61bf8ce6a23ad01b34800e17c16c3b2&chksm=fa4598b9cd3211af421e23d62d933c1b8d32c97d363876e35d605b48f9611f591cf81f92df1a#rd",
+      "id": "2247540100_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "人工智能大模型解读人类基因突变的命名都失败",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540100&idx=1&sn=b61bf8ce6a23ad01b34800e17c16c3b2&chksm=fa4598b9cd3211af421e23d62d933c1b8d32c97d363876e35d605b48f9611f591cf81f92df1a#rd",
+        "msgid": "2247540100",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-03-23",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "人工智能大模型解读人类基因突变的命名都失败 prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "人工智能大模型解读人类基因突变的命名都失败"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "突变信息也可以两分组差异分析和可视化",
+      "date": "2026-03-30",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540204&idx=1&sn=02efccf0c892ee1864aeba278693bedb&chksm=fa4598d1cd3211c7f997e615161fc9c6b0fff53d469de915a20495ce55b0d714e32a63f4bf31#rd",
+      "id": "2247540204_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "突变信息也可以两分组差异分析和可视化",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540204&idx=1&sn=02efccf0c892ee1864aeba278693bedb&chksm=fa4598d1cd3211c7f997e615161fc9c6b0fff53d469de915a20495ce55b0d714e32a63f4bf31#rd",
+        "msgid": "2247540204",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-03-30",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "突变信息也可以两分组差异分析和可视化 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "突变信息也可以两分组差异分析和可视化"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "曾经视若珍宝的单细胞文件整理和读取的代码从此分文不值！",
+      "date": "2026-04-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540276&idx=1&sn=459918671dad6f04b4d6b78648114df9&chksm=fa459b09cd32121f9ad26cca0e6555e2931f99a5cb71c5cb3d43db0eb9c4724d118ca28df08d#rd",
+      "id": "2247540276_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "曾经视若珍宝的单细胞文件整理和读取的代码从此分文不值！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540276&idx=1&sn=459918671dad6f04b4d6b78648114df9&chksm=fa459b09cd32121f9ad26cca0e6555e2931f99a5cb71c5cb3d43db0eb9c4724d118ca28df08d#rd",
+        "msgid": "2247540276",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-04-06",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "曾经视若珍宝的单细胞文件整理和读取的代码从此分文不值！ ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "曾经视若珍宝的单细胞文件整理和读取的代码从此分文不值！"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "取代生信工程师的从来就不是人工智能啊!",
+      "date": "2026-04-27",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540510&idx=1&sn=fcd734369b328fcebb54abaad73c12f3&chksm=fa459a23cd321335e21bfc2105c9c5baa1410bf84ea49f98bc4abdf8a1ba7205740b92ef40b5#rd",
+      "id": "2247540510_1",
+      "category": "Prompting And AI Usage Pitfalls",
+      "summary": "Relevant prompting and ai usage pitfalls entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "取代生信工程师的从来就不是人工智能啊!",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540510&idx=1&sn=fcd734369b328fcebb54abaad73c12f3&chksm=fa459a23cd321335e21bfc2105c9c5baa1410bf84ea49f98bc4abdf8a1ba7205740b92ef40b5#rd",
+        "msgid": "2247540510",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-04-27",
+        "category_key": "prompt-and-usage",
+        "category_title": "Prompting And AI Usage Pitfalls",
+        "brief": "Relevant prompting and ai usage pitfalls entry kept from the curated album."
+      },
+      "text_blob": "取代生信工程师的从来就不是人工智能啊! prompting and ai usage pitfalls relevant prompting and ai usage pitfalls entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "prompting and ai usage pitfalls",
+      "title_lower": "取代生信工程师的从来就不是人工智能啊!"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "这个五一假期谁能带我去哈佛或者MIT蹭课呢?",
+      "date": "2026-04-27",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540517&idx=1&sn=2633e5a8c43eea3d5a263a773bb69aaa&chksm=fa459a18cd32130efac7b726fc8dfb03e126e8cd1a9b7ec45a40889ba9fc590ec55bd923e3ea#rd",
+      "id": "2247540517_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "这个五一假期谁能带我去哈佛或者MIT蹭课呢?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540517&idx=1&sn=2633e5a8c43eea3d5a263a773bb69aaa&chksm=fa459a18cd32130efac7b726fc8dfb03e126e8cd1a9b7ec45a40889ba9fc590ec55bd923e3ea#rd",
+        "msgid": "2247540517",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-04-27",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "这个五一假期谁能带我去哈佛或者mit蹭课呢? ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "这个五一假期谁能带我去哈佛或者mit蹭课呢?"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "ai为什么可以解答那些描述都不清不楚的问题?",
+      "date": "2026-05-04",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540555&idx=1&sn=9d42aee9e9a3dbca15f87586973de343&chksm=fa459a76cd321360b08944a9e3849d7a8cce4d6be7034822198dadaf60bb92dab6ef7835e675#rd",
+      "id": "2247540555_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "ai为什么可以解答那些描述都不清不楚的问题?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540555&idx=1&sn=9d42aee9e9a3dbca15f87586973de343&chksm=fa459a76cd321360b08944a9e3849d7a8cce4d6be7034822198dadaf60bb92dab6ef7835e675#rd",
+        "msgid": "2247540555",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-05-04",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "ai为什么可以解答那些描述都不清不楚的问题? ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "ai为什么可以解答那些描述都不清不楚的问题?"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "你也做了这些“违规”的生物信息学图表吗?",
+      "date": "2026-05-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540700&idx=1&sn=dd88f419ea0e6b861fbb38ca0fdad132&chksm=fa459ae1cd3213f76dd8a7ded52533fb23e76c8fae276850a8baa97627798bf761426d96add2#rd",
+      "id": "2247540700_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "你也做了这些“违规”的生物信息学图表吗?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540700&idx=1&sn=dd88f419ea0e6b861fbb38ca0fdad132&chksm=fa459ae1cd3213f76dd8a7ded52533fb23e76c8fae276850a8baa97627798bf761426d96add2#rd",
+        "msgid": "2247540700",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-05-18",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "你也做了这些“违规”的生物信息学图表吗? ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "你也做了这些“违规”的生物信息学图表吗?"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "快速删除微信聊天存储在电脑的重复文件（学3年都写不出来的shell代码）",
+      "date": "2026-06-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540822&idx=1&sn=0378ab87f632c7e5e53cc7dd945cd0e5&chksm=fa45e56bcd326c7d4396c3a685a2486f935ff913b2fefc22a3c980b89fcba8ace55b8184daf7#rd",
+      "id": "2247540822_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "快速删除微信聊天存储在电脑的重复文件（学3年都写不出来的shell代码）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540822&idx=1&sn=0378ab87f632c7e5e53cc7dd945cd0e5&chksm=fa45e56bcd326c7d4396c3a685a2486f935ff913b2fefc22a3c980b89fcba8ace55b8184daf7#rd",
+        "msgid": "2247540822",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-06-01",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "快速删除微信聊天存储在电脑的重复文件（学3年都写不出来的shell代码） ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "快速删除微信聊天存储在电脑的重复文件（学3年都写不出来的shell代码）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "nature杂志的400万细胞告诉你如何进行亚群多层次命名",
+      "date": "2026-06-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540926&idx=1&sn=e6c1f2078d6631bf1be63181e877f920&chksm=fa45e583cd326c954ee3879ce72c863affc079ccb51b6c0085cea027670092ecaebcc1c99ce3#rd",
+      "id": "2247540926_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "nature杂志的400万细胞告诉你如何进行亚群多层次命名",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247540926&idx=1&sn=e6c1f2078d6631bf1be63181e877f920&chksm=fa45e583cd326c954ee3879ce72c863affc079ccb51b6c0085cea027670092ecaebcc1c99ce3#rd",
+        "msgid": "2247540926",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-06-08",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "nature杂志的400万细胞告诉你如何进行亚群多层次命名 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "nature杂志的400万细胞告诉你如何进行亚群多层次命名"
+    }
+  ]
+}

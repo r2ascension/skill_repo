@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single-Cell QC And Parameter Tuning Learning"
+  short_description: "Cross-source learning skill for single-cell QC, preprocessing, contamination handling, and parameter tuning decisions."
+  default_prompt: "Use $bio-learning-single-cell-qc-and-parameter-tuning when the user wants learning content organized by concrete function rather than by creator or album source."

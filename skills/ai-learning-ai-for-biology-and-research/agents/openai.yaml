@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI For Biology And Research Learning"
+  short_description: "Cross-source learning skill for applying AI to biology, biomedical research, and research-oriented tool selection."
+  default_prompt: "Use $ai-learning-ai-for-biology-and-research when the user wants learning content organized by concrete function rather than by creator or album source."

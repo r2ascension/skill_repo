@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cell Communication And Microenvironment Learning"
+  short_description: "Cross-source learning skill for cell communication, microenvironment analysis, and receptor-ligand style workflows."
+  default_prompt: "Use $bio-learning-cell-communication-and-microenvironment when the user wants learning content organized by concrete function rather than by creator or album source."

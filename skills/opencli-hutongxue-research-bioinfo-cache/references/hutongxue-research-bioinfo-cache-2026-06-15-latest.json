@@ -1,0 +1,269 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "大家好我是呼同学",
+  "uid": "475600552",
+  "channel_url": "https://space.bilibili.com/475600552",
+  "count": 26,
+  "videos": [
+    {
+      "title": "第一作者视角：带你看懂SCI中孟德尔随机化分析和简单实验验证",
+      "date": "2026-05-31",
+      "url": "https://www.bilibili.com/video/BV1REV56YEhk",
+      "bvid": "BV1REV56YEhk",
+      "plays": 1852,
+      "likes": 0,
+      "category_key": "causal-inference-and-mr",
+      "category_title": "Causal Inference And Mendelian Randomization"
+    },
+    {
+      "title": "第一作者视角：带你看懂生信中虚拟药物筛选和分子对接",
+      "date": "2026-05-30",
+      "url": "https://www.bilibili.com/video/BV1sRV36GE3B",
+      "bvid": "BV1sRV36GE3B",
+      "plays": 1687,
+      "likes": 0,
+      "category_key": "docking-and-screening",
+      "category_title": "Virtual Screening And Docking"
+    },
+    {
+      "title": "第一作者视角：带你看懂SCI文章中的空间转录组学单细胞分析",
+      "date": "2026-05-26",
+      "url": "https://www.bilibili.com/video/BV1kCVA6mESz",
+      "bvid": "BV1kCVA6mESz",
+      "plays": 2610,
+      "likes": 0,
+      "category_key": "spatial-and-single-cell-literature",
+      "category_title": "Spatial And Single-Cell Literature Walkthrough"
+    },
+    {
+      "title": "第一作者视角：带你看懂SCI文章中的单细胞分析丨Cell-Chat通讯分析",
+      "date": "2026-05-25",
+      "url": "https://www.bilibili.com/video/BV16YGR6pEDD",
+      "bvid": "BV16YGR6pEDD",
+      "plays": 3358,
+      "likes": 0,
+      "category_key": "spatial-and-single-cell-literature",
+      "category_title": "Spatial And Single-Cell Literature Walkthrough"
+    },
+    {
+      "title": "第一作者视角：带你看懂SCI文章中的113种机器学习模型丨列线图丨免疫浸润",
+      "date": "2026-05-23",
+      "url": "https://www.bilibili.com/video/BV1rsG86DE3K",
+      "bvid": "BV1rsG86DE3K",
+      "plays": 1559,
+      "likes": 0,
+      "category_key": "ml-and-immune-modeling",
+      "category_title": "Machine Learning And Immune Modeling"
+    },
+    {
+      "title": "第一作者视角：带你看懂SCI文章中的差异分析、WGCNA和PPI蛋白网络",
+      "date": "2026-05-22",
+      "url": "https://www.bilibili.com/video/BV1wVLY6qEeH",
+      "bvid": "BV1wVLY6qEeH",
+      "plays": 2371,
+      "likes": 0,
+      "category_key": "deg-wgcna-and-network",
+      "category_title": "DE WGCNA And Network Analysis"
+    },
+    {
+      "title": "我如何一个月用免费公共数据库完成6分中科院二区SCI？第一作者视角拆解生信分析完整思路（第一期）",
+      "date": "2026-05-21",
+      "url": "https://www.bilibili.com/video/BV1fjLh6dEjT",
+      "bvid": "BV1fjLh6dEjT",
+      "plays": 9238,
+      "likes": 0,
+      "category_key": "case-driven-bioinformatics",
+      "category_title": "Case Driven Bioinformatics"
+    },
+    {
+      "title": "科研小白/文献解读：Q1区4.7分生信分析+药物干预“干湿结合”，逻辑清晰适合入门学习借鉴！",
+      "date": "2025-09-15",
+      "url": "https://www.bilibili.com/video/BV1fHpqzGEQa",
+      "bvid": "BV1fHpqzGEQa",
+      "plays": 2859,
+      "likes": 0,
+      "category_key": "case-driven-bioinformatics",
+      "category_title": "Case Driven Bioinformatics"
+    },
+    {
+      "title": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（2）",
+      "date": "2025-09-14",
+      "url": "https://www.bilibili.com/video/BV1CmpczUEDD",
+      "bvid": "BV1CmpczUEDD",
+      "plays": 1020,
+      "likes": 0,
+      "category_key": "plotting-and-color",
+      "category_title": "Plotting And Color"
+    },
+    {
+      "title": "一次性彻底解决你的科研作图配色难题！精选4个在线配色网站+代码配色教学（1）",
+      "date": "2025-09-14",
+      "url": "https://www.bilibili.com/video/BV1QapczfEst",
+      "bvid": "BV1QapczfEst",
+      "plays": 1049,
+      "likes": 0,
+      "category_key": "plotting-and-color",
+      "category_title": "Plotting And Color"
+    },
+    {
+      "title": "Docker部署RStudio服务器全流程｜西柚云服务器+私有镜像配置教程｜R语言环境搭建实操指南",
+      "date": "2025-04-07",
+      "url": "https://www.bilibili.com/video/BV1fGRmYrEJX",
+      "bvid": "BV1fGRmYrEJX",
+      "plays": 1861,
+      "likes": 0,
+      "category_key": "docker-and-research-environment",
+      "category_title": "Docker And Research Environment"
+    },
+    {
+      "title": "西柚云服务器搭建Docker私有仓库教程｜手把手配置镜像仓库解决拉取失败问题！",
+      "date": "2025-04-07",
+      "url": "https://www.bilibili.com/video/BV1CyRmYSE73",
+      "bvid": "BV1CyRmYSE73",
+      "plays": 1138,
+      "likes": 0,
+      "category_key": "docker-and-research-environment",
+      "category_title": "Docker And Research Environment"
+    },
+    {
+      "title": "科研环境搭建时常出问题？Docker 来帮你,Docker入门课程01-如何安装Docker",
+      "date": "2025-03-29",
+      "url": "https://www.bilibili.com/video/BV1hUofYeEHF",
+      "bvid": "BV1hUofYeEHF",
+      "plays": 1265,
+      "likes": 0,
+      "category_key": "docker-and-research-environment",
+      "category_title": "Docker And Research Environment"
+    },
+    {
+      "title": "30秒告诉你什么是生信云服务器，UP主自己都在用，非常推荐",
+      "date": "2025-03-25",
+      "url": "https://www.bilibili.com/video/BV1VnoxYyE8F",
+      "bvid": "BV1VnoxYyE8F",
+      "plays": 1400,
+      "likes": 0,
+      "category_key": "docker-and-research-environment",
+      "category_title": "Docker And Research Environment"
+    },
+    {
+      "title": "【医学本科生错过后悔】如何学习专业课/科研/英语/考研/保研/直博/竞赛全面发展？——呼同学公开课讲座1h宁夏医科大学专场",
+      "date": "2024-05-20",
+      "url": "https://www.bilibili.com/video/BV1qt421K77Q",
+      "bvid": "BV1qt421K77Q",
+      "plays": 24472,
+      "likes": 0,
+      "category_key": "postgrad-prep",
+      "category_title": "Postgraduate Prep"
+    },
+    {
+      "title": "阅读文献文档小技巧：如何把截图固定置顶在电脑页面上？边看文档边看截图学习效率翻倍",
+      "date": "2023-03-28",
+      "url": "https://www.bilibili.com/video/BV1Q84y1u7QW",
+      "bvid": "BV1Q84y1u7QW",
+      "plays": 25055,
+      "likes": 0,
+      "category_key": "literature-and-productivity",
+      "category_title": "Literature And Productivity"
+    },
+    {
+      "title": "【医学生必看】直博学长手把手带你从零准备考研复试教程第五讲：如何稳过复试？",
+      "date": "2023-02-25",
+      "url": "https://www.bilibili.com/video/BV1Xx4y1F7uz",
+      "bvid": "BV1Xx4y1F7uz",
+      "plays": 7471,
+      "likes": 0,
+      "category_key": "postgrad-prep",
+      "category_title": "Postgraduate Prep"
+    },
+    {
+      "title": "【医学生必看】直博学长手把手带你从零准备考研复试教程第四讲：如何书写个人陈述？",
+      "date": "2023-02-24",
+      "url": "https://www.bilibili.com/video/BV1YT411i7Cw",
+      "bvid": "BV1YT411i7Cw",
+      "plays": 3713,
+      "likes": 0,
+      "category_key": "postgrad-prep",
+      "category_title": "Postgraduate Prep"
+    },
+    {
+      "title": "【医学生必看】直博学长手把手带你从零准备考研复试教程第三讲：Excel表格文献整理",
+      "date": "2023-02-24",
+      "url": "https://www.bilibili.com/video/BV1JT411i7sm",
+      "bvid": "BV1JT411i7sm",
+      "plays": 5141,
+      "likes": 0,
+      "category_key": "literature-and-productivity",
+      "category_title": "Literature And Productivity"
+    },
+    {
+      "title": "【医学生必看】直博学长手把手带你从零准备考研复试教程第二讲：如何升级简历",
+      "date": "2023-02-24",
+      "url": "https://www.bilibili.com/video/BV1FY411C7AM",
+      "bvid": "BV1FY411C7AM",
+      "plays": 4986,
+      "likes": 0,
+      "category_key": "postgrad-prep",
+      "category_title": "Postgraduate Prep"
+    },
+    {
+      "title": "【医学生必看】直博学长手把手带你从零准备考研复试，无科研无竞赛怎么稳过复试？医学考研复试教程第一讲：如何选导师",
+      "date": "2023-02-23",
+      "url": "https://www.bilibili.com/video/BV1pY4y1U7fi",
+      "bvid": "BV1pY4y1U7fi",
+      "plays": 12559,
+      "likes": 0,
+      "category_key": "postgrad-prep",
+      "category_title": "Postgraduate Prep"
+    },
+    {
+      "title": "【医学生保研直博实录】愿以后的征途心有繁花似锦，胸有沟壑万千——宁夏医科大学",
+      "date": "2022-09-30",
+      "url": "https://www.bilibili.com/video/BV1id4y1q7cK",
+      "bvid": "BV1id4y1q7cK",
+      "plays": 13513,
+      "likes": 0,
+      "category_key": "postgrad-prep",
+      "category_title": "Postgraduate Prep"
+    },
+    {
+      "title": "【随时随地免费下载知网文献教程】5分钟教会你免费正规稳定白嫖知网，万方，维普数据库【UP亲测】",
+      "date": "2021-03-20",
+      "url": "https://www.bilibili.com/video/BV15N411X7ww",
+      "bvid": "BV15N411X7ww",
+      "plays": 5339,
+      "likes": 0,
+      "category_key": "literature-and-productivity",
+      "category_title": "Literature And Productivity"
+    },
+    {
+      "title": "大创项目申报：医学生从零基础到成功立项七步走讲解【下篇】---By呼同学",
+      "date": "2020-08-29",
+      "url": "https://www.bilibili.com/video/BV1v54y127Kd",
+      "bvid": "BV1v54y127Kd",
+      "plays": 24900,
+      "likes": 0,
+      "category_key": "research-methods-and-projects",
+      "category_title": "Research Methods And Projects"
+    },
+    {
+      "title": "大创项目申报：医学生从零基础到成功立项七步走讲解【上篇】---By呼同学",
+      "date": "2020-08-29",
+      "url": "https://www.bilibili.com/video/BV1d54y1e7EP",
+      "bvid": "BV1d54y1e7EP",
+      "plays": 54824,
+      "likes": 0,
+      "category_key": "research-methods-and-projects",
+      "category_title": "Research Methods And Projects"
+    },
+    {
+      "title": "【医学生必看：大创、互联网＋、挑战杯辨析讲解】理性参赛，拒绝盲从；结尾有下一期视频内容预告，请务必看完。---By呼同学",
+      "date": "2020-08-17",
+      "url": "https://www.bilibili.com/video/BV1YC4y1t7jA",
+      "bvid": "BV1YC4y1t7jA",
+      "plays": 75958,
+      "likes": 0,
+      "category_key": "research-methods-and-projects",
+      "category_title": "Research Methods And Projects"
+    }
+  ]
+}

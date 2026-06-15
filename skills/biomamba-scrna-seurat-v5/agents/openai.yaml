@@ -1,4 +1,0 @@
-interface:
-  display_name: "Biomamba scRNA Seurat V5"
-  short_description: "Biomamba Seurat V5 scRNA workflow"
-  default_prompt: "Use the biomamba-scrna-seurat-v5 skill to run a Seurat V5 single-cell workflow with this repository's Python-to-R handoff and dated output conventions."

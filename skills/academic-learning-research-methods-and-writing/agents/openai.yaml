@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Methods And Writing Learning"
+  short_description: "Cross-source learning skill for research methods, study framing, manuscript workflow, and project-level research writing practice."
+  default_prompt: "Use $academic-learning-research-methods-and-writing when the user wants learning content organized by concrete function rather than by creator or album source."

@@ -1,0 +1,3710 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-single-cell-core-analysis",
+  "focus": "core single-cell analysis workflows and annotation",
+  "count": 120,
+  "items": [
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "芒果，单细胞总动员-260111",
+      "date": "2026-01-11",
+      "url": "https://www.bilibili.com/video/BV1e16oBJEy7",
+      "id": "BV1e16oBJEy7",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "芒果，单细胞总动员-260111",
+        "date": "2026-01-11",
+        "url": "https://www.bilibili.com/video/BV1e16oBJEy7",
+        "bvid": "BV1e16oBJEy7",
+        "plays": 1456,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "芒果，单细胞总动员-260111 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "芒果，单细胞总动员-260111"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "221204前沿讲座：单细胞基因组学赋能生信研究和临床转化",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1WwxKziE7o",
+      "id": "BV1WwxKziE7o",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "221204前沿讲座：单细胞基因组学赋能生信研究和临床转化",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1WwxKziE7o",
+        "bvid": "BV1WwxKziE7o",
+        "plays": 307,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "221204前沿讲座：单细胞基因组学赋能生信研究和临床转化 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "221204前沿讲座：单细胞基因组学赋能生信研究和临床转化"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230306：单细胞测序揭示肿瘤逃逸NK新机制",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1uSxNz1EWH",
+      "id": "BV1uSxNz1EWH",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "230306：单细胞测序揭示肿瘤逃逸NK新机制",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1uSxNz1EWH",
+        "bvid": "BV1uSxNz1EWH",
+        "plays": 1250,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "230306：单细胞测序揭示肿瘤逃逸nk新机制 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "230306：单细胞测序揭示肿瘤逃逸nk新机制"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230528单细胞入门：从R语言21天打卡说起",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1kJxAz4Ecq",
+      "id": "BV1kJxAz4Ecq",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "230528单细胞入门：从R语言21天打卡说起",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1kJxAz4Ecq",
+        "bvid": "BV1kJxAz4Ecq",
+        "plays": 167,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "230528单细胞入门：从r语言21天打卡说起 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "230528单细胞入门：从r语言21天打卡说起"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230618单细胞在线数据库：GREIN使用",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1CjxAzbEBA",
+      "id": "BV1CjxAzbEBA",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "230618单细胞在线数据库：GREIN使用",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1CjxAzbEBA",
+        "bvid": "BV1CjxAzbEBA",
+        "plays": 496,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "230618单细胞在线数据库：grein使用 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "230618单细胞在线数据库：grein使用"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230709单细胞：如何利用IMMUcan数据库展开单细胞数据分析",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1QZxwzrEBP",
+      "id": "BV1QZxwzrEBP",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "230709单细胞：如何利用IMMUcan数据库展开单细胞数据分析",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1QZxwzrEBP",
+        "bvid": "BV1QZxwzrEBP",
+        "plays": 239,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "230709单细胞：如何利用immucan数据库展开单细胞数据分析 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "230709单细胞：如何利用immucan数据库展开单细胞数据分析"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230924思维导图：单细胞数据分析的内容和流程",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV14vsRz5E5Q",
+      "id": "BV14vsRz5E5Q",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "230924思维导图：单细胞数据分析的内容和流程",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV14vsRz5E5Q",
+        "bvid": "BV14vsRz5E5Q",
+        "plays": 640,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "230924思维导图：单细胞数据分析的内容和流程 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "230924思维导图：单细胞数据分析的内容和流程"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231015在线平台：TISCH最新使用方式",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1o5sRzZEVh",
+      "id": "BV1o5sRzZEVh",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "TISCH"
+      ],
+      "extra": {
+        "title": "231015在线平台：TISCH最新使用方式",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1o5sRzZEVh",
+        "bvid": "BV1o5sRzZEVh",
+        "plays": 474,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "TISCH"
+        ]
+      },
+      "text_blob": "231015在线平台：tisch最新使用方式 single-cell and online platforms  tisch",
+      "tags_lower": [
+        "tisch"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "231015在线平台：tisch最新使用方式"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231015生信实操：Seurat官方教程的使用方法",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1ijsRz4EiZ",
+      "id": "BV1ijsRz4EiZ",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "Seurat"
+      ],
+      "extra": {
+        "title": "231015生信实操：Seurat官方教程的使用方法",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1ijsRz4EiZ",
+        "bvid": "BV1ijsRz4EiZ",
+        "plays": 351,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "Seurat"
+        ]
+      },
+      "text_blob": "231015生信实操：seurat官方教程的使用方法 single-cell and online platforms  seurat",
+      "tags_lower": [
+        "seurat"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "231015生信实操：seurat官方教程的使用方法"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231022生信实操：单细胞差异分析实操与解读",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1BVsRzbENn",
+      "id": "BV1BVsRzbENn",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "231022生信实操：单细胞差异分析实操与解读",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1BVsRzbENn",
+        "bvid": "BV1BVsRzbENn",
+        "plays": 211,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "231022生信实操：单细胞差异分析实操与解读 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "231022生信实操：单细胞差异分析实操与解读"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231022在线分析：蛋白组实操LinkedOmicsKB（苹果）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV19nsRz9EKt",
+      "id": "BV19nsRz9EKt",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "LinkedOmics"
+      ],
+      "extra": {
+        "title": "231022在线分析：蛋白组实操LinkedOmicsKB（苹果）",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV19nsRz9EKt",
+        "bvid": "BV19nsRz9EKt",
+        "plays": 60,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "LinkedOmics"
+        ]
+      },
+      "text_blob": "231022在线分析：蛋白组实操linkedomicskb（苹果） single-cell and online platforms  linkedomics",
+      "tags_lower": [
+        "linkedomics"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "231022在线分析：蛋白组实操linkedomicskb（苹果）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231105在线实操：TIMER数据库介绍和实战（更详细版本）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1eJsRzsEpt",
+      "id": "BV1eJsRzsEpt",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "TIMER"
+      ],
+      "extra": {
+        "title": "231105在线实操：TIMER数据库介绍和实战（更详细版本）",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1eJsRzsEpt",
+        "bvid": "BV1eJsRzsEpt",
+        "plays": 891,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "TIMER"
+        ]
+      },
+      "text_blob": "231105在线实操：timer数据库介绍和实战（更详细版本） single-cell and online platforms  timer",
+      "tags_lower": [
+        "timer"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "231105在线实操：timer数据库介绍和实战（更详细版本）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "1006单细胞数据分析，有些矛盾的细胞如何注释？",
+      "date": "2025-06-03",
+      "url": "https://www.bilibili.com/video/BV1yh7tz2Erq",
+      "id": "BV1yh7tz2Erq",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "1006单细胞数据分析，有些矛盾的细胞如何注释？",
+        "date": "2025-06-03",
+        "url": "https://www.bilibili.com/video/BV1yh7tz2Erq",
+        "bvid": "BV1yh7tz2Erq",
+        "plays": 447,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "1006单细胞数据分析，有些矛盾的细胞如何注释？ single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "1006单细胞数据分析，有些矛盾的细胞如何注释？"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "1215代码实战，单细胞代谢分析包scMetabolism",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1uW7DzDESn",
+      "id": "BV1uW7DzDESn",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "1215代码实战，单细胞代谢分析包scMetabolism",
+        "date": "2025-06-02",
+        "url": "https://www.bilibili.com/video/BV1uW7DzDESn",
+        "bvid": "BV1uW7DzDESn",
+        "plays": 1397,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "1215代码实战，单细胞代谢分析包scmetabolism single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "1215代码实战，单细胞代谢分析包scmetabolism"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0302：实操演示，单细胞数据滚打包收（GSE157783）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1fiEEzLEHL",
+      "id": "BV1fiEEzLEHL",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "0302：实操演示，单细胞数据滚打包收（GSE157783）",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1fiEEzLEHL",
+        "bvid": "BV1fiEEzLEHL",
+        "plays": 237,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "0302：实操演示，单细胞数据滚打包收（gse157783） single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "0302：实操演示，单细胞数据滚打包收（gse157783）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0302：单细胞文献Fig解读",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV151EEzgEyf",
+      "id": "BV151EEzgEyf",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "0302：单细胞文献Fig解读",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV151EEzgEyf",
+        "bvid": "BV151EEzgEyf",
+        "plays": 246,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "0302：单细胞文献fig解读 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "0302：单细胞文献fig解读"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0302：打卡学习，单细胞21天内容归纳整理",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1dkEEz3EsX",
+      "id": "BV1dkEEz3EsX",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "0302：打卡学习，单细胞21天内容归纳整理",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1dkEEz3EsX",
+        "bvid": "BV1dkEEz3EsX",
+        "plays": 389,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "0302：打卡学习，单细胞21天内容归纳整理 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "0302：打卡学习，单细胞21天内容归纳整理"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0309：单细胞分析中WGCNA包的安装方法",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1ZnEJzLEnE",
+      "id": "BV1ZnEJzLEnE",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "WGCNA"
+      ],
+      "extra": {
+        "title": "0309：单细胞分析中WGCNA包的安装方法",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1ZnEJzLEnE",
+        "bvid": "BV1ZnEJzLEnE",
+        "plays": 182,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞",
+          "WGCNA"
+        ]
+      },
+      "text_blob": "0309：单细胞分析中wgcna包的安装方法 single-cell and online platforms  单细胞 wgcna",
+      "tags_lower": [
+        "wgcna",
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "0309：单细胞分析中wgcna包的安装方法"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0316：21天教程，单细胞数据实操演示和解读",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV19kEjzYEw4",
+      "id": "BV19kEjzYEw4",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "0316：21天教程，单细胞数据实操演示和解读",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV19kEjzYEw4",
+        "bvid": "BV19kEjzYEw4",
+        "plays": 632,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "0316：21天教程，单细胞数据实操演示和解读 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "0316：21天教程，单细胞数据实操演示和解读"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0330:代码解读，单细胞Seurat数据对象构建实战",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1F8EjzkE6L",
+      "id": "BV1F8EjzkE6L",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Seurat"
+      ],
+      "extra": {
+        "title": "0330:代码解读，单细胞Seurat数据对象构建实战",
+        "date": "2025-05-12",
+        "url": "https://www.bilibili.com/video/BV1F8EjzkE6L",
+        "bvid": "BV1F8EjzkE6L",
+        "plays": 329,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞",
+          "Seurat"
+        ]
+      },
+      "text_blob": "0330:代码解读，单细胞seurat数据对象构建实战 single-cell and online platforms  单细胞 seurat",
+      "tags_lower": [
+        "seurat",
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "0330:代码解读，单细胞seurat数据对象构建实战"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "单细胞差异分析思路大揭秘_值得借鉴",
+      "date": "2025-03-23",
+      "url": "https://www.bilibili.com/video/BV1eoXhYSEED",
+      "id": "BV1eoXhYSEED",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "单细胞差异分析思路大揭秘_值得借鉴",
+        "date": "2025-03-23",
+        "url": "https://www.bilibili.com/video/BV1eoXhYSEED",
+        "bvid": "BV1eoXhYSEED",
+        "plays": 4509,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "单细胞差异分析思路大揭秘_值得借鉴 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "单细胞差异分析思路大揭秘_值得借鉴"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "打卡学习，单细胞21天内容归纳整理",
+      "date": "2025-03-02",
+      "url": "https://www.bilibili.com/video/BV14q98YBELM",
+      "id": "BV14q98YBELM",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "打卡学习，单细胞21天内容归纳整理",
+        "date": "2025-03-02",
+        "url": "https://www.bilibili.com/video/BV14q98YBELM",
+        "bvid": "BV14q98YBELM",
+        "plays": 2340,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "打卡学习，单细胞21天内容归纳整理 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "打卡学习，单细胞21天内容归纳整理"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "实操演示：单细胞数据滚打包收（GSE157783）",
+      "date": "2025-03-02",
+      "url": "https://www.bilibili.com/video/BV1be98Y6ECp",
+      "id": "BV1be98Y6ECp",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "实操演示：单细胞数据滚打包收（GSE157783）",
+        "date": "2025-03-02",
+        "url": "https://www.bilibili.com/video/BV1be98Y6ECp",
+        "bvid": "BV1be98Y6ECp",
+        "plays": 2192,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "实操演示：单细胞数据滚打包收（gse157783） single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "实操演示：单细胞数据滚打包收（gse157783）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "导航网，开启单细胞、肿瘤和免疫资源的整合",
+      "date": "2024-07-28",
+      "url": "https://www.bilibili.com/video/BV1Qb421E7Zh",
+      "id": "BV1Qb421E7Zh",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "导航网，开启单细胞、肿瘤和免疫资源的整合",
+        "date": "2024-07-28",
+        "url": "https://www.bilibili.com/video/BV1Qb421E7Zh",
+        "bvid": "BV1Qb421E7Zh",
+        "plays": 1643,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "导航网，开启单细胞、肿瘤和免疫资源的整合 single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "导航网，开启单细胞、肿瘤和免疫资源的整合"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "28. 单细胞思路，用Roe分析筛选关键细胞亚群（张院士团队首创）",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV1RuEX6QEjk",
+      "id": "BV1RuEX6QEjk",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "28. 单细胞思路，用Roe分析筛选关键细胞亚群（张院士团队首创）",
+        "date": "2026-06-10",
+        "url": "https://www.bilibili.com/video/BV1RuEX6QEjk",
+        "bvid": "BV1RuEX6QEjk",
+        "plays": 1556,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "28. 单细胞思路，用roe分析筛选关键细胞亚群（张院士团队首创） single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "28. 单细胞思路，用roe分析筛选关键细胞亚群（张院士团队首创）"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "27. 单细胞虚拟敲除，scTenifoldKnk单细胞虚拟基因敲除详细教程",
+      "date": "2026-05-20",
+      "url": "https://www.bilibili.com/video/BV12TLy6gEg8",
+      "id": "BV12TLy6gEg8",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "27. 单细胞虚拟敲除，scTenifoldKnk单细胞虚拟基因敲除详细教程",
+        "date": "2026-05-20",
+        "url": "https://www.bilibili.com/video/BV12TLy6gEg8",
+        "bvid": "BV12TLy6gEg8",
+        "plays": 4172,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "27. 单细胞虚拟敲除，sctenifoldknk单细胞虚拟基因敲除详细教程 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "27. 单细胞虚拟敲除，sctenifoldknk单细胞虚拟基因敲除详细教程"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "26. 单细胞组间差异分析全流程：不同celltype中分组差异分析",
+      "date": "2025-12-08",
+      "url": "https://www.bilibili.com/video/BV1gBmNBUEek",
+      "id": "BV1gBmNBUEek",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "26. 单细胞组间差异分析全流程：不同celltype中分组差异分析",
+        "date": "2025-12-08",
+        "url": "https://www.bilibili.com/video/BV1gBmNBUEek",
+        "bvid": "BV1gBmNBUEek",
+        "plays": 5324,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "26. 单细胞组间差异分析全流程：不同celltype中分组差异分析 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "26. 单细胞组间差异分析全流程：不同celltype中分组差异分析"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "25. 单细胞分析之vinlon基因小提琴图上添加显著性p值，单细胞分析标准流程22",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1Ha5jziEdj",
+      "id": "BV1Ha5jziEdj",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "25. 单细胞分析之vinlon基因小提琴图上添加显著性p值，单细胞分析标准流程22",
+        "date": "2025-04-18",
+        "url": "https://www.bilibili.com/video/BV1Ha5jziEdj",
+        "bvid": "BV1Ha5jziEdj",
+        "plays": 5925,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "25. 单细胞分析之vinlon基因小提琴图上添加显著性p值，单细胞分析标准流程22 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "25. 单细胞分析之vinlon基因小提琴图上添加显著性p值，单细胞分析标准流程22"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "24. monocle3单细胞轨迹分析/拟时序分析，单细胞分析标准流程21",
+      "date": "2024-12-01",
+      "url": "https://www.bilibili.com/video/BV1e3zdYnEzS",
+      "id": "BV1e3zdYnEzS",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "24. monocle3单细胞轨迹分析/拟时序分析，单细胞分析标准流程21",
+        "date": "2024-12-01",
+        "url": "https://www.bilibili.com/video/BV1e3zdYnEzS",
+        "bvid": "BV1e3zdYnEzS",
+        "plays": 17166,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "24. monocle3单细胞轨迹分析/拟时序分析，单细胞分析标准流程21 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "24. monocle3单细胞轨迹分析/拟时序分析，单细胞分析标准流程21"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "23.单细胞SingleR自动注释/人工注释要点讲解，单细胞数据分析标准流程20",
+      "date": "2024-11-13",
+      "url": "https://www.bilibili.com/video/BV1EhUTY1EQS",
+      "id": "BV1EhUTY1EQS",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "23.单细胞SingleR自动注释/人工注释要点讲解，单细胞数据分析标准流程20",
+        "date": "2024-11-13",
+        "url": "https://www.bilibili.com/video/BV1EhUTY1EQS",
+        "bvid": "BV1EhUTY1EQS",
+        "plays": 9662,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "23.单细胞singler自动注释/人工注释要点讲解，单细胞数据分析标准流程20 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "23.单细胞singler自动注释/人工注释要点讲解，单细胞数据分析标准流程20"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "22. AUcell单细胞评分/打分，单细胞分析标准流程",
+      "date": "2024-10-04",
+      "url": "https://www.bilibili.com/video/BV1tQ4ce3EEF",
+      "id": "BV1tQ4ce3EEF",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "22. AUcell单细胞评分/打分，单细胞分析标准流程",
+        "date": "2024-10-04",
+        "url": "https://www.bilibili.com/video/BV1tQ4ce3EEF",
+        "bvid": "BV1tQ4ce3EEF",
+        "plays": 9466,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "22. aucell单细胞评分/打分，单细胞分析标准流程 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "22. aucell单细胞评分/打分，单细胞分析标准流程"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "21.AddModuleScore单细胞评分/打分，自定义基因集打分",
+      "date": "2024-07-25",
+      "url": "https://www.bilibili.com/video/BV1ME421A7KF",
+      "id": "BV1ME421A7KF",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "21.AddModuleScore单细胞评分/打分，自定义基因集打分",
+        "date": "2024-07-25",
+        "url": "https://www.bilibili.com/video/BV1ME421A7KF",
+        "bvid": "BV1ME421A7KF",
+        "plays": 9360,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "21.addmodulescore单细胞评分/打分，自定义基因集打分 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "21.addmodulescore单细胞评分/打分，自定义基因集打分"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "19.单细胞分析 CytoTRACE推断细胞分化程度/细胞干性，推断monocle2拟时序分析起点",
+      "date": "2024-07-10",
+      "url": "https://www.bilibili.com/video/BV1Xz421z7Pz",
+      "id": "BV1Xz421z7Pz",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "19.单细胞分析 CytoTRACE推断细胞分化程度/细胞干性，推断monocle2拟时序分析起点",
+        "date": "2024-07-10",
+        "url": "https://www.bilibili.com/video/BV1Xz421z7Pz",
+        "bvid": "BV1Xz421z7Pz",
+        "plays": 8615,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "19.单细胞分析 cytotrace推断细胞分化程度/细胞干性，推断monocle2拟时序分析起点 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "19.单细胞分析 cytotrace推断细胞分化程度/细胞干性，推断monocle2拟时序分析起点"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "18.单细胞测序数据分析 上皮癌细胞注释思路",
+      "date": "2024-07-10",
+      "url": "https://www.bilibili.com/video/BV19T421r7kr",
+      "id": "BV19T421r7kr",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "18.单细胞测序数据分析 上皮癌细胞注释思路",
+        "date": "2024-07-10",
+        "url": "https://www.bilibili.com/video/BV19T421r7kr",
+        "bvid": "BV19T421r7kr",
+        "plays": 7815,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "18.单细胞测序数据分析 上皮癌细胞注释思路 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "18.单细胞测序数据分析 上皮癌细胞注释思路"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "17.单细胞测序数据分析 inferCNV鉴定恶性细胞/肿瘤细胞",
+      "date": "2024-06-25",
+      "url": "https://www.bilibili.com/video/BV17y411z7sG",
+      "id": "BV17y411z7sG",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "17.单细胞测序数据分析 inferCNV鉴定恶性细胞/肿瘤细胞",
+        "date": "2024-06-25",
+        "url": "https://www.bilibili.com/video/BV17y411z7sG",
+        "bvid": "BV17y411z7sG",
+        "plays": 16150,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "17.单细胞测序数据分析 infercnv鉴定恶性细胞/肿瘤细胞 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "17.单细胞测序数据分析 infercnv鉴定恶性细胞/肿瘤细胞"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "01.单细胞测序数据多种格式批量读取（txt、csv、h5格式多样本读取整合）分析",
+      "date": "2024-05-13",
+      "url": "https://www.bilibili.com/video/BV1vE42137U8",
+      "id": "BV1vE42137U8",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "01.单细胞测序数据多种格式批量读取（txt、csv、h5格式多样本读取整合）分析",
+        "date": "2024-05-13",
+        "url": "https://www.bilibili.com/video/BV1vE42137U8",
+        "bvid": "BV1vE42137U8",
+        "plays": 36869,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "01.单细胞测序数据多种格式批量读取（txt、csv、h5格式多样本读取整合）分析 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "01.单细胞测序数据多种格式批量读取（txt、csv、h5格式多样本读取整合）分析"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "14.单细胞分析常见图（热图，分组小提琴图，分组umap图，分组FeaturePlot，细胞比例图，气泡图等）",
+      "date": "2024-04-18",
+      "url": "https://www.bilibili.com/video/BV1DZ421Y7LN",
+      "id": "BV1DZ421Y7LN",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Umap"
+      ],
+      "extra": {
+        "title": "14.单细胞分析常见图（热图，分组小提琴图，分组umap图，分组FeaturePlot，细胞比例图，气泡图等）",
+        "date": "2024-04-18",
+        "url": "https://www.bilibili.com/video/BV1DZ421Y7LN",
+        "bvid": "BV1DZ421Y7LN",
+        "plays": 14639,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "Umap"
+        ]
+      },
+      "text_blob": "14.单细胞分析常见图（热图，分组小提琴图，分组umap图，分组featureplot，细胞比例图，气泡图等） single-cell workflow  单细胞 umap",
+      "tags_lower": [
+        "umap",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "14.单细胞分析常见图（热图，分组小提琴图，分组umap图，分组featureplot，细胞比例图，气泡图等）"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "12.单细胞分析标准流程—monocle2拟时序分析",
+      "date": "2024-03-26",
+      "url": "https://www.bilibili.com/video/BV1xq421A71z",
+      "id": "BV1xq421A71z",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "12.单细胞分析标准流程—monocle2拟时序分析",
+        "date": "2024-03-26",
+        "url": "https://www.bilibili.com/video/BV1xq421A71z",
+        "bvid": "BV1xq421A71z",
+        "plays": 20346,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "12.单细胞分析标准流程—monocle2拟时序分析 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "12.单细胞分析标准流程—monocle2拟时序分析"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "10.单细胞分析：选取特定基因在umap图上表达情况，不只是FeaturePlot",
+      "date": "2023-12-27",
+      "url": "https://www.bilibili.com/video/BV1pG41167bv",
+      "id": "BV1pG41167bv",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Umap"
+      ],
+      "extra": {
+        "title": "10.单细胞分析：选取特定基因在umap图上表达情况，不只是FeaturePlot",
+        "date": "2023-12-27",
+        "url": "https://www.bilibili.com/video/BV1pG41167bv",
+        "bvid": "BV1pG41167bv",
+        "plays": 14856,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "Umap"
+        ]
+      },
+      "text_blob": "10.单细胞分析：选取特定基因在umap图上表达情况，不只是featureplot single-cell workflow  单细胞 umap",
+      "tags_lower": [
+        "umap",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "10.单细胞分析：选取特定基因在umap图上表达情况，不只是featureplot"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "09.用R语言导入CNS的figure图提取配色|单细胞Umap图的美化",
+      "date": "2023-12-25",
+      "url": "https://www.bilibili.com/video/BV1GT4y1s79z",
+      "id": "BV1GT4y1s79z",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Umap"
+      ],
+      "extra": {
+        "title": "09.用R语言导入CNS的figure图提取配色|单细胞Umap图的美化",
+        "date": "2023-12-25",
+        "url": "https://www.bilibili.com/video/BV1GT4y1s79z",
+        "bvid": "BV1GT4y1s79z",
+        "plays": 9802,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "Umap"
+        ]
+      },
+      "text_blob": "09.用r语言导入cns的figure图提取配色|单细胞umap图的美化 single-cell workflow  单细胞 umap",
+      "tags_lower": [
+        "umap",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "09.用r语言导入cns的figure图提取配色|单细胞umap图的美化"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "06.Seurat V5和V4数据结构讲解，单细胞分析报错解答",
+      "date": "2023-12-14",
+      "url": "https://www.bilibili.com/video/BV1KC4y197gd",
+      "id": "BV1KC4y197gd",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Seurat"
+      ],
+      "extra": {
+        "title": "06.Seurat V5和V4数据结构讲解，单细胞分析报错解答",
+        "date": "2023-12-14",
+        "url": "https://www.bilibili.com/video/BV1KC4y197gd",
+        "bvid": "BV1KC4y197gd",
+        "plays": 15709,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "Seurat"
+        ]
+      },
+      "text_blob": "06.seurat v5和v4数据结构讲解，单细胞分析报错解答 single-cell workflow  单细胞 seurat",
+      "tags_lower": [
+        "seurat",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "06.seurat v5和v4数据结构讲解，单细胞分析报错解答"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "04.CCA降维锚定整合多样本【多样本单细胞分析】",
+      "date": "2023-11-17",
+      "url": "https://www.bilibili.com/video/BV1Zu4y1A7cf",
+      "id": "BV1Zu4y1A7cf",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "04.CCA降维锚定整合多样本【多样本单细胞分析】",
+        "date": "2023-11-17",
+        "url": "https://www.bilibili.com/video/BV1Zu4y1A7cf",
+        "bvid": "BV1Zu4y1A7cf",
+        "plays": 13957,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "04.cca降维锚定整合多样本【多样本单细胞分析】 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "04.cca降维锚定整合多样本【多样本单细胞分析】"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "03.单细胞分析标准流程，harmony整合多样本重制版【代码精炼，全是干货】",
+      "date": "2023-11-17",
+      "url": "https://www.bilibili.com/video/BV1QQ4y1t7gf",
+      "id": "BV1QQ4y1t7gf",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "03.单细胞分析标准流程，harmony整合多样本重制版【代码精炼，全是干货】",
+        "date": "2023-11-17",
+        "url": "https://www.bilibili.com/video/BV1QQ4y1t7gf",
+        "bvid": "BV1QQ4y1t7gf",
+        "plays": 38712,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "03.单细胞分析标准流程，harmony整合多样本重制版【代码精炼，全是干货】 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "03.单细胞分析标准流程，harmony整合多样本重制版【代码精炼，全是干货】"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "05.多样本harmony整合单细胞分析二：细胞注释精讲",
+      "date": "2023-11-09",
+      "url": "https://www.bilibili.com/video/BV16N411g7wA",
+      "id": "BV16N411g7wA",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "05.多样本harmony整合单细胞分析二：细胞注释精讲",
+        "date": "2023-11-09",
+        "url": "https://www.bilibili.com/video/BV16N411g7wA",
+        "bvid": "BV16N411g7wA",
+        "plays": 37022,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "05.多样本harmony整合单细胞分析二：细胞注释精讲 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "05.多样本harmony整合单细胞分析二：细胞注释精讲"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "用轮廓系数给Harmony“打分”：你的单细胞数据整合真的靠谱吗？",
+      "date": "2026-05-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493370&idx=1&sn=a55a062dc9ff37f2d509ff3673802e96&chksm=fe3473b1c943faa7bd134cf4f9ddfd888836957dd9e3cb7726224e7b4903abdcc1340e63d4e0#rd",
+      "id": "2247493370_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "用轮廓系数给Harmony“打分”：你的单细胞数据整合真的靠谱吗？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493370&idx=1&sn=a55a062dc9ff37f2d509ff3673802e96&chksm=fe3473b1c943faa7bd134cf4f9ddfd888836957dd9e3cb7726224e7b4903abdcc1340e63d4e0#rd",
+        "msgid": "2247493370",
+        "itemidx": "1",
+        "pos_num": "24",
+        "date": "2026-05-25",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "用轮廓系数给harmony“打分”：你的单细胞数据整合真的靠谱吗？ single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "用轮廓系数给harmony“打分”：你的单细胞数据整合真的靠谱吗？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "肿瘤免疫浸润分析全套可视化：整合5种算法，一张热图展现免疫细胞全景",
+      "date": "2026-05-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493186&idx=1&sn=a1565950e75f0840a73b875ae4b64312&chksm=fe347309c943fa1fe8f3c11e67c001f89940c043992e37275f47a56ee899b2d9810937d27e35#rd",
+      "id": "2247493186_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "肿瘤免疫浸润分析全套可视化：整合5种算法，一张热图展现免疫细胞全景",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493186&idx=1&sn=a1565950e75f0840a73b875ae4b64312&chksm=fe347309c943fa1fe8f3c11e67c001f89940c043992e37275f47a56ee899b2d9810937d27e35#rd",
+        "msgid": "2247493186",
+        "itemidx": "1",
+        "pos_num": "22",
+        "date": "2026-05-17",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "肿瘤免疫浸润分析全套可视化：整合5种算法，一张热图展现免疫细胞全景 single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "肿瘤免疫浸润分析全套可视化：整合5种算法，一张热图展现免疫细胞全景"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单细胞分析必备技能：细胞比例计算与组间差异检验（附R代码）",
+      "date": "2026-05-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493125&idx=1&sn=6ad7fd1f2786bd06972987f56fa72a13&chksm=fe34734ec943fa58768a74d7a7a2e9bfd4d943f591f38719893f7fdfd1b19a12b05f4a1e8cc4#rd",
+      "id": "2247493125_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞分析必备技能：细胞比例计算与组间差异检验（附R代码）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493125&idx=1&sn=6ad7fd1f2786bd06972987f56fa72a13&chksm=fe34734ec943fa58768a74d7a7a2e9bfd4d943f591f38719893f7fdfd1b19a12b05f4a1e8cc4#rd",
+        "msgid": "2247493125",
+        "itemidx": "1",
+        "pos_num": "20",
+        "date": "2026-05-13",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "单细胞分析必备技能：细胞比例计算与组间差异检验（附r代码） single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "单细胞分析必备技能：细胞比例计算与组间差异检验（附r代码）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！",
+      "date": "2026-05-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493077&idx=2&sn=7ff0bccff2f6c783c54abadf76a3401c&chksm=fe34709ec943f988cbcdcbe3f48fdcc5403d883a132be013170c55fe04ae14bda20c73d6b5ea#rd",
+      "id": "2247493077_2",
+      "category": "Single-Cell Analysis",
+      "summary": "Explains the core idea or mechanism behind a single-cell analysis topic.",
+      "tags": [],
+      "extra": {
+        "title": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493077&idx=2&sn=7ff0bccff2f6c783c54abadf76a3401c&chksm=fe34709ec943f988cbcdcbe3f48fdcc5403d883a132be013170c55fe04ae14bda20c73d6b5ea#rd",
+        "msgid": "2247493077",
+        "itemidx": "2",
+        "pos_num": "19",
+        "date": "2026-05-09",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Explains the core idea or mechanism behind a single-cell analysis topic."
+      },
+      "text_blob": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！ single-cell analysis explains the core idea or mechanism behind a single-cell analysis topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "手把手教你做TWAS分析：从GWAS到功能基因筛选（附完整代码）",
+      "date": "2026-05-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493077&idx=1&sn=93b9dd1cc76fd133ef8a7f523b4b8672&chksm=fe34709ec943f98838368917d557b9ba0492d792d03c07d30b890e5b705e7279098b0b087c3f#rd",
+      "id": "2247493077_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "手把手教你做TWAS分析：从GWAS到功能基因筛选（附完整代码）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493077&idx=1&sn=93b9dd1cc76fd133ef8a7f523b4b8672&chksm=fe34709ec943f98838368917d557b9ba0492d792d03c07d30b890e5b705e7279098b0b087c3f#rd",
+        "msgid": "2247493077",
+        "itemidx": "1",
+        "pos_num": "18",
+        "date": "2026-05-09",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "手把手教你做twas分析：从gwas到功能基因筛选（附完整代码） single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "手把手教你做twas分析：从gwas到功能基因筛选（附完整代码）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！",
+      "date": "2026-04-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493020&idx=1&sn=ffda5614627156ad55acee3cb03c37e2&chksm=fe3470d7c943f9c18daa6f615528fc9adaa66ac3623a04ea22a33c360b4c99329e72f2bad94c#rd",
+      "id": "2247493020_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Explains the core idea or mechanism behind a single-cell analysis topic.",
+      "tags": [],
+      "extra": {
+        "title": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493020&idx=1&sn=ffda5614627156ad55acee3cb03c37e2&chksm=fe3470d7c943f9c18daa6f615528fc9adaa66ac3623a04ea22a33c360b4c99329e72f2bad94c#rd",
+        "msgid": "2247493020",
+        "itemidx": "1",
+        "pos_num": "16",
+        "date": "2026-04-25",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Explains the core idea or mechanism behind a single-cell analysis topic."
+      },
+      "text_blob": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！ single-cell analysis explains the core idea or mechanism behind a single-cell analysis topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "整理了超50种生信分析工具，生物信息学利器全解析：从数据库到数据分析可视化工具，一篇搞定！"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "肿瘤恶性上皮细胞鉴定全流程：基于inferCNV的单细胞拷贝数变异分析实战",
+      "date": "2026-04-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492968&idx=1&sn=72d49ab7fff0dd9fa955ad010738daa2&chksm=fe347023c943f9357fd9b334b789b26641138e2c7a61d65015228aa406e5d90f1a60f162ff97#rd",
+      "id": "2247492968_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Practical single-cell analysis article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "肿瘤恶性上皮细胞鉴定全流程：基于inferCNV的单细胞拷贝数变异分析实战",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492968&idx=1&sn=72d49ab7fff0dd9fa955ad010738daa2&chksm=fe347023c943f9357fd9b334b789b26641138e2c7a61d65015228aa406e5d90f1a60f162ff97#rd",
+        "msgid": "2247492968",
+        "itemidx": "1",
+        "pos_num": "14",
+        "date": "2026-04-15",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Practical single-cell analysis article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "肿瘤恶性上皮细胞鉴定全流程：基于infercnv的单细胞拷贝数变异分析实战 single-cell analysis practical single-cell analysis article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "肿瘤恶性上皮细胞鉴定全流程：基于infercnv的单细胞拷贝数变异分析实战"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单细胞转录因子活性分析全攻略：DoRothEA + VIPER 挖掘细胞亚群调控核心",
+      "date": "2026-04-11",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492898&idx=1&sn=f996db6c4cd4bebd5d9ad40325bbba9b&chksm=fe347069c943f97f069b1affccf550e005d9a45e8e2ac96e68267fe31ffd02e9c8c83dd920e2#rd",
+      "id": "2247492898_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞转录因子活性分析全攻略：DoRothEA + VIPER 挖掘细胞亚群调控核心",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492898&idx=1&sn=f996db6c4cd4bebd5d9ad40325bbba9b&chksm=fe347069c943f97f069b1affccf550e005d9a45e8e2ac96e68267fe31ffd02e9c8c83dd920e2#rd",
+        "msgid": "2247492898",
+        "itemidx": "1",
+        "pos_num": "13",
+        "date": "2026-04-11",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "单细胞转录因子活性分析全攻略：dorothea + viper 挖掘细胞亚群调控核心 single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "单细胞转录因子活性分析全攻略：dorothea + viper 挖掘细胞亚群调控核心"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "FAERS数据库药物不良反应评定联合分子对接、动力学模拟",
+      "date": "2025-10-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487846&idx=1&sn=1c39d5fbd530b4f68ff44b7b1e504508&chksm=fe37842dc9400d3bb3db22d094d5fe41a839db8e7b1808e1d742fa24042763b30b95e4b3e7eb#rd",
+      "id": "2247487846_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "FAERS数据库药物不良反应评定联合分子对接、动力学模拟",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487846&idx=1&sn=1c39d5fbd530b4f68ff44b7b1e504508&chksm=fe37842dc9400d3bb3db22d094d5fe41a839db8e7b1808e1d742fa24042763b30b95e4b3e7eb#rd",
+        "msgid": "2247487846",
+        "itemidx": "1",
+        "pos_num": "9",
+        "date": "2025-10-17",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "faers数据库药物不良反应评定联合分子对接、动力学模拟 single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "faers数据库药物不良反应评定联合分子对接、动力学模拟"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单细胞数据分析（FeaturePlot函数使用以及阳性细胞数量标记）",
+      "date": "2025-10-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487823&idx=1&sn=bc6592edd6bff53c4d48e2fc2f54ba32&chksm=fe378404c9400d124c8a9e9ec6028cd483519d2f86d53bc80b1dc0e7a62c4f186673e82f1203#rd",
+      "id": "2247487823_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞数据分析（FeaturePlot函数使用以及阳性细胞数量标记）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487823&idx=1&sn=bc6592edd6bff53c4d48e2fc2f54ba32&chksm=fe378404c9400d124c8a9e9ec6028cd483519d2f86d53bc80b1dc0e7a62c4f186673e82f1203#rd",
+        "msgid": "2247487823",
+        "itemidx": "1",
+        "pos_num": "8",
+        "date": "2025-10-13",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "单细胞数据分析（featureplot函数使用以及阳性细胞数量标记） single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "单细胞数据分析（featureplot函数使用以及阳性细胞数量标记）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单细胞数据分析—scFEA（估计代谢通量）R脚本分享",
+      "date": "2025-09-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487696&idx=1&sn=2d275a4011b53b58697a4817b7eb095a&chksm=fe37859bc9400c8d9e6b42b5a93aba525e9149c2827beb30cf3387c947b6edb2ba3762c71e7c#rd",
+      "id": "2247487696_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞数据分析—scFEA（估计代谢通量）R脚本分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487696&idx=1&sn=2d275a4011b53b58697a4817b7eb095a&chksm=fe37859bc9400c8d9e6b42b5a93aba525e9149c2827beb30cf3387c947b6edb2ba3762c71e7c#rd",
+        "msgid": "2247487696",
+        "itemidx": "1",
+        "pos_num": "3",
+        "date": "2025-09-06",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "单细胞数据分析—scfea（估计代谢通量）r脚本分享 single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "单细胞数据分析—scfea（估计代谢通量）r脚本分享"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "一个单细胞亚群肯定是有多个特异性高表达量基因",
+      "date": "2022-01-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510409&idx=1&sn=0b6ed05cf53078b8b42502b5f6687b33&chksm=9b4be932ac3c60248c8ee662215d55513a06c0a40d6db8d150d63ea7b5604781d7ae9d25f782#rd",
+      "id": "2247510409_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "一个单细胞亚群肯定是有多个特异性高表达量基因",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510409&idx=1&sn=0b6ed05cf53078b8b42502b5f6687b33&chksm=9b4be932ac3c60248c8ee662215d55513a06c0a40d6db8d150d63ea7b5604781d7ae9d25f782#rd",
+        "msgid": "2247510409",
+        "itemidx": "1",
+        "pos_num": "136",
+        "date": "2022-01-14",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "一个单细胞亚群肯定是有多个特异性高表达量基因 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "一个单细胞亚群肯定是有多个特异性高表达量基因"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "不同单细胞亚群各自的特征基因也是会有重合的",
+      "date": "2022-01-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510317&idx=2&sn=51a222e8f0e9f7aa09daf8acc9e5d570&chksm=9b4be996ac3c6080768f4f9dcb6ede08d5dc487132d24b3468df405cec23dd0a800a6926282f#rd",
+      "id": "2247510317_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "不同单细胞亚群各自的特征基因也是会有重合的",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510317&idx=2&sn=51a222e8f0e9f7aa09daf8acc9e5d570&chksm=9b4be996ac3c6080768f4f9dcb6ede08d5dc487132d24b3468df405cec23dd0a800a6926282f#rd",
+        "msgid": "2247510317",
+        "itemidx": "2",
+        "pos_num": "134",
+        "date": "2022-01-09",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "不同单细胞亚群各自的特征基因也是会有重合的 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "不同单细胞亚群各自的特征基因也是会有重合的"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞亚群的标记基因可以迁移在不同数据集吗",
+      "date": "2022-01-04",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510225&idx=1&sn=ea1bc578a1c5c814c1087ad9b6f27f26&chksm=9b4be86aac3c617c7a8dacee18c7f0ce223ed6ebb4b2a45f4eec35611f4ad00ad0b85e6f7bf8#rd",
+      "id": "2247510225_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞亚群的标记基因可以迁移在不同数据集吗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510225&idx=1&sn=ea1bc578a1c5c814c1087ad9b6f27f26&chksm=9b4be86aac3c617c7a8dacee18c7f0ce223ed6ebb4b2a45f4eec35611f4ad00ad0b85e6f7bf8#rd",
+        "msgid": "2247510225",
+        "itemidx": "1",
+        "pos_num": "133",
+        "date": "2022-01-04",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞亚群的标记基因可以迁移在不同数据集吗 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞亚群的标记基因可以迁移在不同数据集吗"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "猪的单细胞分析如何过滤线粒体基因",
+      "date": "2022-01-02",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510072&idx=2&sn=f0b945b7b01b4ed66fd29899a829604b&chksm=9b4be883ac3c619581103947b6892914a7a3d3305fb9459913c4d6017fa0d54a55897007c541#rd",
+      "id": "2247510072_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "猪的单细胞分析如何过滤线粒体基因",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247510072&idx=2&sn=f0b945b7b01b4ed66fd29899a829604b&chksm=9b4be883ac3c619581103947b6892914a7a3d3305fb9459913c4d6017fa0d54a55897007c541#rd",
+        "msgid": "2247510072",
+        "itemidx": "2",
+        "pos_num": "132",
+        "date": "2022-01-02",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "猪的单细胞分析如何过滤线粒体基因 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "猪的单细胞分析如何过滤线粒体基因"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "可视化单细胞亚群的标记基因的5个方法的升级版",
+      "date": "2021-12-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509908&idx=1&sn=0c43b0ba03a552c70082e38acb49e6e0&chksm=9b4be72fac3c6e39319de4f410f175dcce5f2536caa07ad9740273ffd8ec49379b537349b542#rd",
+      "id": "2247509908_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "可视化单细胞亚群的标记基因的5个方法的升级版",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509908&idx=1&sn=0c43b0ba03a552c70082e38acb49e6e0&chksm=9b4be72fac3c6e39319de4f410f175dcce5f2536caa07ad9740273ffd8ec49379b537349b542#rd",
+        "msgid": "2247509908",
+        "itemidx": "1",
+        "pos_num": "130",
+        "date": "2021-12-25",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "可视化单细胞亚群的标记基因的5个方法的升级版 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "可视化单细胞亚群的标记基因的5个方法的升级版"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "两个不同单细胞亚群差异分析，合并一定要做火山图",
+      "date": "2021-12-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509858&idx=1&sn=f2642039b7e4bc3f84a333ecc877da35&chksm=9b4be7d9ac3c6ecf2b4d331b09a607f2bd69c0f57d226d421ad927f3c147bdc904d25a69f803#rd",
+      "id": "2247509858_1",
+      "category": "Comparison And Visualization",
+      "summary": "Relevant comparison and visualization entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "两个不同单细胞亚群差异分析，合并一定要做火山图",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509858&idx=1&sn=f2642039b7e4bc3f84a333ecc877da35&chksm=9b4be7d9ac3c6ecf2b4d331b09a607f2bd69c0f57d226d421ad927f3c147bdc904d25a69f803#rd",
+        "msgid": "2247509858",
+        "itemidx": "1",
+        "pos_num": "129",
+        "date": "2021-12-23",
+        "category_key": "comparison-and-visualization",
+        "category_title": "Comparison And Visualization",
+        "brief": "Relevant comparison and visualization entry kept from the curated album."
+      },
+      "text_blob": "两个不同单细胞亚群差异分析，合并一定要做火山图 comparison and visualization relevant comparison and visualization entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "comparison and visualization",
+      "title_lower": "两个不同单细胞亚群差异分析，合并一定要做火山图"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞亚群分层级命名并不是我原创",
+      "date": "2021-12-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509732&idx=1&sn=2251c32d6fcd31cd7ec5d8fe6bfbd41f&chksm=9b4be65fac3c6f498e0a0ee518f2b7b4702cd6cb16a78f3b29dc9201d5dfff3202332201ab96#rd",
+      "id": "2247509732_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞亚群分层级命名并不是我原创",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509732&idx=1&sn=2251c32d6fcd31cd7ec5d8fe6bfbd41f&chksm=9b4be65fac3c6f498e0a0ee518f2b7b4702cd6cb16a78f3b29dc9201d5dfff3202332201ab96#rd",
+        "msgid": "2247509732",
+        "itemidx": "1",
+        "pos_num": "127",
+        "date": "2021-12-17",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞亚群分层级命名并不是我原创 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞亚群分层级命名并不是我原创"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "你的单细胞亚群可能并不是真的既有T细胞也有B细胞的标记基因",
+      "date": "2021-12-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509574&idx=1&sn=43c08d55b6156e7e4f1e03f2658267aa&chksm=9b4be6fdac3c6feb3da9947ed6d4b1ffe3db8235ec436dce7bfb0bd9cc7213b28d49b3011372#rd",
+      "id": "2247509574_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "你的单细胞亚群可能并不是真的既有T细胞也有B细胞的标记基因",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509574&idx=1&sn=43c08d55b6156e7e4f1e03f2658267aa&chksm=9b4be6fdac3c6feb3da9947ed6d4b1ffe3db8235ec436dce7bfb0bd9cc7213b28d49b3011372#rd",
+        "msgid": "2247509574",
+        "itemidx": "1",
+        "pos_num": "125",
+        "date": "2021-12-13",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "你的单细胞亚群可能并不是真的既有t细胞也有b细胞的标记基因 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "你的单细胞亚群可能并不是真的既有t细胞也有b细胞的标记基因"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "这个是单细胞混的最惨的一次",
+      "date": "2021-12-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509574&idx=2&sn=2942c6716db9a809d6a16e36ba74fef7&chksm=9b4be6fdac3c6feb7d37e9607551846746ac5c2d5a596e0d894eee654efce868970510456b50#rd",
+      "id": "2247509574_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "这个是单细胞混的最惨的一次",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509574&idx=2&sn=2942c6716db9a809d6a16e36ba74fef7&chksm=9b4be6fdac3c6feb7d37e9607551846746ac5c2d5a596e0d894eee654efce868970510456b50#rd",
+        "msgid": "2247509574",
+        "itemidx": "2",
+        "pos_num": "124",
+        "date": "2021-12-13",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "这个是单细胞混的最惨的一次 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "这个是单细胞混的最惨的一次"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "为什么一个单细胞亚群既有T细胞也有B细胞的标记基因呢",
+      "date": "2021-11-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247508751&idx=1&sn=ef2ea04da557b2f2301c15a1d85c7ec4&chksm=9b4be3b4ac3c6aa27decf0e58b2f47230f4ebade841fa17ba6f5b7eb9aa1fa9e51b4fabd41af#rd",
+      "id": "2247508751_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "为什么一个单细胞亚群既有T细胞也有B细胞的标记基因呢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247508751&idx=1&sn=ef2ea04da557b2f2301c15a1d85c7ec4&chksm=9b4be3b4ac3c6aa27decf0e58b2f47230f4ebade841fa17ba6f5b7eb9aa1fa9e51b4fabd41af#rd",
+        "msgid": "2247508751",
+        "itemidx": "1",
+        "pos_num": "123",
+        "date": "2021-11-19",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "为什么一个单细胞亚群既有t细胞也有b细胞的标记基因呢 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "为什么一个单细胞亚群既有t细胞也有b细胞的标记基因呢"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞亚群合并与提取（2021公开课配套笔记）",
+      "date": "2021-06-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503086&idx=2&sn=27158802f12bd9e87b230f3ceab58253&chksm=9b4b8c55ac3c0543e81741560d1242157d42afae1d10b7939af82b6ab8cd7d0bd89ff255326b#rd",
+      "id": "2247503086_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞亚群合并与提取（2021公开课配套笔记）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503086&idx=2&sn=27158802f12bd9e87b230f3ceab58253&chksm=9b4b8c55ac3c0543e81741560d1242157d42afae1d10b7939af82b6ab8cd7d0bd89ff255326b#rd",
+        "msgid": "2247503086",
+        "itemidx": "2",
+        "pos_num": "110",
+        "date": "2021-06-08",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞亚群合并与提取（2021公开课配套笔记） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞亚群合并与提取（2021公开课配套笔记）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "doplot可视化多个单细胞亚群的多个标记基因（2021公开课配套笔记）",
+      "date": "2021-06-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503086&idx=3&sn=edb17b5b88fa51acf7b1fea419ce9c85&chksm=9b4b8c55ac3c05435196420881c35ddb0d96338081ada33ad0ee4685e246f7d33661713075bb#rd",
+      "id": "2247503086_3",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "doplot可视化多个单细胞亚群的多个标记基因（2021公开课配套笔记）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503086&idx=3&sn=edb17b5b88fa51acf7b1fea419ce9c85&chksm=9b4b8c55ac3c05435196420881c35ddb0d96338081ada33ad0ee4685e246f7d33661713075bb#rd",
+        "msgid": "2247503086",
+        "itemidx": "3",
+        "pos_num": "109",
+        "date": "2021-06-08",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "doplot可视化多个单细胞亚群的多个标记基因（2021公开课配套笔记） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "doplot可视化多个单细胞亚群的多个标记基因（2021公开课配套笔记）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞初探（seurat基础流程）（2021公开课配套笔记）",
+      "date": "2021-06-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503032&idx=1&sn=ca0ef60f058aac724e0f90208f0497c4&chksm=9b4b8c03ac3c0515a078f9cb4a24e11ba25c7fe45d03197c48ba1ec33e458c2b63e554c35499#rd",
+      "id": "2247503032_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞初探（seurat基础流程）（2021公开课配套笔记）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503032&idx=1&sn=ca0ef60f058aac724e0f90208f0497c4&chksm=9b4b8c03ac3c0515a078f9cb4a24e11ba25c7fe45d03197c48ba1ec33e458c2b63e554c35499#rd",
+        "msgid": "2247503032",
+        "itemidx": "1",
+        "pos_num": "108",
+        "date": "2021-06-07",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞初探（seurat基础流程）（2021公开课配套笔记） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞初探（seurat基础流程）（2021公开课配套笔记）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "fibroblasts和smooth muscle cells在你的单细胞数据集差异明显吗",
+      "date": "2021-06-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247502931&idx=1&sn=52c9e56607bd5c40e22d42f516ed26b2&chksm=9b4b8ce8ac3c05fe5c7dd57ca16f961240f2425dc366ab28b499c56792011d2ff3692496f4d9#rd",
+      "id": "2247502931_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "fibroblasts和smooth muscle cells在你的单细胞数据集差异明显吗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247502931&idx=1&sn=52c9e56607bd5c40e22d42f516ed26b2&chksm=9b4b8ce8ac3c05fe5c7dd57ca16f961240f2425dc366ab28b499c56792011d2ff3692496f4d9#rd",
+        "msgid": "2247502931",
+        "itemidx": "1",
+        "pos_num": "104",
+        "date": "2021-06-01",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "fibroblasts和smooth muscle cells在你的单细胞数据集差异明显吗 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "fibroblasts和smooth muscle cells在你的单细胞数据集差异明显吗"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "你的单细胞数据里面能区分出来4种树突细胞吗",
+      "date": "2021-06-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247502931&idx=4&sn=646ad829fc3036dec254deac593a13fa&chksm=9b4b8ce8ac3c05fe559e121ae065d9df217dfc387e28d5c107bc0d7fba6833f30d4b220c67bc#rd",
+      "id": "2247502931_4",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "你的单细胞数据里面能区分出来4种树突细胞吗",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247502931&idx=4&sn=646ad829fc3036dec254deac593a13fa&chksm=9b4b8ce8ac3c05fe559e121ae065d9df217dfc387e28d5c107bc0d7fba6833f30d4b220c67bc#rd",
+        "msgid": "2247502931",
+        "itemidx": "4",
+        "pos_num": "103",
+        "date": "2021-06-01",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "你的单细胞数据里面能区分出来4种树突细胞吗 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "你的单细胞数据里面能区分出来4种树突细胞吗"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞亚群标记基因何止五种可视化方法",
+      "date": "2021-05-31",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247502914&idx=1&sn=a81f59cec7bc6fb0f289a57e16d7274f&chksm=9b4b8cf9ac3c05efa298f78f3b089d57263a93330c2275e9a9b3a060df0931ccf84e1253cf64#rd",
+      "id": "2247502914_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞亚群标记基因何止五种可视化方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247502914&idx=1&sn=a81f59cec7bc6fb0f289a57e16d7274f&chksm=9b4b8cf9ac3c05efa298f78f3b089d57263a93330c2275e9a9b3a060df0931ccf84e1253cf64#rd",
+        "msgid": "2247502914",
+        "itemidx": "1",
+        "pos_num": "102",
+        "date": "2021-05-31",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞亚群标记基因何止五种可视化方法 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞亚群标记基因何止五种可视化方法"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "公开课-单细胞数据基础分析",
+      "date": "2021-05-03",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501678&idx=1&sn=e1b24dd076978936995989d034e07df1&chksm=9b4b87d5ac3c0ec34849adf26c090a283b647a807ae09f94cbe36f744cb05f84eff5ae352e14#rd",
+      "id": "2247501678_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "公开课-单细胞数据基础分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501678&idx=1&sn=e1b24dd076978936995989d034e07df1&chksm=9b4b87d5ac3c0ec34849adf26c090a283b647a807ae09f94cbe36f744cb05f84eff5ae352e14#rd",
+        "msgid": "2247501678",
+        "itemidx": "1",
+        "pos_num": "99",
+        "date": "2021-05-03",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "公开课-单细胞数据基础分析 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "公开课-单细胞数据基础分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "跑个scenic教程怎么把R搞奔溃了呢？",
+      "date": "2021-04-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501185&idx=2&sn=df4556a36d2497ea21c8e742cd064853&chksm=9b4b853aac3c0c2c2242c537a9367fdee22da116cf9517d06e264310479305101efe68449b60#rd",
+      "id": "2247501185_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Practical advanced workflow notes article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "跑个scenic教程怎么把R搞奔溃了呢？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501185&idx=2&sn=df4556a36d2497ea21c8e742cd064853&chksm=9b4b853aac3c0c2c2242c537a9367fdee22da116cf9517d06e264310479305101efe68449b60#rd",
+        "msgid": "2247501185",
+        "itemidx": "2",
+        "pos_num": "96",
+        "date": "2021-04-14",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Practical advanced workflow notes article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "跑个scenic教程怎么把r搞奔溃了呢？ advanced workflow notes practical advanced workflow notes article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "跑个scenic教程怎么把r搞奔溃了呢？"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "一篇COVID-19患者支气管肺泡免疫细胞的单细胞亚群标记基因",
+      "date": "2021-04-03",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501004&idx=3&sn=8b79fb216676d750d1bcf2768872b068&chksm=9b4b8477ac3c0d61a7cb1375e9c8b668976b2eec2dfd0492ef50c9f33e8a521e35ebe20b1bc4#rd",
+      "id": "2247501004_3",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "一篇COVID-19患者支气管肺泡免疫细胞的单细胞亚群标记基因",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501004&idx=3&sn=8b79fb216676d750d1bcf2768872b068&chksm=9b4b8477ac3c0d61a7cb1375e9c8b668976b2eec2dfd0492ef50c9f33e8a521e35ebe20b1bc4#rd",
+        "msgid": "2247501004",
+        "itemidx": "3",
+        "pos_num": "88",
+        "date": "2021-04-03",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "一篇covid-19患者支气管肺泡免疫细胞的单细胞亚群标记基因 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "一篇covid-19患者支气管肺泡免疫细胞的单细胞亚群标记基因"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "当你的单细胞亚群都不特异的时候肿么办",
+      "date": "2021-03-30",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247500959&idx=1&sn=fcee96ef197380cf54d4536f12479d50&chksm=9b4b8424ac3c0d32c458f32d76db22dce961c9ac9704135bd97e906a498adaca41ebc5229bfc#rd",
+      "id": "2247500959_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "当你的单细胞亚群都不特异的时候肿么办",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247500959&idx=1&sn=fcee96ef197380cf54d4536f12479d50&chksm=9b4b8424ac3c0d32c458f32d76db22dce961c9ac9704135bd97e906a498adaca41ebc5229bfc#rd",
+        "msgid": "2247500959",
+        "itemidx": "1",
+        "pos_num": "84",
+        "date": "2021-03-30",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "当你的单细胞亚群都不特异的时候肿么办 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "当你的单细胞亚群都不特异的时候肿么办"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "可视化单细胞亚群的标记基因的5个方法",
+      "date": "2021-03-21",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247500816&idx=1&sn=25568540a54d63225def0804c05025f8&chksm=9b4b84abac3c0dbd3300448b0a69bf221a94822140e3e119b352b0703cfae99bff59b719fd72#rd",
+      "id": "2247500816_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "可视化单细胞亚群的标记基因的5个方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247500816&idx=1&sn=25568540a54d63225def0804c05025f8&chksm=9b4b84abac3c0dbd3300448b0a69bf221a94822140e3e119b352b0703cfae99bff59b719fd72#rd",
+        "msgid": "2247500816",
+        "itemidx": "1",
+        "pos_num": "83",
+        "date": "2021-03-21",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "可视化单细胞亚群的标记基因的5个方法 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "可视化单细胞亚群的标记基因的5个方法"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "m6A联合单细胞解密RNA甲基化修饰如何影响皮肤形态发生过程",
+      "date": "2021-01-31",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498926&idx=2&sn=17b50a24c0d2299467fa18ef836db059&chksm=9b4bbc15ac3c35039cd71e8d066758a55c043b97cdc621da6e57d91aae844edd415b710ce876#rd",
+      "id": "2247498926_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "m6A联合单细胞解密RNA甲基化修饰如何影响皮肤形态发生过程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498926&idx=2&sn=17b50a24c0d2299467fa18ef836db059&chksm=9b4bbc15ac3c35039cd71e8d066758a55c043b97cdc621da6e57d91aae844edd415b710ce876#rd",
+        "msgid": "2247498926",
+        "itemidx": "2",
+        "pos_num": "81",
+        "date": "2021-01-31",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "m6a联合单细胞解密rna甲基化修饰如何影响皮肤形态发生过程 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "m6a联合单细胞解密rna甲基化修饰如何影响皮肤形态发生过程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "亚实性结节和磨玻璃结节肺腺癌单细胞水平的差异如何",
+      "date": "2021-01-29",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498602&idx=2&sn=10a82f12ba55ff30fb3e0faf2ac9cf09&chksm=9b4bbbd1ac3c32c78065442a4a7e91d2aac68f854987c043b53ec5a86a97886407baa687df69#rd",
+      "id": "2247498602_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "亚实性结节和磨玻璃结节肺腺癌单细胞水平的差异如何",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498602&idx=2&sn=10a82f12ba55ff30fb3e0faf2ac9cf09&chksm=9b4bbbd1ac3c32c78065442a4a7e91d2aac68f854987c043b53ec5a86a97886407baa687df69#rd",
+        "msgid": "2247498602",
+        "itemidx": "2",
+        "pos_num": "80",
+        "date": "2021-01-29",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "亚实性结节和磨玻璃结节肺腺癌单细胞水平的差异如何 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "亚实性结节和磨玻璃结节肺腺癌单细胞水平的差异如何"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "谁说单细胞工具一定要应用于单细胞数据呢",
+      "date": "2021-01-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498458&idx=1&sn=c8e2bf0a338313611d4c31629ef29662&chksm=9b4bba61ac3c337777d297812af3b8f54b66ce7de8404b9c87499977cc5b30b8f2846c97c1ca#rd",
+      "id": "2247498458_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "谁说单细胞工具一定要应用于单细胞数据呢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498458&idx=1&sn=c8e2bf0a338313611d4c31629ef29662&chksm=9b4bba61ac3c337777d297812af3b8f54b66ce7de8404b9c87499977cc5b30b8f2846c97c1ca#rd",
+        "msgid": "2247498458",
+        "itemidx": "1",
+        "pos_num": "79",
+        "date": "2021-01-24",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "谁说单细胞工具一定要应用于单细胞数据呢 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "谁说单细胞工具一定要应用于单细胞数据呢"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "Scanpy进行单细胞分析及发育轨迹推断",
+      "date": "2020-12-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497839&idx=2&sn=ac24992115e13d93dd3d6468baf6b2e0&chksm=9b4bb8d4ac3c31c27235faf2796d9ff2e7dd5dd9e947b46bc7d60f494c9d421b0ed536c42c9e#rd",
+      "id": "2247497839_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "Scanpy进行单细胞分析及发育轨迹推断",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497839&idx=2&sn=ac24992115e13d93dd3d6468baf6b2e0&chksm=9b4bb8d4ac3c31c27235faf2796d9ff2e7dd5dd9e947b46bc7d60f494c9d421b0ed536c42c9e#rd",
+        "msgid": "2247497839",
+        "itemidx": "2",
+        "pos_num": "78",
+        "date": "2020-12-17",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "scanpy进行单细胞分析及发育轨迹推断 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "scanpy进行单细胞分析及发育轨迹推断"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞数据挖掘文章代码全放送！！！",
+      "date": "2020-10-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496594&idx=1&sn=9185051d4a7688e00d094fdd60ab9dfb&chksm=9b4bb329ac3c3a3f72a1932ba4209600153b96626fe2a171d8eeebd389783abc896872fef262#rd",
+      "id": "2247496594_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞数据挖掘文章代码全放送！！！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496594&idx=1&sn=9185051d4a7688e00d094fdd60ab9dfb&chksm=9b4bb329ac3c3a3f72a1932ba4209600153b96626fe2a171d8eeebd389783abc896872fef262#rd",
+        "msgid": "2247496594",
+        "itemidx": "1",
+        "pos_num": "74",
+        "date": "2020-10-17",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞数据挖掘文章代码全放送！！！ advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞数据挖掘文章代码全放送！！！"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞前沿进展讲座和技术教程分享哪个更受你喜欢",
+      "date": "2020-10-12",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496458&idx=1&sn=3fb6f8f1cf4847c815706393d448d5f1&chksm=9b4bb3b1ac3c3aa7f759c899b40a3eb2d5ed46dd86cf5418c404ecefb107ca6856f2a33a15c1#rd",
+      "id": "2247496458_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Practical advanced workflow notes article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞前沿进展讲座和技术教程分享哪个更受你喜欢",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496458&idx=1&sn=3fb6f8f1cf4847c815706393d448d5f1&chksm=9b4bb3b1ac3c3aa7f759c899b40a3eb2d5ed46dd86cf5418c404ecefb107ca6856f2a33a15c1#rd",
+        "msgid": "2247496458",
+        "itemidx": "1",
+        "pos_num": "73",
+        "date": "2020-10-12",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Practical advanced workflow notes article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "单细胞前沿进展讲座和技术教程分享哪个更受你喜欢 advanced workflow notes practical advanced workflow notes article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞前沿进展讲座和技术教程分享哪个更受你喜欢"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "这个20G的单细胞项目数据和代码的压缩包有什么（python数据分析典范）",
+      "date": "2020-08-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247495430&idx=1&sn=5d81365fc8133e5b4dca7ae658050567&chksm=9b4bafbdac3c26ab88221a5e63253c5e8159cb71b711c2ec72781edd4cd3b35233b3fbd192b7#rd",
+      "id": "2247495430_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "这个20G的单细胞项目数据和代码的压缩包有什么（python数据分析典范）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247495430&idx=1&sn=5d81365fc8133e5b4dca7ae658050567&chksm=9b4bafbdac3c26ab88221a5e63253c5e8159cb71b711c2ec72781edd4cd3b35233b3fbd192b7#rd",
+        "msgid": "2247495430",
+        "itemidx": "1",
+        "pos_num": "72",
+        "date": "2020-08-10",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "这个20g的单细胞项目数据和代码的压缩包有什么（python数据分析典范） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "这个20g的单细胞项目数据和代码的压缩包有什么（python数据分析典范）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "同样的单细胞研究，为什么发表的文章杂志等级差别那么大",
+      "date": "2020-06-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247494758&idx=2&sn=1960624cb398cbf3428ef75e3b94cf53&chksm=9b4bacddac3c25cbf7ab369af56bb84c7edd92ad6ee26c640582f3b13608b43294747ed10a02#rd",
+      "id": "2247494758_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "同样的单细胞研究，为什么发表的文章杂志等级差别那么大",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247494758&idx=2&sn=1960624cb398cbf3428ef75e3b94cf53&chksm=9b4bacddac3c25cbf7ab369af56bb84c7edd92ad6ee26c640582f3b13608b43294747ed10a02#rd",
+        "msgid": "2247494758",
+        "itemidx": "2",
+        "pos_num": "70",
+        "date": "2020-06-23",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "同样的单细胞研究，为什么发表的文章杂志等级差别那么大 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "同样的单细胞研究，为什么发表的文章杂志等级差别那么大"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "跟着全网第一个单细胞视频课程和配套习题学是最佳策略",
+      "date": "2019-12-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247492078&idx=2&sn=d66b2a635a358cbbd386daaf8ca52e3d&chksm=9b4ba155ac3c284312a3f59b1ec2b8d373466a425c09de31cffda726105acbd8f3ab3879c298#rd",
+      "id": "2247492078_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "跟着全网第一个单细胞视频课程和配套习题学是最佳策略",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247492078&idx=2&sn=d66b2a635a358cbbd386daaf8ca52e3d&chksm=9b4ba155ac3c284312a3f59b1ec2b8d373466a425c09de31cffda726105acbd8f3ab3879c298#rd",
+        "msgid": "2247492078",
+        "itemidx": "2",
+        "pos_num": "67",
+        "date": "2019-12-07",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "跟着全网第一个单细胞视频课程和配套习题学是最佳策略 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "跟着全网第一个单细胞视频课程和配套习题学是最佳策略"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "肾癌单细胞（逆向收费读文献2019-17）",
+      "date": "2019-10-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491339&idx=2&sn=0fbd8889ef19affb6761825220f319d8&chksm=9b485fb0ac3fd6a621b258264b6f6b91eceb8f5a4416b627f1938622e763865f3ad6de070851#rd",
+      "id": "2247491339_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "肾癌单细胞（逆向收费读文献2019-17）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491339&idx=2&sn=0fbd8889ef19affb6761825220f319d8&chksm=9b485fb0ac3fd6a621b258264b6f6b91eceb8f5a4416b627f1938622e763865f3ad6de070851#rd",
+        "msgid": "2247491339",
+        "itemidx": "2",
+        "pos_num": "65",
+        "date": "2019-10-08",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "肾癌单细胞（逆向收费读文献2019-17） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "肾癌单细胞（逆向收费读文献2019-17）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞有多火呢？七月nature海鞘九月science线虫",
+      "date": "2019-09-11",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491080&idx=2&sn=843d6911155aa29ffb98095c915a20dd&chksm=9b485eb3ac3fd7a5108d11b3f367253cf0055b4a4998a1a1c891f3fdaf4ddf31976ce7227f7d#rd",
+      "id": "2247491080_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞有多火呢？七月nature海鞘九月science线虫",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491080&idx=2&sn=843d6911155aa29ffb98095c915a20dd&chksm=9b485eb3ac3fd7a5108d11b3f367253cf0055b4a4998a1a1c891f3fdaf4ddf31976ce7227f7d#rd",
+        "msgid": "2247491080",
+        "itemidx": "2",
+        "pos_num": "64",
+        "date": "2019-09-11",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞有多火呢？七月nature海鞘九月science线虫 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞有多火呢？七月nature海鞘九月science线虫"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "在Ubuntu下安装单细胞3大R包",
+      "date": "2019-07-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490557&idx=2&sn=7b35be720821f0a6505c66c814edb16f&chksm=9b485b46ac3fd250a2c0ba1e5f2c85bc6379e1411ff2d24bbd10b7107f7b10f2ffc84c67cc95#rd",
+      "id": "2247490557_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "在Ubuntu下安装单细胞3大R包",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490557&idx=2&sn=7b35be720821f0a6505c66c814edb16f&chksm=9b485b46ac3fd250a2c0ba1e5f2c85bc6379e1411ff2d24bbd10b7107f7b10f2ffc84c67cc95#rd",
+        "msgid": "2247490557",
+        "itemidx": "2",
+        "pos_num": "63",
+        "date": "2019-07-19",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "在ubuntu下安装单细胞3大r包 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "在ubuntu下安装单细胞3大r包"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞基因组测序表明TNBC的CNV发展是爆发式的（2020-16）",
+      "date": "2019-06-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490304&idx=2&sn=d949cd47d6554e3138fc1d3643161278&chksm=9b485bbbac3fd2adec50fcff2318574fbefc4a2ca17e1e0bfcd8b33d1a30042c3167b5a4ad99#rd",
+      "id": "2247490304_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞基因组测序表明TNBC的CNV发展是爆发式的（2020-16）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490304&idx=2&sn=d949cd47d6554e3138fc1d3643161278&chksm=9b485bbbac3fd2adec50fcff2318574fbefc4a2ca17e1e0bfcd8b33d1a30042c3167b5a4ad99#rd",
+        "msgid": "2247490304",
+        "itemidx": "2",
+        "pos_num": "62",
+        "date": "2019-06-25",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞基因组测序表明tnbc的cnv发展是爆发式的（2020-16） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞基因组测序表明tnbc的cnv发展是爆发式的（2020-16）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "Conquer-对单细胞数据差异表达分析的重新审视",
+      "date": "2018-09-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247487355&idx=1&sn=7960bc2f4c4e10337c526dc5ef1d09e1&chksm=9b484fc0ac3fc6d6df58644801ccd07179a69e6e5a4de17bc2ceb2e2b394c6cee77bee752692#rd",
+      "id": "2247487355_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "Conquer-对单细胞数据差异表达分析的重新审视",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247487355&idx=1&sn=7960bc2f4c4e10337c526dc5ef1d09e1&chksm=9b484fc0ac3fc6d6df58644801ccd07179a69e6e5a4de17bc2ceb2e2b394c6cee77bee752692#rd",
+        "msgid": "2247487355",
+        "itemidx": "1",
+        "pos_num": "52",
+        "date": "2018-09-01",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "conquer-对单细胞数据差异表达分析的重新审视 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "conquer-对单细胞数据差异表达分析的重新审视"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞系列停更通知及组建单细胞数据分析交流小组",
+      "date": "2018-01-26",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247485851&idx=1&sn=814a96b732cba99515caabb6bbf5dcf5&chksm=9b484920ac3fc036d65a0fef5a87bdb951fd13475ad11698ed1cf32e638d865a33628de688d4#rd",
+      "id": "2247485851_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞系列停更通知及组建单细胞数据分析交流小组",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247485851&idx=1&sn=814a96b732cba99515caabb6bbf5dcf5&chksm=9b484920ac3fc036d65a0fef5a87bdb951fd13475ad11698ed1cf32e638d865a33628de688d4#rd",
+        "msgid": "2247485851",
+        "itemidx": "1",
+        "pos_num": "51",
+        "date": "2018-01-26",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞系列停更通知及组建单细胞数据分析交流小组 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞系列停更通知及组建单细胞数据分析交流小组"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "北大谢晓亮组又更新了他们的单细胞全基因组扩展方法",
+      "date": "2017-04-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247484302&idx=1&sn=48585dcb7a9ff2148b53c7ffd372e54d&chksm=9b484335ac3fca237448e3df0571da7797e96c659ae0b54abfe3ea13fc4fc5edc9da2a9ed1ba#rd",
+      "id": "2247484302_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "北大谢晓亮组又更新了他们的单细胞全基因组扩展方法",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247484302&idx=1&sn=48585dcb7a9ff2148b53c7ffd372e54d&chksm=9b484335ac3fca237448e3df0571da7797e96c659ae0b54abfe3ea13fc4fc5edc9da2a9ed1ba#rd",
+        "msgid": "2247484302",
+        "itemidx": "1",
+        "pos_num": "41",
+        "date": "2017-04-15",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "北大谢晓亮组又更新了他们的单细胞全基因组扩展方法 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "北大谢晓亮组又更新了他们的单细胞全基因组扩展方法"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "从人尿液中筛选单细胞测序实验技术复杂不",
+      "date": "2021-01-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498258&idx=1&sn=45ddbde108fe926d12dedef98fcfaaa4&chksm=9b4bbaa9ac3c33bfe2d8cb851149b907b91b32986bddb3fdfc42c7e8ca67783406aa5bed7123#rd",
+      "id": "2247498258_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "从人尿液中筛选单细胞测序实验技术复杂不",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498258&idx=1&sn=45ddbde108fe926d12dedef98fcfaaa4&chksm=9b4bbaa9ac3c33bfe2d8cb851149b907b91b32986bddb3fdfc42c7e8ca67783406aa5bed7123#rd",
+        "msgid": "2247498258",
+        "itemidx": "1",
+        "pos_num": "34",
+        "date": "2021-01-14",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "从人尿液中筛选单细胞测序实验技术复杂不 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "从人尿液中筛选单细胞测序实验技术复杂不"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "发挥如此关键作用的单细胞居然不配出现在正文图表",
+      "date": "2021-01-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498178&idx=1&sn=8685fc5e508d0bec95e9770a021758aa&chksm=9b4bb979ac3c306f0dc24dae3f3cf079d36bd69606bff7fd50699ef506e13cb0e9cb121d2af2#rd",
+      "id": "2247498178_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "发挥如此关键作用的单细胞居然不配出现在正文图表",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498178&idx=1&sn=8685fc5e508d0bec95e9770a021758aa&chksm=9b4bb979ac3c306f0dc24dae3f3cf079d36bd69606bff7fd50699ef506e13cb0e9cb121d2af2#rd",
+        "msgid": "2247498178",
+        "itemidx": "1",
+        "pos_num": "33",
+        "date": "2021-01-10",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "发挥如此关键作用的单细胞居然不配出现在正文图表 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "发挥如此关键作用的单细胞居然不配出现在正文图表"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞转录因子分析之SCENIC流程",
+      "date": "2021-01-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498091&idx=1&sn=5c157da6e889f2134ef9342cee560197&chksm=9b4bb9d0ac3c30c60adf722ae7acc54bb65a030163c0f43150a3cf874f46a390bda4f189aaeb#rd",
+      "id": "2247498091_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞转录因子分析之SCENIC流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498091&idx=1&sn=5c157da6e889f2134ef9342cee560197&chksm=9b4bb9d0ac3c30c60adf722ae7acc54bb65a030163c0f43150a3cf874f46a390bda4f189aaeb#rd",
+        "msgid": "2247498091",
+        "itemidx": "1",
+        "pos_num": "32",
+        "date": "2021-01-05",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞转录因子分析之scenic流程 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞转录因子分析之scenic流程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "张泽民团队的单细胞研究把T细胞分的如此清楚",
+      "date": "2020-11-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497441&idx=1&sn=7a53e6aa00c84b57104a61787f2beb03&chksm=9b4bb65aac3c3f4cd997318694578cb0bd05c354b6fff2a656e86171484eb4621afdebadf14f#rd",
+      "id": "2247497441_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "张泽民团队的单细胞研究把T细胞分的如此清楚",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497441&idx=1&sn=7a53e6aa00c84b57104a61787f2beb03&chksm=9b4bb65aac3c3f4cd997318694578cb0bd05c354b6fff2a656e86171484eb4621afdebadf14f#rd",
+        "msgid": "2247497441",
+        "itemidx": "1",
+        "pos_num": "25",
+        "date": "2020-11-28",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "张泽民团队的单细胞研究把t细胞分的如此清楚 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "张泽民团队的单细胞研究把t细胞分的如此清楚"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞RT-PCR表达量数据也可以差异分析",
+      "date": "2020-11-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497076&idx=1&sn=f3af24194a3dd81dcc1939c485c724a8&chksm=9b4bb5cfac3c3cd954e4df406756e51969496ad0370a0caaf88dd241999b683d94cf83406275#rd",
+      "id": "2247497076_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞RT-PCR表达量数据也可以差异分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497076&idx=1&sn=f3af24194a3dd81dcc1939c485c724a8&chksm=9b4bb5cfac3c3cd954e4df406756e51969496ad0370a0caaf88dd241999b683d94cf83406275#rd",
+        "msgid": "2247497076",
+        "itemidx": "1",
+        "pos_num": "21",
+        "date": "2020-11-09",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞rt-pcr表达量数据也可以差异分析 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞rt-pcr表达量数据也可以差异分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞初级8讲和高级分析8讲",
+      "date": "2020-09-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496154&idx=3&sn=d3cfaa4a5b18235e0192619f64641635&chksm=9b4bb161ac3c387750f58545d787ad81f420635924f93b1f3c265bae2b53cc30e435c98878d7#rd",
+      "id": "2247496154_3",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞初级8讲和高级分析8讲",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496154&idx=3&sn=d3cfaa4a5b18235e0192619f64641635&chksm=9b4bb161ac3c387750f58545d787ad81f420635924f93b1f3c265bae2b53cc30e435c98878d7#rd",
+        "msgid": "2247496154",
+        "itemidx": "3",
+        "pos_num": "16",
+        "date": "2020-09-24",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞初级8讲和高级分析8讲 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞初级8讲和高级分析8讲"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "类器官培养效应和单细胞测序效应的区分",
+      "date": "2020-07-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247495154&idx=1&sn=36bff8391544af1716328deddc8d1e03&chksm=9b4bad49ac3c245f4152d02e4f1517fc2bd6669ca022c644c762e6321958a56ac6806e66c74c#rd",
+      "id": "2247495154_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "类器官培养效应和单细胞测序效应的区分",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247495154&idx=1&sn=36bff8391544af1716328deddc8d1e03&chksm=9b4bad49ac3c245f4152d02e4f1517fc2bd6669ca022c644c762e6321958a56ac6806e66c74c#rd",
+        "msgid": "2247495154",
+        "itemidx": "1",
+        "pos_num": "14",
+        "date": "2020-07-23",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "类器官培养效应和单细胞测序效应的区分 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "类器官培养效应和单细胞测序效应的区分"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "生信第二步-ubuntu上安装单细胞3大包",
+      "date": "2020-04-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247493417&idx=2&sn=3d49429ae094b06870215ceb1f2010ed&chksm=9b4ba792ac3c2e842b5f260bafcda743a731271ca4db9b9ed04c7356afc8f33f10e08131de37#rd",
+      "id": "2247493417_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "生信第二步-ubuntu上安装单细胞3大包",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247493417&idx=2&sn=3d49429ae094b06870215ceb1f2010ed&chksm=9b4ba792ac3c2e842b5f260bafcda743a731271ca4db9b9ed04c7356afc8f33f10e08131de37#rd",
+        "msgid": "2247493417",
+        "itemidx": "2",
+        "pos_num": "12",
+        "date": "2020-04-10",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "生信第二步-ubuntu上安装单细胞3大包 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "生信第二步-ubuntu上安装单细胞3大包"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "拿奖拿到手软的单细胞技术",
+      "date": "2020-03-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247493136&idx=3&sn=fafa01fb22b892f0cf92e94237351924&chksm=9b4ba6abac3c2fbdde537eb21b450dbe7cad464f904e3e2d5862798b0b1a0c97db839512019a#rd",
+      "id": "2247493136_3",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "拿奖拿到手软的单细胞技术",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247493136&idx=3&sn=fafa01fb22b892f0cf92e94237351924&chksm=9b4ba6abac3c2fbdde537eb21b450dbe7cad464f904e3e2d5862798b0b1a0c97db839512019a#rd",
+        "msgid": "2247493136",
+        "itemidx": "3",
+        "pos_num": "10",
+        "date": "2020-03-14",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "拿奖拿到手软的单细胞技术 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "拿奖拿到手软的单细胞技术"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞基础视频课程结业考核20题",
+      "date": "2019-09-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491037&idx=1&sn=a98a72ac2c6493456fcb30632f1b639c&chksm=9b485d66ac3fd47053be1ad12a8d2a8fe92a7a2cce33bc43da823baadbd34a040227485119e1#rd",
+      "id": "2247491037_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞基础视频课程结业考核20题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491037&idx=1&sn=a98a72ac2c6493456fcb30632f1b639c&chksm=9b485d66ac3fd47053be1ad12a8d2a8fe92a7a2cce33bc43da823baadbd34a040227485119e1#rd",
+        "msgid": "2247491037",
+        "itemidx": "1",
+        "pos_num": "6",
+        "date": "2019-09-06",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞基础视频课程结业考核20题 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞基础视频课程结业考核20题"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "学习使用各种单细胞R包来处理数据",
+      "date": "2019-09-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491031&idx=1&sn=0c41d8fcccc57863b9e2334aa14d0087&chksm=9b485d6cac3fd47adac910a0cea7074c1a567b7299cca907c20dcc3c0cb6fd93690f7e52da56#rd",
+      "id": "2247491031_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "学习使用各种单细胞R包来处理数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491031&idx=1&sn=0c41d8fcccc57863b9e2334aa14d0087&chksm=9b485d6cac3fd47adac910a0cea7074c1a567b7299cca907c20dcc3c0cb6fd93690f7e52da56#rd",
+        "msgid": "2247491031",
+        "itemidx": "1",
+        "pos_num": "5",
+        "date": "2019-09-05",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "学习使用各种单细胞r包来处理数据 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "学习使用各种单细胞r包来处理数据"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "想仅报名单细胞数据分析学习班，请先独立完成一个R考核题",
+      "date": "2019-06-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490299&idx=1&sn=c279d55f763a2964bcfa6e488f01a74a&chksm=9b485a40ac3fd35661f16e0fd718b7a11417ff64ad681e76ff91ebe306153ffdb9fd990d47a9#rd",
+      "id": "2247490299_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "想仅报名单细胞数据分析学习班，请先独立完成一个R考核题",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490299&idx=1&sn=c279d55f763a2964bcfa6e488f01a74a&chksm=9b485a40ac3fd35661f16e0fd718b7a11417ff64ad681e76ff91ebe306153ffdb9fd990d47a9#rd",
+        "msgid": "2247490299",
+        "itemidx": "1",
+        "pos_num": "2",
+        "date": "2019-06-24",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "想仅报名单细胞数据分析学习班，请先独立完成一个r考核题 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "想仅报名单细胞数据分析学习班，请先独立完成一个r考核题"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "一年一度的生信技能树单细胞线下培训班火热招生",
+      "date": "2019-06-16",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490250&idx=1&sn=cfaae27f80c1325d53171f5137f0918b&chksm=9b485a71ac3fd367ab2020eb98b1e8b71576e52585e3063048246f191d147e77e85c9b3c0666#rd",
+      "id": "2247490250_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "一年一度的生信技能树单细胞线下培训班火热招生",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247490250&idx=1&sn=cfaae27f80c1325d53171f5137f0918b&chksm=9b485a71ac3fd367ab2020eb98b1e8b71576e52585e3063048246f191d147e77e85c9b3c0666#rd",
+        "msgid": "2247490250",
+        "itemidx": "1",
+        "pos_num": "1",
+        "date": "2019-06-16",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "一年一度的生信技能树单细胞线下培训班火热招生 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "一年一度的生信技能树单细胞线下培训班火热招生"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "22 InferCNV拷贝数变异推断与CytoTRACE细胞干性",
+      "date": "2026-05-29",
+      "url": "https://www.bilibili.com/video/BV1EbLj6pEmo",
+      "id": "BV1EbLj6pEmo",
+      "category": "单细胞进阶",
+      "summary": "重点讲InferCNV拷贝数变异推断与CytoTRACE细胞干性。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "22 InferCNV拷贝数变异推断与CytoTRACE细胞干性",
+        "date": "2026-05-29",
+        "plays": 137,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1EbLj6pEmo",
+        "bvid": "BV1EbLj6pEmo",
+        "category": "单细胞进阶",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲InferCNV拷贝数变异推断与CytoTRACE细胞干性。"
+      },
+      "text_blob": "22 infercnv拷贝数变异推断与cytotrace细胞干性 单细胞进阶 重点讲infercnv拷贝数变异推断与cytotrace细胞干性。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "22 infercnv拷贝数变异推断与cytotrace细胞干性"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "21 SCENIC单细胞转录因子调控网络分析",
+      "date": "2026-05-28",
+      "url": "https://www.bilibili.com/video/BV1q8Lj6DE2h",
+      "id": "BV1q8Lj6DE2h",
+      "category": "单细胞进阶",
+      "summary": "重点讲SCENIC单细胞转录因子调控网络分析。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "21 SCENIC单细胞转录因子调控网络分析",
+        "date": "2026-05-28",
+        "plays": 155,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1q8Lj6DE2h",
+        "bvid": "BV1q8Lj6DE2h",
+        "category": "单细胞进阶",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲SCENIC单细胞转录因子调控网络分析。"
+      },
+      "text_blob": "21 scenic单细胞转录因子调控网络分析 单细胞进阶 重点讲scenic单细胞转录因子调控网络分析。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "21 scenic单细胞转录因子调控网络分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "19 Monocle拟时序轨迹分析与细胞命运推断",
+      "date": "2026-05-26",
+      "url": "https://www.bilibili.com/video/BV1HwL76fEf1",
+      "id": "BV1HwL76fEf1",
+      "category": "单细胞进阶",
+      "summary": "重点讲Monocle拟时序轨迹分析与细胞命运推断。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "19 Monocle拟时序轨迹分析与细胞命运推断",
+        "date": "2026-05-26",
+        "plays": 129,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1HwL76fEf1",
+        "bvid": "BV1HwL76fEf1",
+        "category": "单细胞进阶",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲Monocle拟时序轨迹分析与细胞命运推断。"
+      },
+      "text_blob": "19 monocle拟时序轨迹分析与细胞命运推断 单细胞进阶 重点讲monocle拟时序轨迹分析与细胞命运推断。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "19 monocle拟时序轨迹分析与细胞命运推断"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "17 PHATE降维、细胞分化轨迹与亚群结构分析",
+      "date": "2026-05-24",
+      "url": "https://www.bilibili.com/video/BV1HPL76tEw2",
+      "id": "BV1HPL76tEw2",
+      "category": "单细胞进阶",
+      "summary": "重点讲PHATE降维、细胞分化轨迹与亚群结构分析。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "17 PHATE降维、细胞分化轨迹与亚群结构分析",
+        "date": "2026-05-24",
+        "plays": 88,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1HPL76tEw2",
+        "bvid": "BV1HPL76tEw2",
+        "category": "单细胞进阶",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲PHATE降维、细胞分化轨迹与亚群结构分析。"
+      },
+      "text_blob": "17 phate降维、细胞分化轨迹与亚群结构分析 单细胞进阶 重点讲phate降维、细胞分化轨迹与亚群结构分析。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "17 phate降维、细胞分化轨迹与亚群结构分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "13 Jupyter Notebook基础与Scanpy入门",
+      "date": "2026-05-20",
+      "url": "https://www.bilibili.com/video/BV1EgL76WExK",
+      "id": "BV1EgL76WExK",
+      "category": "单细胞基础",
+      "summary": "重点讲Jupyter Notebook基础与Scanpy入门。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "13 Jupyter Notebook基础与Scanpy入门",
+        "date": "2026-05-20",
+        "plays": 243,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1EgL76WExK",
+        "bvid": "BV1EgL76WExK",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲Jupyter Notebook基础与Scanpy入门。"
+      },
+      "text_blob": "13 jupyter notebook基础与scanpy入门 单细胞基础 重点讲jupyter notebook基础与scanpy入门。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "13 jupyter notebook基础与scanpy入门"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "11 GSVA通路活性评分与单细胞通路热图分析",
+      "date": "2026-05-18",
+      "url": "https://www.bilibili.com/video/BV1JTL76xEYH",
+      "id": "BV1JTL76xEYH",
+      "category": "单细胞进阶",
+      "summary": "重点讲GSVA通路活性评分与单细胞通路热图分析。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "11 GSVA通路活性评分与单细胞通路热图分析",
+        "date": "2026-05-18",
+        "plays": 213,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1JTL76xEYH",
+        "bvid": "BV1JTL76xEYH",
+        "category": "单细胞进阶",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲GSVA通路活性评分与单细胞通路热图分析。"
+      },
+      "text_blob": "11 gsva通路活性评分与单细胞通路热图分析 单细胞进阶 重点讲gsva通路活性评分与单细胞通路热图分析。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "11 gsva通路活性评分与单细胞通路热图分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "09 单细胞可视化美化、分组比较与marker图表绘制",
+      "date": "2026-05-15",
+      "url": "https://www.bilibili.com/video/BV1guRsBdEwL",
+      "id": "BV1guRsBdEwL",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞可视化美化、分组比较与marker图表绘制。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "09 单细胞可视化美化、分组比较与marker图表绘制",
+        "date": "2026-05-15",
+        "plays": 214,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1guRsBdEwL",
+        "bvid": "BV1guRsBdEwL",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲单细胞可视化美化、分组比较与marker图表绘制。"
+      },
+      "text_blob": "09 单细胞可视化美化、分组比较与marker图表绘制 单细胞基础 重点讲单细胞可视化美化、分组比较与marker图表绘制。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "09 单细胞可视化美化、分组比较与marker图表绘制"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "06 Seurat数据整合实战与细胞亚群注释)",
+      "date": "2026-05-11",
+      "url": "https://www.bilibili.com/video/BV1dzRsBNE4T",
+      "id": "BV1dzRsBNE4T",
+      "category": "单细胞基础",
+      "summary": "重点讲Seurat数据整合实战与细胞亚群注释)。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "06 Seurat数据整合实战与细胞亚群注释)",
+        "date": "2026-05-11",
+        "plays": 111,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1dzRsBNE4T",
+        "bvid": "BV1dzRsBNE4T",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲Seurat数据整合实战与细胞亚群注释)。"
+      },
+      "text_blob": "06 seurat数据整合实战与细胞亚群注释) 单细胞基础 重点讲seurat数据整合实战与细胞亚群注释)。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "06 seurat数据整合实战与细胞亚群注释)"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "25单细胞进阶分析",
+      "date": "2026-05-05",
+      "url": "https://www.bilibili.com/video/BV1gGoDBiE3d",
+      "id": "BV1gGoDBiE3d",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞进阶分析。",
+      "tags": [
+        "专题扩展课"
+      ],
+      "extra": {
+        "title": "25单细胞进阶分析",
+        "date": "2026-05-05",
+        "plays": 339,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1gGoDBiE3d",
+        "bvid": "BV1gGoDBiE3d",
+        "category": "单细胞基础",
+        "series": "专题扩展课",
+        "focus": "重点讲单细胞进阶分析。"
+      },
+      "text_blob": "25单细胞进阶分析 单细胞基础 重点讲单细胞进阶分析。 专题扩展课",
+      "tags_lower": [
+        "专题扩展课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "25单细胞进阶分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "19.CNV拷贝数变异分析",
+      "date": "2026-04-29",
+      "url": "https://www.bilibili.com/video/BV1dCoDB5EwY",
+      "id": "BV1dCoDB5EwY",
+      "category": "单细胞进阶",
+      "summary": "重点讲CNV拷贝数变异分析。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "19.CNV拷贝数变异分析",
+        "date": "2026-04-29",
+        "plays": 162,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1dCoDB5EwY",
+        "bvid": "BV1dCoDB5EwY",
+        "category": "单细胞进阶",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲CNV拷贝数变异分析。"
+      },
+      "text_blob": "19.cnv拷贝数变异分析 单细胞进阶 重点讲cnv拷贝数变异分析。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "19.cnv拷贝数变异分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "17.拟时间（轨迹分析）",
+      "date": "2026-04-27",
+      "url": "https://www.bilibili.com/video/BV1i6oDB7EBS",
+      "id": "BV1i6oDB7EBS",
+      "category": "单细胞进阶",
+      "summary": "重点讲拟时间（轨迹分析）。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "17.拟时间（轨迹分析）",
+        "date": "2026-04-27",
+        "plays": 192,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1i6oDB7EBS",
+        "bvid": "BV1i6oDB7EBS",
+        "category": "单细胞进阶",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲拟时间（轨迹分析）。"
+      },
+      "text_blob": "17.拟时间（轨迹分析） 单细胞进阶 重点讲拟时间（轨迹分析）。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "17.拟时间（轨迹分析）"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "16.SCENIC转录调控分析",
+      "date": "2026-04-26",
+      "url": "https://www.bilibili.com/video/BV1XDoEBJEYC",
+      "id": "BV1XDoEBJEYC",
+      "category": "单细胞进阶",
+      "summary": "重点讲SCENIC转录调控分析。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "16.SCENIC转录调控分析",
+        "date": "2026-04-26",
+        "plays": 337,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1XDoEBJEYC",
+        "bvid": "BV1XDoEBJEYC",
+        "category": "单细胞进阶",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲SCENIC转录调控分析。"
+      },
+      "text_blob": "16.scenic转录调控分析 单细胞进阶 重点讲scenic转录调控分析。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "16.scenic转录调控分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "14.marker基因展示",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1L1oEB9EsG",
+      "id": "BV1L1oEB9EsG",
+      "category": "单细胞基础",
+      "summary": "重点讲marker基因展示。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "14.marker基因展示",
+        "date": "2026-04-24",
+        "plays": 147,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1L1oEB9EsG",
+        "bvid": "BV1L1oEB9EsG",
+        "category": "单细胞基础",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲marker基因展示。"
+      },
+      "text_blob": "14.marker基因展示 单细胞基础 重点讲marker基因展示。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "14.marker基因展示"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "13.单细胞可视化",
+      "date": "2026-04-24",
+      "url": "https://www.bilibili.com/video/BV1fioEBfEEx",
+      "id": "BV1fioEBfEEx",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞可视化。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "13.单细胞可视化",
+        "date": "2026-04-24",
+        "plays": 244,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1fioEBfEEx",
+        "bvid": "BV1fioEBfEEx",
+        "category": "单细胞基础",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲单细胞可视化。"
+      },
+      "text_blob": "13.单细胞可视化 单细胞基础 重点讲单细胞可视化。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "13.单细胞可视化"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "12.单细胞注释",
+      "date": "2026-04-22",
+      "url": "https://www.bilibili.com/video/BV1hLdvBsEx5",
+      "id": "BV1hLdvBsEx5",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞注释。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "12.单细胞注释",
+        "date": "2026-04-22",
+        "plays": 443,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1hLdvBsEx5",
+        "bvid": "BV1hLdvBsEx5",
+        "category": "单细胞基础",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲单细胞注释。"
+      },
+      "text_blob": "12.单细胞注释 单细胞基础 重点讲单细胞注释。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "12.单细胞注释"
+    }
+  ]
+}

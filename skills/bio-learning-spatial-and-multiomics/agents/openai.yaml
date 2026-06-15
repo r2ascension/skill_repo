@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spatial And Multiomics Learning"
+  short_description: "Cross-source learning skill for spatial transcriptomics, multiomics integration, scATAC, velocity-adjacent, and multimodal analysis learning."
+  default_prompt: "Use $bio-learning-spatial-and-multiomics when the user wants learning content organized by concrete function rather than by creator or album source."

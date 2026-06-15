@@ -1,0 +1,4 @@
+interface:
+  display_name: "Postgraduate Application And Interview Prep Learning"
+  short_description: "Cross-source learning skill for postgraduate application, mentor selection, personal statements, interview preparation, and related academic progression planning."
+  default_prompt: "Use $academic-learning-postgraduate-application-and-interview-prep when the user wants learning content organized by concrete function rather than by creator or album source."

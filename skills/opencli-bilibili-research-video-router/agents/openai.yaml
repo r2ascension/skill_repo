@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Bilibili Research Video Router"
+  short_description: "Route creator-specific Bilibili research video skills."
+  default_prompt: "Use $opencli-bilibili-research-video-router to choose the right creator-specific opencli Bilibili video skill for bioinformatics, AI workflow, plotting, or research-method video requests."

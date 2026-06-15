@@ -1,4 +1,0 @@
-interface:
-  display_name: "Biomamba Bulk RNA-seq Practice"
-  short_description: "Bulk RNA-seq FASTQ to differential analysis"
-  default_prompt: "Use the biomamba-bulk-rnaseq-practice skill to process bulk RNA-seq data from FASTQ to DEG plots within the current repository conventions."

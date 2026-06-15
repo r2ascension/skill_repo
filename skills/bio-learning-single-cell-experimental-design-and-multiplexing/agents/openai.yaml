@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single-Cell Experimental Design And Multiplexing Learning"
+  short_description: "Cross-source learning skill for single-cell experimental design, multiplexing, hashing, and comparative cohort setup."
+  default_prompt: "Use $bio-learning-single-cell-experimental-design-and-multiplexing when the user wants learning content organized by concrete function rather than by creator or album source."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin Monthly Single-Cell"
+  short_description: "Curate the monthly single-cell Weixin album via opencli."
+  default_prompt: "Use $opencli-weixin-album-monthly-single-cell to refresh and summarize the 生信小博士 Weixin album 月更—单细胞, especially QC, NicheNet, SoupX, spatial transcriptomics, and single-cell method notes."

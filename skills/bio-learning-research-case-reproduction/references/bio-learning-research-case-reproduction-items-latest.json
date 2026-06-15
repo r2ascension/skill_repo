@@ -1,0 +1,1605 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-research-case-reproduction",
+  "focus": "case-driven reproduction and end-to-end research walkthroughs",
+  "count": 47,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "我如何一个月用免费公共数据库完成6分中科院二区SCI？第一作者视角拆解生信分析完整思路（第一期）",
+      "date": "2026-05-21",
+      "url": "https://www.bilibili.com/video/BV1fjLh6dEjT",
+      "id": "BV1fjLh6dEjT",
+      "category": "Case Driven Bioinformatics",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "我如何一个月用免费公共数据库完成6分中科院二区SCI？第一作者视角拆解生信分析完整思路（第一期）",
+        "date": "2026-05-21",
+        "url": "https://www.bilibili.com/video/BV1fjLh6dEjT",
+        "bvid": "BV1fjLh6dEjT",
+        "plays": 9238,
+        "likes": 0,
+        "category_key": "case-driven-bioinformatics",
+        "category_title": "Case Driven Bioinformatics"
+      },
+      "text_blob": "我如何一个月用免费公共数据库完成6分中科院二区sci？第一作者视角拆解生信分析完整思路（第一期） case driven bioinformatics  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "case driven bioinformatics",
+      "title_lower": "我如何一个月用免费公共数据库完成6分中科院二区sci？第一作者视角拆解生信分析完整思路（第一期）"
+    },
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "科研小白/文献解读：Q1区4.7分生信分析+药物干预“干湿结合”，逻辑清晰适合入门学习借鉴！",
+      "date": "2025-09-15",
+      "url": "https://www.bilibili.com/video/BV1fHpqzGEQa",
+      "id": "BV1fHpqzGEQa",
+      "category": "Case Driven Bioinformatics",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "科研小白/文献解读：Q1区4.7分生信分析+药物干预“干湿结合”，逻辑清晰适合入门学习借鉴！",
+        "date": "2025-09-15",
+        "url": "https://www.bilibili.com/video/BV1fHpqzGEQa",
+        "bvid": "BV1fHpqzGEQa",
+        "plays": 2859,
+        "likes": 0,
+        "category_key": "case-driven-bioinformatics",
+        "category_title": "Case Driven Bioinformatics"
+      },
+      "text_blob": "科研小白/文献解读：q1区4.7分生信分析+药物干预“干湿结合”，逻辑清晰适合入门学习借鉴！ case driven bioinformatics  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "case driven bioinformatics",
+      "title_lower": "科研小白/文献解读：q1区4.7分生信分析+药物干预“干湿结合”，逻辑清晰适合入门学习借鉴！"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230702复现：如何用TIMER数据开展免疫浸润分析",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1SAxAzMEkL",
+      "id": "BV1SAxAzMEkL",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "TIMER"
+      ],
+      "extra": {
+        "title": "230702复现：如何用TIMER数据开展免疫浸润分析",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1SAxAzMEkL",
+        "bvid": "BV1SAxAzMEkL",
+        "plays": 193,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "TIMER"
+        ]
+      },
+      "text_blob": "230702复现：如何用timer数据开展免疫浸润分析 single-cell and online platforms  timer",
+      "tags_lower": [
+        "timer"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "230702复现：如何用timer数据开展免疫浸润分析"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231203GEPIA实操：（复现）趋化因子的生存分析热图",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1LfsRzZEH6",
+      "id": "BV1LfsRzZEH6",
+      "category": "GEO And TCGA Workflows",
+      "summary": "",
+      "tags": [
+        "GEPIA"
+      ],
+      "extra": {
+        "title": "231203GEPIA实操：（复现）趋化因子的生存分析热图",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1LfsRzZEH6",
+        "bvid": "BV1LfsRzZEH6",
+        "plays": 283,
+        "likes": 0,
+        "category_key": "geo-tcga",
+        "category_title": "GEO And TCGA Workflows",
+        "matched_words": [
+          "GEPIA"
+        ]
+      },
+      "text_blob": "231203gepia实操：（复现）趋化因子的生存分析热图 geo and tcga workflows  gepia",
+      "tags_lower": [
+        "gepia"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "geo and tcga workflows",
+      "title_lower": "231203gepia实操：（复现）趋化因子的生存分析热图"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "生信文章复现|ESTIMATE免疫浸润评分_作相关性散点图",
+      "date": "2024-02-06",
+      "url": "https://www.bilibili.com/video/BV11A4m157Ue",
+      "id": "BV11A4m157Ue",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "生信文章复现|ESTIMATE免疫浸润评分_作相关性散点图",
+        "date": "2024-02-06",
+        "url": "https://www.bilibili.com/video/BV11A4m157Ue",
+        "bvid": "BV11A4m157Ue",
+        "plays": 3734,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": []
+      },
+      "text_blob": "生信文章复现|estimate免疫浸润评分_作相关性散点图 single-cell workflow  ",
+      "tags_lower": [],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "生信文章复现|estimate免疫浸润评分_作相关性散点图"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "生信文章复现|CIBERSORT免疫浸润相关性棒棒糖图",
+      "date": "2024-02-01",
+      "url": "https://www.bilibili.com/video/BV1JA4m1L7vR",
+      "id": "BV1JA4m1L7vR",
+      "category": "Immune, Enrichment, And Survival",
+      "summary": "",
+      "tags": [
+        "CIBERSORT"
+      ],
+      "extra": {
+        "title": "生信文章复现|CIBERSORT免疫浸润相关性棒棒糖图",
+        "date": "2024-02-01",
+        "url": "https://www.bilibili.com/video/BV1JA4m1L7vR",
+        "bvid": "BV1JA4m1L7vR",
+        "plays": 4226,
+        "likes": 0,
+        "category_key": "immune-enrichment-survival",
+        "category_title": "Immune, Enrichment, And Survival",
+        "matched_words": [
+          "CIBERSORT"
+        ]
+      },
+      "text_blob": "生信文章复现|cibersort免疫浸润相关性棒棒糖图 immune, enrichment, and survival  cibersort",
+      "tags_lower": [
+        "cibersort"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "immune, enrichment, and survival",
+      "title_lower": "生信文章复现|cibersort免疫浸润相关性棒棒糖图"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "生信文章复现|免疫浸润热图&CIBERSORT和TIMER算法评分_R语言全代码展示",
+      "date": "2024-01-24",
+      "url": "https://www.bilibili.com/video/BV1aN4y1H7Sw",
+      "id": "BV1aN4y1H7Sw",
+      "category": "Immune, Enrichment, And Survival",
+      "summary": "",
+      "tags": [
+        "CIBERSORT",
+        "TIMER"
+      ],
+      "extra": {
+        "title": "生信文章复现|免疫浸润热图&CIBERSORT和TIMER算法评分_R语言全代码展示",
+        "date": "2024-01-24",
+        "url": "https://www.bilibili.com/video/BV1aN4y1H7Sw",
+        "bvid": "BV1aN4y1H7Sw",
+        "plays": 7207,
+        "likes": 0,
+        "category_key": "immune-enrichment-survival",
+        "category_title": "Immune, Enrichment, And Survival",
+        "matched_words": [
+          "CIBERSORT",
+          "TIMER"
+        ]
+      },
+      "text_blob": "生信文章复现|免疫浸润热图&cibersort和timer算法评分_r语言全代码展示 immune, enrichment, and survival  cibersort timer",
+      "tags_lower": [
+        "cibersort",
+        "timer"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "immune, enrichment, and survival",
+      "title_lower": "生信文章复现|免疫浸润热图&cibersort和timer算法评分_r语言全代码展示"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "生信文献复现|Nomogram诺莫图列线图临床预测模型预测135年生存率&cox回归模型&校准曲线图",
+      "date": "2024-01-17",
+      "url": "https://www.bilibili.com/video/BV1SK411e7zi",
+      "id": "BV1SK411e7zi",
+      "category": "Immune, Enrichment, And Survival",
+      "summary": "",
+      "tags": [
+        "cox"
+      ],
+      "extra": {
+        "title": "生信文献复现|Nomogram诺莫图列线图临床预测模型预测135年生存率&cox回归模型&校准曲线图",
+        "date": "2024-01-17",
+        "url": "https://www.bilibili.com/video/BV1SK411e7zi",
+        "bvid": "BV1SK411e7zi",
+        "plays": 6478,
+        "likes": 0,
+        "category_key": "immune-enrichment-survival",
+        "category_title": "Immune, Enrichment, And Survival",
+        "matched_words": [
+          "cox"
+        ]
+      },
+      "text_blob": "生信文献复现|nomogram诺莫图列线图临床预测模型预测135年生存率&cox回归模型&校准曲线图 immune, enrichment, and survival  cox",
+      "tags_lower": [
+        "cox"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "immune, enrichment, and survival",
+      "title_lower": "生信文献复现|nomogram诺莫图列线图临床预测模型预测135年生存率&cox回归模型&校准曲线图"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "复现（生存分析）| GEO下载处理array数据 &临床数据（生存数据）&单因素cox添加HR ,CI ,P值",
+      "date": "2024-01-16",
+      "url": "https://www.bilibili.com/video/BV1Z5411i7G7",
+      "id": "BV1Z5411i7G7",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "GEO"
+      ],
+      "extra": {
+        "title": "复现（生存分析）| GEO下载处理array数据 &临床数据（生存数据）&单因素cox添加HR ,CI ,P值",
+        "date": "2024-01-16",
+        "url": "https://www.bilibili.com/video/BV1Z5411i7G7",
+        "bvid": "BV1Z5411i7G7",
+        "plays": 11352,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "GEO"
+        ]
+      },
+      "text_blob": "复现（生存分析）| geo下载处理array数据 &临床数据（生存数据）&单因素cox添加hr ,ci ,p值 geo, tcga, and rna-seq  geo",
+      "tags_lower": [
+        "geo"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "复现（生存分析）| geo下载处理array数据 &临床数据（生存数据）&单因素cox添加hr ,ci ,p值"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "单细胞分析文献复现3，细胞比例图，一区高分单细胞文献复现，代码干货",
+      "date": "2023-12-09",
+      "url": "https://www.bilibili.com/video/BV17C4y1y7v6",
+      "id": "BV17C4y1y7v6",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "单细胞分析文献复现3，细胞比例图，一区高分单细胞文献复现，代码干货",
+        "date": "2023-12-09",
+        "url": "https://www.bilibili.com/video/BV17C4y1y7v6",
+        "bvid": "BV17C4y1y7v6",
+        "plays": 5224,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "单细胞分析文献复现3，细胞比例图，一区高分单细胞文献复现，代码干货 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "单细胞分析文献复现3，细胞比例图，一区高分单细胞文献复现，代码干货"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "单细胞测序数据分析文献复现2-细胞注释-R语言代码讲解单细胞数据分析",
+      "date": "2023-12-03",
+      "url": "https://www.bilibili.com/video/BV1YN4y1274U",
+      "id": "BV1YN4y1274U",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "单细胞测序数据分析文献复现2-细胞注释-R语言代码讲解单细胞数据分析",
+        "date": "2023-12-03",
+        "url": "https://www.bilibili.com/video/BV1YN4y1274U",
+        "bvid": "BV1YN4y1274U",
+        "plays": 6326,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "单细胞测序数据分析文献复现2-细胞注释-r语言代码讲解单细胞数据分析 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "单细胞测序数据分析文献复现2-细胞注释-r语言代码讲解单细胞数据分析"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "重磅！单细胞分析文献复现，一区高分单细胞文献复现，代码干货",
+      "date": "2023-11-30",
+      "url": "https://www.bilibili.com/video/BV1au4y1c77B",
+      "id": "BV1au4y1c77B",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "重磅！单细胞分析文献复现，一区高分单细胞文献复现，代码干货",
+        "date": "2023-11-30",
+        "url": "https://www.bilibili.com/video/BV1au4y1c77B",
+        "bvid": "BV1au4y1c77B",
+        "plays": 23281,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "重磅！单细胞分析文献复现，一区高分单细胞文献复现，代码干货 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "重磅！单细胞分析文献复现，一区高分单细胞文献复现，代码干货"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "source_name": "生物信息与人工智能 / AI最前沿",
+      "platform": "weixin",
+      "title": "bioRxiv | PopGenAgent实现全流程群体基因组学自动化分析，成功复现26个人群的全套分析",
+      "date": "2026-03-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247487632&idx=1&sn=797e8ecbc11b23ce99f1d103785c9017&chksm=ec184f5ddb6fc64bacbf962c19eff2af635b73823513ea291973353fa95665c86686199fa4ad#rd",
+      "id": "2247487632_1",
+      "category": "Agents, RAG, And Workflow Systems",
+      "summary": "Relevant agents, rag, and workflow systems entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "bioRxiv | PopGenAgent实现全流程群体基因组学自动化分析，成功复现26个人群的全套分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247487632&idx=1&sn=797e8ecbc11b23ce99f1d103785c9017&chksm=ec184f5ddb6fc64bacbf962c19eff2af635b73823513ea291973353fa95665c86686199fa4ad#rd",
+        "msgid": "2247487632",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-03-07",
+        "category_key": "agents-and-rag",
+        "category_title": "Agents, RAG, And Workflow Systems",
+        "brief": "Relevant agents, rag, and workflow systems entry kept from the curated album."
+      },
+      "text_blob": "biorxiv | popgenagent实现全流程群体基因组学自动化分析，成功复现26个人群的全套分析 agents, rag, and workflow systems relevant agents, rag, and workflow systems entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "category_lower": "agents, rag, and workflow systems",
+      "title_lower": "biorxiv | popgenagent实现全流程群体基因组学自动化分析，成功复现26个人群的全套分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现04)",
+      "date": "2021-03-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247500005&idx=2&sn=9d44e56e8318649ed60cc06684c19b98&chksm=9b4b805eac3c0948cb8864244994d56f863181f181d23eaa1347cebfe5d7cd8c02c04a239d8b#rd",
+      "id": "2247500005_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现04)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247500005&idx=2&sn=9d44e56e8318649ed60cc06684c19b98&chksm=9b4b805eac3c0948cb8864244994d56f863181f181d23eaa1347cebfe5d7cd8c02c04a239d8b#rd",
+        "msgid": "2247500005",
+        "itemidx": "2",
+        "pos_num": "40",
+        "date": "2021-03-09",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞rna-seq揭示tnbc的异质性（图表复现04) advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞rna-seq揭示tnbc的异质性（图表复现04)"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现03）",
+      "date": "2021-03-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499964&idx=2&sn=0092f73aec51a6997fc52c15f33e43e4&chksm=9b4b8007ac3c09114fbb5285ab4a9c291dd063371fe17898ae14c500612fe9c58746e36edc46#rd",
+      "id": "2247499964_2",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现03）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499964&idx=2&sn=0092f73aec51a6997fc52c15f33e43e4&chksm=9b4b8007ac3c09114fbb5285ab4a9c291dd063371fe17898ae14c500612fe9c58746e36edc46#rd",
+        "msgid": "2247499964",
+        "itemidx": "2",
+        "pos_num": "39",
+        "date": "2021-03-08",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞rna-seq揭示tnbc的异质性（图表复现03） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞rna-seq揭示tnbc的异质性（图表复现03）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现01）",
+      "date": "2021-03-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499752&idx=1&sn=a2472e7a02d3dbce3c1a3fdc9dfe726d&chksm=9b4bbf53ac3c3645bce645a544248330a3b7f657b364c011dbb0d4f369cd93c6b55dc62b793a#rd",
+      "id": "2247499752_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现01）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499752&idx=1&sn=a2472e7a02d3dbce3c1a3fdc9dfe726d&chksm=9b4bbf53ac3c3645bce645a544248330a3b7f657b364c011dbb0d4f369cd93c6b55dc62b793a#rd",
+        "msgid": "2247499752",
+        "itemidx": "1",
+        "pos_num": "37",
+        "date": "2021-03-01",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞rna-seq揭示tnbc的异质性（图表复现01） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞rna-seq揭示tnbc的异质性（图表复现01）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现01）",
+      "date": "2021-02-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499744&idx=1&sn=6374041cbed08619693b382b1e217959&chksm=9b4bbf5bac3c364d5aa5aa5d8082cf196d62ba87c76b20ae5e7a4967b46edff3aed1c1367641#rd",
+      "id": "2247499744_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞RNA-seq揭示TNBC的异质性（图表复现01）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499744&idx=1&sn=6374041cbed08619693b382b1e217959&chksm=9b4bbf5bac3c364d5aa5aa5d8082cf196d62ba87c76b20ae5e7a4967b46edff3aed1c1367641#rd",
+        "msgid": "2247499744",
+        "itemidx": "1",
+        "pos_num": "36",
+        "date": "2021-02-28",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞rna-seq揭示tnbc的异质性（图表复现01） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞rna-seq揭示tnbc的异质性（图表复现01）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "你要的rmarkdown文献图表复现全套代码来了（单细胞）",
+      "date": "2020-08-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247495627&idx=1&sn=6cd6982928b04405fe0caac121c8d4d4&chksm=9b4baf70ac3c266652f4549b81487c33fdaa9bba6289c06ef12eace59d6508c84c52005a3298#rd",
+      "id": "2247495627_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "你要的rmarkdown文献图表复现全套代码来了（单细胞）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247495627&idx=1&sn=6cd6982928b04405fe0caac121c8d4d4&chksm=9b4baf70ac3c266652f4549b81487c33fdaa9bba6289c06ef12eace59d6508c84c52005a3298#rd",
+        "msgid": "2247495627",
+        "itemidx": "1",
+        "pos_num": "15",
+        "date": "2020-08-25",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "你要的rmarkdown文献图表复现全套代码来了（单细胞） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "你要的rmarkdown文献图表复现全套代码来了（单细胞）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.linux目录切换",
+      "date": "2026-03-26",
+      "url": "https://www.bilibili.com/video/BV1GyXHB7EZa",
+      "id": "BV1GyXHB7EZa",
+      "category": "科研案例与基础支撑",
+      "summary": "讲目录导航、路径识别和常用目录切换命令。",
+      "tags": [
+        "linux",
+        "filesystem"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "linux",
+          "filesystem"
+        ],
+        "title": "03.linux目录切换",
+        "date": "2026-03-26",
+        "plays": 28,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1GyXHB7EZa",
+        "bvid": "BV1GyXHB7EZa",
+        "content_summary": "讲目录导航、路径识别和常用目录切换命令。"
+      },
+      "text_blob": "03.linux目录切换 科研案例与基础支撑 讲目录导航、路径识别和常用目录切换命令。 linux filesystem",
+      "tags_lower": [
+        "filesystem",
+        "linux"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "03.linux目录切换"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.linux云服务器登录",
+      "date": "2026-03-26",
+      "url": "https://www.bilibili.com/video/BV1XyXHBjEzn",
+      "id": "BV1XyXHBjEzn",
+      "category": "科研案例与基础支撑",
+      "summary": "演示连接云服务器的基本方法，为远程运行生信分析做准备。",
+      "tags": [
+        "linux",
+        "server"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "linux",
+          "server"
+        ],
+        "title": "02.linux云服务器登录",
+        "date": "2026-03-26",
+        "plays": 18,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1XyXHBjEzn",
+        "bvid": "BV1XyXHBjEzn",
+        "content_summary": "演示连接云服务器的基本方法，为远程运行生信分析做准备。"
+      },
+      "text_blob": "02.linux云服务器登录 科研案例与基础支撑 演示连接云服务器的基本方法，为远程运行生信分析做准备。 linux server",
+      "tags_lower": [
+        "linux",
+        "server"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "02.linux云服务器登录"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "05.linux命令行技巧",
+      "date": "2026-03-26",
+      "url": "https://www.bilibili.com/video/BV1GyXHB7Edi",
+      "id": "BV1GyXHB7Edi",
+      "category": "科研案例与基础支撑",
+      "summary": "总结命令行操作技巧，提高生信环境中的终端使用效率。",
+      "tags": [
+        "linux",
+        "shell"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "linux",
+          "shell"
+        ],
+        "title": "05.linux命令行技巧",
+        "date": "2026-03-26",
+        "plays": 20,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1GyXHB7Edi",
+        "bvid": "BV1GyXHB7Edi",
+        "content_summary": "总结命令行操作技巧，提高生信环境中的终端使用效率。"
+      },
+      "text_blob": "05.linux命令行技巧 科研案例与基础支撑 总结命令行操作技巧，提高生信环境中的终端使用效率。 linux shell",
+      "tags_lower": [
+        "linux",
+        "shell"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "05.linux命令行技巧"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "06.linux文件操作",
+      "date": "2026-03-26",
+      "url": "https://www.bilibili.com/video/BV1YyXHB7Est",
+      "id": "BV1YyXHB7Est",
+      "category": "科研案例与基础支撑",
+      "summary": "讲文件查看、复制、移动和整理，适合作为生信数据管理基础。",
+      "tags": [
+        "linux",
+        "file-ops"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "linux",
+          "file-ops"
+        ],
+        "title": "06.linux文件操作",
+        "date": "2026-03-26",
+        "plays": 17,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1YyXHB7Est",
+        "bvid": "BV1YyXHB7Est",
+        "content_summary": "讲文件查看、复制、移动和整理，适合作为生信数据管理基础。"
+      },
+      "text_blob": "06.linux文件操作 科研案例与基础支撑 讲文件查看、复制、移动和整理，适合作为生信数据管理基础。 linux file-ops",
+      "tags_lower": [
+        "file-ops",
+        "linux"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "06.linux文件操作"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "04.linux目录结构",
+      "date": "2026-03-26",
+      "url": "https://www.bilibili.com/video/BV19yXHBjEu7",
+      "id": "BV19yXHBjEu7",
+      "category": "科研案例与基础支撑",
+      "summary": "解释 Linux 文件系统层级，帮助理解后续数据与脚本存放位置。",
+      "tags": [
+        "linux",
+        "filesystem"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "linux",
+          "filesystem"
+        ],
+        "title": "04.linux目录结构",
+        "date": "2026-03-26",
+        "plays": 5,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV19yXHBjEu7",
+        "bvid": "BV19yXHBjEu7",
+        "content_summary": "解释 Linux 文件系统层级，帮助理解后续数据与脚本存放位置。"
+      },
+      "text_blob": "04.linux目录结构 科研案例与基础支撑 解释 linux 文件系统层级，帮助理解后续数据与脚本存放位置。 linux filesystem",
+      "tags_lower": [
+        "filesystem",
+        "linux"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "04.linux目录结构"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.linux介绍",
+      "date": "2026-03-26",
+      "url": "https://www.bilibili.com/video/BV1XyXHBjEaT",
+      "id": "BV1XyXHBjEaT",
+      "category": "科研案例与基础支撑",
+      "summary": "介绍 Linux 在生信流程中的角色、常见使用场景和入门路径。",
+      "tags": [
+        "linux",
+        "environment"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "linux",
+          "environment"
+        ],
+        "title": "01.linux介绍",
+        "date": "2026-03-26",
+        "plays": 37,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1XyXHBjEaT",
+        "bvid": "BV1XyXHBjEaT",
+        "content_summary": "介绍 Linux 在生信流程中的角色、常见使用场景和入门路径。",
+        "page_tags": [
+          "操作系统",
+          "学习",
+          "教程",
+          "linux",
+          "生物信息"
+        ],
+        "duration_seconds": 472,
+        "view_count": 37,
+        "like_count": 1,
+        "favorite_count": 0,
+        "share_count": 0,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "01.linux介绍 科研案例与基础支撑 介绍 linux 在生信流程中的角色、常见使用场景和入门路径。 linux environment",
+      "tags_lower": [
+        "environment",
+        "linux"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "01.linux介绍"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.文献3：紫花苜蓿的基因组选择特征",
+      "date": "2025-07-25",
+      "url": "https://www.bilibili.com/video/BV1ra8wzPEtv",
+      "id": "BV1ra8wzPEtv",
+      "category": "科研案例与基础支撑",
+      "summary": "围绕紫花苜蓿案例梳理基因组选择特征分析的研究问题与结果组织方式。",
+      "tags": [
+        "literature",
+        "genomic-selection"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "literature",
+          "genomic-selection"
+        ],
+        "title": "03.文献3：紫花苜蓿的基因组选择特征",
+        "date": "2025-07-25",
+        "plays": 106,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ra8wzPEtv",
+        "bvid": "BV1ra8wzPEtv",
+        "content_summary": "围绕紫花苜蓿案例梳理基因组选择特征分析的研究问题与结果组织方式。"
+      },
+      "text_blob": "03.文献3：紫花苜蓿的基因组选择特征 科研案例与基础支撑 围绕紫花苜蓿案例梳理基因组选择特征分析的研究问题与结果组织方式。 literature genomic-selection",
+      "tags_lower": [
+        "genomic-selection",
+        "literature"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "03.文献3：紫花苜蓿的基因组选择特征"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.文献2：芥菜的起源、驯化与多样性",
+      "date": "2025-07-09",
+      "url": "https://www.bilibili.com/video/BV16sKmzAEPF",
+      "id": "BV16sKmzAEPF",
+      "category": "科研案例与基础支撑",
+      "summary": "借芥菜案例讲群体遗传和驯化研究如何组织样本、变异与群体结构分析。",
+      "tags": [
+        "literature",
+        "domestication"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "literature",
+          "domestication"
+        ],
+        "title": "02.文献2：芥菜的起源、驯化与多样性",
+        "date": "2025-07-09",
+        "plays": 107,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV16sKmzAEPF",
+        "bvid": "BV16sKmzAEPF",
+        "content_summary": "借芥菜案例讲群体遗传和驯化研究如何组织样本、变异与群体结构分析。"
+      },
+      "text_blob": "02.文献2：芥菜的起源、驯化与多样性 科研案例与基础支撑 借芥菜案例讲群体遗传和驯化研究如何组织样本、变异与群体结构分析。 literature domestication",
+      "tags_lower": [
+        "domestication",
+        "literature"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "02.文献2：芥菜的起源、驯化与多样性"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.群体研究分析思路文献1：水蜜桃糖酸风味遗传基础",
+      "date": "2025-07-02",
+      "url": "https://www.bilibili.com/video/BV1CjKmzBEdW",
+      "id": "BV1CjKmzBEdW",
+      "category": "科研案例与基础支撑",
+      "summary": "用水蜜桃糖酸风味案例拆解群体研究的表型设计、遗传关联和候选位点挖掘思路。",
+      "tags": [
+        "literature",
+        "population-study"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "literature",
+          "population-study"
+        ],
+        "title": "01.群体研究分析思路文献1：水蜜桃糖酸风味遗传基础",
+        "date": "2025-07-02",
+        "plays": 648,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1CjKmzBEdW",
+        "bvid": "BV1CjKmzBEdW",
+        "content_summary": "用水蜜桃糖酸风味案例拆解群体研究的表型设计、遗传关联和候选位点挖掘思路。"
+      },
+      "text_blob": "01.群体研究分析思路文献1：水蜜桃糖酸风味遗传基础 科研案例与基础支撑 用水蜜桃糖酸风味案例拆解群体研究的表型设计、遗传关联和候选位点挖掘思路。 literature population-study",
+      "tags_lower": [
+        "literature",
+        "population-study"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "01.群体研究分析思路文献1：水蜜桃糖酸风味遗传基础"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.基于WGCNA筛选宫颈癌相关预后因子",
+      "date": "2025-04-08",
+      "url": "https://www.bilibili.com/video/BV15kdnYcEmo",
+      "id": "BV15kdnYcEmo",
+      "category": "核心生信分析",
+      "summary": "围绕宫颈癌案例说明 WGCNA 与预后因子筛选的联动分析思路。",
+      "tags": [
+        "WGCNA",
+        "survival"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "WGCNA",
+          "survival"
+        ],
+        "title": "02.基于WGCNA筛选宫颈癌相关预后因子",
+        "date": "2025-04-08",
+        "plays": 85,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV15kdnYcEmo",
+        "bvid": "BV15kdnYcEmo",
+        "content_summary": "围绕宫颈癌案例说明 WGCNA 与预后因子筛选的联动分析思路。"
+      },
+      "text_blob": "02.基于wgcna筛选宫颈癌相关预后因子 核心生信分析 围绕宫颈癌案例说明 wgcna 与预后因子筛选的联动分析思路。 wgcna survival",
+      "tags_lower": [
+        "survival",
+        "wgcna"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "02.基于wgcna筛选宫颈癌相关预后因子"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.基于WGCNA筛选过敏性哮喘相关biomarker",
+      "date": "2025-04-08",
+      "url": "https://www.bilibili.com/video/BV1k4dnY3EhH",
+      "id": "BV1k4dnY3EhH",
+      "category": "核心生信分析",
+      "summary": "用哮喘案例讲 WGCNA 如何筛与疾病相关的候选 biomarker。",
+      "tags": [
+        "WGCNA",
+        "biomarker"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "WGCNA",
+          "biomarker"
+        ],
+        "title": "01.基于WGCNA筛选过敏性哮喘相关biomarker",
+        "date": "2025-04-08",
+        "plays": 104,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1k4dnY3EhH",
+        "bvid": "BV1k4dnY3EhH",
+        "content_summary": "用哮喘案例讲 WGCNA 如何筛与疾病相关的候选 biomarker。",
+        "page_tags": [
+          "biomarker",
+          "生物信息",
+          "WGCNA"
+        ],
+        "duration_seconds": 1423,
+        "view_count": 104,
+        "like_count": 0,
+        "favorite_count": 4,
+        "share_count": 0,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "01.基于wgcna筛选过敏性哮喘相关biomarker 核心生信分析 用哮喘案例讲 wgcna 如何筛与疾病相关的候选 biomarker。 wgcna biomarker",
+      "tags_lower": [
+        "biomarker",
+        "wgcna"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "01.基于wgcna筛选过敏性哮喘相关biomarker"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "文献2：菠萝当中WRKY基因家族分析",
+      "date": "2025-03-24",
+      "url": "https://www.bilibili.com/video/BV1T4oyYpEfJ",
+      "id": "BV1T4oyYpEfJ",
+      "category": "核心生信分析",
+      "summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "gene-family",
+          "literature"
+        ],
+        "title": "文献2：菠萝当中WRKY基因家族分析",
+        "date": "2025-03-24",
+        "plays": 841,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1T4oyYpEfJ",
+        "bvid": "BV1T4oyYpEfJ",
+        "content_summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。"
+      },
+      "text_blob": "文献2：菠萝当中wrky基因家族分析 核心生信分析 通过具体文献案例说明基因家族分析的常见流程与结果表达方式。 gene-family literature",
+      "tags_lower": [
+        "gene-family",
+        "literature"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "文献2：菠萝当中wrky基因家族分析"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "文献3：木薯当中NBS基因家族分析分析思路总结",
+      "date": "2025-03-24",
+      "url": "https://www.bilibili.com/video/BV1T4oyYpE2Q",
+      "id": "BV1T4oyYpE2Q",
+      "category": "核心生信分析",
+      "summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "gene-family",
+          "literature"
+        ],
+        "title": "文献3：木薯当中NBS基因家族分析分析思路总结",
+        "date": "2025-03-24",
+        "plays": 275,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1T4oyYpE2Q",
+        "bvid": "BV1T4oyYpE2Q",
+        "content_summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。"
+      },
+      "text_blob": "文献3：木薯当中nbs基因家族分析分析思路总结 核心生信分析 通过具体文献案例说明基因家族分析的常见流程与结果表达方式。 gene-family literature",
+      "tags_lower": [
+        "gene-family",
+        "literature"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "文献3：木薯当中nbs基因家族分析分析思路总结"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "文献1：马铃薯当中HSP20基因家族分析",
+      "date": "2025-03-24",
+      "url": "https://www.bilibili.com/video/BV1gHoyYdEpx",
+      "id": "BV1gHoyYdEpx",
+      "category": "核心生信分析",
+      "summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "gene-family",
+          "literature"
+        ],
+        "title": "文献1：马铃薯当中HSP20基因家族分析",
+        "date": "2025-03-24",
+        "plays": 1074,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1gHoyYdEpx",
+        "bvid": "BV1gHoyYdEpx",
+        "content_summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。"
+      },
+      "text_blob": "文献1：马铃薯当中hsp20基因家族分析 核心生信分析 通过具体文献案例说明基因家族分析的常见流程与结果表达方式。 gene-family literature",
+      "tags_lower": [
+        "gene-family",
+        "literature"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "文献1：马铃薯当中hsp20基因家族分析"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "Excel使用-Vlookup（生物信息）",
+      "date": "2025-03-13",
+      "url": "https://www.bilibili.com/video/BV18NQAYZE3f",
+      "id": "BV18NQAYZE3f",
+      "category": "科研案例与基础支撑",
+      "summary": "讲用 Excel VLOOKUP 做表格映射，适合作为生信结果整理辅助技能。",
+      "tags": [
+        "excel",
+        "table"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "excel",
+          "table"
+        ],
+        "title": "Excel使用-Vlookup（生物信息）",
+        "date": "2025-03-13",
+        "plays": 56,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV18NQAYZE3f",
+        "bvid": "BV18NQAYZE3f",
+        "content_summary": "讲用 Excel VLOOKUP 做表格映射，适合作为生信结果整理辅助技能。"
+      },
+      "text_blob": "excel使用-vlookup（生物信息） 科研案例与基础支撑 讲用 excel vlookup 做表格映射，适合作为生信结果整理辅助技能。 excel table",
+      "tags_lower": [
+        "excel",
+        "table"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "excel使用-vlookup（生物信息）"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "生物信息编程工具-vscode",
+      "date": "2024-03-13",
+      "url": "https://www.bilibili.com/video/BV1oF4m1F7P2",
+      "id": "BV1oF4m1F7P2",
+      "category": "科研案例与基础支撑",
+      "summary": "介绍 VS Code 在生信脚本编辑与运行中的基础用途。",
+      "tags": [
+        "vscode",
+        "environment"
+      ],
+      "extra": {
+        "bucket": "科研案例与基础支撑",
+        "tags": [
+          "vscode",
+          "environment"
+        ],
+        "title": "生物信息编程工具-vscode",
+        "date": "2024-03-13",
+        "plays": 249,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1oF4m1F7P2",
+        "bvid": "BV1oF4m1F7P2",
+        "content_summary": "介绍 VS Code 在生信脚本编辑与运行中的基础用途。"
+      },
+      "text_blob": "生物信息编程工具-vscode 科研案例与基础支撑 介绍 vs code 在生信脚本编辑与运行中的基础用途。 vscode environment",
+      "tags_lower": [
+        "environment",
+        "vscode"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "科研案例与基础支撑",
+      "title_lower": "生物信息编程工具-vscode"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "24 黑色素瘤脑转移单细胞图谱案例与通路特征分析",
+      "date": "2026-05-31",
+      "url": "https://www.bilibili.com/video/BV1iYLj6UEt1",
+      "id": "BV1iYLj6UEt1",
+      "category": "专题案例与扩展课",
+      "summary": "偏案例驱动，重点是黑色素瘤脑转移单细胞图谱案例与通路特征分析。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "24 黑色素瘤脑转移单细胞图谱案例与通路特征分析",
+        "date": "2026-05-31",
+        "plays": 93,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1iYLj6UEt1",
+        "bvid": "BV1iYLj6UEt1",
+        "category": "专题案例与扩展课",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "偏案例驱动，重点是黑色素瘤脑转移单细胞图谱案例与通路特征分析。"
+      },
+      "text_blob": "24 黑色素瘤脑转移单细胞图谱案例与通路特征分析 专题案例与扩展课 偏案例驱动，重点是黑色素瘤脑转移单细胞图谱案例与通路特征分析。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "专题案例与扩展课",
+      "title_lower": "24 黑色素瘤脑转移单细胞图谱案例与通路特征分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "08 Marker基因筛选、细胞类型注释与卵巢单细胞案例",
+      "date": "2026-05-13",
+      "url": "https://www.bilibili.com/video/BV15kRsBAEWY",
+      "id": "BV15kRsBAEWY",
+      "category": "单细胞基础",
+      "summary": "偏案例驱动，重点是Marker基因筛选、细胞类型注释与卵巢单细胞案例。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "08 Marker基因筛选、细胞类型注释与卵巢单细胞案例",
+        "date": "2026-05-13",
+        "plays": 309,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV15kRsBAEWY",
+        "bvid": "BV15kRsBAEWY",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "偏案例驱动，重点是Marker基因筛选、细胞类型注释与卵巢单细胞案例。"
+      },
+      "text_blob": "08 marker基因筛选、细胞类型注释与卵巢单细胞案例 单细胞基础 偏案例驱动，重点是marker基因筛选、细胞类型注释与卵巢单细胞案例。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "08 marker基因筛选、细胞类型注释与卵巢单细胞案例"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "11.多样本整合和批次分析",
+      "date": "2026-04-21",
+      "url": "https://www.bilibili.com/video/BV1zfdeBKEFd",
+      "id": "BV1zfdeBKEFd",
+      "category": "专题案例与扩展课",
+      "summary": "偏专题扩展，重点是多样本整合和批次分析。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "11.多样本整合和批次分析",
+        "date": "2026-04-21",
+        "plays": 333,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1zfdeBKEFd",
+        "bvid": "BV1zfdeBKEFd",
+        "category": "专题案例与扩展课",
+        "series": "2026-04 精简生信基础课",
+        "focus": "偏专题扩展，重点是多样本整合和批次分析。"
+      },
+      "text_blob": "11.多样本整合和批次分析 专题案例与扩展课 偏专题扩展，重点是多样本整合和批次分析。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "专题案例与扩展课",
+      "title_lower": "11.多样本整合和批次分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现",
+      "date": "2026-04-08",
+      "url": "https://www.bilibili.com/video/BV1CcDkBJExx",
+      "id": "BV1CcDkBJExx",
+      "category": "专题案例与扩展课",
+      "summary": "偏专题扩展，重点是华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现。",
+      "tags": [
+        "专题扩展课"
+      ],
+      "extra": {
+        "title": "华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现",
+        "date": "2026-04-08",
+        "plays": 921,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1CcDkBJExx",
+        "bvid": "BV1CcDkBJExx",
+        "category": "专题案例与扩展课",
+        "series": "专题扩展课",
+        "focus": "偏专题扩展，重点是华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现。"
+      },
+      "text_blob": "华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现 专题案例与扩展课 偏专题扩展，重点是华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现。 专题扩展课",
+      "tags_lower": [
+        "专题扩展课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "专题案例与扩展课",
+      "title_lower": "华哥新课：孟德尔+单细胞 纯生信公共数据库挖掘文章全文复现"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：环境、Spyder 和空转数据怎么顺利读进来（实操开始）",
+      "date": "2026-03-25",
+      "url": "https://www.bilibili.com/video/BV1iVQUBbEhF",
+      "id": "BV1iVQUBbEhF",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是环境、Spyder 和空转数据怎么顺利读进来（实操开始）。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：环境、Spyder 和空转数据怎么顺利读进来（实操开始）",
+        "date": "2026-03-25",
+        "plays": 141,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1iVQUBbEhF",
+        "bvid": "BV1iVQUBbEhF",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是环境、Spyder 和空转数据怎么顺利读进来（实操开始）。"
+      },
+      "text_blob": "nature复现：环境、spyder 和空转数据怎么顺利读进来（实操开始） nature复现与科研复盘 围绕顶刊复现，重点是环境、spyder 和空转数据怎么顺利读进来（实操开始）。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：环境、spyder 和空转数据怎么顺利读进来（实操开始）"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：空间定位与共定位分析：关键亚群如何映射回组织空间",
+      "date": "2026-03-24",
+      "url": "https://www.bilibili.com/video/BV1zhQBBTEuL",
+      "id": "BV1zhQBBTEuL",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是空间定位与共定位分析：关键亚群如何映射回组织空间。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：空间定位与共定位分析：关键亚群如何映射回组织空间",
+        "date": "2026-03-24",
+        "plays": 716,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1zhQBBTEuL",
+        "bvid": "BV1zhQBBTEuL",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是空间定位与共定位分析：关键亚群如何映射回组织空间。"
+      },
+      "text_blob": "nature复现：空间定位与共定位分析：关键亚群如何映射回组织空间 nature复现与科研复盘 围绕顶刊复现，重点是空间定位与共定位分析：关键亚群如何映射回组织空间。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：空间定位与共定位分析：关键亚群如何映射回组织空间"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：经典 Cell 文章拆解：如何从单细胞中找到关键肿瘤亚群",
+      "date": "2026-03-22",
+      "url": "https://www.bilibili.com/video/BV1BdA3zsECf",
+      "id": "BV1BdA3zsECf",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是经典 Cell 文章拆解：如何从单细胞中找到关键肿瘤亚群。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：经典 Cell 文章拆解：如何从单细胞中找到关键肿瘤亚群",
+        "date": "2026-03-22",
+        "plays": 1960,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1BdA3zsECf",
+        "bvid": "BV1BdA3zsECf",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是经典 Cell 文章拆解：如何从单细胞中找到关键肿瘤亚群。"
+      },
+      "text_blob": "nature复现：经典 cell 文章拆解：如何从单细胞中找到关键肿瘤亚群 nature复现与科研复盘 围绕顶刊复现，重点是经典 cell 文章拆解：如何从单细胞中找到关键肿瘤亚群。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：经典 cell 文章拆解：如何从单细胞中找到关键肿瘤亚群"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：从 0 理解空间转录组，新手最该先懂的核心逻辑",
+      "date": "2026-03-21",
+      "url": "https://www.bilibili.com/video/BV1owAAzbEH2",
+      "id": "BV1owAAzbEH2",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是从 0 理解空间转录组，新手最该先懂的核心逻辑。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：从 0 理解空间转录组，新手最该先懂的核心逻辑",
+        "date": "2026-03-21",
+        "plays": 293,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1owAAzbEH2",
+        "bvid": "BV1owAAzbEH2",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是从 0 理解空间转录组，新手最该先懂的核心逻辑。"
+      },
+      "text_blob": "nature复现：从 0 理解空间转录组，新手最该先懂的核心逻辑 nature复现与科研复盘 围绕顶刊复现，重点是从 0 理解空间转录组，新手最该先懂的核心逻辑。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：从 0 理解空间转录组，新手最该先懂的核心逻辑"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：空转学习前的课前预热：AI、代码与学习方法怎么配合",
+      "date": "2026-03-19",
+      "url": "https://www.bilibili.com/video/BV1NyAVzrERe",
+      "id": "BV1NyAVzrERe",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是空转学习前的课前预热：AI、代码与学习方法怎么配合。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：空转学习前的课前预热：AI、代码与学习方法怎么配合",
+        "date": "2026-03-19",
+        "plays": 48,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1NyAVzrERe",
+        "bvid": "BV1NyAVzrERe",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是空转学习前的课前预热：AI、代码与学习方法怎么配合。"
+      },
+      "text_blob": "nature复现：空转学习前的课前预热：ai、代码与学习方法怎么配合 nature复现与科研复盘 围绕顶刊复现，重点是空转学习前的课前预热：ai、代码与学习方法怎么配合。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：空转学习前的课前预热：ai、代码与学习方法怎么配合"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：软件安装实操",
+      "date": "2026-03-18",
+      "url": "https://www.bilibili.com/video/BV1GmwBzQEMZ",
+      "id": "BV1GmwBzQEMZ",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是软件安装实操。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：软件安装实操",
+        "date": "2026-03-18",
+        "plays": 49,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1GmwBzQEMZ",
+        "bvid": "BV1GmwBzQEMZ",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是软件安装实操。"
+      },
+      "text_blob": "nature复现：软件安装实操 nature复现与科研复盘 围绕顶刊复现，重点是软件安装实操。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：软件安装实操"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：数据驱动科研与公开数据库发文思路",
+      "date": "2026-03-16",
+      "url": "https://www.bilibili.com/video/BV179w2zSEN2",
+      "id": "BV179w2zSEN2",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是数据驱动科研与公开数据库发文思路。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：数据驱动科研与公开数据库发文思路",
+        "date": "2026-03-16",
+        "plays": 91,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV179w2zSEN2",
+        "bvid": "BV179w2zSEN2",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是数据驱动科研与公开数据库发文思路。"
+      },
+      "text_blob": "nature复现：数据驱动科研与公开数据库发文思路 nature复现与科研复盘 围绕顶刊复现，重点是数据驱动科研与公开数据库发文思路。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：数据驱动科研与公开数据库发文思路"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "张老师的影像组学私房课[N002下]-传统影像组学复现利器MedSee",
+      "date": "2021-11-08",
+      "url": "https://www.bilibili.com/video/BV1fv411T7vA",
+      "id": "BV1fv411T7vA",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "omics"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "omics"
+        ],
+        "title": "张老师的影像组学私房课[N002下]-传统影像组学复现利器MedSee",
+        "date": "2021-11-08",
+        "url": "https://www.bilibili.com/video/BV1fv411T7vA",
+        "bvid": "BV1fv411T7vA",
+        "plays": 782,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "张老师的影像组学私房课[n002下]-传统影像组学复现利器medsee core  omics",
+      "tags_lower": [
+        "omics"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "张老师的影像组学私房课[n002下]-传统影像组学复现利器medsee"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "张老师的影像组学私房课[N002]-传统影像组学复现",
+      "date": "2021-11-08",
+      "url": "https://www.bilibili.com/video/BV1fL411M7kd",
+      "id": "BV1fL411M7kd",
+      "category": "core",
+      "summary": "",
+      "tags": [
+        "omics"
+      ],
+      "extra": {
+        "category": "core",
+        "matched_rules": [
+          "omics"
+        ],
+        "title": "张老师的影像组学私房课[N002]-传统影像组学复现",
+        "date": "2021-11-08",
+        "url": "https://www.bilibili.com/video/BV1fL411M7kd",
+        "bvid": "BV1fL411M7kd",
+        "plays": 1682,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "张老师的影像组学私房课[n002]-传统影像组学复现 core  omics",
+      "tags_lower": [
+        "omics"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "core",
+      "title_lower": "张老师的影像组学私房课[n002]-传统影像组学复现"
+    }
+  ]
+}

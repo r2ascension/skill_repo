@@ -1,0 +1,187 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-molecular-docking-and-structure-visualization",
+  "focus": "molecular docking and structure visualization",
+  "count": 5,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "第一作者视角：带你看懂生信中虚拟药物筛选和分子对接",
+      "date": "2026-05-30",
+      "url": "https://www.bilibili.com/video/BV1sRV36GE3B",
+      "id": "BV1sRV36GE3B",
+      "category": "Virtual Screening And Docking",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "第一作者视角：带你看懂生信中虚拟药物筛选和分子对接",
+        "date": "2026-05-30",
+        "url": "https://www.bilibili.com/video/BV1sRV36GE3B",
+        "bvid": "BV1sRV36GE3B",
+        "plays": 1687,
+        "likes": 0,
+        "category_key": "docking-and-screening",
+        "category_title": "Virtual Screening And Docking"
+      },
+      "text_blob": "第一作者视角：带你看懂生信中虚拟药物筛选和分子对接 virtual screening and docking  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "virtual screening and docking",
+      "title_lower": "第一作者视角：带你看懂生信中虚拟药物筛选和分子对接"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "16.2分子对接（pymol）-",
+      "date": "2026-03-27",
+      "url": "https://www.bilibili.com/video/BV12VXMBcEPD",
+      "id": "BV12VXMBcEPD",
+      "category": "Molecular Docking",
+      "summary": "",
+      "tags": [
+        "分子对接",
+        "pymol"
+      ],
+      "extra": {
+        "title": "16.2分子对接（pymol）-",
+        "date": "2026-03-27",
+        "url": "https://www.bilibili.com/video/BV12VXMBcEPD",
+        "bvid": "BV12VXMBcEPD",
+        "plays": 4784,
+        "likes": 0,
+        "category_key": "docking",
+        "category_title": "Molecular Docking",
+        "matched_words": [
+          "分子对接",
+          "pymol"
+        ]
+      },
+      "text_blob": "16.2分子对接（pymol）- molecular docking  分子对接 pymol",
+      "tags_lower": [
+        "pymol",
+        "分子对接"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "molecular docking",
+      "title_lower": "16.2分子对接（pymol）-"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "21、Autodock安装教程",
+      "date": "2025-07-22",
+      "url": "https://www.bilibili.com/video/BV1E5gpzBEm5",
+      "id": "BV1E5gpzBEm5",
+      "category": "Molecular Docking",
+      "summary": "",
+      "tags": [
+        "Autodock",
+        "autodock"
+      ],
+      "extra": {
+        "title": "21、Autodock安装教程",
+        "date": "2025-07-22",
+        "url": "https://www.bilibili.com/video/BV1E5gpzBEm5",
+        "bvid": "BV1E5gpzBEm5",
+        "plays": 4196,
+        "likes": 0,
+        "category_key": "docking",
+        "category_title": "Molecular Docking",
+        "matched_words": [
+          "Autodock",
+          "autodock"
+        ]
+      },
+      "text_blob": "21、autodock安装教程 molecular docking  autodock autodock",
+      "tags_lower": [
+        "autodock"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "molecular docking",
+      "title_lower": "21、autodock安装教程"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "17.1 分子对接可视化1（PyMol软件）",
+      "date": "2025-04-30",
+      "url": "https://www.bilibili.com/video/BV1n1G9zvEEf",
+      "id": "BV1n1G9zvEEf",
+      "category": "Molecular Docking",
+      "summary": "",
+      "tags": [
+        "分子对接",
+        "pymol"
+      ],
+      "extra": {
+        "title": "17.1 分子对接可视化1（PyMol软件）",
+        "date": "2025-04-30",
+        "url": "https://www.bilibili.com/video/BV1n1G9zvEEf",
+        "bvid": "BV1n1G9zvEEf",
+        "plays": 7286,
+        "likes": 0,
+        "category_key": "docking",
+        "category_title": "Molecular Docking",
+        "matched_words": [
+          "分子对接",
+          "pymol"
+        ]
+      },
+      "text_blob": "17.1 分子对接可视化1（pymol软件） molecular docking  分子对接 pymol",
+      "tags_lower": [
+        "pymol",
+        "分子对接"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "molecular docking",
+      "title_lower": "17.1 分子对接可视化1（pymol软件）"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "14、利用autodock vina完成分子对接的详细步骤",
+      "date": "2025-04-21",
+      "url": "https://www.bilibili.com/video/BV1hA5yzFEfk",
+      "id": "BV1hA5yzFEfk",
+      "category": "Molecular Docking",
+      "summary": "",
+      "tags": [
+        "Autodock",
+        "autodock",
+        "分子对接",
+        "vina"
+      ],
+      "extra": {
+        "title": "14、利用autodock vina完成分子对接的详细步骤",
+        "date": "2025-04-21",
+        "url": "https://www.bilibili.com/video/BV1hA5yzFEfk",
+        "bvid": "BV1hA5yzFEfk",
+        "plays": 16771,
+        "likes": 0,
+        "category_key": "docking",
+        "category_title": "Molecular Docking",
+        "matched_words": [
+          "Autodock",
+          "autodock",
+          "分子对接",
+          "vina"
+        ]
+      },
+      "text_blob": "14、利用autodock vina完成分子对接的详细步骤 molecular docking  autodock autodock 分子对接 vina",
+      "tags_lower": [
+        "autodock",
+        "vina",
+        "分子对接"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "molecular docking",
+      "title_lower": "14、利用autodock vina完成分子对接的详细步骤"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI OnekeyAI Bioinfo Videos"
+  short_description: "Curate OnekeyAI omics and bioinfo Bilibili videos with opencli."
+  default_prompt: "Use $opencli-onekeyai-bioinfo-videos to refresh and summarize OnekeyAI bioinformatics-related Bilibili videos via opencli."

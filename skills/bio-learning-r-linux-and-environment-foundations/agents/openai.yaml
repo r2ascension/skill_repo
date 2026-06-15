@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bioinformatics Environment Foundations Learning"
+  short_description: "Cross-source learning skill for R, Linux, environment setup, filesystem basics, and onboarding foundations for bioinformatics work."
+  default_prompt: "Use $bio-learning-r-linux-and-environment-foundations when the user wants learning content organized by concrete function rather than by creator or album source."

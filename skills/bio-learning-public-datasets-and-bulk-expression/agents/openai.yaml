@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Datasets And Bulk Expression Learning"
+  short_description: "Cross-source learning skill for GEO, TCGA, microarray, bulk RNA-seq, and public-expression dataset mining workflows."
+  default_prompt: "Use $bio-learning-public-datasets-and-bulk-expression when the user wants learning content organized by concrete function rather than by creator or album source."

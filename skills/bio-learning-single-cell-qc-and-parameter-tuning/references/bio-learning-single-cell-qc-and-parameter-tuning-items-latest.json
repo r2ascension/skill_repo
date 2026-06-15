@@ -1,0 +1,794 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-single-cell-qc-and-parameter-tuning",
+  "focus": "single-cell QC, preprocessing, and parameter tuning",
+  "count": 26,
+  "items": [
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231217：单细胞数据对象构建及其参数设置 (芒果)",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV12isRzCEyQ",
+      "id": "BV12isRzCEyQ",
+      "category": "Single-Cell And Online Platforms",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "231217：单细胞数据对象构建及其参数设置 (芒果)",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV12isRzCEyQ",
+        "bvid": "BV12isRzCEyQ",
+        "plays": 113,
+        "likes": 0,
+        "category_key": "single-cell-and-platforms",
+        "category_title": "Single-Cell And Online Platforms",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "231217：单细胞数据对象构建及其参数设置 (芒果) single-cell and online platforms  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "single-cell and online platforms",
+      "title_lower": "231217：单细胞数据对象构建及其参数设置 (芒果)"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "16.单细胞测序数据分析 DoubletFinder祛除双细胞",
+      "date": "2024-06-12",
+      "url": "https://www.bilibili.com/video/BV1rs421u7U1",
+      "id": "BV1rs421u7U1",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "16.单细胞测序数据分析 DoubletFinder祛除双细胞",
+        "date": "2024-06-12",
+        "url": "https://www.bilibili.com/video/BV1rs421u7U1",
+        "bvid": "BV1rs421u7U1",
+        "plays": 10964,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "16.单细胞测序数据分析 doubletfinder祛除双细胞 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "16.单细胞测序数据分析 doubletfinder祛除双细胞"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "source_name": "生物信息与人工智能 / AI最前沿",
+      "platform": "weixin",
+      "title": "Nat Commun | 十亿参数模型sclong发布：首次实现全基因组上下文建模，大幅提升单细胞转录组分析能力",
+      "date": "2026-02-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247486989&idx=1&sn=7d2096f5c66b712ebee6855f0f7e1ebb&chksm=ec1851c0db6fd8d6163778c0d2016e2e6fefcb67fface37021ad65e50bd8b12881ed88256664#rd",
+      "id": "2247486989_1",
+      "category": "AI Trends And Frontier Discussion",
+      "summary": "Relevant ai trends and frontier discussion entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "Nat Commun | 十亿参数模型sclong发布：首次实现全基因组上下文建模，大幅提升单细胞转录组分析能力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247486989&idx=1&sn=7d2096f5c66b712ebee6855f0f7e1ebb&chksm=ec1851c0db6fd8d6163778c0d2016e2e6fefcb67fface37021ad65e50bd8b12881ed88256664#rd",
+        "msgid": "2247486989",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2026-02-07",
+        "category_key": "ai-trends",
+        "category_title": "AI Trends And Frontier Discussion",
+        "brief": "Relevant ai trends and frontier discussion entry kept from the curated album."
+      },
+      "text_blob": "nat commun | 十亿参数模型sclong发布：首次实现全基因组上下文建模，大幅提升单细胞转录组分析能力 ai trends and frontier discussion relevant ai trends and frontier discussion entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-frontier-bioinfo-ai",
+      "category_lower": "ai trends and frontier discussion",
+      "title_lower": "nat commun | 十亿参数模型sclong发布：首次实现全基因组上下文建模，大幅提升单细胞转录组分析能力"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "一个简单的参数显著提高对外显子测序数据找变异位点的速度（但未必是合理的）",
+      "date": "2025-10-20",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537626&idx=1&sn=cb88d3e51bdf16f7b2cbbb01411e0107&chksm=fa4596e7cd321ff1d775d88a4807c6eee5ca9689c38363d8c45b18b5cc23ea05190638b98133#rd",
+      "id": "2247537626_1",
+      "category": "Data Handling And Scale",
+      "summary": "Relevant data handling and scale entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "一个简单的参数显著提高对外显子测序数据找变异位点的速度（但未必是合理的）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537626&idx=1&sn=cb88d3e51bdf16f7b2cbbb01411e0107&chksm=fa4596e7cd321ff1d775d88a4807c6eee5ca9689c38363d8c45b18b5cc23ea05190638b98133#rd",
+        "msgid": "2247537626",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-10-20",
+        "category_key": "data-and-scale",
+        "category_title": "Data Handling And Scale",
+        "brief": "Relevant data handling and scale entry kept from the curated album."
+      },
+      "text_blob": "一个简单的参数显著提高对外显子测序数据找变异位点的速度（但未必是合理的） data handling and scale relevant data handling and scale entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "data handling and scale",
+      "title_lower": "一个简单的参数显著提高对外显子测序数据找变异位点的速度（但未必是合理的）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "停止盲目试参数！空间转录组/单细胞如何设置合适的分辨率（resolution）本就是伪命题",
+      "date": "2026-04-29",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247491266&idx=1&sn=13075e2b4bef97dedd23425c52d57515&chksm=ce64702bf913f93d719efd51fce9703f1e22db15c831c77355d587c1fdea9fa7c05e88e72b73#rd",
+      "id": "2247491266_1",
+      "category": "Workflow And Parameter Tuning",
+      "summary": "Relevant workflow and parameter tuning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "停止盲目试参数！空间转录组/单细胞如何设置合适的分辨率（resolution）本就是伪命题",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247491266&idx=1&sn=13075e2b4bef97dedd23425c52d57515&chksm=ce64702bf913f93d719efd51fce9703f1e22db15c831c77355d587c1fdea9fa7c05e88e72b73#rd",
+        "msgid": "2247491266",
+        "itemidx": "1",
+        "pos_num": "12",
+        "date": "2026-04-29",
+        "category_key": "workflow-and-parameters",
+        "category_title": "Workflow And Parameter Tuning",
+        "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+      },
+      "text_blob": "停止盲目试参数！空间转录组/单细胞如何设置合适的分辨率（resolution）本就是伪命题 workflow and parameter tuning relevant workflow and parameter tuning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "workflow and parameter tuning",
+      "title_lower": "停止盲目试参数！空间转录组/单细胞如何设置合适的分辨率（resolution）本就是伪命题"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "UMI 总和 vs 非零基因数：nCount_RNA 与 nFeature_RNA 的 QC 逻辑全解析",
+      "date": "2025-09-20",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489956&idx=1&sn=c5865ed729e39b6620aa913021280816&chksm=ce64774df913fe5b160cca683a7f23a04ca1b380ce615c706d15226bbfb3c1e50e50aabe21bf#rd",
+      "id": "2247489956_1",
+      "category": "QC And Preprocessing",
+      "summary": "Explains the core idea or mechanism behind a qc and preprocessing topic.",
+      "tags": [],
+      "extra": {
+        "title": "UMI 总和 vs 非零基因数：nCount_RNA 与 nFeature_RNA 的 QC 逻辑全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489956&idx=1&sn=c5865ed729e39b6620aa913021280816&chksm=ce64774df913fe5b160cca683a7f23a04ca1b380ce615c706d15226bbfb3c1e50e50aabe21bf#rd",
+        "msgid": "2247489956",
+        "itemidx": "1",
+        "pos_num": "11",
+        "date": "2025-09-20",
+        "category_key": "qc-and-preprocessing",
+        "category_title": "QC And Preprocessing",
+        "brief": "Explains the core idea or mechanism behind a qc and preprocessing topic."
+      },
+      "text_blob": "umi 总和 vs 非零基因数：ncount_rna 与 nfeature_rna 的 qc 逻辑全解析 qc and preprocessing explains the core idea or mechanism behind a qc and preprocessing topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "qc and preprocessing",
+      "title_lower": "umi 总和 vs 非零基因数：ncount_rna 与 nfeature_rna 的 qc 逻辑全解析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "SoupX/DecontX背景RNA污染清除",
+      "date": "2025-09-16",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489945&idx=1&sn=023c6a6c3716c143c057da3ffbfd46cf&chksm=ce647770f913fe6697b7a5752717cbe906d7c8503229c4c7eb132af28747238c481855ab8791#rd",
+      "id": "2247489945_1",
+      "category": "QC And Preprocessing",
+      "summary": "Relevant qc and preprocessing entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "SoupX/DecontX背景RNA污染清除",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489945&idx=1&sn=023c6a6c3716c143c057da3ffbfd46cf&chksm=ce647770f913fe6697b7a5752717cbe906d7c8503229c4c7eb132af28747238c481855ab8791#rd",
+        "msgid": "2247489945",
+        "itemidx": "1",
+        "pos_num": "10",
+        "date": "2025-09-16",
+        "category_key": "qc-and-preprocessing",
+        "category_title": "QC And Preprocessing",
+        "brief": "Relevant qc and preprocessing entry kept from the curated album."
+      },
+      "text_blob": "soupx/decontx背景rna污染清除 qc and preprocessing relevant qc and preprocessing entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "qc and preprocessing",
+      "title_lower": "soupx/decontx背景rna污染清除"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "最好的单细胞教程 质控策略（QC）",
+      "date": "2025-09-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489934&idx=1&sn=87c4b214cd83f6ded7fec189d5248f0c&chksm=ce647767f913fe71075d46b7627a0d53ac2ed094a256f014c38ea3a1ca96fbe434702b53b9c4#rd",
+      "id": "2247489934_1",
+      "category": "QC And Preprocessing",
+      "summary": "Practical qc and preprocessing article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "最好的单细胞教程 质控策略（QC）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489934&idx=1&sn=87c4b214cd83f6ded7fec189d5248f0c&chksm=ce647767f913fe71075d46b7627a0d53ac2ed094a256f014c38ea3a1ca96fbe434702b53b9c4#rd",
+        "msgid": "2247489934",
+        "itemidx": "1",
+        "pos_num": "9",
+        "date": "2025-09-15",
+        "category_key": "qc-and-preprocessing",
+        "category_title": "QC And Preprocessing",
+        "brief": "Practical qc and preprocessing article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "最好的单细胞教程 质控策略（qc） qc and preprocessing practical qc and preprocessing article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "qc and preprocessing",
+      "title_lower": "最好的单细胞教程 质控策略（qc）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "单细胞测序数据分析标准流程详解",
+      "date": "2025-09-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489875&idx=1&sn=9784aada9c45f70cdcddd07ff7d7bd1f&chksm=ce6477baf913feacce31feb303c9fe574e782f74b06d89b13b3f2dc6246c722825a1065b565b#rd",
+      "id": "2247489875_1",
+      "category": "Workflow And Parameter Tuning",
+      "summary": "Relevant workflow and parameter tuning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞测序数据分析标准流程详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489875&idx=1&sn=9784aada9c45f70cdcddd07ff7d7bd1f&chksm=ce6477baf913feacce31feb303c9fe574e782f74b06d89b13b3f2dc6246c722825a1065b565b#rd",
+        "msgid": "2247489875",
+        "itemidx": "1",
+        "pos_num": "8",
+        "date": "2025-09-14",
+        "category_key": "workflow-and-parameters",
+        "category_title": "Workflow And Parameter Tuning",
+        "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+      },
+      "text_blob": "单细胞测序数据分析标准流程详解 workflow and parameter tuning relevant workflow and parameter tuning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "workflow and parameter tuning",
+      "title_lower": "单细胞测序数据分析标准流程详解"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "单细胞测序并不一定需要去除批次效应",
+      "date": "2023-12-04",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484720&idx=1&sn=4445c7566122d248aa161dcf54960e96&chksm=ce646bd9f913e2cf5553cace507297845201f2d05265227cf3ddf6ae47029c37908da989db2c#rd",
+      "id": "2247484720_1",
+      "category": "Workflow And Parameter Tuning",
+      "summary": "Relevant workflow and parameter tuning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞测序并不一定需要去除批次效应",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484720&idx=1&sn=4445c7566122d248aa161dcf54960e96&chksm=ce646bd9f913e2cf5553cace507297845201f2d05265227cf3ddf6ae47029c37908da989db2c#rd",
+        "msgid": "2247484720",
+        "itemidx": "1",
+        "pos_num": "7",
+        "date": "2023-12-04",
+        "category_key": "workflow-and-parameters",
+        "category_title": "Workflow And Parameter Tuning",
+        "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+      },
+      "text_blob": "单细胞测序并不一定需要去除批次效应 workflow and parameter tuning relevant workflow and parameter tuning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "workflow and parameter tuning",
+      "title_lower": "单细胞测序并不一定需要去除批次效应"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "Seurat读取不同数据格式以创建Seurat单细胞对象",
+      "date": "2023-11-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484537&idx=2&sn=edec540d48d99a1697d622a9c8cdad82&chksm=ce646a90f913e38660a2ae4090edbbcb0ed4b2eee12ad462c0a7cc96322d7547d9c68b6a9a18#rd",
+      "id": "2247484537_2",
+      "category": "Workflow And Parameter Tuning",
+      "summary": "Relevant workflow and parameter tuning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "Seurat读取不同数据格式以创建Seurat单细胞对象",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484537&idx=2&sn=edec540d48d99a1697d622a9c8cdad82&chksm=ce646a90f913e38660a2ae4090edbbcb0ed4b2eee12ad462c0a7cc96322d7547d9c68b6a9a18#rd",
+        "msgid": "2247484537",
+        "itemidx": "2",
+        "pos_num": "6",
+        "date": "2023-11-28",
+        "category_key": "workflow-and-parameters",
+        "category_title": "Workflow And Parameter Tuning",
+        "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+      },
+      "text_blob": "seurat读取不同数据格式以创建seurat单细胞对象 workflow and parameter tuning relevant workflow and parameter tuning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "workflow and parameter tuning",
+      "title_lower": "seurat读取不同数据格式以创建seurat单细胞对象"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "infercnv 三回首：深入理解infercnv为何能发nature",
+      "date": "2023-11-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484275&idx=1&sn=b90267ee1c6c733edce71dc817e217ab&chksm=ce646d9af913e48c7023677dbc3f8799450af35eb04674b37d0c86bd31cd68f50c3dfebc2387#rd",
+      "id": "2247484275_1",
+      "category": "QC And Preprocessing",
+      "summary": "Relevant qc and preprocessing entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "infercnv 三回首：深入理解infercnv为何能发nature",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484275&idx=1&sn=b90267ee1c6c733edce71dc817e217ab&chksm=ce646d9af913e48c7023677dbc3f8799450af35eb04674b37d0c86bd31cd68f50c3dfebc2387#rd",
+        "msgid": "2247484275",
+        "itemidx": "1",
+        "pos_num": "5",
+        "date": "2023-11-18",
+        "category_key": "qc-and-preprocessing",
+        "category_title": "QC And Preprocessing",
+        "brief": "Relevant qc and preprocessing entry kept from the curated album."
+      },
+      "text_blob": "infercnv 三回首：深入理解infercnv为何能发nature qc and preprocessing relevant qc and preprocessing entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "qc and preprocessing",
+      "title_lower": "infercnv 三回首：深入理解infercnv为何能发nature"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "infercnv官方全流程",
+      "date": "2023-11-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484275&idx=2&sn=3dbbb6b11b30ffc519de98181a1163b9&chksm=ce646d9af913e48ccbde8d9683d3ba80907d023b167d45304415ee6416e1e446e2be243c89d4#rd",
+      "id": "2247484275_2",
+      "category": "QC And Preprocessing",
+      "summary": "Relevant qc and preprocessing entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "infercnv官方全流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484275&idx=2&sn=3dbbb6b11b30ffc519de98181a1163b9&chksm=ce646d9af913e48ccbde8d9683d3ba80907d023b167d45304415ee6416e1e446e2be243c89d4#rd",
+        "msgid": "2247484275",
+        "itemidx": "2",
+        "pos_num": "4",
+        "date": "2023-11-18",
+        "category_key": "qc-and-preprocessing",
+        "category_title": "QC And Preprocessing",
+        "brief": "Relevant qc and preprocessing entry kept from the curated album."
+      },
+      "text_blob": "infercnv官方全流程 qc and preprocessing relevant qc and preprocessing entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "qc and preprocessing",
+      "title_lower": "infercnv官方全流程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "infercnv官方全流程",
+      "date": "2023-10-26",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484117&idx=1&sn=e2ca8bd3865fec13cc46a5f0fad98fd4&chksm=ce646c3cf913e52ace25173ff84f1dd5137d0122b07d1931b8f9d7d6d1d96e192a3bcbf6a307#rd",
+      "id": "2247484117_1",
+      "category": "QC And Preprocessing",
+      "summary": "Relevant qc and preprocessing entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "infercnv官方全流程",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484117&idx=1&sn=e2ca8bd3865fec13cc46a5f0fad98fd4&chksm=ce646c3cf913e52ace25173ff84f1dd5137d0122b07d1931b8f9d7d6d1d96e192a3bcbf6a307#rd",
+        "msgid": "2247484117",
+        "itemidx": "1",
+        "pos_num": "3",
+        "date": "2023-10-26",
+        "category_key": "qc-and-preprocessing",
+        "category_title": "QC And Preprocessing",
+        "brief": "Relevant qc and preprocessing entry kept from the curated album."
+      },
+      "text_blob": "infercnv官方全流程 qc and preprocessing relevant qc and preprocessing entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "qc and preprocessing",
+      "title_lower": "infercnv官方全流程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "单细胞聚类，究竟聚类聚成多少类比较合适？全代码分享",
+      "date": "2023-10-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484048&idx=1&sn=1605b2b25216b8f61bc3980dda5405e2&chksm=ce646c79f913e56ffce94fed4cb7269f24f33f56923459e3494e69a294e7d7a547f5b4fdbd98#rd",
+      "id": "2247484048_1",
+      "category": "Workflow And Parameter Tuning",
+      "summary": "Relevant workflow and parameter tuning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞聚类，究竟聚类聚成多少类比较合适？全代码分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484048&idx=1&sn=1605b2b25216b8f61bc3980dda5405e2&chksm=ce646c79f913e56ffce94fed4cb7269f24f33f56923459e3494e69a294e7d7a547f5b4fdbd98#rd",
+        "msgid": "2247484048",
+        "itemidx": "1",
+        "pos_num": "2",
+        "date": "2023-10-25",
+        "category_key": "workflow-and-parameters",
+        "category_title": "Workflow And Parameter Tuning",
+        "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+      },
+      "text_blob": "单细胞聚类，究竟聚类聚成多少类比较合适？全代码分享 workflow and parameter tuning relevant workflow and parameter tuning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "workflow and parameter tuning",
+      "title_lower": "单细胞聚类，究竟聚类聚成多少类比较合适？全代码分享"
+    },
+    {
+      "source_skill": "opencli-weixin-album-monthly-single-cell",
+      "source_name": "生信小博士 / 月更—单细胞",
+      "platform": "weixin",
+      "title": "单细胞cellchat细胞通讯-完整代码分享",
+      "date": "2023-10-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484030&idx=1&sn=67fafba59fb2c696a228625e3fe66de5&chksm=ce646c97f913e581791f411376dbaca094fb145f5daa3f9e22fd4e7e749f1dd01f62dcfe8d30#rd",
+      "id": "2247484030_1",
+      "category": "Workflow And Parameter Tuning",
+      "summary": "Relevant workflow and parameter tuning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞cellchat细胞通讯-完整代码分享",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484030&idx=1&sn=67fafba59fb2c696a228625e3fe66de5&chksm=ce646c97f913e581791f411376dbaca094fb145f5daa3f9e22fd4e7e749f1dd01f62dcfe8d30#rd",
+        "msgid": "2247484030",
+        "itemidx": "1",
+        "pos_num": "1",
+        "date": "2023-10-24",
+        "category_key": "workflow-and-parameters",
+        "category_title": "Workflow And Parameter Tuning",
+        "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+      },
+      "text_blob": "单细胞cellchat细胞通讯-完整代码分享 workflow and parameter tuning relevant workflow and parameter tuning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-monthly-single-cell",
+      "category_lower": "workflow and parameter tuning",
+      "title_lower": "单细胞cellchat细胞通讯-完整代码分享"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞转录组的质控降维聚类分群和注释哪个步骤最关键",
+      "date": "2021-04-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501236&idx=3&sn=8f4ba646596e824d08a03c64c6d7774a&chksm=9b4b850fac3c0c19164c634d023133e375c1273a2c1390b96c66609f5ba46e40ff394a47c626#rd",
+      "id": "2247501236_3",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞转录组的质控降维聚类分群和注释哪个步骤最关键",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501236&idx=3&sn=8f4ba646596e824d08a03c64c6d7774a&chksm=9b4b850fac3c0c19164c634d023133e375c1273a2c1390b96c66609f5ba46e40ff394a47c626#rd",
+        "msgid": "2247501236",
+        "itemidx": "3",
+        "pos_num": "98",
+        "date": "2021-04-15",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞转录组的质控降维聚类分群和注释哪个步骤最关键 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞转录组的质控降维聚类分群和注释哪个步骤最关键"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "12.R语言绘图-par()绘图参数详解",
+      "date": "2025-06-09",
+      "url": "https://www.bilibili.com/video/BV1G97qzXESb",
+      "id": "BV1G97qzXESb",
+      "category": "R语言与可视化",
+      "summary": "解释 par() 控制画布布局和绘图全局参数。",
+      "tags": [
+        "R",
+        "plot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "plot"
+        ],
+        "title": "12.R语言绘图-par()绘图参数详解",
+        "date": "2025-06-09",
+        "plays": 241,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1G97qzXESb",
+        "bvid": "BV1G97qzXESb",
+        "content_summary": "解释 par() 控制画布布局和绘图全局参数。"
+      },
+      "text_blob": "12.r语言绘图-par()绘图参数详解 r语言与可视化 解释 par() 控制画布布局和绘图全局参数。 r plot",
+      "tags_lower": [
+        "plot",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "12.r语言绘图-par()绘图参数详解"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "11.R语言绘图点线图-plot绘图参数详解",
+      "date": "2025-06-06",
+      "url": "https://www.bilibili.com/video/BV15S7qzxESe",
+      "id": "BV15S7qzxESe",
+      "category": "R语言与可视化",
+      "summary": "讲基础 plot 点线图及核心参数设置。",
+      "tags": [
+        "R",
+        "plot"
+      ],
+      "extra": {
+        "bucket": "R语言与可视化",
+        "tags": [
+          "R",
+          "plot"
+        ],
+        "title": "11.R语言绘图点线图-plot绘图参数详解",
+        "date": "2025-06-06",
+        "plays": 305,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV15S7qzxESe",
+        "bvid": "BV15S7qzxESe",
+        "content_summary": "讲基础 plot 点线图及核心参数设置。"
+      },
+      "text_blob": "11.r语言绘图点线图-plot绘图参数详解 r语言与可视化 讲基础 plot 点线图及核心参数设置。 r plot",
+      "tags_lower": [
+        "plot",
+        "r"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "r语言与可视化",
+      "title_lower": "11.r语言绘图点线图-plot绘图参数详解"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "18 Signac单细胞ATAC-seq质控、峰分析与多组学整合",
+      "date": "2026-05-25",
+      "url": "https://www.bilibili.com/video/BV1HPL76tEFz",
+      "id": "BV1HPL76tEFz",
+      "category": "空间与多组学",
+      "summary": "重点讲Signac单细胞ATAC-seq质控、峰分析与多组学整合。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "18 Signac单细胞ATAC-seq质控、峰分析与多组学整合",
+        "date": "2026-05-25",
+        "plays": 114,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1HPL76tEFz",
+        "bvid": "BV1HPL76tEFz",
+        "category": "空间与多组学",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲Signac单细胞ATAC-seq质控、峰分析与多组学整合。"
+      },
+      "text_blob": "18 signac单细胞atac-seq质控、峰分析与多组学整合 空间与多组学 重点讲signac单细胞atac-seq质控、峰分析与多组学整合。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "空间与多组学",
+      "title_lower": "18 signac单细胞atac-seq质控、峰分析与多组学整合"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "14 Scanpy 3k PBMC预处理、质控与聚类分析",
+      "date": "2026-05-21",
+      "url": "https://www.bilibili.com/video/BV1JML76RE38",
+      "id": "BV1JML76RE38",
+      "category": "单细胞基础",
+      "summary": "重点讲Scanpy 3k PBMC预处理、质控与聚类分析。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "14 Scanpy 3k PBMC预处理、质控与聚类分析",
+        "date": "2026-05-21",
+        "plays": 84,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1JML76RE38",
+        "bvid": "BV1JML76RE38",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲Scanpy 3k PBMC预处理、质控与聚类分析。"
+      },
+      "text_blob": "14 scanpy 3k pbmc预处理、质控与聚类分析 单细胞基础 重点讲scanpy 3k pbmc预处理、质控与聚类分析。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "14 scanpy 3k pbmc预处理、质控与聚类分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "07 DoubletFinder去双细胞与结直肠癌单细胞案例",
+      "date": "2026-05-12",
+      "url": "https://www.bilibili.com/video/BV15kRsBAENL",
+      "id": "BV15kRsBAENL",
+      "category": "单细胞基础",
+      "summary": "偏案例驱动，重点是DoubletFinder去双细胞与结直肠癌单细胞案例。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "07 DoubletFinder去双细胞与结直肠癌单细胞案例",
+        "date": "2026-05-12",
+        "plays": 103,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV15kRsBAENL",
+        "bvid": "BV15kRsBAENL",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "偏案例驱动，重点是DoubletFinder去双细胞与结直肠癌单细胞案例。"
+      },
+      "text_blob": "07 doubletfinder去双细胞与结直肠癌单细胞案例 单细胞基础 偏案例驱动，重点是doubletfinder去双细胞与结直肠癌单细胞案例。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "07 doubletfinder去双细胞与结直肠癌单细胞案例"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "04 单细胞质控过滤、去双细胞与PCA降",
+      "date": "2026-05-09",
+      "url": "https://www.bilibili.com/video/BV1v6RsBeEbr",
+      "id": "BV1v6RsBeEbr",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞质控过滤、去双细胞与PCA降。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "04 单细胞质控过滤、去双细胞与PCA降",
+        "date": "2026-05-09",
+        "plays": 120,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1v6RsBeEbr",
+        "bvid": "BV1v6RsBeEbr",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲单细胞质控过滤、去双细胞与PCA降。"
+      },
+      "text_blob": "04 单细胞质控过滤、去双细胞与pca降 单细胞基础 重点讲单细胞质控过滤、去双细胞与pca降。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "04 单细胞质控过滤、去双细胞与pca降"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "03 单细胞数据结构、Cell Ranger报告与10x测序质控解读",
+      "date": "2026-05-08",
+      "url": "https://www.bilibili.com/video/BV13mRsBfE8F",
+      "id": "BV13mRsBfE8F",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞数据结构、Cell Ranger报告与10x测序质控解读。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "03 单细胞数据结构、Cell Ranger报告与10x测序质控解读",
+        "date": "2026-05-08",
+        "plays": 163,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV13mRsBfE8F",
+        "bvid": "BV13mRsBfE8F",
+        "category": "单细胞基础",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲单细胞数据结构、Cell Ranger报告与10x测序质控解读。"
+      },
+      "text_blob": "03 单细胞数据结构、cell ranger报告与10x测序质控解读 单细胞基础 重点讲单细胞数据结构、cell ranger报告与10x测序质控解读。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "03 单细胞数据结构、cell ranger报告与10x测序质控解读"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "9.单细胞数据读取与质控)",
+      "date": "2026-04-19",
+      "url": "https://www.bilibili.com/video/BV1owdvBPEEx",
+      "id": "BV1owdvBPEEx",
+      "category": "单细胞基础",
+      "summary": "重点讲单细胞数据读取与质控)。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "9.单细胞数据读取与质控)",
+        "date": "2026-04-19",
+        "plays": 285,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1owdvBPEEx",
+        "bvid": "BV1owdvBPEEx",
+        "category": "单细胞基础",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲单细胞数据读取与质控)。"
+      },
+      "text_blob": "9.单细胞数据读取与质控) 单细胞基础 重点讲单细胞数据读取与质控)。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞基础",
+      "title_lower": "9.单细胞数据读取与质控)"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "Nature复现：QC、UMAP 和空间图一步一步跑通（实操继续）",
+      "date": "2026-03-31",
+      "url": "https://www.bilibili.com/video/BV1HEXkBREXT",
+      "id": "BV1HEXkBREXT",
+      "category": "Nature复现与科研复盘",
+      "summary": "围绕顶刊复现，重点是QC、UMAP 和空间图一步一步跑通（实操继续）。",
+      "tags": [
+        "2026-03 Nature复现短课"
+      ],
+      "extra": {
+        "title": "Nature复现：QC、UMAP 和空间图一步一步跑通（实操继续）",
+        "date": "2026-03-31",
+        "plays": 146,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1HEXkBREXT",
+        "bvid": "BV1HEXkBREXT",
+        "category": "Nature复现与科研复盘",
+        "series": "2026-03 Nature复现短课",
+        "focus": "围绕顶刊复现，重点是QC、UMAP 和空间图一步一步跑通（实操继续）。"
+      },
+      "text_blob": "nature复现：qc、umap 和空间图一步一步跑通（实操继续） nature复现与科研复盘 围绕顶刊复现，重点是qc、umap 和空间图一步一步跑通（实操继续）。 2026-03 nature复现短课",
+      "tags_lower": [
+        "2026-03 nature复现短课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "nature复现与科研复盘",
+      "title_lower": "nature复现：qc、umap 和空间图一步一步跑通（实操继续）"
+    }
+  ]
+}

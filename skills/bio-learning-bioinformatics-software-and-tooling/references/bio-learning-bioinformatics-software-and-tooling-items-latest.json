@@ -1,0 +1,2042 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-bioinformatics-software-and-tooling",
+  "focus": "bioinformatics software, tooling, and practical walkthroughs",
+  "count": 66,
+  "items": [
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "221204生信技能：从纯生信到R语言，再谈三步走学习策略",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1kPxKzNEqR",
+      "id": "BV1kPxKzNEqR",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "纯生信",
+        "生信技能"
+      ],
+      "extra": {
+        "title": "221204生信技能：从纯生信到R语言，再谈三步走学习策略",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1kPxKzNEqR",
+        "bvid": "BV1kPxKzNEqR",
+        "plays": 513,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "纯生信",
+          "生信技能"
+        ]
+      },
+      "text_blob": "221204生信技能：从纯生信到r语言，再谈三步走学习策略 bioinformatics strategy and practice  纯生信 生信技能",
+      "tags_lower": [
+        "生信技能",
+        "纯生信"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "221204生信技能：从纯生信到r语言，再谈三步走学习策略"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "230327：纯生信数据探究，当不同数据库的结果不一致怎么办？",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1TdxNzrEMb",
+      "id": "BV1TdxNzrEMb",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "纯生信"
+      ],
+      "extra": {
+        "title": "230327：纯生信数据探究，当不同数据库的结果不一致怎么办？",
+        "date": "2025-10-26",
+        "url": "https://www.bilibili.com/video/BV1TdxNzrEMb",
+        "bvid": "BV1TdxNzrEMb",
+        "plays": 212,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "纯生信"
+        ]
+      },
+      "text_blob": "230327：纯生信数据探究，当不同数据库的结果不一致怎么办？ bioinformatics strategy and practice  纯生信",
+      "tags_lower": [
+        "纯生信"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "230327：纯生信数据探究，当不同数据库的结果不一致怎么办？"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "231210：如何开展单细胞数据挖掘&TISH数据库使用（21天教程）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1qosRzFEWf",
+      "id": "BV1qosRzFEWf",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "数据挖掘"
+      ],
+      "extra": {
+        "title": "231210：如何开展单细胞数据挖掘&TISH数据库使用（21天教程）",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1qosRzFEWf",
+        "bvid": "BV1qosRzFEWf",
+        "plays": 272,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "数据挖掘"
+        ]
+      },
+      "text_blob": "231210：如何开展单细胞数据挖掘&tish数据库使用（21天教程） bioinformatics strategy and practice  数据挖掘",
+      "tags_lower": [
+        "数据挖掘"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "231210：如何开展单细胞数据挖掘&tish数据库使用（21天教程）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "240324生信实战：cBioportal和ChIP Atlas数据库实操",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1KJsdz5EGR",
+      "id": "BV1KJsdz5EGR",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "生信实战"
+      ],
+      "extra": {
+        "title": "240324生信实战：cBioportal和ChIP Atlas数据库实操",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1KJsdz5EGR",
+        "bvid": "BV1KJsdz5EGR",
+        "plays": 636,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "生信实战"
+        ]
+      },
+      "text_blob": "240324生信实战：cbioportal和chip atlas数据库实操 bioinformatics strategy and practice  生信实战",
+      "tags_lower": [
+        "生信实战"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "240324生信实战：cbioportal和chip atlas数据库实操"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0825单细胞数据挖掘的第三条路径？！",
+      "date": "2025-06-04",
+      "url": "https://www.bilibili.com/video/BV1987izJEYX",
+      "id": "BV1987izJEYX",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "数据挖掘"
+      ],
+      "extra": {
+        "title": "0825单细胞数据挖掘的第三条路径？！",
+        "date": "2025-06-04",
+        "url": "https://www.bilibili.com/video/BV1987izJEYX",
+        "bvid": "BV1987izJEYX",
+        "plays": 989,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "数据挖掘"
+        ]
+      },
+      "text_blob": "0825单细胞数据挖掘的第三条路径？！ bioinformatics strategy and practice  数据挖掘",
+      "tags_lower": [
+        "数据挖掘"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "0825单细胞数据挖掘的第三条路径？！"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0223思路分享：单细胞数据挖掘的一般思路",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1tC7mzgELx",
+      "id": "BV1tC7mzgELx",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "数据挖掘"
+      ],
+      "extra": {
+        "title": "0223思路分享：单细胞数据挖掘的一般思路",
+        "date": "2025-06-02",
+        "url": "https://www.bilibili.com/video/BV1tC7mzgELx",
+        "bvid": "BV1tC7mzgELx",
+        "plays": 1325,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "数据挖掘"
+        ]
+      },
+      "text_blob": "0223思路分享：单细胞数据挖掘的一般思路 bioinformatics strategy and practice  数据挖掘",
+      "tags_lower": [
+        "数据挖掘"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "0223思路分享：单细胞数据挖掘的一般思路"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "0223：生信实战：单细胞数据实战分享（GSE157783）",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1Ts7UzGEH1",
+      "id": "BV1Ts7UzGEH1",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "生信实战"
+      ],
+      "extra": {
+        "title": "0223：生信实战：单细胞数据实战分享（GSE157783）",
+        "date": "2025-06-02",
+        "url": "https://www.bilibili.com/video/BV1Ts7UzGEH1",
+        "bvid": "BV1Ts7UzGEH1",
+        "plays": 2361,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "生信实战"
+        ]
+      },
+      "text_blob": "0223：生信实战：单细胞数据实战分享（gse157783） bioinformatics strategy and practice  生信实战",
+      "tags_lower": [
+        "生信实战"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "0223：生信实战：单细胞数据实战分享（gse157783）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "思路分享：单细胞数据挖掘的一般思路",
+      "date": "2025-02-23",
+      "url": "https://www.bilibili.com/video/BV1FCASeBEPg",
+      "id": "BV1FCASeBEPg",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "数据挖掘"
+      ],
+      "extra": {
+        "title": "思路分享：单细胞数据挖掘的一般思路",
+        "date": "2025-02-23",
+        "url": "https://www.bilibili.com/video/BV1FCASeBEPg",
+        "bvid": "BV1FCASeBEPg",
+        "plays": 9564,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "数据挖掘"
+        ]
+      },
+      "text_blob": "思路分享：单细胞数据挖掘的一般思路 bioinformatics strategy and practice  数据挖掘",
+      "tags_lower": [
+        "数据挖掘"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "思路分享：单细胞数据挖掘的一般思路"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "生信实战：单细胞数据实战分享（GSE157783）",
+      "date": "2025-02-23",
+      "url": "https://www.bilibili.com/video/BV1T3ADeJEcV",
+      "id": "BV1T3ADeJEcV",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "生信实战"
+      ],
+      "extra": {
+        "title": "生信实战：单细胞数据实战分享（GSE157783）",
+        "date": "2025-02-23",
+        "url": "https://www.bilibili.com/video/BV1T3ADeJEcV",
+        "bvid": "BV1T3ADeJEcV",
+        "plays": 14801,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "生信实战"
+        ]
+      },
+      "text_blob": "生信实战：单细胞数据实战分享（gse157783） bioinformatics strategy and practice  生信实战",
+      "tags_lower": [
+        "生信实战"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "生信实战：单细胞数据实战分享（gse157783）"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "纯生信01.常规生信套路",
+      "date": "2024-07-08",
+      "url": "https://www.bilibili.com/video/BV11H4y1w7PU",
+      "id": "BV11H4y1w7PU",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "纯生信"
+      ],
+      "extra": {
+        "title": "纯生信01.常规生信套路",
+        "date": "2024-07-08",
+        "url": "https://www.bilibili.com/video/BV11H4y1w7PU",
+        "bvid": "BV11H4y1w7PU",
+        "plays": 6529,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "纯生信"
+        ]
+      },
+      "text_blob": "纯生信01.常规生信套路 bioinformatics strategy and practice  纯生信",
+      "tags_lower": [
+        "纯生信"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "纯生信01.常规生信套路"
+    },
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "生信在线分析教程",
+      "date": "2024-04-24",
+      "url": "https://www.bilibili.com/video/BV1zD421J73K",
+      "id": "BV1zD421J73K",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "生信在线"
+      ],
+      "extra": {
+        "title": "生信在线分析教程",
+        "date": "2024-04-24",
+        "url": "https://www.bilibili.com/video/BV1zD421J73K",
+        "bvid": "BV1zD421J73K",
+        "plays": 4099,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "生信在线"
+        ]
+      },
+      "text_blob": "生信在线分析教程 bioinformatics strategy and practice  生信在线",
+      "tags_lower": [
+        "生信在线"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "生信在线分析教程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "DrugReflector 实操：手把手教你搭建药物筛选 pipeline",
+      "date": "2026-05-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247498743&idx=1&sn=00fbc55c285ac4e09dc3a8abd58ae407&chksm=eb974c89dce0c59ff2be03edba159d244380c5327a4d327cb2267ce57ee5af35fc4d6e4a36fd#rd",
+      "id": "2247498743_1",
+      "category": "Drug Discovery And Screening Tools",
+      "summary": "Relevant drug discovery and screening tools entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "DrugReflector 实操：手把手教你搭建药物筛选 pipeline",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247498743&idx=1&sn=00fbc55c285ac4e09dc3a8abd58ae407&chksm=eb974c89dce0c59ff2be03edba159d244380c5327a4d327cb2267ce57ee5af35fc4d6e4a36fd#rd",
+        "msgid": "2247498743",
+        "itemidx": "1",
+        "pos_num": "165",
+        "date": "2026-05-18",
+        "category_key": "drug-and-screening",
+        "category_title": "Drug Discovery And Screening Tools",
+        "brief": "Relevant drug discovery and screening tools entry kept from the curated album."
+      },
+      "text_blob": "drugreflector 实操：手把手教你搭建药物筛选 pipeline drug discovery and screening tools relevant drug discovery and screening tools entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "drug discovery and screening tools",
+      "title_lower": "drugreflector 实操：手把手教你搭建药物筛选 pipeline"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "DrugReflector：主动学习遇上表型筛选，Science 揭示药物发现的“自我进化”之路",
+      "date": "2026-05-11",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247498718&idx=1&sn=19acd059062ed7537c397dd87dbfa892&chksm=eb974ca0dce0c5b644c72ba85c8fc493db80e57a603788c3a129aef221b53b9e0e559e781863#rd",
+      "id": "2247498718_1",
+      "category": "Drug Discovery And Screening Tools",
+      "summary": "Relevant drug discovery and screening tools entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "DrugReflector：主动学习遇上表型筛选，Science 揭示药物发现的“自我进化”之路",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247498718&idx=1&sn=19acd059062ed7537c397dd87dbfa892&chksm=eb974ca0dce0c5b644c72ba85c8fc493db80e57a603788c3a129aef221b53b9e0e559e781863#rd",
+        "msgid": "2247498718",
+        "itemidx": "1",
+        "pos_num": "164",
+        "date": "2026-05-11",
+        "category_key": "drug-and-screening",
+        "category_title": "Drug Discovery And Screening Tools",
+        "brief": "Relevant drug discovery and screening tools entry kept from the curated album."
+      },
+      "text_blob": "drugreflector：主动学习遇上表型筛选，science 揭示药物发现的“自我进化”之路 drug discovery and screening tools relevant drug discovery and screening tools entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "drug discovery and screening tools",
+      "title_lower": "drugreflector：主动学习遇上表型筛选，science 揭示药物发现的“自我进化”之路"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Nature Cancer: SMMILe算法原理介绍",
+      "date": "2026-02-02",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497379&idx=1&sn=d3017fcf2fef76257fc8412c7b3d2b67&chksm=eb9741dddce0c8cb5da6cd08fab234343c9f21e911b488b87bff7f9fc4579f8fa414bfcefd5c#rd",
+      "id": "2247497379_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "Nature Cancer: SMMILe算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497379&idx=1&sn=d3017fcf2fef76257fc8412c7b3d2b67&chksm=eb9741dddce0c8cb5da6cd08fab234343c9f21e911b488b87bff7f9fc4579f8fa414bfcefd5c#rd",
+        "msgid": "2247497379",
+        "itemidx": "1",
+        "pos_num": "155",
+        "date": "2026-02-02",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "nature cancer: smmile算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "nature cancer: smmile算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SMMILe软件教程",
+      "date": "2026-01-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497274&idx=1&sn=0b1625f0ecf8e3baf1b90de46b2ecea3&chksm=eb974144dce0c852f0656bb61f3faf0cc5c8dcd25c6463886c01cacae809079b0d39fae1b65a#rd",
+      "id": "2247497274_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SMMILe软件教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497274&idx=1&sn=0b1625f0ecf8e3baf1b90de46b2ecea3&chksm=eb974144dce0c852f0656bb61f3faf0cc5c8dcd25c6463886c01cacae809079b0d39fae1b65a#rd",
+        "msgid": "2247497274",
+        "itemidx": "1",
+        "pos_num": "154",
+        "date": "2026-01-23",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "smmile软件教程 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "smmile软件教程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "MISO算法原理",
+      "date": "2026-01-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497266&idx=1&sn=dae1306b306e918527578198e7fc84aa&chksm=eb97414cdce0c85adb12d75de4dfe4540cf38792600a77f244f71ae86a524875ba94581706b9#rd",
+      "id": "2247497266_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "MISO算法原理",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497266&idx=1&sn=dae1306b306e918527578198e7fc84aa&chksm=eb97414cdce0c85adb12d75de4dfe4540cf38792600a77f244f71ae86a524875ba94581706b9#rd",
+        "msgid": "2247497266",
+        "itemidx": "1",
+        "pos_num": "153",
+        "date": "2026-01-19",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "miso算法原理 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "miso算法原理"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "BayesPrism软件教程",
+      "date": "2025-12-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497003&idx=1&sn=bd1aa26ddf88ed7f580dcdc63f04fa21&chksm=eb974255dce0cb4373d6927c091d2771d160b23db96b4303548edb99a6b4b92a442907280803#rd",
+      "id": "2247497003_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "BayesPrism软件教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247497003&idx=1&sn=bd1aa26ddf88ed7f580dcdc63f04fa21&chksm=eb974255dce0cb4373d6927c091d2771d160b23db96b4303548edb99a6b4b92a442907280803#rd",
+        "msgid": "2247497003",
+        "itemidx": "1",
+        "pos_num": "151",
+        "date": "2025-12-05",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "bayesprism软件教程 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "bayesprism软件教程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "BayesPrism算法原理介绍",
+      "date": "2025-12-01",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247496967&idx=1&sn=1609fc3627943ca374b92e3e8d7706f2&chksm=eb974279dce0cb6f6e27b2863f25200e9abadfe442bb7d4058f05418708f9c01e76821d2b297#rd",
+      "id": "2247496967_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "BayesPrism算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247496967&idx=1&sn=1609fc3627943ca374b92e3e8d7706f2&chksm=eb974279dce0cb6f6e27b2863f25200e9abadfe442bb7d4058f05418708f9c01e76821d2b297#rd",
+        "msgid": "2247496967",
+        "itemidx": "1",
+        "pos_num": "150",
+        "date": "2025-12-01",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "bayesprism算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "bayesprism算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "MOVICS包入门级教程（三）",
+      "date": "2025-04-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247495216&idx=1&sn=1549ab35963cb17bf9f6f7ee32b69380&chksm=eb97594edce0d0588f3e794898bde83d6819ffc62ac555ab5b0e2101d9a365158bb00c2e94d5#rd",
+      "id": "2247495216_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "MOVICS包入门级教程（三）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247495216&idx=1&sn=1549ab35963cb17bf9f6f7ee32b69380&chksm=eb97594edce0d0588f3e794898bde83d6819ffc62ac555ab5b0e2101d9a365158bb00c2e94d5#rd",
+        "msgid": "2247495216",
+        "itemidx": "1",
+        "pos_num": "148",
+        "date": "2025-04-14",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "movics包入门级教程（三） method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "movics包入门级教程（三）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "MOVICS包入门级教程（二）",
+      "date": "2025-03-27",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494973&idx=1&sn=b55351a4ee276d63c0a614567b1fabee&chksm=eb975a43dce0d35539de62beb7ac1c6815c23936f993868201d6718aaa7e3a0422825a9c1cbf#rd",
+      "id": "2247494973_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "MOVICS包入门级教程（二）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494973&idx=1&sn=b55351a4ee276d63c0a614567b1fabee&chksm=eb975a43dce0d35539de62beb7ac1c6815c23936f993868201d6718aaa7e3a0422825a9c1cbf#rd",
+        "msgid": "2247494973",
+        "itemidx": "1",
+        "pos_num": "147",
+        "date": "2025-03-27",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "movics包入门级教程（二） method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "movics包入门级教程（二）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "MOVICS包入门级教程（一）",
+      "date": "2025-03-20",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494627&idx=1&sn=89ebf719e26a3ab785df78df306e9910&chksm=eb975c9ddce0d58b8375feb644cf14da7684e29ade49b91d5126845a84d9485184a8a73a5dc3#rd",
+      "id": "2247494627_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "MOVICS包入门级教程（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494627&idx=1&sn=89ebf719e26a3ab785df78df306e9910&chksm=eb975c9ddce0d58b8375feb644cf14da7684e29ade49b91d5126845a84d9485184a8a73a5dc3#rd",
+        "msgid": "2247494627",
+        "itemidx": "1",
+        "pos_num": "146",
+        "date": "2025-03-20",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "movics包入门级教程（一） method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "movics包入门级教程（一）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic软件教程第六期：空间扩展",
+      "date": "2025-01-03",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494244&idx=1&sn=6f8a16bc57abb064a01485a7674f6d0c&chksm=eb975d1adce0d40ce361035ccefa339fac207cb33b1ba6f6666c332f05c2468d1415c1aa704b#rd",
+      "id": "2247494244_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic软件教程第六期：空间扩展",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494244&idx=1&sn=6f8a16bc57abb064a01485a7674f6d0c&chksm=eb975d1adce0d40ce361035ccefa339fac207cb33b1ba6f6666c332f05c2468d1415c1aa704b#rd",
+        "msgid": "2247494244",
+        "itemidx": "1",
+        "pos_num": "145",
+        "date": "2025-01-03",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spatopic软件教程第六期：空间扩展 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic软件教程第六期：空间扩展"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic软件教程第四期：Meta分析",
+      "date": "2024-12-30",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494205&idx=1&sn=d4baa25033cdace8be0f4f8264d1d8e2&chksm=eb975d43dce0d45583a4795e4ee392e49fd93efcc3be839e1d14257dc9a534128beb92f9e59f#rd",
+      "id": "2247494205_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic软件教程第四期：Meta分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494205&idx=1&sn=d4baa25033cdace8be0f4f8264d1d8e2&chksm=eb975d43dce0d45583a4795e4ee392e49fd93efcc3be839e1d14257dc9a534128beb92f9e59f#rd",
+        "msgid": "2247494205",
+        "itemidx": "1",
+        "pos_num": "143",
+        "date": "2024-12-30",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spatopic软件教程第四期：meta分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic软件教程第四期：meta分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic软件教程第三期：实例分析",
+      "date": "2024-12-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494193&idx=1&sn=534f81721bc76d92f2765c94ed8a7f86&chksm=eb975d4fdce0d45984464965b188278a951317bad7da35a70039c33c3c650f6e3b3a8c1ebbef#rd",
+      "id": "2247494193_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic软件教程第三期：实例分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494193&idx=1&sn=534f81721bc76d92f2765c94ed8a7f86&chksm=eb975d4fdce0d45984464965b188278a951317bad7da35a70039c33c3c650f6e3b3a8c1ebbef#rd",
+        "msgid": "2247494193",
+        "itemidx": "1",
+        "pos_num": "142",
+        "date": "2024-12-28",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spatopic软件教程第三期：实例分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic软件教程第三期：实例分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic软件教程第二期：函数解读",
+      "date": "2024-12-25",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494151&idx=1&sn=a7c59a666c87cb5aab90db301a103e11&chksm=eb975d79dce0d46fa0807bd6af270334c57b679f6dc26dfcda0d8c99745b4d15b7ded73ec4fa#rd",
+      "id": "2247494151_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic软件教程第二期：函数解读",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494151&idx=1&sn=a7c59a666c87cb5aab90db301a103e11&chksm=eb975d79dce0d46fa0807bd6af270334c57b679f6dc26dfcda0d8c99745b4d15b7ded73ec4fa#rd",
+        "msgid": "2247494151",
+        "itemidx": "1",
+        "pos_num": "141",
+        "date": "2024-12-25",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spatopic软件教程第二期：函数解读 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic软件教程第二期：函数解读"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic软件教程第一期：开箱初试",
+      "date": "2024-12-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494150&idx=1&sn=7e2ccec735b866b6e025cfdcde53e726&chksm=eb975d78dce0d46e89bd001d18b55ae3298f2fd28ebb3405716b6e9373c3e4bd89c2b09dc690#rd",
+      "id": "2247494150_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic软件教程第一期：开箱初试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494150&idx=1&sn=7e2ccec735b866b6e025cfdcde53e726&chksm=eb975d78dce0d46e89bd001d18b55ae3298f2fd28ebb3405716b6e9373c3e4bd89c2b09dc690#rd",
+        "msgid": "2247494150",
+        "itemidx": "1",
+        "pos_num": "140",
+        "date": "2024-12-23",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spatopic软件教程第一期：开箱初试 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic软件教程第一期：开箱初试"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic：算法原理介绍",
+      "date": "2024-12-23",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494150&idx=2&sn=9102fb6af127f42eeb27aa18a19d29ad&chksm=eb975d78dce0d46ef4d38219b881c63ebc83519615373ca458698a48519894fadb5123196770#rd",
+      "id": "2247494150_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic：算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247494150&idx=2&sn=9102fb6af127f42eeb27aa18a19d29ad&chksm=eb975d78dce0d46ef4d38219b881c63ebc83519615373ca458698a48519894fadb5123196770#rd",
+        "msgid": "2247494150",
+        "itemidx": "2",
+        "pos_num": "139",
+        "date": "2024-12-23",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "spatopic：算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic：算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaTopic：算法原理介绍",
+      "date": "2024-11-29",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247493749&idx=1&sn=7ffa5d5a550a9c705dccf1e373e87e33&chksm=eb975f0bdce0d61df198d33aefab03026c2e7916fe78f0358199abdc83800e34a3afb6388b25#rd",
+      "id": "2247493749_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "SpaTopic：算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247493749&idx=1&sn=7ffa5d5a550a9c705dccf1e373e87e33&chksm=eb975f0bdce0d61df198d33aefab03026c2e7916fe78f0358199abdc83800e34a3afb6388b25#rd",
+        "msgid": "2247493749",
+        "itemidx": "1",
+        "pos_num": "137",
+        "date": "2024-11-29",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "spatopic：算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spatopic：算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "突破传统：对比两款同名DeepVelo软件在计算RNA速率中的不同创新",
+      "date": "2024-10-28",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492807&idx=1&sn=8d42e803656321950d91efd0961ec4a2&chksm=eb9753b9dce0daaf656e0245829d4f05d705d73e472e27886ce61c6b247d636b9193436523a9#rd",
+      "id": "2247492807_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Relevant method and general software tutorials entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "突破传统：对比两款同名DeepVelo软件在计算RNA速率中的不同创新",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492807&idx=1&sn=8d42e803656321950d91efd0961ec4a2&chksm=eb9753b9dce0daaf656e0245829d4f05d705d73e472e27886ce61c6b247d636b9193436523a9#rd",
+        "msgid": "2247492807",
+        "itemidx": "1",
+        "pos_num": "135",
+        "date": "2024-10-28",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Relevant method and general software tutorials entry kept from the curated album."
+      },
+      "text_blob": "突破传统：对比两款同名deepvelo软件在计算rna速率中的不同创新 method and general software tutorials relevant method and general software tutorials entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "突破传统：对比两款同名deepvelo软件在计算rna速率中的不同创新"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Genome Biology | DeepVelo算法原理介绍",
+      "date": "2024-10-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492785&idx=1&sn=1f46c5593fe79d29775435eb3ca5caca&chksm=eb9753cfdce0dad96fa8e44b0ea3a7c01d237568322db0005683073a27f8fc5d6835f7be11df#rd",
+      "id": "2247492785_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "Genome Biology | DeepVelo算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492785&idx=1&sn=1f46c5593fe79d29775435eb3ca5caca&chksm=eb9753cfdce0dad96fa8e44b0ea3a7c01d237568322db0005683073a27f8fc5d6835f7be11df#rd",
+        "msgid": "2247492785",
+        "itemidx": "1",
+        "pos_num": "134",
+        "date": "2024-10-24",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "genome biology | deepvelo算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "genome biology | deepvelo算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "METAflux | 实操教程4-源码理解",
+      "date": "2024-10-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492741&idx=1&sn=39e9cf9e5b3de87b46bde44e75bb262c&chksm=eb9753fbdce0daed058c538367870a6321e0ae1949f7e70c648d1e9085ddb7444639d295baf6#rd",
+      "id": "2247492741_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "METAflux | 实操教程4-源码理解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492741&idx=1&sn=39e9cf9e5b3de87b46bde44e75bb262c&chksm=eb9753fbdce0daed058c538367870a6321e0ae1949f7e70c648d1e9085ddb7444639d295baf6#rd",
+        "msgid": "2247492741",
+        "itemidx": "1",
+        "pos_num": "132",
+        "date": "2024-10-18",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "metaflux | 实操教程4-源码理解 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "metaflux | 实操教程4-源码理解"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "METAflux | 实操教程1-简介和快速上手",
+      "date": "2024-10-18",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492741&idx=4&sn=3fc335e6f213f6bd7b70a3e1caaccadb&chksm=eb9753fbdce0daed13d3e47620408794b679ddb230bc91312ed26d53d4c6c935d827593624d2#rd",
+      "id": "2247492741_4",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "METAflux | 实操教程1-简介和快速上手",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492741&idx=4&sn=3fc335e6f213f6bd7b70a3e1caaccadb&chksm=eb9753fbdce0daed13d3e47620408794b679ddb230bc91312ed26d53d4c6c935d827593624d2#rd",
+        "msgid": "2247492741",
+        "itemidx": "4",
+        "pos_num": "129",
+        "date": "2024-10-18",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "metaflux | 实操教程1-简介和快速上手 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "metaflux | 实操教程1-简介和快速上手"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "METAflux | 实操教程1-简介和快速上手",
+      "date": "2024-10-14",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492678&idx=3&sn=b6d75ee7a925c06d06a5e7ea504ee5bc&chksm=eb975338dce0da2ecad64421cc8b912d60263015eed085c9df21169ec6ff78ab4e4aaf6ed6d1#rd",
+      "id": "2247492678_3",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "METAflux | 实操教程1-简介和快速上手",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492678&idx=3&sn=b6d75ee7a925c06d06a5e7ea504ee5bc&chksm=eb975338dce0da2ecad64421cc8b912d60263015eed085c9df21169ec6ff78ab4e4aaf6ed6d1#rd",
+        "msgid": "2247492678",
+        "itemidx": "3",
+        "pos_num": "125",
+        "date": "2024-10-14",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "metaflux | 实操教程1-简介和快速上手 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "metaflux | 实操教程1-简介和快速上手"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "METAflux | 实操教程1-简介和快速上手",
+      "date": "2024-10-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492657&idx=2&sn=863d5d248b10d4d44ab338e88f1fd257&chksm=eb97534fdce0da59f66b2bfd50ce25dbb078767ee33b0da4afeb5b06a0abf6f4d57aa78f2e64#rd",
+      "id": "2247492657_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "METAflux | 实操教程1-简介和快速上手",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492657&idx=2&sn=863d5d248b10d4d44ab338e88f1fd257&chksm=eb97534fdce0da59f66b2bfd50ce25dbb078767ee33b0da4afeb5b06a0abf6f4d57aa78f2e64#rd",
+        "msgid": "2247492657",
+        "itemidx": "2",
+        "pos_num": "122",
+        "date": "2024-10-10",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "metaflux | 实操教程1-简介和快速上手 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "metaflux | 实操教程1-简介和快速上手"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "METAflux | 实操教程1-简介和快速上手",
+      "date": "2024-10-08",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492549&idx=1&sn=6df4567190fbffefdaaabd0c729ccf66&chksm=eb9754bbdce0ddad6bc593f1adcaac1c253f72a6bdc29364cb20c1c522cf56cd5f8de92a37ef#rd",
+      "id": "2247492549_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "METAflux | 实操教程1-简介和快速上手",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492549&idx=1&sn=6df4567190fbffefdaaabd0c729ccf66&chksm=eb9754bbdce0ddad6bc593f1adcaac1c253f72a6bdc29364cb20c1c522cf56cd5f8de92a37ef#rd",
+        "msgid": "2247492549",
+        "itemidx": "1",
+        "pos_num": "120",
+        "date": "2024-10-08",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "metaflux | 实操教程1-简介和快速上手 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "metaflux | 实操教程1-简介和快速上手"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "实操教程 | DeepVelo：基于深度学习的RNA速率分析",
+      "date": "2024-09-11",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492305&idx=1&sn=d369fd39148ed7c9bd9aead3ffd5de4c&chksm=eb9755afdce0dcb94e67cbefebd4f93114264a5cf5d12853b737fe818174bd7cc390798af725#rd",
+      "id": "2247492305_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "实操教程 | DeepVelo：基于深度学习的RNA速率分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492305&idx=1&sn=d369fd39148ed7c9bd9aead3ffd5de4c&chksm=eb9755afdce0dcb94e67cbefebd4f93114264a5cf5d12853b737fe818174bd7cc390798af725#rd",
+        "msgid": "2247492305",
+        "itemidx": "1",
+        "pos_num": "116",
+        "date": "2024-09-11",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "实操教程 | deepvelo：基于深度学习的rna速率分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "实操教程 | deepvelo：基于深度学习的rna速率分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaCET：基于空转数据鉴定肿瘤功能区域 | 算法原理介绍",
+      "date": "2024-08-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492126&idx=1&sn=27ae999e75794d71f55b15ebcb21be4e&chksm=eb975560dce0dc762d26512975cc2a0c3a41d770d53c32ebca839a8b33152139284c6d0ec088#rd",
+      "id": "2247492126_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "SpaCET：基于空转数据鉴定肿瘤功能区域 | 算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492126&idx=1&sn=27ae999e75794d71f55b15ebcb21be4e&chksm=eb975560dce0dc762d26512975cc2a0c3a41d770d53c32ebca839a8b33152139284c6d0ec088#rd",
+        "msgid": "2247492126",
+        "itemidx": "1",
+        "pos_num": "113",
+        "date": "2024-08-09",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "spacet：基于空转数据鉴定肿瘤功能区域 | 算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spacet：基于空转数据鉴定肿瘤功能区域 | 算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaCET实操教程二 | 空转数据的反卷积与基因集评分分析",
+      "date": "2024-08-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492126&idx=2&sn=e77a7ecdb79b41ef16dd64d6195480ea&chksm=eb975560dce0dc76b791e0a6190f5ff12ba4376cbc8cf7bdb2577f6697aa6896e2afdd3ddedc#rd",
+      "id": "2247492126_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaCET实操教程二 | 空转数据的反卷积与基因集评分分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247492126&idx=2&sn=e77a7ecdb79b41ef16dd64d6195480ea&chksm=eb975560dce0dc76b791e0a6190f5ff12ba4376cbc8cf7bdb2577f6697aa6896e2afdd3ddedc#rd",
+        "msgid": "2247492126",
+        "itemidx": "2",
+        "pos_num": "112",
+        "date": "2024-08-09",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spacet实操教程二 | 空转数据的反卷积与基因集评分分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spacet实操教程二 | 空转数据的反卷积与基因集评分分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "SpaCET实操教程二 | 空转数据的反卷积与基因集评分分析",
+      "date": "2024-08-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491980&idx=1&sn=b764e4e59fb2a04f369525ef7f25fc15&chksm=eb9756f2dce0dfe459b0b9d73d13845535a5dc09fe7cceafda83e215f4d5f5cf9a0c7a826826#rd",
+      "id": "2247491980_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "SpaCET实操教程二 | 空转数据的反卷积与基因集评分分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491980&idx=1&sn=b764e4e59fb2a04f369525ef7f25fc15&chksm=eb9756f2dce0dfe459b0b9d73d13845535a5dc09fe7cceafda83e215f4d5f5cf9a0c7a826826#rd",
+        "msgid": "2247491980",
+        "itemidx": "1",
+        "pos_num": "109",
+        "date": "2024-08-06",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "spacet实操教程二 | 空转数据的反卷积与基因集评分分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "spacet实操教程二 | 空转数据的反卷积与基因集评分分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Cottrazm实操教程 | 识别空转数据中的肿瘤核心区域",
+      "date": "2024-06-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491418&idx=1&sn=a65746142bb90c9586d80ff8c2159177&chksm=eb94a824dce32132d7c8d39ace363d1bc93d8dd68c9ef45022dbdf8a18b988da54a34e6afe2f#rd",
+      "id": "2247491418_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "Cottrazm实操教程 | 识别空转数据中的肿瘤核心区域",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491418&idx=1&sn=a65746142bb90c9586d80ff8c2159177&chksm=eb94a824dce32132d7c8d39ace363d1bc93d8dd68c9ef45022dbdf8a18b988da54a34e6afe2f#rd",
+        "msgid": "2247491418",
+        "itemidx": "1",
+        "pos_num": "100",
+        "date": "2024-06-07",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "cottrazm实操教程 | 识别空转数据中的肿瘤核心区域 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cottrazm实操教程 | 识别空转数据中的肿瘤核心区域"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Cottrazm算法原理介绍",
+      "date": "2024-06-07",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491418&idx=2&sn=3586231815d8d5820340efe1904cc71e&chksm=eb94a824dce3213223f1792fdff1a2dfd6760bf09fd47d03e92c9741ff10b6166a6d3c7792c8#rd",
+      "id": "2247491418_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "Cottrazm算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491418&idx=2&sn=3586231815d8d5820340efe1904cc71e&chksm=eb94a824dce3213223f1792fdff1a2dfd6760bf09fd47d03e92c9741ff10b6166a6d3c7792c8#rd",
+        "msgid": "2247491418",
+        "itemidx": "2",
+        "pos_num": "99",
+        "date": "2024-06-07",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "cottrazm算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cottrazm算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Cottrazm算法原理介绍",
+      "date": "2024-06-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491311&idx=1&sn=d9b2dd927afc80c2f24b7e7a97ce67b5&chksm=eb94a991dce3208794275b3bf6e4d3d8cec996d790416c8b2f7cbeb35cec92edde17ad923bf8#rd",
+      "id": "2247491311_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "Cottrazm算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491311&idx=1&sn=d9b2dd927afc80c2f24b7e7a97ce67b5&chksm=eb94a991dce3208794275b3bf6e4d3d8cec996d790416c8b2f7cbeb35cec92edde17ad923bf8#rd",
+        "msgid": "2247491311",
+        "itemidx": "1",
+        "pos_num": "97",
+        "date": "2024-06-05",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "cottrazm算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cottrazm算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Cancer-finder软件教程",
+      "date": "2024-05-31",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491266&idx=1&sn=4b3bff6507a67c54f577d5dd5d2a528a&chksm=eb94a9bcdce320aa86fc5a0776ec574a60ae8d34d970c9d0cf14bc188c4b13f3c2c6f99a237a#rd",
+      "id": "2247491266_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "Cancer-finder软件教程",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491266&idx=1&sn=4b3bff6507a67c54f577d5dd5d2a528a&chksm=eb94a9bcdce320aa86fc5a0776ec574a60ae8d34d970c9d0cf14bc188c4b13f3c2c6f99a237a#rd",
+        "msgid": "2247491266",
+        "itemidx": "1",
+        "pos_num": "94",
+        "date": "2024-05-31",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "cancer-finder软件教程 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cancer-finder软件教程"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Cancer-Finder算法原理介绍",
+      "date": "2024-05-31",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491266&idx=2&sn=54b57c77b96a7ac9dd40e5e89597f8f9&chksm=eb94a9bcdce320aa920ba68cd57ba539d2dc912058059644700f5c2e1e06c5aed6ffbc2189cc#rd",
+      "id": "2247491266_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "Cancer-Finder算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491266&idx=2&sn=54b57c77b96a7ac9dd40e5e89597f8f9&chksm=eb94a9bcdce320aa920ba68cd57ba539d2dc912058059644700f5c2e1e06c5aed6ffbc2189cc#rd",
+        "msgid": "2247491266",
+        "itemidx": "2",
+        "pos_num": "93",
+        "date": "2024-05-31",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "cancer-finder算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cancer-finder算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "Cancer-Finder算法原理介绍",
+      "date": "2024-05-29",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491135&idx=1&sn=34ab8fc15ec2a866b7d05a051b035f9d&chksm=eb94a941dce32057b4074d4c96a32d6b023539634a908f2356d29c6d7229cccea197f5dc9d84#rd",
+      "id": "2247491135_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Explains the core idea or mechanism behind a method and general software tutorials topic.",
+      "tags": [],
+      "extra": {
+        "title": "Cancer-Finder算法原理介绍",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247491135&idx=1&sn=34ab8fc15ec2a866b7d05a051b035f9d&chksm=eb94a941dce32057b4074d4c96a32d6b023539634a908f2356d29c6d7229cccea197f5dc9d84#rd",
+        "msgid": "2247491135",
+        "itemidx": "1",
+        "pos_num": "91",
+        "date": "2024-05-29",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Explains the core idea or mechanism behind a method and general software tutorials topic."
+      },
+      "text_blob": "cancer-finder算法原理介绍 method and general software tutorials explains the core idea or mechanism behind a method and general software tutorials topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cancer-finder算法原理介绍"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "CytoTRACE v2 代码系列教程（一）",
+      "date": "2024-05-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490978&idx=3&sn=a397068729aa8456fc1d0ae1dee5e4dd&chksm=eb94aadcdce323ca845cc26dcd132dbc0d87b2daf21c164737f4d1eee98eb7f3bb72245fd22a#rd",
+      "id": "2247490978_3",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "CytoTRACE v2 代码系列教程（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490978&idx=3&sn=a397068729aa8456fc1d0ae1dee5e4dd&chksm=eb94aadcdce323ca845cc26dcd132dbc0d87b2daf21c164737f4d1eee98eb7f3bb72245fd22a#rd",
+        "msgid": "2247490978",
+        "itemidx": "3",
+        "pos_num": "85",
+        "date": "2024-05-10",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "cytotrace v2 代码系列教程（一） method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cytotrace v2 代码系列教程（一）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "CytoTRACE v2 代码系列教程（一）",
+      "date": "2024-04-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490829&idx=2&sn=05b54fdd5687ba7b3e90c556cf871ba6&chksm=eb94aa73dce3236563f37f93576eada1f7356d379a5096d77b587336306d5b655d9b953df16b#rd",
+      "id": "2247490829_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "CytoTRACE v2 代码系列教程（一）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490829&idx=2&sn=05b54fdd5687ba7b3e90c556cf871ba6&chksm=eb94aa73dce3236563f37f93576eada1f7356d379a5096d77b587336306d5b655d9b953df16b#rd",
+        "msgid": "2247490829",
+        "itemidx": "2",
+        "pos_num": "83",
+        "date": "2024-04-19",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "cytotrace v2 代码系列教程（一） method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cytotrace v2 代码系列教程（一）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（七）：在线网站",
+      "date": "2022-07-12",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485839&idx=1&sn=0004f0e0aee46e18285566b41852a980&chksm=eb94bef1dce337e7d716b3a573ecf149697f8b573fd8665fa68139a20ef5e097f68b76655f9b#rd",
+      "id": "2247485839_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（七）：在线网站",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485839&idx=1&sn=0004f0e0aee46e18285566b41852a980&chksm=eb94bef1dce337e7d716b3a573ecf149697f8b573fd8665fa68139a20ef5e097f68b76655f9b#rd",
+        "msgid": "2247485839",
+        "itemidx": "1",
+        "pos_num": "8",
+        "date": "2022-07-12",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（七）：在线网站 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（七）：在线网站"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（六）：应用实例解析",
+      "date": "2022-07-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485816&idx=1&sn=76345249233c763f547ec36471b42483&chksm=eb94be06dce337107899867f5ec6c7cd664cb1366b3af8dd40e974a0b595c2b38d261537575a#rd",
+      "id": "2247485816_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（六）：应用实例解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485816&idx=1&sn=76345249233c763f547ec36471b42483&chksm=eb94be06dce337107899867f5ec6c7cd664cb1366b3af8dd40e974a0b595c2b38d261537575a#rd",
+        "msgid": "2247485816",
+        "itemidx": "1",
+        "pos_num": "7",
+        "date": "2022-07-05",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（六）：应用实例解析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（六）：应用实例解析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（五）：记忆性T细胞功能研究",
+      "date": "2022-07-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485816&idx=2&sn=e8ba03850a9d843d5cb18e40535634ab&chksm=eb94be06dce33710fdedc53f005638fc8cf1dabfe5e2ecefc2dee0559787c85f1c1205442ec5#rd",
+      "id": "2247485816_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（五）：记忆性T细胞功能研究",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485816&idx=2&sn=e8ba03850a9d843d5cb18e40535634ab&chksm=eb94be06dce33710fdedc53f005638fc8cf1dabfe5e2ecefc2dee0559787c85f1c1205442ec5#rd",
+        "msgid": "2247485816",
+        "itemidx": "2",
+        "pos_num": "6",
+        "date": "2022-07-05",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（五）：记忆性t细胞功能研究 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（五）：记忆性t细胞功能研究"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（四）：衰竭性CD8 T细胞亚群",
+      "date": "2022-06-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485491&idx=1&sn=397dbb81d886ad1f8318abc9af025c2e&chksm=eb94bf4ddce3365bd32decc36dec6dd1915f2769bdf49817941333009407192a9cfcf4f5683e#rd",
+      "id": "2247485491_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（四）：衰竭性CD8 T细胞亚群",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485491&idx=1&sn=397dbb81d886ad1f8318abc9af025c2e&chksm=eb94bf4ddce3365bd32decc36dec6dd1915f2769bdf49817941333009407192a9cfcf4f5683e#rd",
+        "msgid": "2247485491",
+        "itemidx": "1",
+        "pos_num": "5",
+        "date": "2022-06-17",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（四）：衰竭性cd8 t细胞亚群 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（四）：衰竭性cd8 t细胞亚群"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（三）：不同器官的T细胞异质性",
+      "date": "2022-06-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485488&idx=1&sn=2e8aefabd1ea98fb7c83a276b49e9be1&chksm=eb94bf4edce33658d61fbffdea1d11c8257065ce61643f8e4de4500186ec7de27c221007503e#rd",
+      "id": "2247485488_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（三）：不同器官的T细胞异质性",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485488&idx=1&sn=2e8aefabd1ea98fb7c83a276b49e9be1&chksm=eb94bf4edce33658d61fbffdea1d11c8257065ce61643f8e4de4500186ec7de27c221007503e#rd",
+        "msgid": "2247485488",
+        "itemidx": "1",
+        "pos_num": "4",
+        "date": "2022-06-13",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（三）：不同器官的t细胞异质性 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（三）：不同器官的t细胞异质性"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（二）：ICB疗效预测",
+      "date": "2022-06-09",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485483&idx=1&sn=0a08ad0b7a07bd155935c557f158124b&chksm=eb94bf55dce3364313a24382036c80cbdc9bcec5aa2eb377785b57a4947111ba2f417978f8a2#rd",
+      "id": "2247485483_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（二）：ICB疗效预测",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485483&idx=1&sn=0a08ad0b7a07bd155935c557f158124b&chksm=eb94bf55dce3364313a24382036c80cbdc9bcec5aa2eb377785b57a4947111ba2f417978f8a2#rd",
+        "msgid": "2247485483",
+        "itemidx": "1",
+        "pos_num": "3",
+        "date": "2022-06-09",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（二）：icb疗效预测 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（二）：icb疗效预测"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "ProjecTILs系列教程（一）：MC38 TILs克隆型分析",
+      "date": "2022-06-06",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485439&idx=1&sn=e1a091d0a4a0962621af673a3b75792d&chksm=eb94b081dce3399726b9790e795bd55c449fb4889daaa8e36473203a47dac9189c7c1c4e86f8#rd",
+      "id": "2247485439_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "ProjecTILs系列教程（一）：MC38 TILs克隆型分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247485439&idx=1&sn=e1a091d0a4a0962621af673a3b75792d&chksm=eb94b081dce3399726b9790e795bd55c449fb4889daaa8e36473203a47dac9189c7c1c4e86f8#rd",
+        "msgid": "2247485439",
+        "itemidx": "1",
+        "pos_num": "2",
+        "date": "2022-06-06",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "projectils系列教程（一）：mc38 tils克隆型分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "projectils系列教程（一）：mc38 tils克隆型分析"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "利用Interpro数据库查看结构域",
+      "date": "2025-06-19",
+      "url": "https://www.bilibili.com/video/BV1ufNiz7EU6",
+      "id": "BV1ufNiz7EU6",
+      "category": "核心生信分析",
+      "summary": "讲如何用 InterPro 查看蛋白结构域，用于功能推断与注释。",
+      "tags": [
+        "domain",
+        "interpro"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "domain",
+          "interpro"
+        ],
+        "title": "利用Interpro数据库查看结构域",
+        "date": "2025-06-19",
+        "plays": 1412,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ufNiz7EU6",
+        "bvid": "BV1ufNiz7EU6",
+        "content_summary": "讲如何用 InterPro 查看蛋白结构域，用于功能推断与注释。"
+      },
+      "text_blob": "利用interpro数据库查看结构域 核心生信分析 讲如何用 interpro 查看蛋白结构域，用于功能推断与注释。 domain interpro",
+      "tags_lower": [
+        "domain",
+        "interpro"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "利用interpro数据库查看结构域"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.Fasta序列处理-截取-批量提取",
+      "date": "2025-05-09",
+      "url": "https://www.bilibili.com/video/BV1Wn5GztETG",
+      "id": "BV1Wn5GztETG",
+      "category": "核心生信分析",
+      "summary": "讲 FASTA 序列截取、整理与批量提取，属于基础序列处理技能。",
+      "tags": [
+        "fasta",
+        "sequence"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "fasta",
+          "sequence"
+        ],
+        "title": "02.Fasta序列处理-截取-批量提取",
+        "date": "2025-05-09",
+        "plays": 591,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1Wn5GztETG",
+        "bvid": "BV1Wn5GztETG",
+        "content_summary": "讲 FASTA 序列截取、整理与批量提取，属于基础序列处理技能。"
+      },
+      "text_blob": "02.fasta序列处理-截取-批量提取 核心生信分析 讲 fasta 序列截取、整理与批量提取，属于基础序列处理技能。 fasta sequence",
+      "tags_lower": [
+        "fasta",
+        "sequence"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "02.fasta序列处理-截取-批量提取"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "05.UALCAN网站使用方法",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1KeoGYtEAF",
+      "id": "BV1KeoGYtEAF",
+      "category": "核心生信分析",
+      "summary": "讲 UALCAN 的表达与临床信息查询，用于公共数据库的快速验证。",
+      "tags": [
+        "expression",
+        "web-tool"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "expression",
+          "web-tool"
+        ],
+        "title": "05.UALCAN网站使用方法",
+        "date": "2025-04-14",
+        "plays": 831,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1KeoGYtEAF",
+        "bvid": "BV1KeoGYtEAF",
+        "content_summary": "讲 UALCAN 的表达与临床信息查询，用于公共数据库的快速验证。"
+      },
+      "text_blob": "05.ualcan网站使用方法 核心生信分析 讲 ualcan 的表达与临床信息查询，用于公共数据库的快速验证。 expression web-tool",
+      "tags_lower": [
+        "expression",
+        "web-tool"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "05.ualcan网站使用方法"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "04.基于WGCNA分析玉米株高相关基因网络",
+      "date": "2025-04-10",
+      "url": "https://www.bilibili.com/video/BV1cbduY3EQ3",
+      "id": "BV1cbduY3EQ3",
+      "category": "核心生信分析",
+      "summary": "演示如何用 WGCNA 把表达模块与株高表型关联，并定位关键基因网络。",
+      "tags": [
+        "WGCNA",
+        "coexpression"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "WGCNA",
+          "coexpression"
+        ],
+        "title": "04.基于WGCNA分析玉米株高相关基因网络",
+        "date": "2025-04-10",
+        "plays": 1924,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1cbduY3EQ3",
+        "bvid": "BV1cbduY3EQ3",
+        "content_summary": "演示如何用 WGCNA 把表达模块与株高表型关联，并定位关键基因网络。"
+      },
+      "text_blob": "04.基于wgcna分析玉米株高相关基因网络 核心生信分析 演示如何用 wgcna 把表达模块与株高表型关联，并定位关键基因网络。 wgcna coexpression",
+      "tags_lower": [
+        "coexpression",
+        "wgcna"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "04.基于wgcna分析玉米株高相关基因网络"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.基于WGCNA分析乳腺癌相关的重要lncRNAs",
+      "date": "2025-04-10",
+      "url": "https://www.bilibili.com/video/BV1swdgYmEC8",
+      "id": "BV1swdgYmEC8",
+      "category": "核心生信分析",
+      "summary": "展示 WGCNA 在肿瘤表达数据中识别关键 lncRNA 模块与候选分子的流程。",
+      "tags": [
+        "WGCNA",
+        "lncRNA"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "WGCNA",
+          "lncRNA"
+        ],
+        "title": "03.基于WGCNA分析乳腺癌相关的重要lncRNAs",
+        "date": "2025-04-10",
+        "plays": 157,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1swdgYmEC8",
+        "bvid": "BV1swdgYmEC8",
+        "content_summary": "展示 WGCNA 在肿瘤表达数据中识别关键 lncRNA 模块与候选分子的流程。"
+      },
+      "text_blob": "03.基于wgcna分析乳腺癌相关的重要lncrnas 核心生信分析 展示 wgcna 在肿瘤表达数据中识别关键 lncrna 模块与候选分子的流程。 wgcna lncrna",
+      "tags_lower": [
+        "lncrna",
+        "wgcna"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "03.基于wgcna分析乳腺癌相关的重要lncrnas"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "基因家族概念介绍",
+      "date": "2025-03-24",
+      "url": "https://www.bilibili.com/video/BV1MWoyYsESR",
+      "id": "BV1MWoyYsESR",
+      "category": "核心生信分析",
+      "summary": "介绍基因家族分析的核心概念、常见目标和整体研究框架。",
+      "tags": [
+        "gene-family",
+        "concept"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "gene-family",
+          "concept"
+        ],
+        "title": "基因家族概念介绍",
+        "date": "2025-03-24",
+        "plays": 2714,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1MWoyYsESR",
+        "bvid": "BV1MWoyYsESR",
+        "content_summary": "介绍基因家族分析的核心概念、常见目标和整体研究框架。",
+        "page_tags": [
+          "基因家族",
+          "生物信息",
+          "文献解读"
+        ],
+        "duration_seconds": 611,
+        "view_count": 2714,
+        "like_count": 82,
+        "favorite_count": 288,
+        "share_count": 22,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "基因家族概念介绍 核心生信分析 介绍基因家族分析的核心概念、常见目标和整体研究框架。 gene-family concept",
+      "tags_lower": [
+        "concept",
+        "gene-family"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "基因家族概念介绍"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.Indel引物设计",
+      "date": "2025-03-05",
+      "url": "https://www.bilibili.com/video/BV1Rv94YGEde",
+      "id": "BV1Rv94YGEde",
+      "category": "核心生信分析",
+      "summary": "讲 Indel 位点引物设计，用于变异验证或分型实验衔接。",
+      "tags": [
+        "primer",
+        "indel"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "primer",
+          "indel"
+        ],
+        "title": "01.Indel引物设计",
+        "date": "2025-03-05",
+        "plays": 701,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1Rv94YGEde",
+        "bvid": "BV1Rv94YGEde",
+        "content_summary": "讲 Indel 位点引物设计，用于变异验证或分型实验衔接。"
+      },
+      "text_blob": "01.indel引物设计 核心生信分析 讲 indel 位点引物设计，用于变异验证或分型实验衔接。 primer indel",
+      "tags_lower": [
+        "indel",
+        "primer"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "01.indel引物设计"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.SSR引物设计",
+      "date": "2025-03-05",
+      "url": "https://www.bilibili.com/video/BV1vv94YGERj",
+      "id": "BV1vv94YGERj",
+      "category": "核心生信分析",
+      "summary": "讲 SSR 引物设计的基础流程，偏分子标记与验证支撑。",
+      "tags": [
+        "primer",
+        "SSR"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "primer",
+          "SSR"
+        ],
+        "title": "02.SSR引物设计",
+        "date": "2025-03-05",
+        "plays": 397,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1vv94YGERj",
+        "bvid": "BV1vv94YGERj",
+        "content_summary": "讲 SSR 引物设计的基础流程，偏分子标记与验证支撑。"
+      },
+      "text_blob": "02.ssr引物设计 核心生信分析 讲 ssr 引物设计的基础流程，偏分子标记与验证支撑。 primer ssr",
+      "tags_lower": [
+        "primer",
+        "ssr"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "02.ssr引物设计"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.SNP引物设计",
+      "date": "2025-03-05",
+      "url": "https://www.bilibili.com/video/BV1vv94YGEp3",
+      "id": "BV1vv94YGEp3",
+      "category": "核心生信分析",
+      "summary": "讲 SNP 引物设计，适合作为变异结果下游实验验证的连接步骤。",
+      "tags": [
+        "primer",
+        "SNP"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "primer",
+          "SNP"
+        ],
+        "title": "03.SNP引物设计",
+        "date": "2025-03-05",
+        "plays": 573,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1vv94YGEp3",
+        "bvid": "BV1vv94YGEp3",
+        "content_summary": "讲 SNP 引物设计，适合作为变异结果下游实验验证的连接步骤。"
+      },
+      "text_blob": "03.snp引物设计 核心生信分析 讲 snp 引物设计，适合作为变异结果下游实验验证的连接步骤。 primer snp",
+      "tags_lower": [
+        "primer",
+        "snp"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "03.snp引物设计"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "进化树的构建与美化Evolview",
+      "date": "2025-02-21",
+      "url": "https://www.bilibili.com/video/BV12pAoeNEC7",
+      "id": "BV12pAoeNEC7",
+      "category": "核心生信分析",
+      "summary": "介绍 Evolview 在进化树展示与注释中的基本使用。",
+      "tags": [
+        "phylogeny",
+        "evolview"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "phylogeny",
+          "evolview"
+        ],
+        "title": "进化树的构建与美化Evolview",
+        "date": "2025-02-21",
+        "plays": 445,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV12pAoeNEC7",
+        "bvid": "BV12pAoeNEC7",
+        "content_summary": "介绍 Evolview 在进化树展示与注释中的基本使用。"
+      },
+      "text_blob": "进化树的构建与美化evolview 核心生信分析 介绍 evolview 在进化树展示与注释中的基本使用。 phylogeny evolview",
+      "tags_lower": [
+        "evolview",
+        "phylogeny"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "进化树的构建与美化evolview"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "itol美化进化树",
+      "date": "2025-02-21",
+      "url": "https://www.bilibili.com/video/BV1NWAoevE9y",
+      "id": "BV1NWAoevE9y",
+      "category": "核心生信分析",
+      "summary": "讲用 iTOL 美化进化树，方便系统发育结果展示。",
+      "tags": [
+        "phylogeny",
+        "itol"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "phylogeny",
+          "itol"
+        ],
+        "title": "itol美化进化树",
+        "date": "2025-02-21",
+        "plays": 7224,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1NWAoevE9y",
+        "bvid": "BV1NWAoevE9y",
+        "content_summary": "讲用 iTOL 美化进化树，方便系统发育结果展示。"
+      },
+      "text_blob": "itol美化进化树 核心生信分析 讲用 itol 美化进化树，方便系统发育结果展示。 phylogeny itol",
+      "tags_lower": [
+        "itol",
+        "phylogeny"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "itol美化进化树"
+    },
+    {
+      "source_skill": "opencli-onekeyai-bioinfo-videos",
+      "source_name": "OnekeyAI",
+      "platform": "bilibili",
+      "title": "2026国自然申请攻略（一）：如何在“卷”中实现技术突围与差异化竞争",
+      "date": "2025-12-05",
+      "url": "https://www.bilibili.com/video/BV1eo2VByEz1",
+      "id": "BV1eo2VByEz1",
+      "category": "extended",
+      "summary": "",
+      "tags": [
+        "support"
+      ],
+      "extra": {
+        "category": "extended",
+        "matched_rules": [
+          "support"
+        ],
+        "title": "2026国自然申请攻略（一）：如何在“卷”中实现技术突围与差异化竞争",
+        "date": "2025-12-05",
+        "url": "https://www.bilibili.com/video/BV1eo2VByEz1",
+        "bvid": "BV1eo2VByEz1",
+        "plays": 1673,
+        "duration": "",
+        "publish_time": "",
+        "description": ""
+      },
+      "text_blob": "2026国自然申请攻略（一）：如何在“卷”中实现技术突围与差异化竞争 extended  support",
+      "tags_lower": [
+        "support"
+      ],
+      "source_lower": "opencli-onekeyai-bioinfo-videos",
+      "category_lower": "extended",
+      "title_lower": "2026国自然申请攻略（一）：如何在“卷”中实现技术突围与差异化竞争"
+    }
+  ]
+}

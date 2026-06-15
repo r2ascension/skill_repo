@@ -1,0 +1,1166 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "组学大讲堂",
+  "channel_uid": "1181501194",
+  "channel_url": "https://space.bilibili.com/1181501194",
+  "video_count": 76,
+  "items": [
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "linux",
+        "filesystem"
+      ],
+      "title": "03.linux目录切换",
+      "date": "2026-03-26",
+      "plays": 28,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1GyXHB7EZa",
+      "bvid": "BV1GyXHB7EZa",
+      "content_summary": "讲目录导航、路径识别和常用目录切换命令。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "linux",
+        "server"
+      ],
+      "title": "02.linux云服务器登录",
+      "date": "2026-03-26",
+      "plays": 18,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1XyXHBjEzn",
+      "bvid": "BV1XyXHBjEzn",
+      "content_summary": "演示连接云服务器的基本方法，为远程运行生信分析做准备。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "linux",
+        "shell"
+      ],
+      "title": "05.linux命令行技巧",
+      "date": "2026-03-26",
+      "plays": 20,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1GyXHB7Edi",
+      "bvid": "BV1GyXHB7Edi",
+      "content_summary": "总结命令行操作技巧，提高生信环境中的终端使用效率。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "linux",
+        "file-ops"
+      ],
+      "title": "06.linux文件操作",
+      "date": "2026-03-26",
+      "plays": 17,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1YyXHB7Est",
+      "bvid": "BV1YyXHB7Est",
+      "content_summary": "讲文件查看、复制、移动和整理，适合作为生信数据管理基础。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "linux",
+        "filesystem"
+      ],
+      "title": "04.linux目录结构",
+      "date": "2026-03-26",
+      "plays": 5,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV19yXHBjEu7",
+      "bvid": "BV19yXHBjEu7",
+      "content_summary": "解释 Linux 文件系统层级，帮助理解后续数据与脚本存放位置。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "linux",
+        "environment"
+      ],
+      "title": "01.linux介绍",
+      "date": "2026-03-26",
+      "plays": 37,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1XyXHBjEaT",
+      "bvid": "BV1XyXHBjEaT",
+      "content_summary": "介绍 Linux 在生信流程中的角色、常见使用场景和入门路径。",
+      "page_tags": [
+        "操作系统",
+        "学习",
+        "教程",
+        "linux",
+        "生物信息"
+      ],
+      "duration_seconds": 472,
+      "view_count": 37,
+      "like_count": 1,
+      "favorite_count": 0,
+      "share_count": 0,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "OTU"
+      ],
+      "title": "10.OTU丰度数据绘制聚类热图",
+      "date": "2025-08-01",
+      "plays": 290,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1D38wzmEqS",
+      "bvid": "BV1D38wzmEqS",
+      "content_summary": "讲 OTU 丰度矩阵热图，适合微生物组结果可视化。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "heatmap"
+      ],
+      "title": "09.基因表达数据绘制聚类热图（下）",
+      "date": "2025-07-31",
+      "plays": 79,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1DV8wzjEgN",
+      "bvid": "BV1DV8wzjEgN",
+      "content_summary": "讲基因表达矩阵的聚类热图绘制与版式控制。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "heatmap"
+      ],
+      "title": "08.基因表达数据绘制聚类热图（上）",
+      "date": "2025-07-30",
+      "plays": 194,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1dk8wz4EDy",
+      "bvid": "BV1dk8wz4EDy",
+      "content_summary": "讲基因表达矩阵的聚类热图绘制与版式控制。",
+      "page_tags": [
+        "统计",
+        "绘图",
+        "R语言",
+        "生物信息"
+      ],
+      "duration_seconds": 1848,
+      "view_count": 194,
+      "like_count": 1,
+      "favorite_count": 6,
+      "share_count": 0,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "enrichment"
+      ],
+      "title": "07.柱状图和气泡图（富集分析结果可视化）",
+      "date": "2025-07-29",
+      "plays": 88,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1q68wzZEcq",
+      "bvid": "BV1q68wzZEcq",
+      "content_summary": "讲富集分析结果常见的柱状图和气泡图展示。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "DEG"
+      ],
+      "title": "06.特殊点图--火山图和MA图绘制过程",
+      "date": "2025-07-28",
+      "plays": 165,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1YS8wzXEV6",
+      "bvid": "BV1YS8wzXEV6",
+      "content_summary": "围绕差异分析常见的火山图和 MA 图讲绘制与解读。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "literature",
+        "genomic-selection"
+      ],
+      "title": "03.文献3：紫花苜蓿的基因组选择特征",
+      "date": "2025-07-25",
+      "plays": 106,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ra8wzPEtv",
+      "bvid": "BV1ra8wzPEtv",
+      "content_summary": "围绕紫花苜蓿案例梳理基因组选择特征分析的研究问题与结果组织方式。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "distribution"
+      ],
+      "title": "05.数据分布--密度图、箱线图、直方图绘图过程",
+      "date": "2025-07-24",
+      "plays": 106,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1v28wz9Ege",
+      "bvid": "BV1v28wz9Ege",
+      "content_summary": "讲几种常见分布图的场景和绘制流程。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "line"
+      ],
+      "title": "04.折线图绘图过程（结合点图、误差线显示）",
+      "date": "2025-07-11",
+      "plays": 63,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1kJKmziEYV",
+      "bvid": "BV1kJKmziEYV",
+      "content_summary": "讲折线图与误差线的结合展示，适合时间序列或分组趋势。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "literature",
+        "domestication"
+      ],
+      "title": "02.文献2：芥菜的起源、驯化与多样性",
+      "date": "2025-07-09",
+      "plays": 107,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV16sKmzAEPF",
+      "bvid": "BV16sKmzAEPF",
+      "content_summary": "借芥菜案例讲群体遗传和驯化研究如何组织样本、变异与群体结构分析。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "pie"
+      ],
+      "title": "03.基础饼图的绘制过程",
+      "date": "2025-07-07",
+      "plays": 166,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1BbKmz8EAD",
+      "bvid": "BV1BbKmz8EAD",
+      "content_summary": "讲基础饼图的绘制步骤和比例展示逻辑。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "barplot"
+      ],
+      "title": "02.分组柱状图与堆叠柱状图绘制过程",
+      "date": "2025-07-04",
+      "plays": 226,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1zxKmzaELn",
+      "bvid": "BV1zxKmzaELn",
+      "content_summary": "比较分组柱状图与堆叠柱状图的绘制方式。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "literature",
+        "population-study"
+      ],
+      "title": "01.群体研究分析思路文献1：水蜜桃糖酸风味遗传基础",
+      "date": "2025-07-02",
+      "plays": 648,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1CjKmzBEdW",
+      "bvid": "BV1CjKmzBEdW",
+      "content_summary": "用水蜜桃糖酸风味案例拆解群体研究的表型设计、遗传关联和候选位点挖掘思路。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "plotting",
+        "barplot"
+      ],
+      "title": "01.基础柱状图绘制方法",
+      "date": "2025-06-30",
+      "plays": 281,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV11GKmz3Ems",
+      "bvid": "BV11GKmz3Ems",
+      "content_summary": "讲基础柱状图的构建思路和常用展示场景。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "layout"
+      ],
+      "title": "19.R语言绘图-拼图之画布的分隔",
+      "date": "2025-06-29",
+      "plays": 164,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1LJKDzPEja",
+      "bvid": "BV1LJKDzPEja",
+      "content_summary": "讲多图拼接时的画布切分与布局安排。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "pie"
+      ],
+      "title": "18.R语言绘图-pie饼图绘制",
+      "date": "2025-06-28",
+      "plays": 198,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1WwKDz1ENK",
+      "bvid": "BV1WwKDz1ENK",
+      "content_summary": "讲饼图绘制与类别占比展示。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "histogram"
+      ],
+      "title": "17.R语言绘图-hist频率直方图绘制",
+      "date": "2025-06-27",
+      "plays": 255,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1sfKSzmEst",
+      "bvid": "BV1sfKSzmEst",
+      "content_summary": "讲直方图绘制，用于连续变量分布观察。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "boxplot"
+      ],
+      "title": "16.R语言绘图-boxplot箱形图绘制",
+      "date": "2025-06-26",
+      "plays": 479,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1zgKDzgE9n",
+      "bvid": "BV1zgKDzgE9n",
+      "content_summary": "讲箱线图绘制，用于分布比较和异常值展示。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "annotation"
+      ],
+      "title": "15.R语言绘图-text图片中添加文字及调整",
+      "date": "2025-06-20",
+      "plays": 622,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1Q9NizSEii",
+      "bvid": "BV1Q9NizSEii",
+      "content_summary": "讲在图中添加文字注释与位置样式调整。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "domain",
+        "interpro"
+      ],
+      "title": "利用Interpro数据库查看结构域",
+      "date": "2025-06-19",
+      "plays": 1412,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ufNiz7EU6",
+      "bvid": "BV1ufNiz7EU6",
+      "content_summary": "讲如何用 InterPro 查看蛋白结构域，用于功能推断与注释。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "barplot"
+      ],
+      "title": "14.R语言柱状图绘制-及x坐标轴调整",
+      "date": "2025-06-18",
+      "plays": 287,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ufNiz7ESD",
+      "bvid": "BV1ufNiz7ESD",
+      "content_summary": "演示柱状图绘制和坐标轴微调。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "plot"
+      ],
+      "title": "13.R语言颜色透明色表示-添加图例legend及位置调整",
+      "date": "2025-06-13",
+      "plays": 183,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1k5TQzJESd",
+      "bvid": "BV1k5TQzJESd",
+      "content_summary": "讲颜色透明度、图例添加与位置调整等图形细节。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "pathway",
+        "mapman"
+      ],
+      "title": "MapMan植物通路注释软件使用教程",
+      "date": "2025-06-11",
+      "plays": 447,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV11uTQzXEih",
+      "bvid": "BV11uTQzXEih",
+      "content_summary": "介绍 MapMan 做植物通路注释与可视化的基本用法。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "plot"
+      ],
+      "title": "12.R语言绘图-par()绘图参数详解",
+      "date": "2025-06-09",
+      "plays": 241,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1G97qzXESb",
+      "bvid": "BV1G97qzXESb",
+      "content_summary": "解释 par() 控制画布布局和绘图全局参数。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "plot"
+      ],
+      "title": "11.R语言绘图点线图-plot绘图参数详解",
+      "date": "2025-06-06",
+      "plays": 305,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV15S7qzxESe",
+      "bvid": "BV15S7qzxESe",
+      "content_summary": "讲基础 plot 点线图及核心参数设置。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "statistics"
+      ],
+      "title": "10.R语言方差分析分析原理-代码实现-结果可视化",
+      "date": "2025-06-04",
+      "plays": 319,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV15S7qzxEW3",
+      "bvid": "BV15S7qzxEW3",
+      "content_summary": "介绍方差分析的原理、代码实现与结果展示。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "statistics"
+      ],
+      "title": "09.R语言T检验分析原理-代码实现-结果可视化-批量T检验",
+      "date": "2025-05-30",
+      "plays": 227,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1kVjuzpEQy",
+      "bvid": "BV1kVjuzpEQy",
+      "content_summary": "介绍 T 检验原理、代码实现和结果可视化。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "reshape"
+      ],
+      "title": "08.R语言数据reshape-长型数据与宽型数据转换-方便数据后续分析",
+      "date": "2025-05-28",
+      "plays": 255,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1wVjuzWE9m",
+      "bvid": "BV1wVjuzWE9m",
+      "content_summary": "讲长宽表转换，适合下游统计建模与可视化准备。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "aggregation"
+      ],
+      "title": "07.R语言数据分类汇总统计applytapplylapplyaggregate学习",
+      "date": "2025-05-26",
+      "plays": 136,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1CVjuzpEh4",
+      "bvid": "BV1CVjuzpEh4",
+      "content_summary": "介绍 apply、tapply、lapply、aggregate 等汇总统计方法。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "control-flow"
+      ],
+      "title": "06.R语言循环与判断语句",
+      "date": "2025-05-23",
+      "plays": 181,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1dfJGzFE1V",
+      "bvid": "BV1dfJGzFE1V",
+      "content_summary": "讲循环和条件判断，为批量分析脚本打基础。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "io"
+      ],
+      "title": "05.R语言数据读入与写出方法与技巧readtable-writetable",
+      "date": "2025-05-21",
+      "plays": 435,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ofJGzFEjz",
+      "bvid": "BV1ofJGzFEjz",
+      "content_summary": "讲表格数据读写和文件输入输出，是生信数据处理基础。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "data-structures"
+      ],
+      "title": "04.R语言数据类型使用技巧标量，向量，数据框，因子，列表（下）",
+      "date": "2025-05-19",
+      "plays": 218,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ifJGzFESw",
+      "bvid": "BV1ifJGzFESw",
+      "content_summary": "解释向量、数据框、因子和列表等核心数据结构。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "data-structures"
+      ],
+      "title": "03.R语言数据类型使用技巧标量，向量，数据框，因子，列表（上）",
+      "date": "2025-05-16",
+      "plays": 276,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV16GEJzDEBS",
+      "bvid": "BV16GEJzDEBS",
+      "content_summary": "解释向量、数据框、因子和列表等核心数据结构。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "packages"
+      ],
+      "title": "02.R语言第三方包安装方法与技巧（CRANbioconductor）",
+      "date": "2025-05-14",
+      "plays": 305,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1z5EJzJE9z",
+      "bvid": "BV1z5EJzJE9z",
+      "content_summary": "讲 CRAN 与 Bioconductor 包安装，是后续生信分析环境准备。"
+    },
+    {
+      "bucket": "R语言与可视化",
+      "tags": [
+        "R",
+        "setup"
+      ],
+      "title": "01.R语言简介及R语言编程运行环境搭建",
+      "date": "2025-05-12",
+      "plays": 202,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1p2E7zSEKm",
+      "bvid": "BV1p2E7zSEKm",
+      "content_summary": "介绍 R 语言定位并完成基础运行环境搭建。",
+      "page_tags": [
+        "绘图",
+        "统计",
+        "R语言",
+        "生物信息"
+      ],
+      "duration_seconds": 1158,
+      "view_count": 202,
+      "like_count": 6,
+      "favorite_count": 10,
+      "share_count": 3,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "blast",
+        "sequence"
+      ],
+      "title": "03.Blast序列比对",
+      "date": "2025-05-11",
+      "plays": 610,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1iFETz3ELH",
+      "bvid": "BV1iFETz3ELH",
+      "content_summary": "介绍 BLAST 序列比对的基本用途和常见使用场景。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "fasta",
+        "sequence"
+      ],
+      "title": "02.Fasta序列处理-截取-批量提取",
+      "date": "2025-05-09",
+      "plays": 591,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1Wn5GztETG",
+      "bvid": "BV1Wn5GztETG",
+      "content_summary": "讲 FASTA 序列截取、整理与批量提取，属于基础序列处理技能。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "SRA",
+        "download"
+      ],
+      "title": "01.NCBI高通量测序数据SRA下载",
+      "date": "2025-04-25",
+      "plays": 3461,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1SbL7znEAk",
+      "bvid": "BV1SbL7znEAk",
+      "content_summary": "演示从 NCBI SRA 获取高通量测序原始数据，是公共数据复用的基础步骤。",
+      "page_tags": [
+        "NCBI",
+        "SRA",
+        "科研",
+        "数据下载"
+      ],
+      "duration_seconds": 1448,
+      "view_count": 3461,
+      "like_count": 68,
+      "favorite_count": 214,
+      "share_count": 38,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "enrichment",
+        "metascape"
+      ],
+      "title": "07.Metascape进行基因注释富集分析",
+      "date": "2025-04-16",
+      "plays": 499,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1XDoKYHEAm",
+      "bvid": "BV1XDoKYHEAm",
+      "content_summary": "演示用 Metascape 做功能注释和富集分析，适合作为差异基因后的解释步骤。",
+      "page_tags": [
+        "科研",
+        "生物信息",
+        "WGCNA"
+      ],
+      "duration_seconds": 695,
+      "view_count": 499,
+      "like_count": 5,
+      "favorite_count": 9,
+      "share_count": 2,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "survival",
+        "web-tool"
+      ],
+      "title": "06.KM-plotter网站使用方法",
+      "date": "2025-04-15",
+      "plays": 478,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1HJopYmEjt",
+      "bvid": "BV1HJopYmEjt",
+      "content_summary": "介绍 KM-plotter 的生存分析用法，用于快速验证候选基因与预后的关系。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "expression",
+        "web-tool"
+      ],
+      "title": "05.UALCAN网站使用方法",
+      "date": "2025-04-14",
+      "plays": 831,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1KeoGYtEAF",
+      "bvid": "BV1KeoGYtEAF",
+      "content_summary": "讲 UALCAN 的表达与临床信息查询，用于公共数据库的快速验证。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "WGCNA",
+        "coexpression"
+      ],
+      "title": "04.基于WGCNA分析玉米株高相关基因网络",
+      "date": "2025-04-10",
+      "plays": 1924,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1cbduY3EQ3",
+      "bvid": "BV1cbduY3EQ3",
+      "content_summary": "演示如何用 WGCNA 把表达模块与株高表型关联，并定位关键基因网络。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "WGCNA",
+        "lncRNA"
+      ],
+      "title": "03.基于WGCNA分析乳腺癌相关的重要lncRNAs",
+      "date": "2025-04-10",
+      "plays": 157,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1swdgYmEC8",
+      "bvid": "BV1swdgYmEC8",
+      "content_summary": "展示 WGCNA 在肿瘤表达数据中识别关键 lncRNA 模块与候选分子的流程。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "WGCNA",
+        "survival"
+      ],
+      "title": "02.基于WGCNA筛选宫颈癌相关预后因子",
+      "date": "2025-04-08",
+      "plays": 85,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV15kdnYcEmo",
+      "bvid": "BV15kdnYcEmo",
+      "content_summary": "围绕宫颈癌案例说明 WGCNA 与预后因子筛选的联动分析思路。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "WGCNA",
+        "biomarker"
+      ],
+      "title": "01.基于WGCNA筛选过敏性哮喘相关biomarker",
+      "date": "2025-04-08",
+      "plays": 104,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1k4dnY3EhH",
+      "bvid": "BV1k4dnY3EhH",
+      "content_summary": "用哮喘案例讲 WGCNA 如何筛与疾病相关的候选 biomarker。",
+      "page_tags": [
+        "biomarker",
+        "生物信息",
+        "WGCNA"
+      ],
+      "duration_seconds": 1423,
+      "view_count": 104,
+      "like_count": 0,
+      "favorite_count": 4,
+      "share_count": 0,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "PPI",
+        "network"
+      ],
+      "title": "蛋白质互作网络构建",
+      "date": "2025-04-03",
+      "plays": 498,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1fLZ1YkEwU",
+      "bvid": "BV1fLZ1YkEwU",
+      "content_summary": "讲蛋白质互作网络构建，用于差异基因后的网络层面解释。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "title": "基因家族分析文献解读-香椿JAZ家族",
+      "date": "2025-03-25",
+      "plays": 270,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV18YotY5EvF",
+      "bvid": "BV18YotY5EvF",
+      "content_summary": "结合具体物种案例拆解基因家族分析论文的思路、步骤和结果组织。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "title": "基因家族分析文献解读-刀鲚NHE家族",
+      "date": "2025-03-25",
+      "plays": 247,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1SYotYVE4d",
+      "bvid": "BV1SYotYVE4d",
+      "content_summary": "结合具体物种案例拆解基因家族分析论文的思路、步骤和结果组织。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "title": "基因家族分析文献解读-黄瓜CBF家族",
+      "date": "2025-03-25",
+      "plays": 250,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1DYotY5EcL",
+      "bvid": "BV1DYotY5EcL",
+      "content_summary": "结合具体物种案例拆解基因家族分析论文的思路、步骤和结果组织。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "title": "文献2：菠萝当中WRKY基因家族分析",
+      "date": "2025-03-24",
+      "plays": 841,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1T4oyYpEfJ",
+      "bvid": "BV1T4oyYpEfJ",
+      "content_summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "title": "文献3：木薯当中NBS基因家族分析分析思路总结",
+      "date": "2025-03-24",
+      "plays": 275,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1T4oyYpE2Q",
+      "bvid": "BV1T4oyYpE2Q",
+      "content_summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "literature"
+      ],
+      "title": "文献1：马铃薯当中HSP20基因家族分析",
+      "date": "2025-03-24",
+      "plays": 1074,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1gHoyYdEpx",
+      "bvid": "BV1gHoyYdEpx",
+      "content_summary": "通过具体文献案例说明基因家族分析的常见流程与结果表达方式。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "gene-family",
+        "concept"
+      ],
+      "title": "基因家族概念介绍",
+      "date": "2025-03-24",
+      "plays": 2714,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1MWoyYsESR",
+      "bvid": "BV1MWoyYsESR",
+      "content_summary": "介绍基因家族分析的核心概念、常见目标和整体研究框架。",
+      "page_tags": [
+        "基因家族",
+        "生物信息",
+        "文献解读"
+      ],
+      "duration_seconds": 611,
+      "view_count": 2714,
+      "like_count": 82,
+      "favorite_count": 288,
+      "share_count": 22,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "heatmap",
+        "hiplot"
+      ],
+      "title": "聚类热图之Hiplot",
+      "date": "2025-03-14",
+      "plays": 181,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1QiQgYSEPn",
+      "bvid": "BV1QiQgYSEPn",
+      "content_summary": "介绍 Hiplot 绘制聚类热图的用法，适合作为表达矩阵可视化补充。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "excel",
+        "table"
+      ],
+      "title": "Excel使用-Vlookup（生物信息）",
+      "date": "2025-03-13",
+      "plays": 56,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV18NQAYZE3f",
+      "bvid": "BV18NQAYZE3f",
+      "content_summary": "讲用 Excel VLOOKUP 做表格映射，适合作为生信结果整理辅助技能。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "upload",
+        "transcriptome"
+      ],
+      "title": "转录组二代测序Fasta数据上传",
+      "date": "2025-03-12",
+      "plays": 1715,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1qCQnYRE4h",
+      "bvid": "BV1qCQnYRE4h",
+      "content_summary": "围绕转录组数据提交讲上传前准备、文件格式和提交动作。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "upload",
+        "communication"
+      ],
+      "title": "数据上传与邮件书写",
+      "date": "2025-03-12",
+      "plays": 211,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1YQQnYJEXA",
+      "bvid": "BV1YQQnYJEXA",
+      "content_summary": "补充上传过程中的邮件沟通与资料说明写法，偏流程支撑。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "upload",
+        "workflow"
+      ],
+      "title": "上传整体思路",
+      "date": "2025-03-12",
+      "plays": 161,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ZCQnYRENV",
+      "bvid": "BV1ZCQnYRENV",
+      "content_summary": "从整体层面说明公共数据库上传任务应如何组织与分步执行。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "upload",
+        "16S"
+      ],
+      "title": "微生物16S测序数据上传",
+      "date": "2025-03-12",
+      "plays": 4362,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1qCQnYRExY",
+      "bvid": "BV1qCQnYRExY",
+      "content_summary": "讲 16S 测序数据上传流程，适合微生物组项目数据归档。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "GEO",
+        "upload"
+      ],
+      "title": "GEO账号信息完善以及上传整体思路",
+      "date": "2025-03-12",
+      "plays": 606,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1qCQnYREhK",
+      "bvid": "BV1qCQnYREhK",
+      "content_summary": "说明 GEO 账号配置、元数据准备和整体上传逻辑。",
+      "page_tags": [
+        "NCBI",
+        "GEO",
+        "数据上传"
+      ],
+      "duration_seconds": 569,
+      "view_count": 606,
+      "like_count": 8,
+      "favorite_count": 14,
+      "share_count": 1,
+      "detail_source": "opencli browser __INITIAL_STATE__"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "upload",
+        "workflow"
+      ],
+      "title": "上传数据准备与归纳",
+      "date": "2025-03-12",
+      "plays": 351,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1qCQnYREA2",
+      "bvid": "BV1qCQnYREA2",
+      "content_summary": "梳理数据上传前的文件整理、信息归纳和提交流程准备。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "primer",
+        "indel"
+      ],
+      "title": "01.Indel引物设计",
+      "date": "2025-03-05",
+      "plays": 701,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1Rv94YGEde",
+      "bvid": "BV1Rv94YGEde",
+      "content_summary": "讲 Indel 位点引物设计，用于变异验证或分型实验衔接。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "primer",
+        "SSR"
+      ],
+      "title": "02.SSR引物设计",
+      "date": "2025-03-05",
+      "plays": 397,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1vv94YGERj",
+      "bvid": "BV1vv94YGERj",
+      "content_summary": "讲 SSR 引物设计的基础流程，偏分子标记与验证支撑。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "primer",
+        "SNP"
+      ],
+      "title": "03.SNP引物设计",
+      "date": "2025-03-05",
+      "plays": 573,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1vv94YGEp3",
+      "bvid": "BV1vv94YGEp3",
+      "content_summary": "讲 SNP 引物设计，适合作为变异结果下游实验验证的连接步骤。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "phylogeny",
+        "evolview"
+      ],
+      "title": "进化树的构建与美化Evolview",
+      "date": "2025-02-21",
+      "plays": 445,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV12pAoeNEC7",
+      "bvid": "BV12pAoeNEC7",
+      "content_summary": "介绍 Evolview 在进化树展示与注释中的基本使用。"
+    },
+    {
+      "bucket": "核心生信分析",
+      "tags": [
+        "phylogeny",
+        "itol"
+      ],
+      "title": "itol美化进化树",
+      "date": "2025-02-21",
+      "plays": 7224,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1NWAoevE9y",
+      "bvid": "BV1NWAoevE9y",
+      "content_summary": "讲用 iTOL 美化进化树，方便系统发育结果展示。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "FASTQ",
+        "sequencing"
+      ],
+      "title": "03.测序结果fastq数据解读",
+      "date": "2025-02-20",
+      "plays": 284,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1ooAJejEct",
+      "bvid": "BV1ooAJejEct",
+      "content_summary": "讲 FASTQ 结果的基本结构和测序结果阅读方式。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "checksum",
+        "sequencing"
+      ],
+      "title": "04.数据完整性校验MD5",
+      "date": "2025-02-20",
+      "plays": 408,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1GsAJeuE54",
+      "bvid": "BV1GsAJeuE54",
+      "content_summary": "介绍 MD5 校验在测序数据传输和归档中的作用。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "sequencing",
+        "principles"
+      ],
+      "title": "02.测序原理关键技术解读",
+      "date": "2025-02-20",
+      "plays": 133,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1joAJe7EwB",
+      "bvid": "BV1joAJe7EwB",
+      "content_summary": "解释测序原理和关键技术背景，帮助理解下游数据特征。"
+    },
+    {
+      "bucket": "测序与数据提交",
+      "tags": [
+        "illumina",
+        "principles"
+      ],
+      "title": "01.illumina边合成成边测序原理",
+      "date": "2025-02-20",
+      "plays": 452,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1doAJejEV5",
+      "bvid": "BV1doAJejEV5",
+      "content_summary": "介绍 Illumina 边合成边测序的基本原理。"
+    },
+    {
+      "bucket": "科研案例与基础支撑",
+      "tags": [
+        "vscode",
+        "environment"
+      ],
+      "title": "生物信息编程工具-vscode",
+      "date": "2024-03-13",
+      "plays": 249,
+      "likes": 0,
+      "url": "https://www.bilibili.com/video/BV1oF4m1F7P2",
+      "bvid": "BV1oF4m1F7P2",
+      "content_summary": "介绍 VS Code 在生信脚本编辑与运行中的基础用途。"
+    }
+  ]
+}

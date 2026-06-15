@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Project Architecture And Iteration Learning"
+  short_description: "Cross-source learning skill for project evolution, architecture iteration, and reflective AI-engineering workflow decisions."
+  default_prompt: "Use $ai-learning-project-architecture-and-iteration when the user wants learning content organized by concrete function rather than by creator or album source."

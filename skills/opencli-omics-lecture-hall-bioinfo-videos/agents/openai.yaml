@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI 组学大讲堂生信视频"
+  short_description: "Curate 组学大讲堂 bioinformatics videos with opencli."
+  default_prompt: "Use $opencli-omics-lecture-hall-bioinfo-videos to refresh and summarize 组学大讲堂 bioinformatics videos via opencli."

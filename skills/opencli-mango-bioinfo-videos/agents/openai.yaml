@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Mango Bioinfo Videos"
+  short_description: "Curate 芒果大学Mango bioinfo videos with opencli."
+  default_prompt: "Use $opencli-mango-bioinfo-videos to refresh and summarize 芒果大学Mango videos about GEO, TCGA, single-cell, online bioinformatics platforms, and practical bioinformatics workflows."

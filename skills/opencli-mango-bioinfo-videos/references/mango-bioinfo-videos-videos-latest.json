@@ -1,0 +1,783 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "芒果大学Mango",
+  "uid": "630252799",
+  "channel_url": "https://space.bilibili.com/630252799",
+  "scope_note": "keep videos that explicitly teach bioinformatics analysis, online omics platforms, single-cell practice, GEO or TCGA workflows, Linux mapping, or practical data-analysis strategy",
+  "count": 59,
+  "videos": [
+    {
+      "title": "芒果，单细胞总动员-260111",
+      "date": "2026-01-11",
+      "url": "https://www.bilibili.com/video/BV1e16oBJEy7",
+      "bvid": "BV1e16oBJEy7",
+      "plays": 1456,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "221204前沿讲座：单细胞基因组学赋能生信研究和临床转化",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1WwxKziE7o",
+      "bvid": "BV1WwxKziE7o",
+      "plays": 307,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "221204生信技能：从纯生信到R语言，再谈三步走学习策略",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1kPxKzNEqR",
+      "bvid": "BV1kPxKzNEqR",
+      "plays": 513,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "纯生信",
+        "生信技能"
+      ]
+    },
+    {
+      "title": "230115GEO数据集实战：芯片数据处理流程解读",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1nMxKzaELy",
+      "bvid": "BV1nMxKzaELy",
+      "plays": 250,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "GEO"
+      ]
+    },
+    {
+      "title": "230108：生信实战，TCGA数据库背景介绍和数据下载-柚子",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1JMxKzaEow",
+      "bvid": "BV1JMxKzaEow",
+      "plays": 166,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "230306：单细胞测序揭示肿瘤逃逸NK新机制",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1uSxNz1EWH",
+      "bvid": "BV1uSxNz1EWH",
+      "plays": 1250,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "230327：纯生信数据探究，当不同数据库的结果不一致怎么办？",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1TdxNzrEMb",
+      "bvid": "BV1TdxNzrEMb",
+      "plays": 212,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "纯生信"
+      ]
+    },
+    {
+      "title": "230402：基因在TCGA中无表达在但单细胞中有表达？& SNV代码解读",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1yVxAzhE8Y",
+      "bvid": "BV1yVxAzhE8Y",
+      "plays": 109,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "TCGA"
+      ]
+    },
+    {
+      "title": "230514：关于GEO数据分析的大致流程",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1KGxAzAEjd",
+      "bvid": "BV1KGxAzAEjd",
+      "plays": 491,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "GEO"
+      ]
+    },
+    {
+      "title": "230514在线工具：用GEPIA开展免疫细胞亚群分析",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV12gxAzYEML",
+      "bvid": "BV12gxAzYEML",
+      "plays": 135,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "GEPIA"
+      ]
+    },
+    {
+      "title": "230528单细胞入门：从R语言21天打卡说起",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1kJxAz4Ecq",
+      "bvid": "BV1kJxAz4Ecq",
+      "plays": 167,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "230618单细胞在线数据库：GREIN使用",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1CjxAzbEBA",
+      "bvid": "BV1CjxAzbEBA",
+      "plays": 496,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "230702复现：如何用TIMER数据开展免疫浸润分析",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1SAxAzMEkL",
+      "bvid": "BV1SAxAzMEkL",
+      "plays": 193,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "TIMER"
+      ]
+    },
+    {
+      "title": "230709单细胞：如何利用IMMUcan数据库展开单细胞数据分析",
+      "date": "2025-10-26",
+      "url": "https://www.bilibili.com/video/BV1QZxwzrEBP",
+      "bvid": "BV1QZxwzrEBP",
+      "plays": 239,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "230806：GEO芯片数据处理实操演示（21天教程）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV11os9zgEKs",
+      "bvid": "BV11os9zgEKs",
+      "plays": 180,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "GEO"
+      ]
+    },
+    {
+      "title": "230924思维导图：单细胞数据分析的内容和流程",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV14vsRz5E5Q",
+      "bvid": "BV14vsRz5E5Q",
+      "plays": 640,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "231015在线平台：TISCH最新使用方式",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1o5sRzZEVh",
+      "bvid": "BV1o5sRzZEVh",
+      "plays": 474,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "TISCH"
+      ]
+    },
+    {
+      "title": "231015生信实操：Seurat官方教程的使用方法",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1ijsRz4EiZ",
+      "bvid": "BV1ijsRz4EiZ",
+      "plays": 351,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "Seurat"
+      ]
+    },
+    {
+      "title": "231022生信实操：单细胞差异分析实操与解读",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1BVsRzbENn",
+      "bvid": "BV1BVsRzbENn",
+      "plays": 211,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "231022在线分析：蛋白组实操LinkedOmicsKB（苹果）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV19nsRz9EKt",
+      "bvid": "BV19nsRz9EKt",
+      "plays": 60,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "LinkedOmics"
+      ]
+    },
+    {
+      "title": "231105在线实操：TIMER数据库介绍和实战（更详细版本）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1eJsRzsEpt",
+      "bvid": "BV1eJsRzsEpt",
+      "plays": 891,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "TIMER"
+      ]
+    },
+    {
+      "title": "231203GEPIA实操：（复现）趋化因子的生存分析热图",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1LfsRzZEH6",
+      "bvid": "BV1LfsRzZEH6",
+      "plays": 283,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "GEPIA"
+      ]
+    },
+    {
+      "title": "231203GEO实操：如何检索目标数据集",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV15fsRzZE1S",
+      "bvid": "BV15fsRzZE1S",
+      "plays": 648,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "GEO"
+      ]
+    },
+    {
+      "title": "231210：如何开展单细胞数据挖掘&TISH数据库使用（21天教程）",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1qosRzFEWf",
+      "bvid": "BV1qosRzFEWf",
+      "plays": 272,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "数据挖掘"
+      ]
+    },
+    {
+      "title": "231217：单细胞数据对象构建及其参数设置 (芒果)",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV12isRzCEyQ",
+      "bvid": "BV12isRzCEyQ",
+      "plays": 113,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "240107GEPIA2联合TCGAplot筛选课题策略",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1pksRzzErm",
+      "bvid": "BV1pksRzzErm",
+      "plays": 175,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "TCGA",
+        "GEPIA",
+        "TCGAplot"
+      ]
+    },
+    {
+      "title": "240107生信实战：GEO数据实操和富集分析实操演示",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1KjsdzjEUb",
+      "bvid": "BV1KjsdzjEUb",
+      "plays": 125,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "240317生信实战：GEO芯片数据处理中的平台思维",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1PpsdzGE7N",
+      "bvid": "BV1PpsdzGE7N",
+      "plays": 47,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "240324生信实战：cBioportal和ChIP Atlas数据库实操",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1KJsdz5EGR",
+      "bvid": "BV1KJsdz5EGR",
+      "plays": 636,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "0825单细胞数据挖掘的第三条路径？！",
+      "date": "2025-06-04",
+      "url": "https://www.bilibili.com/video/BV1987izJEYX",
+      "bvid": "BV1987izJEYX",
+      "plays": 989,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "数据挖掘"
+      ]
+    },
+    {
+      "title": "0908MOVICS，一站式TCGA数据分析",
+      "date": "2025-06-03",
+      "url": "https://www.bilibili.com/video/BV1Rg7tzcE6K",
+      "bvid": "BV1Rg7tzcE6K",
+      "plays": 507,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "TCGA",
+        "MOVICS"
+      ]
+    },
+    {
+      "title": "0908limma包，芯片数据处理的标准定式",
+      "date": "2025-06-03",
+      "url": "https://www.bilibili.com/video/BV1dg7tzcEkC",
+      "bvid": "BV1dg7tzcEkC",
+      "plays": 115,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "limma"
+      ]
+    },
+    {
+      "title": "0915生信实操：FileZilla和Linux简介",
+      "date": "2025-06-03",
+      "url": "https://www.bilibili.com/video/BV1oN7tzeEfh",
+      "bvid": "BV1oN7tzeEfh",
+      "plays": 165,
+      "likes": 0,
+      "category_key": "practical-foundations",
+      "category_title": "Practical Omics Foundations",
+      "matched_words": [
+        "Linux"
+      ]
+    },
+    {
+      "title": "1006单细胞数据分析，有些矛盾的细胞如何注释？",
+      "date": "2025-06-03",
+      "url": "https://www.bilibili.com/video/BV1yh7tz2Erq",
+      "bvid": "BV1yh7tz2Erq",
+      "plays": 447,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "1103生信实操：Linux实操中的Vim编辑器",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV18p7DzHE9z",
+      "bvid": "BV18p7DzHE9z",
+      "plays": 138,
+      "likes": 0,
+      "category_key": "practical-foundations",
+      "category_title": "Practical Omics Foundations",
+      "matched_words": [
+        "Linux"
+      ]
+    },
+    {
+      "title": "1208Liunx实操，原始测序数据的Mapping",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1fy7DzKEiz",
+      "bvid": "BV1fy7DzKEiz",
+      "plays": 100,
+      "likes": 0,
+      "category_key": "practical-foundations",
+      "category_title": "Practical Omics Foundations",
+      "matched_words": [
+        "Mapping"
+      ]
+    },
+    {
+      "title": "1215代码实战，单细胞代谢分析包scMetabolism",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1uW7DzDESn",
+      "bvid": "BV1uW7DzDESn",
+      "plays": 1397,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0119生信实战：ggplot2原理和实操演示",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1aa7mzmE3E",
+      "bvid": "BV1aa7mzmE3E",
+      "plays": 210,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "0223思路分享：单细胞数据挖掘的一般思路",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1tC7mzgELx",
+      "bvid": "BV1tC7mzgELx",
+      "plays": 1325,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "数据挖掘"
+      ]
+    },
+    {
+      "title": "0223：生信实战：单细胞数据实战分享（GSE157783）",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1Ts7UzGEH1",
+      "bvid": "BV1Ts7UzGEH1",
+      "plays": 2361,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "0302：实操演示，单细胞数据滚打包收（GSE157783）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1fiEEzLEHL",
+      "bvid": "BV1fiEEzLEHL",
+      "plays": 237,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0302：单细胞文献Fig解读",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV151EEzgEyf",
+      "bvid": "BV151EEzgEyf",
+      "plays": 246,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0302：打卡学习，单细胞21天内容归纳整理",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1dkEEz3EsX",
+      "bvid": "BV1dkEEz3EsX",
+      "plays": 389,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0309：21天教程：单细胞数据细胞通讯实操（多分组）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1qnEJzLEoe",
+      "bvid": "BV1qnEJzLEoe",
+      "plays": 527,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0309：单细胞分析中WGCNA包的安装方法",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1ZnEJzLEnE",
+      "bvid": "BV1ZnEJzLEnE",
+      "plays": 182,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞",
+        "WGCNA"
+      ]
+    },
+    {
+      "title": "0316：21天教程，单细胞数据实操演示和解读",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV19kEjzYEw4",
+      "bvid": "BV19kEjzYEw4",
+      "plays": 632,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0323：代码解读，从芯片数据到单细胞数据实操演示（后面代码演示因网络未成功）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1AWEjz2E7A",
+      "bvid": "BV1AWEjz2E7A",
+      "plays": 210,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0323：文献分享，果友提供的单细胞论文，思路解读",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1wWEjz2Esd",
+      "bvid": "BV1wWEjz2Esd",
+      "plays": 404,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "0330:代码解读，单细胞Seurat数据对象构建实战",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1F8EjzkE6L",
+      "bvid": "BV1F8EjzkE6L",
+      "plays": 329,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞",
+        "Seurat"
+      ]
+    },
+    {
+      "title": "单细胞差异分析思路大揭秘_值得借鉴",
+      "date": "2025-03-23",
+      "url": "https://www.bilibili.com/video/BV1eoXhYSEED",
+      "bvid": "BV1eoXhYSEED",
+      "plays": 4509,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "打卡学习，单细胞21天内容归纳整理",
+      "date": "2025-03-02",
+      "url": "https://www.bilibili.com/video/BV14q98YBELM",
+      "bvid": "BV14q98YBELM",
+      "plays": 2340,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "实操演示：单细胞数据滚打包收（GSE157783）",
+      "date": "2025-03-02",
+      "url": "https://www.bilibili.com/video/BV1be98Y6ECp",
+      "bvid": "BV1be98Y6ECp",
+      "plays": 2192,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "思路分享：单细胞数据挖掘的一般思路",
+      "date": "2025-02-23",
+      "url": "https://www.bilibili.com/video/BV1FCASeBEPg",
+      "bvid": "BV1FCASeBEPg",
+      "plays": 9564,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "数据挖掘"
+      ]
+    },
+    {
+      "title": "生信实战：单细胞数据实战分享（GSE157783）",
+      "date": "2025-02-23",
+      "url": "https://www.bilibili.com/video/BV1T3ADeJEcV",
+      "bvid": "BV1T3ADeJEcV",
+      "plays": 14801,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信实战"
+      ]
+    },
+    {
+      "title": "导航网，开启单细胞、肿瘤和免疫资源的整合",
+      "date": "2024-07-28",
+      "url": "https://www.bilibili.com/video/BV1Qb421E7Zh",
+      "bvid": "BV1Qb421E7Zh",
+      "plays": 1643,
+      "likes": 0,
+      "category_key": "single-cell-and-platforms",
+      "category_title": "Single-Cell And Online Platforms",
+      "matched_words": [
+        "单细胞"
+      ]
+    },
+    {
+      "title": "纯生信01.常规生信套路",
+      "date": "2024-07-08",
+      "url": "https://www.bilibili.com/video/BV11H4y1w7PU",
+      "bvid": "BV11H4y1w7PU",
+      "plays": 6529,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "纯生信"
+      ]
+    },
+    {
+      "title": "生信在线分析教程",
+      "date": "2024-04-24",
+      "url": "https://www.bilibili.com/video/BV1zD421J73K",
+      "bvid": "BV1zD421J73K",
+      "plays": 4099,
+      "likes": 0,
+      "category_key": "bioinfo-strategy",
+      "category_title": "Bioinformatics Strategy And Practice",
+      "matched_words": [
+        "生信在线"
+      ]
+    },
+    {
+      "title": "TCGA实操02.用R绘制Tableone",
+      "date": "2022-06-05",
+      "url": "https://www.bilibili.com/video/BV1oY411M7KV",
+      "bvid": "BV1oY411M7KV",
+      "plays": 1249,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "TCGA"
+      ]
+    },
+    {
+      "title": "TCGA实操01.绘制瀑布图",
+      "date": "2022-05-29",
+      "url": "https://www.bilibili.com/video/BV1gv4y1w7Nh",
+      "bvid": "BV1gv4y1w7Nh",
+      "plays": 1954,
+      "likes": 0,
+      "category_key": "geo-tcga",
+      "category_title": "GEO And TCGA Workflows",
+      "matched_words": [
+        "TCGA"
+      ]
+    }
+  ]
+}

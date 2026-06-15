@@ -1,0 +1,357 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-network-pharmacology-target-databases",
+  "focus": "network pharmacology databases and target-resource mapping",
+  "count": 10,
+  "items": [
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "12、筛选关键靶点与核心活性成分",
+      "date": "2026-01-19",
+      "url": "https://www.bilibili.com/video/BV1AzkaBNEHY",
+      "id": "BV1AzkaBNEHY",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "活性成分"
+      ],
+      "extra": {
+        "title": "12、筛选关键靶点与核心活性成分",
+        "date": "2026-01-19",
+        "url": "https://www.bilibili.com/video/BV1AzkaBNEHY",
+        "bvid": "BV1AzkaBNEHY",
+        "plays": 5364,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "活性成分"
+        ]
+      },
+      "text_blob": "12、筛选关键靶点与核心活性成分 active components and databases  活性成分",
+      "tags_lower": [
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "12、筛选关键靶点与核心活性成分"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "23.新版DAVID数据库的使用方法",
+      "date": "2026-01-07",
+      "url": "https://www.bilibili.com/video/BV1cEquBXEot",
+      "id": "BV1cEquBXEot",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "数据库",
+        "DAVID"
+      ],
+      "extra": {
+        "title": "23.新版DAVID数据库的使用方法",
+        "date": "2026-01-07",
+        "url": "https://www.bilibili.com/video/BV1cEquBXEot",
+        "bvid": "BV1cEquBXEot",
+        "plays": 3116,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "数据库",
+          "DAVID"
+        ]
+      },
+      "text_blob": "23.新版david数据库的使用方法 active components and databases  数据库 david",
+      "tags_lower": [
+        "david",
+        "数据库"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "23.新版david数据库的使用方法"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "20.  batman数据库、症状映射数据库（SymMap）、中医药整合药理学研究平台---获取中药活性成分",
+      "date": "2025-05-20",
+      "url": "https://www.bilibili.com/video/BV1NFJGz6EMB",
+      "id": "BV1NFJGz6EMB",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "活性成分",
+        "数据库"
+      ],
+      "extra": {
+        "title": "20.  batman数据库、症状映射数据库（SymMap）、中医药整合药理学研究平台---获取中药活性成分",
+        "date": "2025-05-20",
+        "url": "https://www.bilibili.com/video/BV1NFJGz6EMB",
+        "bvid": "BV1NFJGz6EMB",
+        "plays": 2747,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "活性成分",
+          "数据库"
+        ]
+      },
+      "text_blob": "20.  batman数据库、症状映射数据库（symmap）、中医药整合药理学研究平台---获取中药活性成分 active components and databases  活性成分 数据库",
+      "tags_lower": [
+        "数据库",
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "20.  batman数据库、症状映射数据库（symmap）、中医药整合药理学研究平台---获取中药活性成分"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "18.TCMSP中找不到活性成分改怎么办：用Herb查找活性成分",
+      "date": "2025-05-18",
+      "url": "https://www.bilibili.com/video/BV1TdJ3zVELW",
+      "id": "BV1TdJ3zVELW",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "TCMSP",
+        "Herb",
+        "活性成分"
+      ],
+      "extra": {
+        "title": "18.TCMSP中找不到活性成分改怎么办：用Herb查找活性成分",
+        "date": "2025-05-18",
+        "url": "https://www.bilibili.com/video/BV1TdJ3zVELW",
+        "bvid": "BV1TdJ3zVELW",
+        "plays": 8716,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "TCMSP",
+          "Herb",
+          "活性成分"
+        ]
+      },
+      "text_blob": "18.tcmsp中找不到活性成分改怎么办：用herb查找活性成分 active components and databases  tcmsp herb 活性成分",
+      "tags_lower": [
+        "herb",
+        "tcmsp",
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "18.tcmsp中找不到活性成分改怎么办：用herb查找活性成分"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "16.1  GO、KEGG富集分析（DAVID数据库获取数据）",
+      "date": "2025-04-28",
+      "url": "https://www.bilibili.com/video/BV1LMLmz7EU8",
+      "id": "BV1LMLmz7EU8",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "数据库",
+        "DAVID"
+      ],
+      "extra": {
+        "title": "16.1  GO、KEGG富集分析（DAVID数据库获取数据）",
+        "date": "2025-04-28",
+        "url": "https://www.bilibili.com/video/BV1LMLmz7EU8",
+        "bvid": "BV1LMLmz7EU8",
+        "plays": 48686,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "数据库",
+          "DAVID"
+        ]
+      },
+      "text_blob": "16.1  go、kegg富集分析（david数据库获取数据） active components and databases  数据库 david",
+      "tags_lower": [
+        "david",
+        "数据库"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "16.1  go、kegg富集分析（david数据库获取数据）"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "13、如何下载活性成分的2D结构和关键靶点的3D结构",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1vT5EzhEm3",
+      "id": "BV1vT5EzhEm3",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "活性成分"
+      ],
+      "extra": {
+        "title": "13、如何下载活性成分的2D结构和关键靶点的3D结构",
+        "date": "2025-04-18",
+        "url": "https://www.bilibili.com/video/BV1vT5EzhEm3",
+        "bvid": "BV1vT5EzhEm3",
+        "plays": 5872,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "活性成分"
+        ]
+      },
+      "text_blob": "13、如何下载活性成分的2d结构和关键靶点的3d结构 active components and databases  活性成分",
+      "tags_lower": [
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "13、如何下载活性成分的2d结构和关键靶点的3d结构"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "5、韦恩图的制作",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1Kqo5YPEiB",
+      "id": "BV1Kqo5YPEiB",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "5、韦恩图的制作",
+        "date": "2025-04-14",
+        "url": "https://www.bilibili.com/video/BV1Kqo5YPEiB",
+        "bvid": "BV1Kqo5YPEiB",
+        "plays": 10593,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": []
+      },
+      "text_blob": "5、韦恩图的制作 active components and databases  ",
+      "tags_lower": [],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "5、韦恩图的制作"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "3、中药活性成分对应靶点的汇总",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1NvoGYoEVd",
+      "id": "BV1NvoGYoEVd",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "活性成分"
+      ],
+      "extra": {
+        "title": "3、中药活性成分对应靶点的汇总",
+        "date": "2025-04-14",
+        "url": "https://www.bilibili.com/video/BV1NvoGYoEVd",
+        "bvid": "BV1NvoGYoEVd",
+        "plays": 6604,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "活性成分"
+        ]
+      },
+      "text_blob": "3、中药活性成分对应靶点的汇总 active components and databases  活性成分",
+      "tags_lower": [
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "3、中药活性成分对应靶点的汇总"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "2、如何获取中药活性成分对应的靶点",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1GnoGYTEWS",
+      "id": "BV1GnoGYTEWS",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "活性成分"
+      ],
+      "extra": {
+        "title": "2、如何获取中药活性成分对应的靶点",
+        "date": "2025-04-14",
+        "url": "https://www.bilibili.com/video/BV1GnoGYTEWS",
+        "bvid": "BV1GnoGYTEWS",
+        "plays": 8829,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "活性成分"
+        ]
+      },
+      "text_blob": "2、如何获取中药活性成分对应的靶点 active components and databases  活性成分",
+      "tags_lower": [
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "2、如何获取中药活性成分对应的靶点"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "1、中药活性成分的筛选",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV19EoGYBEJ4",
+      "id": "BV19EoGYBEJ4",
+      "category": "Active Components And Databases",
+      "summary": "",
+      "tags": [
+        "活性成分"
+      ],
+      "extra": {
+        "title": "1、中药活性成分的筛选",
+        "date": "2025-04-14",
+        "url": "https://www.bilibili.com/video/BV19EoGYBEJ4",
+        "bvid": "BV19EoGYBEJ4",
+        "plays": 7156,
+        "likes": 0,
+        "category_key": "activity-and-databases",
+        "category_title": "Active Components And Databases",
+        "matched_words": [
+          "活性成分"
+        ]
+      },
+      "text_blob": "1、中药活性成分的筛选 active components and databases  活性成分",
+      "tags_lower": [
+        "活性成分"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "active components and databases",
+      "title_lower": "1、中药活性成分的筛选"
+    }
+  ]
+}

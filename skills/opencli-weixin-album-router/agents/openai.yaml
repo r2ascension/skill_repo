@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin Album Router"
+  short_description: "Route maintained Weixin album skills."
+  default_prompt: "Use $opencli-weixin-album-router to choose the right opencli-backed Weixin album skill when the user provides Weixin album links or asks for a maintained article collection."

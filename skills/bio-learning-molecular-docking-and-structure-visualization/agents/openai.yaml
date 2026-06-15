@@ -1,0 +1,4 @@
+interface:
+  display_name: "Molecular Docking And Structure Visualization Learning"
+  short_description: "Cross-source learning skill for molecular docking, docking setup, and structure visualization with PyMOL or related tooling."
+  default_prompt: "Use $bio-learning-molecular-docking-and-structure-visualization when the user wants learning content organized by concrete function rather than by creator or album source."

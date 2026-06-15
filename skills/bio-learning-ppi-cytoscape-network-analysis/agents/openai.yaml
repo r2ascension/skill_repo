@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPI Cytoscape Network Analysis Learning"
+  short_description: "Cross-source learning skill for PPI construction, Cytoscape workflows, and graph-based target-network analysis."
+  default_prompt: "Use $bio-learning-ppi-cytoscape-network-analysis when the user wants learning content organized by concrete function rather than by creator or album source."

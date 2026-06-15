@@ -1,0 +1,590 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "养鸭人家",
+  "uid": "631273618",
+  "channel_url": "https://space.bilibili.com/631273618",
+  "scope_note": "keep videos that directly teach AI tools for data analysis, scientific research, writing, project management, DeepSeek practice, or adjacent open-science workflow; keep any explicit bioinformatics items that appear in future refreshes",
+  "count": 44,
+  "videos": [
+    {
+      "title": "20260526_OpenClaw与DeepSeek的一些应用",
+      "date": "2026-05-26",
+      "url": "https://www.bilibili.com/video/BV1FDVN6DEFF",
+      "bvid": "BV1FDVN6DEFF",
+      "plays": 176,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek",
+        "OpenClaw"
+      ]
+    },
+    {
+      "title": "20251122 与图书馆和科研人员密切相关的合理使用",
+      "date": "2025-11-23",
+      "url": "https://www.bilibili.com/video/BV1QfUABJEFy",
+      "bvid": "BV1QfUABJEFy",
+      "plays": 161,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "科研"
+      ]
+    },
+    {
+      "title": "20251031 AI辅助编程和数据分析应用",
+      "date": "2025-10-31",
+      "url": "https://www.bilibili.com/video/BV1Df1NB7Eep",
+      "bvid": "BV1Df1NB7Eep",
+      "plays": 280,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI",
+        "编程",
+        "数据分析"
+      ]
+    },
+    {
+      "title": "20251030 人工智能的社会影响力与图书馆员的能力增强",
+      "date": "2025-10-30",
+      "url": "https://www.bilibili.com/video/BV1ffy8B8E7S",
+      "bvid": "BV1ffy8B8E7S",
+      "plays": 170,
+      "likes": 0,
+      "category_key": "productivity-and-literacy",
+      "category_title": "Productivity, Editing, And AI Literacy",
+      "matched_words": [
+        "图书馆"
+      ]
+    },
+    {
+      "title": "20251016大模型在生物技术科研论文的应用",
+      "date": "2025-10-16",
+      "url": "https://www.bilibili.com/video/BV1UYWzziEF2",
+      "bvid": "BV1UYWzziEF2",
+      "plays": 347,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "论文",
+        "科研"
+      ]
+    },
+    {
+      "title": "20250914 基于AI技术的医学论文框架构建与逻辑梳理",
+      "date": "2025-09-29",
+      "url": "https://www.bilibili.com/video/BV1StHfz9Eyc",
+      "bvid": "BV1StHfz9Eyc",
+      "plays": 294,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250920 AI技术赋能下的科研项目全流程管理实践",
+      "date": "2025-09-23",
+      "url": "https://www.bilibili.com/video/BV1x8pKziEhi",
+      "bvid": "BV1x8pKziEhi",
+      "plays": 394,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250916 利用AI工具提升办公与科学研究的效率",
+      "date": "2025-09-17",
+      "url": "https://www.bilibili.com/video/BV1Unp4zAE65",
+      "bvid": "BV1Unp4zAE65",
+      "plays": 358,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250731 数据论文评价与遴选（讨论环节回答问题）",
+      "date": "2025-07-31",
+      "url": "https://www.bilibili.com/video/BV11v8kzWEj8",
+      "bvid": "BV11v8kzWEj8",
+      "plays": 180,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "论文"
+      ]
+    },
+    {
+      "title": "20250731 数据论文评价与遴选（讨论稿）",
+      "date": "2025-07-31",
+      "url": "https://www.bilibili.com/video/BV1ac8CziERX",
+      "bvid": "BV1ac8CziERX",
+      "plays": 266,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "论文"
+      ]
+    },
+    {
+      "title": "20250725 学术写作特征与AI生成文本的典型漏洞II",
+      "date": "2025-07-25",
+      "url": "https://www.bilibili.com/video/BV1XRbRzNEV3",
+      "bvid": "BV1XRbRzNEV3",
+      "plays": 24856,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250716 学术写作特征与AI生成文本的典型漏洞",
+      "date": "2025-07-16",
+      "url": "https://www.bilibili.com/video/BV1oeufziEiD",
+      "bvid": "BV1oeufziEiD",
+      "plays": 7442,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250707 生成式人工智能与DeepSeek实战",
+      "date": "2025-07-07",
+      "url": "https://www.bilibili.com/video/BV1mT32zWEuq",
+      "bvid": "BV1mT32zWEuq",
+      "plays": 383,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "20250704 利用AIGC支持学术研究的全流程：从想法、初稿、调查、写作到宣传",
+      "date": "2025-07-04",
+      "url": "https://www.bilibili.com/video/BV1RB3jzDEhQ",
+      "bvid": "BV1RB3jzDEhQ",
+      "plays": 1441,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250620 利用AI工具辅助编辑出版工作（下）",
+      "date": "2025-06-20",
+      "url": "https://www.bilibili.com/video/BV1pCKTzZE49",
+      "bvid": "BV1pCKTzZE49",
+      "plays": 457,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250620 利用 AI工具辅助编辑出版工作（上）",
+      "date": "2025-06-20",
+      "url": "https://www.bilibili.com/video/BV1AxKMzFET6",
+      "bvid": "BV1AxKMzFET6",
+      "plays": 299,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250619 AI辅助科研论文写作",
+      "date": "2025-06-20",
+      "url": "https://www.bilibili.com/video/BV1mJNfzGEJR",
+      "bvid": "BV1mJNfzGEJR",
+      "plays": 3926,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250517 AI辅助临床医疗知识与科学传播",
+      "date": "2025-05-17",
+      "url": "https://www.bilibili.com/video/BV1A2JAz7EW3",
+      "bvid": "BV1A2JAz7EW3",
+      "plays": 73,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250509 AI赋能科研创新与智慧管理",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1hC79zeEnF",
+      "bvid": "BV1hC79zeEnF",
+      "plays": 145,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250508 人工智能赋能行政办公（上）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1ak79zNEiw",
+      "bvid": "BV1ak79zNEiw",
+      "plays": 1103,
+      "likes": 0,
+      "category_key": "productivity-and-literacy",
+      "category_title": "Productivity, Editing, And AI Literacy",
+      "matched_words": [
+        "办公"
+      ]
+    },
+    {
+      "title": "20250508 人工智能赋能行政办公（下）",
+      "date": "2025-05-12",
+      "url": "https://www.bilibili.com/video/BV1h179zAExg",
+      "bvid": "BV1h179zAExg",
+      "plays": 616,
+      "likes": 0,
+      "category_key": "productivity-and-literacy",
+      "category_title": "Productivity, Editing, And AI Literacy",
+      "matched_words": [
+        "办公"
+      ]
+    },
+    {
+      "title": "20250506 利用AI修改论文的若干讨论",
+      "date": "2025-05-06",
+      "url": "https://www.bilibili.com/video/BV1X7VUzGECW",
+      "bvid": "BV1X7VUzGECW",
+      "plays": 304,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250428 DeepSeek实践与应用",
+      "date": "2025-04-29",
+      "url": "https://www.bilibili.com/video/BV1VvGrz9EWs",
+      "bvid": "BV1VvGrz9EWs",
+      "plays": 141,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "20250408 深度求索DeepSeek介绍",
+      "date": "2025-04-28",
+      "url": "https://www.bilibili.com/video/BV1kxLCzEEu4",
+      "bvid": "BV1kxLCzEEu4",
+      "plays": 45,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "20250401 深度求索DeepSeek培训",
+      "date": "2025-04-27",
+      "url": "https://www.bilibili.com/video/BV1FyL6zzEYT",
+      "bvid": "BV1FyL6zzEYT",
+      "plays": 80,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "20250422 人工智能系列讲座之三——DeepSeek加速办公科研学习生活",
+      "date": "2025-04-24",
+      "url": "https://www.bilibili.com/video/BV1AaLizwE47",
+      "bvid": "BV1AaLizwE47",
+      "plays": 179,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "20250423 AI驱动科研创新：从文献检索到论文发表的全流程优化",
+      "date": "2025-04-23",
+      "url": "https://www.bilibili.com/video/BV1AGLxzNEay",
+      "bvid": "BV1AGLxzNEay",
+      "plays": 246,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250409_图书馆员在当前情势下具备的AI素养",
+      "date": "2025-04-11",
+      "url": "https://www.bilibili.com/video/BV14udDYNEaF",
+      "bvid": "BV14udDYNEaF",
+      "plays": 133,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250402 利用推理大模型（Reason LLMs) 提升办公效率",
+      "date": "2025-04-02",
+      "url": "https://www.bilibili.com/video/BV1q2fwYxEAD",
+      "bvid": "BV1q2fwYxEAD",
+      "plays": 165,
+      "likes": 0,
+      "category_key": "productivity-and-literacy",
+      "category_title": "Productivity, Editing, And AI Literacy",
+      "matched_words": [
+        "办公"
+      ]
+    },
+    {
+      "title": "20250325_利用AI辅助科研管理_讨论部分_顾立平",
+      "date": "2025-03-31",
+      "url": "https://www.bilibili.com/video/BV1BbZHY1EZ7",
+      "bvid": "BV1BbZHY1EZ7",
+      "plays": 98,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250325_利用AI辅助科研管理_顾立平",
+      "date": "2025-03-31",
+      "url": "https://www.bilibili.com/video/BV1fbZHY1Efv",
+      "bvid": "BV1fbZHY1Efv",
+      "plays": 386,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250321_齐鲁学术论坛100期系列学术活动_利用AI辅助科研设计与提案修改",
+      "date": "2025-03-22",
+      "url": "https://www.bilibili.com/video/BV1JNXHYeEuZ",
+      "bvid": "BV1JNXHYeEuZ",
+      "plays": 149,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20250304_利用泛DeepSeek开展新型信息服务",
+      "date": "2025-03-10",
+      "url": "https://www.bilibili.com/video/BV1S4RVYPEm6",
+      "bvid": "BV1S4RVYPEm6",
+      "plays": 248,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "20250303_智选DeepSeek提升办公效率的方式",
+      "date": "2025-03-10",
+      "url": "https://www.bilibili.com/video/BV1XHRVYqEvA",
+      "bvid": "BV1XHRVYqEvA",
+      "plays": 389,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "七、量子计算机：研究时间晶体的挑战",
+      "date": "2024-12-18",
+      "url": "https://www.bilibili.com/video/BV1VykPYmE8i",
+      "bvid": "BV1VykPYmE8i",
+      "plays": 28,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "研究"
+      ]
+    },
+    {
+      "title": "六、量子计算机：在研究时间晶体中的应用",
+      "date": "2024-12-17",
+      "url": "https://www.bilibili.com/video/BV1BtkpY3EnV",
+      "bvid": "BV1BtkpY3EnV",
+      "plays": 63,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "研究"
+      ]
+    },
+    {
+      "title": "五、量子计算机：用于研究和学习物理现象",
+      "date": "2024-12-17",
+      "url": "https://www.bilibili.com/video/BV1qtkpY3E9Q",
+      "bvid": "BV1qtkpY3E9Q",
+      "plays": 101,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "研究"
+      ]
+    },
+    {
+      "title": "20241212谷歌AI最新进展（Gemini2.0）",
+      "date": "2024-12-11",
+      "url": "https://www.bilibili.com/video/BV1dFqtYTEG5",
+      "bvid": "BV1dFqtYTEG5",
+      "plays": 186,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "20241209GPTo1的特殊用法",
+      "date": "2024-12-09",
+      "url": "https://www.bilibili.com/video/BV132qNYqEd8",
+      "bvid": "BV132qNYqEd8",
+      "plays": 42,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "GPT"
+      ]
+    },
+    {
+      "title": "全球AI研究议程与行动指南（美国）",
+      "date": "2024-12-08",
+      "url": "https://www.bilibili.com/video/BV1rfqHYYEhr",
+      "bvid": "BV1rfqHYYEhr",
+      "plays": 15,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI"
+      ]
+    },
+    {
+      "title": "20241208科研论文的故事力",
+      "date": "2024-12-08",
+      "url": "https://www.bilibili.com/video/BV1GVqnYLEF1",
+      "bvid": "BV1GVqnYLEF1",
+      "plays": 137,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "论文",
+        "科研"
+      ]
+    },
+    {
+      "title": "20241208科研idea自动生成工具",
+      "date": "2024-12-08",
+      "url": "https://www.bilibili.com/video/BV135qnYyE1n",
+      "bvid": "BV135qnYyE1n",
+      "plays": 294,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "科研"
+      ]
+    },
+    {
+      "title": "OpenAI发布GPT4.5及其行业影响",
+      "date": "2024-12-08",
+      "url": "https://www.bilibili.com/video/BV1nQq7YQEGd",
+      "bvid": "BV1nQq7YQEGd",
+      "plays": 172,
+      "likes": 0,
+      "category_key": "ai-tools-and-practice",
+      "category_title": "AI Tools And Practical Workflow",
+      "matched_words": [
+        "AI",
+        "OpenAI",
+        "GPT"
+      ]
+    },
+    {
+      "title": "信息科学与技术09商业与组织研究",
+      "date": "2024-03-11",
+      "url": "https://www.bilibili.com/video/BV1yW421c7Dk",
+      "bvid": "BV1yW421c7Dk",
+      "plays": 88,
+      "likes": 0,
+      "category_key": "research-writing-and-projects",
+      "category_title": "Research Writing And Project Workflow",
+      "matched_words": [
+        "研究"
+      ]
+    }
+  ]
+}

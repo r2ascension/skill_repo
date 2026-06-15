@@ -1,0 +1,35 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-de-wgcna-and-network-analysis",
+  "focus": "differential expression, WGCNA, and network analysis",
+  "count": 1,
+  "items": [
+    {
+      "source_skill": "opencli-hutongxue-research-bioinfo-cache",
+      "source_name": "大家好我是呼同学",
+      "platform": "bilibili",
+      "title": "第一作者视角：带你看懂SCI文章中的差异分析、WGCNA和PPI蛋白网络",
+      "date": "2026-05-22",
+      "url": "https://www.bilibili.com/video/BV1wVLY6qEeH",
+      "id": "BV1wVLY6qEeH",
+      "category": "DE WGCNA And Network Analysis",
+      "summary": "",
+      "tags": [],
+      "extra": {
+        "title": "第一作者视角：带你看懂SCI文章中的差异分析、WGCNA和PPI蛋白网络",
+        "date": "2026-05-22",
+        "url": "https://www.bilibili.com/video/BV1wVLY6qEeH",
+        "bvid": "BV1wVLY6qEeH",
+        "plays": 2371,
+        "likes": 0,
+        "category_key": "deg-wgcna-and-network",
+        "category_title": "DE WGCNA And Network Analysis"
+      },
+      "text_blob": "第一作者视角：带你看懂sci文章中的差异分析、wgcna和ppi蛋白网络 de wgcna and network analysis  ",
+      "tags_lower": [],
+      "source_lower": "opencli-hutongxue-research-bioinfo-cache",
+      "category_lower": "de wgcna and network analysis",
+      "title_lower": "第一作者视角：带你看懂sci文章中的差异分析、wgcna和ppi蛋白网络"
+    }
+  ]
+}

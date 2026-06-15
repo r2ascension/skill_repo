@@ -1,0 +1,597 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "外科小小硕",
+  "uid": "277408458",
+  "channel_url": "https://space.bilibili.com/277408458",
+  "scope_note": "keep videos about plotting, AI tools for analysis or writing, Codex or ClaudeR workflow, prediction-model methodology, or broader research-method execution",
+  "count": 44,
+  "videos": [
+    {
+      "title": "投稿改格式太烦？Codex 搞定期刊格式调整",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV1ht7X61EQr",
+      "bvid": "BV1ht7X61EQr",
+      "plays": 1633,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Codex"
+      ]
+    },
+    {
+      "title": "Codex搭配skill实现临床数据自动统计分析和写作！30分钟搞定初稿",
+      "date": "2026-05-29",
+      "url": "https://www.bilibili.com/video/BV1MHVh6iE31",
+      "bvid": "BV1MHVh6iE31",
+      "plays": 3466,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Codex"
+      ]
+    },
+    {
+      "title": "把Claude code丨Codex接入Rstudio的工具ClaudeR体验分享，在分析步骤可控的情况下vibe coding",
+      "date": "2026-05-29",
+      "url": "https://www.bilibili.com/video/BV1E6Vh6WEDa",
+      "bvid": "BV1E6Vh6WEDa",
+      "plays": 2664,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Codex",
+        "Claude",
+        "Rstudio"
+      ]
+    },
+    {
+      "title": "【免费送模板】万字长文拆解临床预测模型写作全流程！审稿人再也挑不出刺！",
+      "date": "2026-04-23",
+      "url": "https://www.bilibili.com/video/BV1f8oWBuEjY",
+      "bvid": "BV1f8oWBuEjY",
+      "plays": 855,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型",
+        "写作"
+      ]
+    },
+    {
+      "title": "科研绘图高级感：R包ggmagnify一键自动局部放大",
+      "date": "2026-04-16",
+      "url": "https://www.bilibili.com/video/BV1DhdaB2ER3",
+      "bvid": "BV1DhdaB2ER3",
+      "plays": 1715,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图"
+      ]
+    },
+    {
+      "title": "Gemini+BioGDP科研绘图：草图变身顶刊标准",
+      "date": "2026-04-02",
+      "url": "https://www.bilibili.com/video/BV1kL9cBzEbg",
+      "bvid": "BV1kL9cBzEbg",
+      "plays": 6949,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Gemini"
+      ]
+    },
+    {
+      "title": "医学生科研代码基本不用自己写了：AI Agent 直接替你写、替你跑、替你改错",
+      "date": "2026-01-16",
+      "url": "https://www.bilibili.com/video/BV1tkkKBTE6M",
+      "bvid": "BV1tkkKBTE6M",
+      "plays": 5841,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "AI Agent"
+      ]
+    },
+    {
+      "title": "【无偿分享】万字长文临床预测模型写作指南｜结合TRIPOD+AI × BMJ 顶刊指南：从“选题—建模—验证—投稿”的全流程",
+      "date": "2026-01-07",
+      "url": "https://www.bilibili.com/video/BV1pwqcBhEWm",
+      "bvid": "BV1pwqcBhEWm",
+      "plays": 2867,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型",
+        "写作",
+        "投稿",
+        "指南",
+        "TRIPOD"
+      ]
+    },
+    {
+      "title": "Gemini 顶刊风格科研绘图提示词设置",
+      "date": "2025-11-30",
+      "url": "https://www.bilibili.com/video/BV17fSPBAEWX",
+      "bvid": "BV17fSPBAEWX",
+      "plays": 159404,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Gemini"
+      ]
+    },
+    {
+      "title": "大语言模型在医学科研的使用经验分享【随便说说】ChatGPT, Gemini 3, Deepseek, Claude",
+      "date": "2025-11-24",
+      "url": "https://www.bilibili.com/video/BV1U5UkBXEvF",
+      "bvid": "BV1U5UkBXEvF",
+      "plays": 1977,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Claude",
+        "DeepSeek",
+        "Gemini"
+      ]
+    },
+    {
+      "title": "临床预测模型已经不推荐使用单因素回归筛选变量",
+      "date": "2025-10-27",
+      "url": "https://www.bilibili.com/video/BV1W8sUzWEdE",
+      "bvid": "BV1W8sUzWEdE",
+      "plays": 6269,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "【外科小小硕】临床预测模型选题分析写作全流程课程发布！分享我100余套建模经验",
+      "date": "2025-09-25",
+      "url": "https://www.bilibili.com/video/BV1UonhzTEba",
+      "bvid": "BV1UonhzTEba",
+      "plays": 3445,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型",
+        "写作"
+      ]
+    },
+    {
+      "title": "【文献分享】速通机器学习临床预测模型文献两篇 都是有成熟套路的",
+      "date": "2025-08-25",
+      "url": "https://www.bilibili.com/video/BV13xeWzpEPK",
+      "bvid": "BV13xeWzpEPK",
+      "plays": 3531,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "【文献分享】Nature communications住院患者AKI机器学习临床预测模型",
+      "date": "2025-06-01",
+      "url": "https://www.bilibili.com/video/BV1kK73zfECj",
+      "bvid": "BV1kK73zfECj",
+      "plays": 3212,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "🔥26篇顶刊流程图总结！科研党必备的论文绘图参考（附pdf）",
+      "date": "2025-03-23",
+      "url": "https://www.bilibili.com/video/BV1PdX8YaEPc",
+      "bvid": "BV1PdX8YaEPc",
+      "plays": 2874,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图"
+      ]
+    },
+    {
+      "title": "【解决】DeepSeek服务器开小差导致全球科研工作难以开展怎么办？",
+      "date": "2025-02-09",
+      "url": "https://www.bilibili.com/video/BV1JzNUeuEW5",
+      "bvid": "BV1JzNUeuEW5",
+      "plays": 1491,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "DeepSeek科研笔记和PPT速通方法【VS Code丨Markdown丨Marp】",
+      "date": "2025-02-05",
+      "url": "https://www.bilibili.com/video/BV1ojPUecEuW",
+      "bvid": "BV1ojPUecEuW",
+      "plays": 9315,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "我写了一个R包提高二分类预测模型分析效率丨灵敏度 特异度 置信区间 训练集 验证集",
+      "date": "2025-01-08",
+      "url": "https://www.bilibili.com/video/BV1ptraYuEzH",
+      "bvid": "BV1ptraYuEzH",
+      "plays": 3331,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "机器学习临床预测模型全流程代码，一键出图，多模型对比，一个月水一篇SCI",
+      "date": "2024-10-30",
+      "url": "https://www.bilibili.com/video/BV1hkS3YmEJD",
+      "bvid": "BV1hkS3YmEJD",
+      "plays": 15368,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "高分SCI列线图临床预测模型表2复现教学【附代码】",
+      "date": "2024-09-23",
+      "url": "https://www.bilibili.com/video/BV1V5s9e8EqA",
+      "bvid": "BV1V5s9e8EqA",
+      "plays": 2391,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "【主页同款套路】5.4分回顾性临床预测模型列线图【6】",
+      "date": "2024-08-21",
+      "url": "https://www.bilibili.com/video/BV1RwW8e4E7R",
+      "bvid": "BV1RwW8e4E7R",
+      "plays": 3346,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "JCR1 区列线图临床预测模型文献分享【5】",
+      "date": "2024-08-18",
+      "url": "https://www.bilibili.com/video/BV1BSWPebEYX",
+      "bvid": "BV1BSWPebEYX",
+      "plays": 2574,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "IF=5.8机器学习临床预测模型文献分享【4】",
+      "date": "2024-08-17",
+      "url": "https://www.bilibili.com/video/BV1WJp9euE3J",
+      "bvid": "BV1WJp9euE3J",
+      "plays": 6776,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "分享一位专硕同学的二分类预测模型毕业论文【列线图】",
+      "date": "2024-08-08",
+      "url": "https://www.bilibili.com/video/BV126YpeSE5t",
+      "bvid": "BV126YpeSE5t",
+      "plays": 13448,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "8分钟学会科研图表拼图和美化基本操作【Adobe illustrator (AI)】",
+      "date": "2024-08-05",
+      "url": "https://www.bilibili.com/video/BV1WxYceDEsC",
+      "bvid": "BV1WxYceDEsC",
+      "plays": 15986,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "图表",
+        "Adobe illustrator"
+      ]
+    },
+    {
+      "title": "6.1分Q1,协和医院用seer数据库＋本院数据发列线图临床预测模型文章",
+      "date": "2024-08-05",
+      "url": "https://www.bilibili.com/video/BV1uZYcefEP2",
+      "bvid": "BV1uZYcefEP2",
+      "plays": 5307,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "IJS（IF:12.5）二分类问题临床预测模型文章分享【2】",
+      "date": "2024-07-22",
+      "url": "https://www.bilibili.com/video/BV1L2421Z7a5",
+      "bvid": "BV1L2421Z7a5",
+      "plays": 5213,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "【主页同款套路】12.5分回顾性临床预测模型列线图",
+      "date": "2024-07-20",
+      "url": "https://www.bilibili.com/video/BV1rM4m1y7fT",
+      "bvid": "BV1rM4m1y7fT",
+      "plays": 7362,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "R语言临床预测模型的混淆矩阵计算灵敏度、特异度、PPV、NPV和置信区间",
+      "date": "2024-05-25",
+      "url": "https://www.bilibili.com/video/BV19D42137FZ",
+      "bvid": "BV19D42137FZ",
+      "plays": 2474,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "预测模型蝴蝶图(镜面图)",
+      "date": "2024-05-14",
+      "url": "https://www.bilibili.com/video/BV17t421M7g3",
+      "bvid": "BV17t421M7g3",
+      "plays": 1632,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "SCI论文写作必不可少的科研配色解决方案",
+      "date": "2024-04-29",
+      "url": "https://www.bilibili.com/video/BV1rD421N7UC",
+      "bvid": "BV1rD421N7UC",
+      "plays": 874,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "写作"
+      ]
+    },
+    {
+      "title": "SCI科研绘图配色，从艺术作品中提取高级配色方案有多牛！",
+      "date": "2024-04-11",
+      "url": "https://www.bilibili.com/video/BV1tA4m1w7UV",
+      "bvid": "BV1tA4m1w7UV",
+      "plays": 2819,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图"
+      ]
+    },
+    {
+      "title": "R语言机器学习临床预测模型 全流程代码 2个月水一篇SCI 学硕专硕通用",
+      "date": "2024-03-22",
+      "url": "https://www.bilibili.com/video/BV1ux421Q7kM",
+      "bvid": "BV1ux421Q7kM",
+      "plays": 50969,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "R语言绘图丨两矩阵之间的相关性热图，叠加显著性检验",
+      "date": "2024-01-26",
+      "url": "https://www.bilibili.com/video/BV1QK4y1i7tS",
+      "bvid": "BV1QK4y1i7tS",
+      "plays": 4628,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图"
+      ]
+    },
+    {
+      "title": "生存分析列线图临床预测模型全套R语言代码丨一个月一篇sci",
+      "date": "2023-08-08",
+      "url": "https://www.bilibili.com/video/BV1qF411o7iy",
+      "bvid": "BV1qF411o7iy",
+      "plays": 9550,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "R语言临床预测模型经典文献分享1",
+      "date": "2023-04-03",
+      "url": "https://www.bilibili.com/video/BV1ij411w7R6",
+      "bvid": "BV1ij411w7R6",
+      "plays": 4968,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "R语言临床预测模型 一个月水一篇SCI 临床学硕专硕通用",
+      "date": "2023-03-29",
+      "url": "https://www.bilibili.com/video/BV1KV4y1Q7Q8",
+      "bvid": "BV1KV4y1Q7Q8",
+      "plays": 161190,
+      "likes": 0,
+      "category_key": "research-methods",
+      "category_title": "Research Methods And Writing",
+      "matched_words": [
+        "预测模型"
+      ]
+    },
+    {
+      "title": "Rstudio最简单的导入数据方法丨R语言数据导入",
+      "date": "2023-02-08",
+      "url": "https://www.bilibili.com/video/BV1224y1q7wt",
+      "bvid": "BV1224y1q7wt",
+      "plays": 8803,
+      "likes": 0,
+      "category_key": "ai-workflow",
+      "category_title": "AI Workflow And Coding Agents",
+      "matched_words": [
+        "Rstudio"
+      ]
+    },
+    {
+      "title": "两分钟AI科研绘图006，临摹工具的应用",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV1H84y1C7yF",
+      "bvid": "BV1H84y1C7yF",
+      "plays": 11781,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图",
+        "AI科研绘图"
+      ]
+    },
+    {
+      "title": "两分钟ai科研绘图系列005 临摹胞吞细胞",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV1uK411o73C",
+      "bvid": "BV1uK411o73C",
+      "plays": 1208,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图",
+        "AI科研绘图"
+      ]
+    },
+    {
+      "title": "两分钟科研绘图，细胞抗体标记",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV1W84y1C7yM",
+      "bvid": "BV1W84y1C7yM",
+      "plays": 688,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图"
+      ]
+    },
+    {
+      "title": "一分钟科研绘图纯享版，血细胞临摹",
+      "date": "2022-11-23",
+      "url": "https://www.bilibili.com/video/BV15v4y127LV",
+      "bvid": "BV15v4y127LV",
+      "plays": 430,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图"
+      ]
+    },
+    {
+      "title": "两分钟AI科研绘图系列002《离心管》",
+      "date": "2022-11-03",
+      "url": "https://www.bilibili.com/video/BV1oP4y1m7Pu",
+      "bvid": "BV1oP4y1m7Pu",
+      "plays": 1263,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图",
+        "AI科研绘图"
+      ]
+    },
+    {
+      "title": "两分钟AI科研绘图系列001《巨噬细胞》",
+      "date": "2022-11-03",
+      "url": "https://www.bilibili.com/video/BV1Tg411B7zF",
+      "bvid": "BV1Tg411B7zF",
+      "plays": 4052,
+      "likes": 0,
+      "category_key": "plotting-and-visualization",
+      "category_title": "Plotting And Visualization",
+      "matched_words": [
+        "绘图",
+        "AI科研绘图"
+      ]
+    }
+  ]
+}

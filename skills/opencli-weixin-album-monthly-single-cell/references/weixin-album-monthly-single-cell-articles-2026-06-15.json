@@ -1,0 +1,151 @@
+{
+  "snapshot_date": "2026-06-15",
+  "account": "",
+  "album_title": "",
+  "count": 13,
+  "articles": [
+    {
+      "title": "NicheNet微环境分析利器！原理",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247491754&idx=1&sn=146ddbe68add6621edd93e92014f4e0c&chksm=ce678e43f9100755d2d4632f97c863b0b90844b68e38278fc4e756e6071286595f9313b22e63#rd",
+      "msgid": "2247491754",
+      "itemidx": "1",
+      "pos_num": "13",
+      "date": "2026-06-03",
+      "category_key": "microenvironment-and-communication",
+      "category_title": "Microenvironment And Communication",
+      "brief": "Explains the core idea or mechanism behind a microenvironment and communication topic."
+    },
+    {
+      "title": "停止盲目试参数！空间转录组/单细胞如何设置合适的分辨率（resolution）本就是伪命题",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247491266&idx=1&sn=13075e2b4bef97dedd23425c52d57515&chksm=ce64702bf913f93d719efd51fce9703f1e22db15c831c77355d587c1fdea9fa7c05e88e72b73#rd",
+      "msgid": "2247491266",
+      "itemidx": "1",
+      "pos_num": "12",
+      "date": "2026-04-29",
+      "category_key": "workflow-and-parameters",
+      "category_title": "Workflow And Parameter Tuning",
+      "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+    },
+    {
+      "title": "UMI 总和 vs 非零基因数：nCount_RNA 与 nFeature_RNA 的 QC 逻辑全解析",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489956&idx=1&sn=c5865ed729e39b6620aa913021280816&chksm=ce64774df913fe5b160cca683a7f23a04ca1b380ce615c706d15226bbfb3c1e50e50aabe21bf#rd",
+      "msgid": "2247489956",
+      "itemidx": "1",
+      "pos_num": "11",
+      "date": "2025-09-20",
+      "category_key": "qc-and-preprocessing",
+      "category_title": "QC And Preprocessing",
+      "brief": "Explains the core idea or mechanism behind a qc and preprocessing topic."
+    },
+    {
+      "title": "SoupX/DecontX背景RNA污染清除",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489945&idx=1&sn=023c6a6c3716c143c057da3ffbfd46cf&chksm=ce647770f913fe6697b7a5752717cbe906d7c8503229c4c7eb132af28747238c481855ab8791#rd",
+      "msgid": "2247489945",
+      "itemidx": "1",
+      "pos_num": "10",
+      "date": "2025-09-16",
+      "category_key": "qc-and-preprocessing",
+      "category_title": "QC And Preprocessing",
+      "brief": "Relevant qc and preprocessing entry kept from the curated album."
+    },
+    {
+      "title": "最好的单细胞教程 质控策略（QC）",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489934&idx=1&sn=87c4b214cd83f6ded7fec189d5248f0c&chksm=ce647767f913fe71075d46b7627a0d53ac2ed094a256f014c38ea3a1ca96fbe434702b53b9c4#rd",
+      "msgid": "2247489934",
+      "itemidx": "1",
+      "pos_num": "9",
+      "date": "2025-09-15",
+      "category_key": "qc-and-preprocessing",
+      "category_title": "QC And Preprocessing",
+      "brief": "Practical qc and preprocessing article with a hands-on or tutorial emphasis."
+    },
+    {
+      "title": "单细胞测序数据分析标准流程详解",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247489875&idx=1&sn=9784aada9c45f70cdcddd07ff7d7bd1f&chksm=ce6477baf913feacce31feb303c9fe574e782f74b06d89b13b3f2dc6246c722825a1065b565b#rd",
+      "msgid": "2247489875",
+      "itemidx": "1",
+      "pos_num": "8",
+      "date": "2025-09-14",
+      "category_key": "workflow-and-parameters",
+      "category_title": "Workflow And Parameter Tuning",
+      "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+    },
+    {
+      "title": "单细胞测序并不一定需要去除批次效应",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484720&idx=1&sn=4445c7566122d248aa161dcf54960e96&chksm=ce646bd9f913e2cf5553cace507297845201f2d05265227cf3ddf6ae47029c37908da989db2c#rd",
+      "msgid": "2247484720",
+      "itemidx": "1",
+      "pos_num": "7",
+      "date": "2023-12-04",
+      "category_key": "workflow-and-parameters",
+      "category_title": "Workflow And Parameter Tuning",
+      "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+    },
+    {
+      "title": "Seurat读取不同数据格式以创建Seurat单细胞对象",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484537&idx=2&sn=edec540d48d99a1697d622a9c8cdad82&chksm=ce646a90f913e38660a2ae4090edbbcb0ed4b2eee12ad462c0a7cc96322d7547d9c68b6a9a18#rd",
+      "msgid": "2247484537",
+      "itemidx": "2",
+      "pos_num": "6",
+      "date": "2023-11-28",
+      "category_key": "workflow-and-parameters",
+      "category_title": "Workflow And Parameter Tuning",
+      "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+    },
+    {
+      "title": "infercnv 三回首：深入理解infercnv为何能发nature",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484275&idx=1&sn=b90267ee1c6c733edce71dc817e217ab&chksm=ce646d9af913e48c7023677dbc3f8799450af35eb04674b37d0c86bd31cd68f50c3dfebc2387#rd",
+      "msgid": "2247484275",
+      "itemidx": "1",
+      "pos_num": "5",
+      "date": "2023-11-18",
+      "category_key": "qc-and-preprocessing",
+      "category_title": "QC And Preprocessing",
+      "brief": "Relevant qc and preprocessing entry kept from the curated album."
+    },
+    {
+      "title": "infercnv官方全流程",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484275&idx=2&sn=3dbbb6b11b30ffc519de98181a1163b9&chksm=ce646d9af913e48ccbde8d9683d3ba80907d023b167d45304415ee6416e1e446e2be243c89d4#rd",
+      "msgid": "2247484275",
+      "itemidx": "2",
+      "pos_num": "4",
+      "date": "2023-11-18",
+      "category_key": "qc-and-preprocessing",
+      "category_title": "QC And Preprocessing",
+      "brief": "Relevant qc and preprocessing entry kept from the curated album."
+    },
+    {
+      "title": "infercnv官方全流程",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484117&idx=1&sn=e2ca8bd3865fec13cc46a5f0fad98fd4&chksm=ce646c3cf913e52ace25173ff84f1dd5137d0122b07d1931b8f9d7d6d1d96e192a3bcbf6a307#rd",
+      "msgid": "2247484117",
+      "itemidx": "1",
+      "pos_num": "3",
+      "date": "2023-10-26",
+      "category_key": "qc-and-preprocessing",
+      "category_title": "QC And Preprocessing",
+      "brief": "Relevant qc and preprocessing entry kept from the curated album."
+    },
+    {
+      "title": "单细胞聚类，究竟聚类聚成多少类比较合适？全代码分享",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484048&idx=1&sn=1605b2b25216b8f61bc3980dda5405e2&chksm=ce646c79f913e56ffce94fed4cb7269f24f33f56923459e3494e69a294e7d7a547f5b4fdbd98#rd",
+      "msgid": "2247484048",
+      "itemidx": "1",
+      "pos_num": "2",
+      "date": "2023-10-25",
+      "category_key": "workflow-and-parameters",
+      "category_title": "Workflow And Parameter Tuning",
+      "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+    },
+    {
+      "title": "单细胞cellchat细胞通讯-完整代码分享",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NDcxMzYwNg==&mid=2247484030&idx=1&sn=67fafba59fb2c696a228625e3fe66de5&chksm=ce646c97f913e581791f411376dbaca094fb145f5daa3f9e22fd4e7e749f1dd01f62dcfe8d30#rd",
+      "msgid": "2247484030",
+      "itemidx": "1",
+      "pos_num": "1",
+      "date": "2023-10-24",
+      "category_key": "workflow-and-parameters",
+      "category_title": "Workflow And Parameter Tuning",
+      "brief": "Relevant workflow and parameter tuning entry kept from the curated album."
+    }
+  ]
+}

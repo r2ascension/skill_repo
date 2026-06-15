@@ -1,0 +1,304 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-ppi-cytoscape-network-analysis",
+  "focus": "PPI construction, Cytoscape, and graph-based network analysis",
+  "count": 8,
+  "items": [
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "10、如何利用cytoscape构建“中药-疾病-交集靶点”网络",
+      "date": "2026-03-27",
+      "url": "https://www.bilibili.com/video/BV1STXMBNEsx",
+      "id": "BV1STXMBNEsx",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "cytoscape",
+        "靶点",
+        "网络"
+      ],
+      "extra": {
+        "title": "10、如何利用cytoscape构建“中药-疾病-交集靶点”网络",
+        "date": "2026-03-27",
+        "url": "https://www.bilibili.com/video/BV1STXMBNEsx",
+        "bvid": "BV1STXMBNEsx",
+        "plays": 7301,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "cytoscape",
+          "靶点",
+          "网络"
+        ]
+      },
+      "text_blob": "10、如何利用cytoscape构建“中药-疾病-交集靶点”网络 ppi and cytoscape  cytoscape 靶点 网络",
+      "tags_lower": [
+        "cytoscape",
+        "网络",
+        "靶点"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "10、如何利用cytoscape构建“中药-疾病-交集靶点”网络"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "22.”中药-疾病-交集靶点-通路“网络构建",
+      "date": "2026-01-19",
+      "url": "https://www.bilibili.com/video/BV1w6kaBeEeT",
+      "id": "BV1w6kaBeEeT",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "靶点",
+        "网络"
+      ],
+      "extra": {
+        "title": "22.”中药-疾病-交集靶点-通路“网络构建",
+        "date": "2026-01-19",
+        "url": "https://www.bilibili.com/video/BV1w6kaBeEeT",
+        "bvid": "BV1w6kaBeEeT",
+        "plays": 8787,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "靶点",
+          "网络"
+        ]
+      },
+      "text_blob": "22.”中药-疾病-交集靶点-通路“网络构建 ppi and cytoscape  靶点 网络",
+      "tags_lower": [
+        "网络",
+        "靶点"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "22.”中药-疾病-交集靶点-通路“网络构建"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "8、如何运用Cytoscape构建PPI网络",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1YZ5rzdEP9",
+      "id": "BV1YZ5rzdEP9",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "cytoscape",
+        "PPI",
+        "网络"
+      ],
+      "extra": {
+        "title": "8、如何运用Cytoscape构建PPI网络",
+        "date": "2025-04-18",
+        "url": "https://www.bilibili.com/video/BV1YZ5rzdEP9",
+        "bvid": "BV1YZ5rzdEP9",
+        "plays": 36863,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "cytoscape",
+          "PPI",
+          "网络"
+        ]
+      },
+      "text_blob": "8、如何运用cytoscape构建ppi网络 ppi and cytoscape  cytoscape ppi 网络",
+      "tags_lower": [
+        "cytoscape",
+        "ppi",
+        "网络"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "8、如何运用cytoscape构建ppi网络"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "9、构建“中药-疾病-交集靶点”网络的前期准备",
+      "date": "2025-04-17",
+      "url": "https://www.bilibili.com/video/BV1pc5ezDE1K",
+      "id": "BV1pc5ezDE1K",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "靶点",
+        "网络"
+      ],
+      "extra": {
+        "title": "9、构建“中药-疾病-交集靶点”网络的前期准备",
+        "date": "2025-04-17",
+        "url": "https://www.bilibili.com/video/BV1pc5ezDE1K",
+        "bvid": "BV1pc5ezDE1K",
+        "plays": 23652,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "靶点",
+          "网络"
+        ]
+      },
+      "text_blob": "9、构建“中药-疾病-交集靶点”网络的前期准备 ppi and cytoscape  靶点 网络",
+      "tags_lower": [
+        "网络",
+        "靶点"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "9、构建“中药-疾病-交集靶点”网络的前期准备"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "7、如何安装cytoscape",
+      "date": "2025-04-17",
+      "url": "https://www.bilibili.com/video/BV1mQ5YzoE76",
+      "id": "BV1mQ5YzoE76",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "cytoscape"
+      ],
+      "extra": {
+        "title": "7、如何安装cytoscape",
+        "date": "2025-04-17",
+        "url": "https://www.bilibili.com/video/BV1mQ5YzoE76",
+        "bvid": "BV1mQ5YzoE76",
+        "plays": 9262,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "cytoscape"
+        ]
+      },
+      "text_blob": "7、如何安装cytoscape ppi and cytoscape  cytoscape",
+      "tags_lower": [
+        "cytoscape"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "7、如何安装cytoscape"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "6、如何利用string构建PPI网络",
+      "date": "2025-04-15",
+      "url": "https://www.bilibili.com/video/BV1JqdoYgEna",
+      "id": "BV1JqdoYgEna",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "string",
+        "PPI",
+        "网络"
+      ],
+      "extra": {
+        "title": "6、如何利用string构建PPI网络",
+        "date": "2025-04-15",
+        "url": "https://www.bilibili.com/video/BV1JqdoYgEna",
+        "bvid": "BV1JqdoYgEna",
+        "plays": 31098,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "string",
+          "PPI",
+          "网络"
+        ]
+      },
+      "text_blob": "6、如何利用string构建ppi网络 ppi and cytoscape  string ppi 网络",
+      "tags_lower": [
+        "ppi",
+        "string",
+        "网络"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "6、如何利用string构建ppi网络"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "4、疾病致病靶点的筛选",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1Tvo5YvEFZ",
+      "id": "BV1Tvo5YvEFZ",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "靶点"
+      ],
+      "extra": {
+        "title": "4、疾病致病靶点的筛选",
+        "date": "2025-04-14",
+        "url": "https://www.bilibili.com/video/BV1Tvo5YvEFZ",
+        "bvid": "BV1Tvo5YvEFZ",
+        "plays": 4290,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "靶点"
+        ]
+      },
+      "text_blob": "4、疾病致病靶点的筛选 ppi and cytoscape  靶点",
+      "tags_lower": [
+        "靶点"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "4、疾病致病靶点的筛选"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "4、疾病致病靶点的筛选",
+      "date": "2025-04-14",
+      "url": "https://www.bilibili.com/video/BV1KaoGYfEUE",
+      "id": "BV1KaoGYfEUE",
+      "category": "PPI And Cytoscape",
+      "summary": "",
+      "tags": [
+        "靶点"
+      ],
+      "extra": {
+        "title": "4、疾病致病靶点的筛选",
+        "date": "2025-04-14",
+        "url": "https://www.bilibili.com/video/BV1KaoGYfEUE",
+        "bvid": "BV1KaoGYfEUE",
+        "plays": 4174,
+        "likes": 0,
+        "category_key": "ppi-and-cytoscape",
+        "category_title": "PPI And Cytoscape",
+        "matched_words": [
+          "靶点"
+        ]
+      },
+      "text_blob": "4、疾病致病靶点的筛选 ppi and cytoscape  靶点",
+      "tags_lower": [
+        "靶点"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "ppi and cytoscape",
+      "title_lower": "4、疾病致病靶点的筛选"
+    }
+  ]
+}

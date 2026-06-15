@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single-Cell Core Analysis Learning"
+  short_description: "Cross-source learning skill for core single-cell analysis workflows, cell annotation, clustering, and standard downstream analysis."
+  default_prompt: "Use $bio-learning-single-cell-core-analysis when the user wants learning content organized by concrete function rather than by creator or album source."

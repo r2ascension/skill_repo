@@ -1,0 +1,593 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-sequencing-and-data-submission",
+  "focus": "sequencing data handling and data submission workflows",
+  "count": 16,
+  "items": [
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "1208Liunx实操，原始测序数据的Mapping",
+      "date": "2025-06-02",
+      "url": "https://www.bilibili.com/video/BV1fy7DzKEiz",
+      "id": "BV1fy7DzKEiz",
+      "category": "Practical Omics Foundations",
+      "summary": "",
+      "tags": [
+        "Mapping"
+      ],
+      "extra": {
+        "title": "1208Liunx实操，原始测序数据的Mapping",
+        "date": "2025-06-02",
+        "url": "https://www.bilibili.com/video/BV1fy7DzKEiz",
+        "bvid": "BV1fy7DzKEiz",
+        "plays": 100,
+        "likes": 0,
+        "category_key": "practical-foundations",
+        "category_title": "Practical Omics Foundations",
+        "matched_words": [
+          "Mapping"
+        ]
+      },
+      "text_blob": "1208liunx实操，原始测序数据的mapping practical omics foundations  mapping",
+      "tags_lower": [
+        "mapping"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "practical omics foundations",
+      "title_lower": "1208liunx实操，原始测序数据的mapping"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "使用pigz快速压缩当前文件夹下面的全部fastq测序数据",
+      "date": "2025-09-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536934&idx=1&sn=ce01afb76eb918c11309a78a3c3fa4f6&chksm=fa45941bcd321d0dfb76d6a5740036c006172c2eb542133710f7a4e50bafd8b4aa426d1081b5#rd",
+      "id": "2247536934_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "使用pigz快速压缩当前文件夹下面的全部fastq测序数据",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247536934&idx=1&sn=ce01afb76eb918c11309a78a3c3fa4f6&chksm=fa45941bcd321d0dfb76d6a5740036c006172c2eb542133710f7a4e50bafd8b4aa426d1081b5#rd",
+        "msgid": "2247536934",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-15",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "使用pigz快速压缩当前文件夹下面的全部fastq测序数据 ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "使用pigz快速压缩当前文件夹下面的全部fastq测序数据"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "自己写一个从下载sra文件到转为fastq的代码（在人工智能大模型的帮助下仍然失败了？）",
+      "date": "2025-09-22",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537158&idx=1&sn=f3bf2776c508e686063d0810b1652805&chksm=fa45973bcd321e2d9a625ee6eedcf1e422424df9538050426dd9eca7f939bf4dc0284f017ddb#rd",
+      "id": "2247537158_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "自己写一个从下载sra文件到转为fastq的代码（在人工智能大模型的帮助下仍然失败了？）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247537158&idx=1&sn=f3bf2776c508e686063d0810b1652805&chksm=fa45973bcd321e2d9a625ee6eedcf1e422424df9538050426dd9eca7f939bf4dc0284f017ddb#rd",
+        "msgid": "2247537158",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-09-22",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "自己写一个从下载sra文件到转为fastq的代码（在人工智能大模型的帮助下仍然失败了？） ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "自己写一个从下载sra文件到转为fastq的代码（在人工智能大模型的帮助下仍然失败了？）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-ai-or-ai-fail",
+      "source_name": "生信菜鸟团 / 人工智能or人工智障",
+      "platform": "weixin",
+      "title": "bam文件转fastq的一些小tips",
+      "date": "2025-11-17",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538121&idx=1&sn=213e8aaaed47605b770ba2cfc5974055&chksm=fa4590f4cd3219e22b7f41973f4a2a12e7d3f621fdab3f14bfeb049e68cb54890ffd759e8d21#rd",
+      "id": "2247538121_1",
+      "category": "AI Coding Practice",
+      "summary": "Relevant ai coding practice entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "bam文件转fastq的一些小tips",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247538121&idx=1&sn=213e8aaaed47605b770ba2cfc5974055&chksm=fa4590f4cd3219e22b7f41973f4a2a12e7d3f621fdab3f14bfeb049e68cb54890ffd759e8d21#rd",
+        "msgid": "2247538121",
+        "itemidx": "1",
+        "pos_num": "",
+        "date": "2025-11-17",
+        "category_key": "ai-coding-practice",
+        "category_title": "AI Coding Practice",
+        "brief": "Relevant ai coding practice entry kept from the curated album."
+      },
+      "text_blob": "bam文件转fastq的一些小tips ai coding practice relevant ai coding practice entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-ai-or-ai-fail",
+      "category_lower": "ai coding practice",
+      "title_lower": "bam文件转fastq的一些小tips"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.Blast序列比对",
+      "date": "2025-05-11",
+      "url": "https://www.bilibili.com/video/BV1iFETz3ELH",
+      "id": "BV1iFETz3ELH",
+      "category": "核心生信分析",
+      "summary": "介绍 BLAST 序列比对的基本用途和常见使用场景。",
+      "tags": [
+        "blast",
+        "sequence"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "blast",
+          "sequence"
+        ],
+        "title": "03.Blast序列比对",
+        "date": "2025-05-11",
+        "plays": 610,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1iFETz3ELH",
+        "bvid": "BV1iFETz3ELH",
+        "content_summary": "介绍 BLAST 序列比对的基本用途和常见使用场景。"
+      },
+      "text_blob": "03.blast序列比对 核心生信分析 介绍 blast 序列比对的基本用途和常见使用场景。 blast sequence",
+      "tags_lower": [
+        "blast",
+        "sequence"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "03.blast序列比对"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.NCBI高通量测序数据SRA下载",
+      "date": "2025-04-25",
+      "url": "https://www.bilibili.com/video/BV1SbL7znEAk",
+      "id": "BV1SbL7znEAk",
+      "category": "测序与数据提交",
+      "summary": "演示从 NCBI SRA 获取高通量测序原始数据，是公共数据复用的基础步骤。",
+      "tags": [
+        "SRA",
+        "download"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "SRA",
+          "download"
+        ],
+        "title": "01.NCBI高通量测序数据SRA下载",
+        "date": "2025-04-25",
+        "plays": 3461,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1SbL7znEAk",
+        "bvid": "BV1SbL7znEAk",
+        "content_summary": "演示从 NCBI SRA 获取高通量测序原始数据，是公共数据复用的基础步骤。",
+        "page_tags": [
+          "NCBI",
+          "SRA",
+          "科研",
+          "数据下载"
+        ],
+        "duration_seconds": 1448,
+        "view_count": 3461,
+        "like_count": 68,
+        "favorite_count": 214,
+        "share_count": 38,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "01.ncbi高通量测序数据sra下载 测序与数据提交 演示从 ncbi sra 获取高通量测序原始数据，是公共数据复用的基础步骤。 sra download",
+      "tags_lower": [
+        "download",
+        "sra"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "01.ncbi高通量测序数据sra下载"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "转录组二代测序Fasta数据上传",
+      "date": "2025-03-12",
+      "url": "https://www.bilibili.com/video/BV1qCQnYRE4h",
+      "id": "BV1qCQnYRE4h",
+      "category": "测序与数据提交",
+      "summary": "围绕转录组数据提交讲上传前准备、文件格式和提交动作。",
+      "tags": [
+        "upload",
+        "transcriptome"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "upload",
+          "transcriptome"
+        ],
+        "title": "转录组二代测序Fasta数据上传",
+        "date": "2025-03-12",
+        "plays": 1715,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1qCQnYRE4h",
+        "bvid": "BV1qCQnYRE4h",
+        "content_summary": "围绕转录组数据提交讲上传前准备、文件格式和提交动作。"
+      },
+      "text_blob": "转录组二代测序fasta数据上传 测序与数据提交 围绕转录组数据提交讲上传前准备、文件格式和提交动作。 upload transcriptome",
+      "tags_lower": [
+        "transcriptome",
+        "upload"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "转录组二代测序fasta数据上传"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "数据上传与邮件书写",
+      "date": "2025-03-12",
+      "url": "https://www.bilibili.com/video/BV1YQQnYJEXA",
+      "id": "BV1YQQnYJEXA",
+      "category": "测序与数据提交",
+      "summary": "补充上传过程中的邮件沟通与资料说明写法，偏流程支撑。",
+      "tags": [
+        "upload",
+        "communication"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "upload",
+          "communication"
+        ],
+        "title": "数据上传与邮件书写",
+        "date": "2025-03-12",
+        "plays": 211,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1YQQnYJEXA",
+        "bvid": "BV1YQQnYJEXA",
+        "content_summary": "补充上传过程中的邮件沟通与资料说明写法，偏流程支撑。"
+      },
+      "text_blob": "数据上传与邮件书写 测序与数据提交 补充上传过程中的邮件沟通与资料说明写法，偏流程支撑。 upload communication",
+      "tags_lower": [
+        "communication",
+        "upload"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "数据上传与邮件书写"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "上传整体思路",
+      "date": "2025-03-12",
+      "url": "https://www.bilibili.com/video/BV1ZCQnYRENV",
+      "id": "BV1ZCQnYRENV",
+      "category": "测序与数据提交",
+      "summary": "从整体层面说明公共数据库上传任务应如何组织与分步执行。",
+      "tags": [
+        "upload",
+        "workflow"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "upload",
+          "workflow"
+        ],
+        "title": "上传整体思路",
+        "date": "2025-03-12",
+        "plays": 161,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ZCQnYRENV",
+        "bvid": "BV1ZCQnYRENV",
+        "content_summary": "从整体层面说明公共数据库上传任务应如何组织与分步执行。"
+      },
+      "text_blob": "上传整体思路 测序与数据提交 从整体层面说明公共数据库上传任务应如何组织与分步执行。 upload workflow",
+      "tags_lower": [
+        "upload",
+        "workflow"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "上传整体思路"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "微生物16S测序数据上传",
+      "date": "2025-03-12",
+      "url": "https://www.bilibili.com/video/BV1qCQnYRExY",
+      "id": "BV1qCQnYRExY",
+      "category": "测序与数据提交",
+      "summary": "讲 16S 测序数据上传流程，适合微生物组项目数据归档。",
+      "tags": [
+        "upload",
+        "16S"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "upload",
+          "16S"
+        ],
+        "title": "微生物16S测序数据上传",
+        "date": "2025-03-12",
+        "plays": 4362,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1qCQnYRExY",
+        "bvid": "BV1qCQnYRExY",
+        "content_summary": "讲 16S 测序数据上传流程，适合微生物组项目数据归档。"
+      },
+      "text_blob": "微生物16s测序数据上传 测序与数据提交 讲 16s 测序数据上传流程，适合微生物组项目数据归档。 upload 16s",
+      "tags_lower": [
+        "16s",
+        "upload"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "微生物16s测序数据上传"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "GEO账号信息完善以及上传整体思路",
+      "date": "2025-03-12",
+      "url": "https://www.bilibili.com/video/BV1qCQnYREhK",
+      "id": "BV1qCQnYREhK",
+      "category": "测序与数据提交",
+      "summary": "说明 GEO 账号配置、元数据准备和整体上传逻辑。",
+      "tags": [
+        "GEO",
+        "upload"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "GEO",
+          "upload"
+        ],
+        "title": "GEO账号信息完善以及上传整体思路",
+        "date": "2025-03-12",
+        "plays": 606,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1qCQnYREhK",
+        "bvid": "BV1qCQnYREhK",
+        "content_summary": "说明 GEO 账号配置、元数据准备和整体上传逻辑。",
+        "page_tags": [
+          "NCBI",
+          "GEO",
+          "数据上传"
+        ],
+        "duration_seconds": 569,
+        "view_count": 606,
+        "like_count": 8,
+        "favorite_count": 14,
+        "share_count": 1,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "geo账号信息完善以及上传整体思路 测序与数据提交 说明 geo 账号配置、元数据准备和整体上传逻辑。 geo upload",
+      "tags_lower": [
+        "geo",
+        "upload"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "geo账号信息完善以及上传整体思路"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "上传数据准备与归纳",
+      "date": "2025-03-12",
+      "url": "https://www.bilibili.com/video/BV1qCQnYREA2",
+      "id": "BV1qCQnYREA2",
+      "category": "测序与数据提交",
+      "summary": "梳理数据上传前的文件整理、信息归纳和提交流程准备。",
+      "tags": [
+        "upload",
+        "workflow"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "upload",
+          "workflow"
+        ],
+        "title": "上传数据准备与归纳",
+        "date": "2025-03-12",
+        "plays": 351,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1qCQnYREA2",
+        "bvid": "BV1qCQnYREA2",
+        "content_summary": "梳理数据上传前的文件整理、信息归纳和提交流程准备。"
+      },
+      "text_blob": "上传数据准备与归纳 测序与数据提交 梳理数据上传前的文件整理、信息归纳和提交流程准备。 upload workflow",
+      "tags_lower": [
+        "upload",
+        "workflow"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "上传数据准备与归纳"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "03.测序结果fastq数据解读",
+      "date": "2025-02-20",
+      "url": "https://www.bilibili.com/video/BV1ooAJejEct",
+      "id": "BV1ooAJejEct",
+      "category": "测序与数据提交",
+      "summary": "讲 FASTQ 结果的基本结构和测序结果阅读方式。",
+      "tags": [
+        "FASTQ",
+        "sequencing"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "FASTQ",
+          "sequencing"
+        ],
+        "title": "03.测序结果fastq数据解读",
+        "date": "2025-02-20",
+        "plays": 284,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1ooAJejEct",
+        "bvid": "BV1ooAJejEct",
+        "content_summary": "讲 FASTQ 结果的基本结构和测序结果阅读方式。"
+      },
+      "text_blob": "03.测序结果fastq数据解读 测序与数据提交 讲 fastq 结果的基本结构和测序结果阅读方式。 fastq sequencing",
+      "tags_lower": [
+        "fastq",
+        "sequencing"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "03.测序结果fastq数据解读"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "04.数据完整性校验MD5",
+      "date": "2025-02-20",
+      "url": "https://www.bilibili.com/video/BV1GsAJeuE54",
+      "id": "BV1GsAJeuE54",
+      "category": "测序与数据提交",
+      "summary": "介绍 MD5 校验在测序数据传输和归档中的作用。",
+      "tags": [
+        "checksum",
+        "sequencing"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "checksum",
+          "sequencing"
+        ],
+        "title": "04.数据完整性校验MD5",
+        "date": "2025-02-20",
+        "plays": 408,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1GsAJeuE54",
+        "bvid": "BV1GsAJeuE54",
+        "content_summary": "介绍 MD5 校验在测序数据传输和归档中的作用。"
+      },
+      "text_blob": "04.数据完整性校验md5 测序与数据提交 介绍 md5 校验在测序数据传输和归档中的作用。 checksum sequencing",
+      "tags_lower": [
+        "checksum",
+        "sequencing"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "04.数据完整性校验md5"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "02.测序原理关键技术解读",
+      "date": "2025-02-20",
+      "url": "https://www.bilibili.com/video/BV1joAJe7EwB",
+      "id": "BV1joAJe7EwB",
+      "category": "测序与数据提交",
+      "summary": "解释测序原理和关键技术背景，帮助理解下游数据特征。",
+      "tags": [
+        "sequencing",
+        "principles"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "sequencing",
+          "principles"
+        ],
+        "title": "02.测序原理关键技术解读",
+        "date": "2025-02-20",
+        "plays": 133,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1joAJe7EwB",
+        "bvid": "BV1joAJe7EwB",
+        "content_summary": "解释测序原理和关键技术背景，帮助理解下游数据特征。"
+      },
+      "text_blob": "02.测序原理关键技术解读 测序与数据提交 解释测序原理和关键技术背景，帮助理解下游数据特征。 sequencing principles",
+      "tags_lower": [
+        "principles",
+        "sequencing"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "02.测序原理关键技术解读"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "01.illumina边合成成边测序原理",
+      "date": "2025-02-20",
+      "url": "https://www.bilibili.com/video/BV1doAJejEV5",
+      "id": "BV1doAJejEV5",
+      "category": "测序与数据提交",
+      "summary": "介绍 Illumina 边合成边测序的基本原理。",
+      "tags": [
+        "illumina",
+        "principles"
+      ],
+      "extra": {
+        "bucket": "测序与数据提交",
+        "tags": [
+          "illumina",
+          "principles"
+        ],
+        "title": "01.illumina边合成成边测序原理",
+        "date": "2025-02-20",
+        "plays": 452,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1doAJejEV5",
+        "bvid": "BV1doAJejEV5",
+        "content_summary": "介绍 Illumina 边合成边测序的基本原理。"
+      },
+      "text_blob": "01.illumina边合成成边测序原理 测序与数据提交 介绍 illumina 边合成边测序的基本原理。 illumina principles",
+      "tags_lower": [
+        "illumina",
+        "principles"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "测序与数据提交",
+      "title_lower": "01.illumina边合成成边测序原理"
+    }
+  ]
+}

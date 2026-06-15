@@ -1,0 +1,86 @@
+# Research Methods And Writing Learning
+
+- Snapshot date: `2026-06-15`
+- Functional focus: `research methods, study design, writing workflow, and project framing`
+- Item count: `65`
+
+## Source Coverage
+
+- `外科小小硕`: `25` items
+- `养鸭人家`: `17` items
+- `大家好我是呼同学`: `6` items
+- `OnekeyAI`: `6` items
+- `组学大讲堂`: `3` items
+- `芒果大学Mango`: `2` items
+- `小紫薯PurplePotato`: `2` items
+- `生信技能树 / 单细胞进阶`: `2` items
+- `生物信息与人工智能 / AI最前沿`: `1` items
+- `华哥生信AI`: `1` items
+
+## Catalog
+
+- `2026-05-29` [Codex搭配skill实现临床数据自动统计分析和写作！30分钟搞定初稿](https://www.bilibili.com/video/BV1MHVh6iE31) `BV1MHVh6iE31` | source=`外科小小硕` | bucket=`AI Workflow And Coding Agents`: AI Workflow And Coding Agents
+- `2026-04-23` [【免费送模板】万字长文拆解临床预测模型写作全流程！审稿人再也挑不出刺！](https://www.bilibili.com/video/BV1f8oWBuEjY) `BV1f8oWBuEjY` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2026-03-15` [Nature复现：AI辅助论文解读与科研思路](https://www.bilibili.com/video/BV1xTwuz4EoY) `BV1xTwuz4EoY` | source=`华哥生信AI` | bucket=`Nature复现与科研复盘`: 围绕顶刊复现，重点是AI辅助论文解读与科研思路。
+- `2026-01-07` [【无偿分享】万字长文临床预测模型写作指南｜结合TRIPOD+AI × BMJ 顶刊指南：从“选题—建模—验证—投稿”的全流程](https://www.bilibili.com/video/BV1pwqcBhEWm) `BV1pwqcBhEWm` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2025-12-15` [bioRxiv | 如何利用多个大模型从论文摘要中挖掘基因与表型之间的关联，构建表型本体基因集](https://mp.weixin.qq.com/s?__biz=MzI5MDg4NDI1OA==&mid=2247486167&idx=1&sn=cc314010f87c2fc987baa92352bf4c50&chksm=ec18551adb6fdc0ca7333752fdaca4af232b149ff6b0a6c471588817ad0325c7e74bbe1ee33c#rd) `2247486167_1` | source=`生物信息与人工智能 / AI最前沿` | bucket=`AI For Biology And Research`: Relevant ai for biology and research entry kept from the curated album.
+- `2025-11-23` [20251122 与图书馆和科研人员密切相关的合理使用](https://www.bilibili.com/video/BV1QfUABJEFy) `BV1QfUABJEFy` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2025-10-27` [临床预测模型已经不推荐使用单因素回归筛选变量](https://www.bilibili.com/video/BV1W8sUzWEdE) `BV1W8sUzWEdE` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2025-10-25` [240107GEPIA2联合TCGAplot筛选课题策略](https://www.bilibili.com/video/BV1pksRzzErm) `BV1pksRzzErm` | source=`芒果大学Mango` | bucket=`GEO And TCGA Workflows`: GEO And TCGA Workflows
+- `2025-10-16` [20251016大模型在生物技术科研论文的应用](https://www.bilibili.com/video/BV1UYWzziEF2) `BV1UYWzziEF2` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2025-09-29` [20250914 基于AI技术的医学论文框架构建与逻辑梳理](https://www.bilibili.com/video/BV1StHfz9Eyc) `BV1StHfz9Eyc` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-09-25` [【外科小小硕】临床预测模型选题分析写作全流程课程发布！分享我100余套建模经验](https://www.bilibili.com/video/BV1UonhzTEba) `BV1UonhzTEba` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2025-08-25` [【文献分享】速通机器学习临床预测模型文献两篇 都是有成熟套路的](https://www.bilibili.com/video/BV13xeWzpEPK) `BV13xeWzpEPK` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2025-07-31` [20250731 数据论文评价与遴选（讨论稿）](https://www.bilibili.com/video/BV1ac8CziERX) `BV1ac8CziERX` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2025-07-31` [20250731 数据论文评价与遴选（讨论环节回答问题）](https://www.bilibili.com/video/BV11v8kzWEj8) `BV11v8kzWEj8` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2025-07-25` [20250725 学术写作特征与AI生成文本的典型漏洞II](https://www.bilibili.com/video/BV1XRbRzNEV3) `BV1XRbRzNEV3` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-07-16` [20250716 学术写作特征与AI生成文本的典型漏洞](https://www.bilibili.com/video/BV1oeufziEiD) `BV1oeufziEiD` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-07-09` [20250706训练营-2.5D vs 2D vs 传统组学生存分析（支持论文生成）](https://www.bilibili.com/video/BV1GwGnzdE88) `BV1GwGnzdE88` | source=`OnekeyAI` | bucket=`core`: core
+- `2025-07-04` [20250704 利用AIGC支持学术研究的全流程：从想法、初稿、调查、写作到宣传](https://www.bilibili.com/video/BV1RB3jzDEhQ) `BV1RB3jzDEhQ` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-06-20` [20250619 AI辅助科研论文写作](https://www.bilibili.com/video/BV1mJNfzGEJR) `BV1mJNfzGEJR` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-06-01` [【文献分享】Nature communications住院患者AKI机器学习临床预测模型](https://www.bilibili.com/video/BV1kK73zfECj) `BV1kK73zfECj` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2025-05-12` [0323：文献分享，果友提供的单细胞论文，思路解读](https://www.bilibili.com/video/BV1wWEjz2Esd) `BV1wWEjz2Esd` | source=`芒果大学Mango` | bucket=`Single-Cell And Online Platforms`: Single-Cell And Online Platforms
+- `2025-05-06` [20250506 利用AI修改论文的若干讨论](https://www.bilibili.com/video/BV1X7VUzGECW) `BV1X7VUzGECW` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-04-23` [20250423 AI驱动科研创新：从文献检索到论文发表的全流程优化](https://www.bilibili.com/video/BV1AGLxzNEay) `BV1AGLxzNEay` | source=`养鸭人家` | bucket=`AI Tools And Practical Workflow`: AI Tools And Practical Workflow
+- `2025-04-20` [单细胞RNA分析 | 课题导向的R语言教程 | 适合医学编程小白](https://www.bilibili.com/video/BV1dkLFzmEnq) `BV1dkLFzmEnq` | source=`小紫薯PurplePotato` | bucket=`R And Linux Foundations`: R And Linux Foundations
+- `2025-04-07` [生存分析 | 课题导向的R语言教程 | 适合医学编程小白](https://www.bilibili.com/video/BV197d7YSEqF) `BV197d7YSEqF` | source=`小紫薯PurplePotato` | bucket=`R And Linux Foundations`: R And Linux Foundations
+- `2025-03-25` [基因家族分析文献解读-黄瓜CBF家族](https://www.bilibili.com/video/BV1DYotY5EcL) `BV1DYotY5EcL` | source=`组学大讲堂` | bucket=`核心生信分析`: 结合具体物种案例拆解基因家族分析论文的思路、步骤和结果组织。
+- `2025-03-25` [基因家族分析文献解读-香椿JAZ家族](https://www.bilibili.com/video/BV18YotY5EvF) `BV18YotY5EvF` | source=`组学大讲堂` | bucket=`核心生信分析`: 结合具体物种案例拆解基因家族分析论文的思路、步骤和结果组织。
+- `2025-03-25` [基因家族分析文献解读-刀鲚NHE家族](https://www.bilibili.com/video/BV1SYotYVE4d) `BV1SYotYVE4d` | source=`组学大讲堂` | bucket=`核心生信分析`: 结合具体物种案例拆解基因家族分析论文的思路、步骤和结果组织。
+- `2025-03-23` [🔥26篇顶刊流程图总结！科研党必备的论文绘图参考（附pdf）](https://www.bilibili.com/video/BV1PdX8YaEPc) `BV1PdX8YaEPc` | source=`外科小小硕` | bucket=`Plotting And Visualization`: Plotting And Visualization
+- `2025-01-08` [我写了一个R包提高二分类预测模型分析效率丨灵敏度 特异度 置信区间 训练集 验证集](https://www.bilibili.com/video/BV1ptraYuEzH) `BV1ptraYuEzH` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-12-18` [七、量子计算机：研究时间晶体的挑战](https://www.bilibili.com/video/BV1VykPYmE8i) `BV1VykPYmE8i` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2024-12-17` [六、量子计算机：在研究时间晶体中的应用](https://www.bilibili.com/video/BV1BtkpY3EnV) `BV1BtkpY3EnV` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2024-12-17` [五、量子计算机：用于研究和学习物理现象](https://www.bilibili.com/video/BV1qtkpY3E9Q) `BV1qtkpY3E9Q` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2024-12-08` [20241208科研论文的故事力](https://www.bilibili.com/video/BV1GVqnYLEF1) `BV1GVqnYLEF1` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2024-12-08` [20241208科研idea自动生成工具](https://www.bilibili.com/video/BV135qnYyE1n) `BV135qnYyE1n` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2024-10-30` [机器学习临床预测模型全流程代码，一键出图，多模型对比，一个月水一篇SCI](https://www.bilibili.com/video/BV1hkS3YmEJD) `BV1hkS3YmEJD` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-09-23` [高分SCI列线图临床预测模型表2复现教学【附代码】](https://www.bilibili.com/video/BV1V5s9e8EqA) `BV1V5s9e8EqA` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-08-21` [【主页同款套路】5.4分回顾性临床预测模型列线图【6】](https://www.bilibili.com/video/BV1RwW8e4E7R) `BV1RwW8e4E7R` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-08-18` [JCR1 区列线图临床预测模型文献分享【5】](https://www.bilibili.com/video/BV1BSWPebEYX) `BV1BSWPebEYX` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-08-17` [IF=5.8机器学习临床预测模型文献分享【4】](https://www.bilibili.com/video/BV1WJp9euE3J) `BV1WJp9euE3J` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-08-08` [分享一位专硕同学的二分类预测模型毕业论文【列线图】](https://www.bilibili.com/video/BV126YpeSE5t) `BV126YpeSE5t` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-08-05` [6.1分Q1,协和医院用seer数据库＋本院数据发列线图临床预测模型文章](https://www.bilibili.com/video/BV1uZYcefEP2) `BV1uZYcefEP2` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-07-22` [IJS（IF:12.5）二分类问题临床预测模型文章分享【2】](https://www.bilibili.com/video/BV1L2421Z7a5) `BV1L2421Z7a5` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-07-20` [【主页同款套路】12.5分回顾性临床预测模型列线图](https://www.bilibili.com/video/BV1rM4m1y7fT) `BV1rM4m1y7fT` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-07-16` [奇技淫巧-20240714-多组学论文，可以在哪些方向上进行差异化。](https://www.bilibili.com/video/BV1Tf421q7u2) `BV1Tf421q7u2` | source=`OnekeyAI` | bucket=`core`: core
+- `2024-05-25` [R语言临床预测模型的混淆矩阵计算灵敏度、特异度、PPV、NPV和置信区间](https://www.bilibili.com/video/BV19D42137FZ) `BV19D42137FZ` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-05-14` [预测模型蝴蝶图(镜面图)](https://www.bilibili.com/video/BV17t421M7g3) `BV17t421M7g3` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-04-29` [SCI论文写作必不可少的科研配色解决方案](https://www.bilibili.com/video/BV1rD421N7UC) `BV1rD421N7UC` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-03-22` [R语言机器学习临床预测模型 全流程代码 2个月水一篇SCI 学硕专硕通用](https://www.bilibili.com/video/BV1ux421Q7kM) `BV1ux421Q7kM` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2024-03-11` [信息科学与技术09商业与组织研究](https://www.bilibili.com/video/BV1yW421c7Dk) `BV1yW421c7Dk` | source=`养鸭人家` | bucket=`Research Writing And Project Workflow`: Research Writing And Project Workflow
+- `2023-08-08` [生存分析列线图临床预测模型全套R语言代码丨一个月一篇sci](https://www.bilibili.com/video/BV1qF411o7iy) `BV1qF411o7iy` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2023-05-28` [Onekey-Comp，传统组学解决方案，可以直接生成论文methods和results的那种](https://www.bilibili.com/video/BV1Bg4y1V7AZ) `BV1Bg4y1V7AZ` | source=`OnekeyAI` | bucket=`core`: core
+- `2023-04-03` [R语言临床预测模型经典文献分享1](https://www.bilibili.com/video/BV1ij411w7R6) `BV1ij411w7R6` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2023-03-29` [R语言临床预测模型 一个月水一篇SCI 临床学硕专硕通用](https://www.bilibili.com/video/BV1KV4y1Q7Q8) `BV1KV4y1Q7Q8` | source=`外科小小硕` | bucket=`Research Methods And Writing`: Research Methods And Writing
+- `2023-03-28` [阅读文献文档小技巧：如何把截图固定置顶在电脑页面上？边看文档边看截图学习效率翻倍](https://www.bilibili.com/video/BV1Q84y1u7QW) `BV1Q84y1u7QW` | source=`大家好我是呼同学` | bucket=`Literature And Productivity`: Literature And Productivity
+- `2023-02-24` [【医学生必看】直博学长手把手带你从零准备考研复试教程第三讲：Excel表格文献整理](https://www.bilibili.com/video/BV1JT411i7sm) `BV1JT411i7sm` | source=`大家好我是呼同学` | bucket=`Literature And Productivity`: Literature And Productivity
+- `2022-09-21` [训练营[20220918]-Onekey2.0发布，还在等什么，一键生成传统组学论文](https://www.bilibili.com/video/BV1Md4y1g7nX) `BV1Md4y1g7nX` | source=`OnekeyAI` | bucket=`core`: core
+- `2021-12-07` [张老师的影像组学公开课（Lecture-18）使用MedSee复现传统组学论文](https://www.bilibili.com/video/BV1kS4y1D7US) `BV1kS4y1D7US` | source=`OnekeyAI` | bucket=`core`: core
+- `2021-10-31` [张老师的影像组学公开课（Lecture-01，Unet论文结构分析）](https://www.bilibili.com/video/BV1JR4y1E7bi) `BV1JR4y1E7bi` | source=`OnekeyAI` | bucket=`core`: core
+- `2021-03-20` [【随时随地免费下载知网文献教程】5分钟教会你免费正规稳定白嫖知网，万方，维普数据库【UP亲测】](https://www.bilibili.com/video/BV15N411X7ww) `BV15N411X7ww` | source=`大家好我是呼同学` | bucket=`Literature And Productivity`: Literature And Productivity
+- `2020-08-29` [大创项目申报：医学生从零基础到成功立项七步走讲解【下篇】---By呼同学](https://www.bilibili.com/video/BV1v54y127Kd) `BV1v54y127Kd` | source=`大家好我是呼同学` | bucket=`Research Methods And Projects`: Research Methods And Projects
+- `2020-08-29` [大创项目申报：医学生从零基础到成功立项七步走讲解【上篇】---By呼同学](https://www.bilibili.com/video/BV1d54y1e7EP) `BV1d54y1e7EP` | source=`大家好我是呼同学` | bucket=`Research Methods And Projects`: Research Methods And Projects
+- `2020-08-17` [【医学生必看：大创、互联网＋、挑战杯辨析讲解】理性参赛，拒绝盲从；结尾有下一期视频内容预告，请务必看完。---By呼同学](https://www.bilibili.com/video/BV1YC4y1t7jA) `BV1YC4y1t7jA` | source=`大家好我是呼同学` | bucket=`Research Methods And Projects`: Research Methods And Projects
+- `2019-12-28` [单细胞测序数据挖掘和课题设计可以这样学（单细胞测序数据挖掘和课题设计可以这样学）](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247492395&idx=2&sn=50c7690dd1cb00ee92a2ac4c179df73e&chksm=9b4ba390ac3c2a861f465df28a3b0d1f267006c7fa3472f9b088f3948c755b4564169370375c#rd) `2247492395_2` | source=`生信技能树 / 单细胞进阶` | bucket=`Advanced Workflow Notes`: Relevant advanced workflow notes entry kept from the curated album.
+- `2019-11-24` [单细胞测序数据挖掘和课题设计 12月7-8日 上海 12月14-15日 北京](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247491966&idx=1&sn=034ada985afa5299d3298f9c962df2d2&chksm=9b4ba1c5ac3c28d339f9988079c8bc389983f4b4a57741539baac506c108fc2ff4f60e7aced5#rd) `2247491966_1` | source=`生信技能树 / 单细胞进阶` | bucket=`Advanced Workflow Notes`: Relevant advanced workflow notes entry kept from the curated album.

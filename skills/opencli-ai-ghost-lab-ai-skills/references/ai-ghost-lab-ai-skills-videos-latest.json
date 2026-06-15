@@ -1,0 +1,287 @@
+{
+  "snapshot_date": "2026-06-15",
+  "channel_name": "AI-Ghost-Lab",
+  "uid": "1731330412",
+  "channel_url": "https://space.bilibili.com/1731330412",
+  "scope_note": "keep videos that teach AI workflow, prompt strategy, skills, Codex or ChatGPT usage, subagent collaboration, architecture iteration, evaluation, or leverage through AI coding",
+  "count": 21,
+  "videos": [
+    {
+      "title": "深度复盘：为什么我暂停了GhostVM项目？",
+      "date": "2026-06-10",
+      "url": "https://www.bilibili.com/video/BV11DEd6nEBK",
+      "bvid": "BV11DEd6nEBK",
+      "plays": 772,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "项目"
+      ]
+    },
+    {
+      "title": "以前折腾半天的worflow,现在一个prompt就够了",
+      "date": "2026-06-03",
+      "url": "https://www.bilibili.com/video/BV1hwVm6WEz7",
+      "bvid": "BV1hwVm6WEz7",
+      "plays": 1823,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "prompt"
+      ]
+    },
+    {
+      "title": "AI Coding 真正难的不是写代码",
+      "date": "2026-05-19",
+      "url": "https://www.bilibili.com/video/BV1FuL66WEvf",
+      "bvid": "BV1FuL66WEvf",
+      "plays": 13068,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": []
+    },
+    {
+      "title": "AI时代下，UI探索流水线、bugfix文档以及测试的范式转移",
+      "date": "2026-04-28",
+      "url": "https://www.bilibili.com/video/BV1jw9CBJE8L",
+      "bvid": "BV1jw9CBJE8L",
+      "plays": 1256,
+      "likes": 0,
+      "category_key": "ai-coding-workflow",
+      "category_title": "AI Coding Workflow",
+      "matched_words": [
+        "bugfix",
+        "测试",
+        "流水线"
+      ]
+    },
+    {
+      "title": "让AI进行架构调整，迭代100轮后发生了什么",
+      "date": "2026-04-03",
+      "url": "https://www.bilibili.com/video/BV1h39uBLEvK",
+      "bvid": "BV1h39uBLEvK",
+      "plays": 20585,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "架构",
+        "迭代"
+      ]
+    },
+    {
+      "title": "我做了两个“实验级”项目，想把自己从执行层里挤出去",
+      "date": "2026-03-18",
+      "url": "https://www.bilibili.com/video/BV1bgwizuE8b",
+      "bvid": "BV1bgwizuE8b",
+      "plays": 2138,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "项目"
+      ]
+    },
+    {
+      "title": "AI可以帮你写代码，但帮不了你成为架构师",
+      "date": "2026-03-15",
+      "url": "https://www.bilibili.com/video/BV1MPwuzbETf",
+      "bvid": "BV1MPwuzbETf",
+      "plays": 36531,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "架构"
+      ]
+    },
+    {
+      "title": "浅聊Skills、AGENTS.md与经验萃取",
+      "date": "2026-01-25",
+      "url": "https://www.bilibili.com/video/BV1UbzmBjEU4",
+      "bvid": "BV1UbzmBjEU4",
+      "plays": 14431,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "Skills",
+        "AGENTS"
+      ]
+    },
+    {
+      "title": "元认知01：我如何用ChatGPT逼出自己的思维盲区",
+      "date": "2026-01-17",
+      "url": "https://www.bilibili.com/video/BV1xekpB2EwN",
+      "bvid": "BV1xekpB2EwN",
+      "plays": 2243,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title": "别再找万能 prompt：不同任务必须配不同协作模式",
+      "date": "2026-01-09",
+      "url": "https://www.bilibili.com/video/BV1DJrABhEQe",
+      "bvid": "BV1DJrABhEQe",
+      "plays": 3313,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "prompt"
+      ]
+    },
+    {
+      "title": "Vibe Coding初学者忽视的项目管理与开发流程（一）",
+      "date": "2026-01-02",
+      "url": "https://www.bilibili.com/video/BV1kHvdBEEJy",
+      "bvid": "BV1kHvdBEEJy",
+      "plays": 4766,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "项目"
+      ]
+    },
+    {
+      "title": "AI Coding流水线真实边界升级：执行路线+验收条件",
+      "date": "2025-12-27",
+      "url": "https://www.bilibili.com/video/BV1pABCB9Ehc",
+      "bvid": "BV1pABCB9Ehc",
+      "plays": 6329,
+      "likes": 0,
+      "category_key": "ai-coding-workflow",
+      "category_title": "AI Coding Workflow",
+      "matched_words": [
+        "验收",
+        "流水线"
+      ]
+    },
+    {
+      "title": "我直接演示AI Coding流水线是怎么从需求跑到验收的",
+      "date": "2025-12-24",
+      "url": "https://www.bilibili.com/video/BV1GaBVBpEGE",
+      "bvid": "BV1GaBVBpEGE",
+      "plays": 29956,
+      "likes": 0,
+      "category_key": "ai-coding-workflow",
+      "category_title": "AI Coding Workflow",
+      "matched_words": [
+        "验收",
+        "流水线"
+      ]
+    },
+    {
+      "title": "subagent_shim从脚本到工程演化实例",
+      "date": "2025-12-19",
+      "url": "https://www.bilibili.com/video/BV1QkqoB6E6M",
+      "bvid": "BV1QkqoB6E6M",
+      "plays": 2036,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "subagent"
+      ]
+    },
+    {
+      "title": "睡前布置任务，睡醒验收：先解决信任问题",
+      "date": "2025-12-16",
+      "url": "https://www.bilibili.com/video/BV18eqtBWErA",
+      "bvid": "BV18eqtBWErA",
+      "plays": 17429,
+      "likes": 0,
+      "category_key": "ai-coding-workflow",
+      "category_title": "AI Coding Workflow",
+      "matched_words": [
+        "验收"
+      ]
+    },
+    {
+      "title": "我把 Codex 变成了一个自动执行的工程流水线",
+      "date": "2025-12-12",
+      "url": "https://www.bilibili.com/video/BV1Ygm7BxEi6",
+      "bvid": "BV1Ygm7BxEi6",
+      "plays": 17246,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "Codex"
+      ]
+    },
+    {
+      "title": "只给AI一个清单，它自己把项目搭起来了",
+      "date": "2025-12-08",
+      "url": "https://www.bilibili.com/video/BV1622BBtEQY",
+      "bvid": "BV1622BBtEQY",
+      "plays": 10729,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "项目"
+      ]
+    },
+    {
+      "title": "ChatGPT高级使用技巧（一）",
+      "date": "2025-12-07",
+      "url": "https://www.bilibili.com/video/BV1FH2ZB7EZv",
+      "bvid": "BV1FH2ZB7EZv",
+      "plays": 2062,
+      "likes": 0,
+      "category_key": "skills-and-collaboration",
+      "category_title": "Skills, Prompts, And Collaboration",
+      "matched_words": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "title": "AI Coding的瓶颈不是模型，而是缺少“项目演化系统”",
+      "date": "2025-12-03",
+      "url": "https://www.bilibili.com/video/BV1zASaB5Eug",
+      "bvid": "BV1zASaB5Eug",
+      "plays": 11644,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "项目"
+      ]
+    },
+    {
+      "title": "AI时代下，如何放大自己的能力到10倍甚至百倍（二）",
+      "date": "2025-11-24",
+      "url": "https://www.bilibili.com/video/BV1twUVBuE9x",
+      "bvid": "BV1twUVBuE9x",
+      "plays": 7655,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "放大"
+      ]
+    },
+    {
+      "title": "AI时代下，如何放大自己的能力到10倍甚至百倍",
+      "date": "2025-11-24",
+      "url": "https://www.bilibili.com/video/BV1ktUgB9Evp",
+      "bvid": "BV1ktUgB9Evp",
+      "plays": 120993,
+      "likes": 0,
+      "category_key": "architecture-and-project-evolution",
+      "category_title": "Architecture And Project Evolution",
+      "matched_words": [
+        "放大"
+      ]
+    }
+  ]
+}

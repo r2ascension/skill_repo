@@ -1,0 +1,982 @@
+{
+  "snapshot_date": "2026-06-15",
+  "skill_name": "bio-learning-enrichment-and-pathway-interpretation",
+  "focus": "GO, KEGG, GSEA, pathway interpretation, and enrichment visualization",
+  "count": 30,
+  "items": [
+    {
+      "source_skill": "opencli-mango-bioinfo-videos",
+      "source_name": "芒果大学Mango",
+      "platform": "bilibili",
+      "title": "240107生信实战：GEO数据实操和富集分析实操演示",
+      "date": "2025-10-25",
+      "url": "https://www.bilibili.com/video/BV1KjsdzjEUb",
+      "id": "BV1KjsdzjEUb",
+      "category": "Bioinformatics Strategy And Practice",
+      "summary": "",
+      "tags": [
+        "生信实战"
+      ],
+      "extra": {
+        "title": "240107生信实战：GEO数据实操和富集分析实操演示",
+        "date": "2025-10-25",
+        "url": "https://www.bilibili.com/video/BV1KjsdzjEUb",
+        "bvid": "BV1KjsdzjEUb",
+        "plays": 125,
+        "likes": 0,
+        "category_key": "bioinfo-strategy",
+        "category_title": "Bioinformatics Strategy And Practice",
+        "matched_words": [
+          "生信实战"
+        ]
+      },
+      "text_blob": "240107生信实战：geo数据实操和富集分析实操演示 bioinformatics strategy and practice  生信实战",
+      "tags_lower": [
+        "生信实战"
+      ],
+      "source_lower": "opencli-mango-bioinfo-videos",
+      "category_lower": "bioinformatics strategy and practice",
+      "title_lower": "240107生信实战：geo数据实操和富集分析实操演示"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "20. GSVA/ssGSEA单细胞评分/打分，自定义基因集打分/制作gmt文件，msigdb通路数据库介绍",
+      "date": "2024-07-25",
+      "url": "https://www.bilibili.com/video/BV1sW42197z6",
+      "id": "BV1sW42197z6",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞"
+      ],
+      "extra": {
+        "title": "20. GSVA/ssGSEA单细胞评分/打分，自定义基因集打分/制作gmt文件，msigdb通路数据库介绍",
+        "date": "2024-07-25",
+        "url": "https://www.bilibili.com/video/BV1sW42197z6",
+        "bvid": "BV1sW42197z6",
+        "plays": 13850,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞"
+        ]
+      },
+      "text_blob": "20. gsva/ssgsea单细胞评分/打分，自定义基因集打分/制作gmt文件，msigdb通路数据库介绍 single-cell workflow  单细胞",
+      "tags_lower": [
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "20. gsva/ssgsea单细胞评分/打分，自定义基因集打分/制作gmt文件，msigdb通路数据库介绍"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "07.单细胞Seurat标准流程分析：差异分析火山图+GO/KEGG富集分析+GSEA分析",
+      "date": "2023-12-14",
+      "url": "https://www.bilibili.com/video/BV1394y1N7Sp",
+      "id": "BV1394y1N7Sp",
+      "category": "Single-Cell Workflow",
+      "summary": "",
+      "tags": [
+        "单细胞",
+        "Seurat"
+      ],
+      "extra": {
+        "title": "07.单细胞Seurat标准流程分析：差异分析火山图+GO/KEGG富集分析+GSEA分析",
+        "date": "2023-12-14",
+        "url": "https://www.bilibili.com/video/BV1394y1N7Sp",
+        "bvid": "BV1394y1N7Sp",
+        "plays": 29956,
+        "likes": 0,
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Workflow",
+        "matched_words": [
+          "单细胞",
+          "Seurat"
+        ]
+      },
+      "text_blob": "07.单细胞seurat标准流程分析：差异分析火山图+go/kegg富集分析+gsea分析 single-cell workflow  单细胞 seurat",
+      "tags_lower": [
+        "seurat",
+        "单细胞"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "single-cell workflow",
+      "title_lower": "07.单细胞seurat标准流程分析：差异分析火山图+go/kegg富集分析+gsea分析"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "7. GSVA富集分析_GEO和TCGA数据通用_7分钟掌握",
+      "date": "2023-11-25",
+      "url": "https://www.bilibili.com/video/BV1uw411n7Sh",
+      "id": "BV1uw411n7Sh",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "GEO",
+        "TCGA"
+      ],
+      "extra": {
+        "title": "7. GSVA富集分析_GEO和TCGA数据通用_7分钟掌握",
+        "date": "2023-11-25",
+        "url": "https://www.bilibili.com/video/BV1uw411n7Sh",
+        "bvid": "BV1uw411n7Sh",
+        "plays": 7409,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "GEO",
+          "TCGA"
+        ]
+      },
+      "text_blob": "7. gsva富集分析_geo和tcga数据通用_7分钟掌握 geo, tcga, and rna-seq  geo tcga",
+      "tags_lower": [
+        "geo",
+        "tcga"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "7. gsva富集分析_geo和tcga数据通用_7分钟掌握"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "6. ssGSEA免疫细胞浸润分析（GEO样本速通版）",
+      "date": "2023-11-21",
+      "url": "https://www.bilibili.com/video/BV13j411772P",
+      "id": "BV13j411772P",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "GEO"
+      ],
+      "extra": {
+        "title": "6. ssGSEA免疫细胞浸润分析（GEO样本速通版）",
+        "date": "2023-11-21",
+        "url": "https://www.bilibili.com/video/BV13j411772P",
+        "bvid": "BV13j411772P",
+        "plays": 4129,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "GEO"
+        ]
+      },
+      "text_blob": "6. ssgsea免疫细胞浸润分析（geo样本速通版） geo, tcga, and rna-seq  geo",
+      "tags_lower": [
+        "geo"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "6. ssgsea免疫细胞浸润分析（geo样本速通版）"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "7. ssGSEA分析免疫细胞浸润分析（TCGA样本）",
+      "date": "2023-11-21",
+      "url": "https://www.bilibili.com/video/BV1LH4y127GS",
+      "id": "BV1LH4y127GS",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "TCGA"
+      ],
+      "extra": {
+        "title": "7. ssGSEA分析免疫细胞浸润分析（TCGA样本）",
+        "date": "2023-11-21",
+        "url": "https://www.bilibili.com/video/BV1LH4y127GS",
+        "bvid": "BV1LH4y127GS",
+        "plays": 5294,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "TCGA"
+        ]
+      },
+      "text_blob": "7. ssgsea分析免疫细胞浸润分析（tcga样本） geo, tcga, and rna-seq  tcga",
+      "tags_lower": [
+        "tcga"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "7. ssgsea分析免疫细胞浸润分析（tcga样本）"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "5. GSEA基因集富集分析、KEGG富集分析精讲【GEO数据挖掘】",
+      "date": "2023-11-12",
+      "url": "https://www.bilibili.com/video/BV1XG411Q7QS",
+      "id": "BV1XG411Q7QS",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "GEO"
+      ],
+      "extra": {
+        "title": "5. GSEA基因集富集分析、KEGG富集分析精讲【GEO数据挖掘】",
+        "date": "2023-11-12",
+        "url": "https://www.bilibili.com/video/BV1XG411Q7QS",
+        "bvid": "BV1XG411Q7QS",
+        "plays": 7259,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "GEO"
+        ]
+      },
+      "text_blob": "5. gsea基因集富集分析、kegg富集分析精讲【geo数据挖掘】 geo, tcga, and rna-seq  geo",
+      "tags_lower": [
+        "geo"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "5. gsea基因集富集分析、kegg富集分析精讲【geo数据挖掘】"
+    },
+    {
+      "source_skill": "opencli-sanzhuang-bioinfo-videos",
+      "source_name": "散装生信散哥",
+      "platform": "bilibili",
+      "title": "4. 【RNA-Seq转录组分析四】R语言KEGG富集分析",
+      "date": "2023-10-27",
+      "url": "https://www.bilibili.com/video/BV1dN411W7v8",
+      "id": "BV1dN411W7v8",
+      "category": "GEO, TCGA, And RNA-Seq",
+      "summary": "",
+      "tags": [
+        "RNA-Seq"
+      ],
+      "extra": {
+        "title": "4. 【RNA-Seq转录组分析四】R语言KEGG富集分析",
+        "date": "2023-10-27",
+        "url": "https://www.bilibili.com/video/BV1dN411W7v8",
+        "bvid": "BV1dN411W7v8",
+        "plays": 4392,
+        "likes": 0,
+        "category_key": "geo-tcga-rnaseq",
+        "category_title": "GEO, TCGA, And RNA-Seq",
+        "matched_words": [
+          "RNA-Seq"
+        ]
+      },
+      "text_blob": "4. 【rna-seq转录组分析四】r语言kegg富集分析 geo, tcga, and rna-seq  rna-seq",
+      "tags_lower": [
+        "rna-seq"
+      ],
+      "source_lower": "opencli-sanzhuang-bioinfo-videos",
+      "category_lower": "geo, tcga, and rna-seq",
+      "title_lower": "4. 【rna-seq转录组分析四】r语言kegg富集分析"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "16.2  GO、KEGG富集气泡图可视化（微生信）",
+      "date": "2025-04-28",
+      "url": "https://www.bilibili.com/video/BV1BALmzDEeo",
+      "id": "BV1BALmzDEeo",
+      "category": "Enrichment And Visualization",
+      "summary": "",
+      "tags": [
+        "GO",
+        "KEGG",
+        "富集",
+        "气泡图"
+      ],
+      "extra": {
+        "title": "16.2  GO、KEGG富集气泡图可视化（微生信）",
+        "date": "2025-04-28",
+        "url": "https://www.bilibili.com/video/BV1BALmzDEeo",
+        "bvid": "BV1BALmzDEeo",
+        "plays": 52617,
+        "likes": 0,
+        "category_key": "enrichment",
+        "category_title": "Enrichment And Visualization",
+        "matched_words": [
+          "GO",
+          "KEGG",
+          "富集",
+          "气泡图"
+        ]
+      },
+      "text_blob": "16.2  go、kegg富集气泡图可视化（微生信） enrichment and visualization  go kegg 富集 气泡图",
+      "tags_lower": [
+        "go",
+        "kegg",
+        "富集",
+        "气泡图"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "enrichment and visualization",
+      "title_lower": "16.2  go、kegg富集气泡图可视化（微生信）"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "15、最简单获得富集分析气泡图的方法",
+      "date": "2025-04-21",
+      "url": "https://www.bilibili.com/video/BV1QA5yzFExm",
+      "id": "BV1QA5yzFExm",
+      "category": "Enrichment And Visualization",
+      "summary": "",
+      "tags": [
+        "富集",
+        "气泡图"
+      ],
+      "extra": {
+        "title": "15、最简单获得富集分析气泡图的方法",
+        "date": "2025-04-21",
+        "url": "https://www.bilibili.com/video/BV1QA5yzFExm",
+        "bvid": "BV1QA5yzFExm",
+        "plays": 2416,
+        "likes": 0,
+        "category_key": "enrichment",
+        "category_title": "Enrichment And Visualization",
+        "matched_words": [
+          "富集",
+          "气泡图"
+        ]
+      },
+      "text_blob": "15、最简单获得富集分析气泡图的方法 enrichment and visualization  富集 气泡图",
+      "tags_lower": [
+        "富集",
+        "气泡图"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "enrichment and visualization",
+      "title_lower": "15、最简单获得富集分析气泡图的方法"
+    },
+    {
+      "source_skill": "opencli-wangyao-adong-bioinfo-videos",
+      "source_name": "网药阿东",
+      "platform": "bilibili",
+      "title": "11、如何利用metascape进行GO、KEGG富集分析",
+      "date": "2025-04-18",
+      "url": "https://www.bilibili.com/video/BV1VR5EzbEFi",
+      "id": "BV1VR5EzbEFi",
+      "category": "Enrichment And Visualization",
+      "summary": "",
+      "tags": [
+        "GO",
+        "KEGG",
+        "metascape",
+        "富集"
+      ],
+      "extra": {
+        "title": "11、如何利用metascape进行GO、KEGG富集分析",
+        "date": "2025-04-18",
+        "url": "https://www.bilibili.com/video/BV1VR5EzbEFi",
+        "bvid": "BV1VR5EzbEFi",
+        "plays": 27050,
+        "likes": 0,
+        "category_key": "enrichment",
+        "category_title": "Enrichment And Visualization",
+        "matched_words": [
+          "GO",
+          "KEGG",
+          "metascape",
+          "富集"
+        ]
+      },
+      "text_blob": "11、如何利用metascape进行go、kegg富集分析 enrichment and visualization  go kegg metascape 富集",
+      "tags_lower": [
+        "go",
+        "kegg",
+        "metascape",
+        "富集"
+      ],
+      "source_lower": "opencli-wangyao-adong-bioinfo-videos",
+      "category_lower": "enrichment and visualization",
+      "title_lower": "11、如何利用metascape进行go、kegg富集分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "Bulk-RNAseq单基因GSEA分析怎么做？（全流程脚本）",
+      "date": "2026-06-03",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493588&idx=3&sn=ca15ce18d9ad7fa7e2230ec3b10f569e&chksm=fe34729fc943fb8995b1cc95702706355e9f4effa9772c6dccbef27c918f2a518d51acb771f2#rd",
+      "id": "2247493588_3",
+      "category": "Bulk RNA-Seq And GSEA",
+      "summary": "Relevant bulk rna-seq and gsea entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "Bulk-RNAseq单基因GSEA分析怎么做？（全流程脚本）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493588&idx=3&sn=ca15ce18d9ad7fa7e2230ec3b10f569e&chksm=fe34729fc943fb8995b1cc95702706355e9f4effa9772c6dccbef27c918f2a518d51acb771f2#rd",
+        "msgid": "2247493588",
+        "itemidx": "3",
+        "pos_num": "30",
+        "date": "2026-06-03",
+        "category_key": "bulk-rnaseq-and-gsea",
+        "category_title": "Bulk RNA-Seq And GSEA",
+        "brief": "Relevant bulk rna-seq and gsea entry kept from the curated album."
+      },
+      "text_blob": "bulk-rnaseq单基因gsea分析怎么做？（全流程脚本） bulk rna-seq and gsea relevant bulk rna-seq and gsea entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "bulk rna-seq and gsea",
+      "title_lower": "bulk-rnaseq单基因gsea分析怎么做？（全流程脚本）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单基因GSEA分析避坑指南：解决gseaNb函数图注配色与NES不符的致命错误",
+      "date": "2026-06-03",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493588&idx=2&sn=bf334fe682468df897d42511b901a1ae&chksm=fe34729fc943fb891fd7200ec1c9e607d957415ef2b7c12ada913e51760c109113505e27806d#rd",
+      "id": "2247493588_2",
+      "category": "Bulk RNA-Seq And GSEA",
+      "summary": "Relevant bulk rna-seq and gsea entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单基因GSEA分析避坑指南：解决gseaNb函数图注配色与NES不符的致命错误",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493588&idx=2&sn=bf334fe682468df897d42511b901a1ae&chksm=fe34729fc943fb891fd7200ec1c9e607d957415ef2b7c12ada913e51760c109113505e27806d#rd",
+        "msgid": "2247493588",
+        "itemidx": "2",
+        "pos_num": "29",
+        "date": "2026-06-03",
+        "category_key": "bulk-rnaseq-and-gsea",
+        "category_title": "Bulk RNA-Seq And GSEA",
+        "brief": "Relevant bulk rna-seq and gsea entry kept from the curated album."
+      },
+      "text_blob": "单基因gsea分析避坑指南：解决gseanb函数图注配色与nes不符的致命错误 bulk rna-seq and gsea relevant bulk rna-seq and gsea entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "bulk rna-seq and gsea",
+      "title_lower": "单基因gsea分析避坑指南：解决gseanb函数图注配色与nes不符的致命错误"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "转录组数据经典分析之GO和KEGG富集：用R代码解锁基因集背后的生物学故事",
+      "date": "2026-06-03",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493588&idx=1&sn=8dcf791b08bb66eaf0943e1ff26b08e2&chksm=fe34729fc943fb89f4598a2b6203109888926be35f252e64755905c024412f59678bcbee1497#rd",
+      "id": "2247493588_1",
+      "category": "Enrichment And Machine Learning",
+      "summary": "Relevant enrichment and machine learning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "转录组数据经典分析之GO和KEGG富集：用R代码解锁基因集背后的生物学故事",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493588&idx=1&sn=8dcf791b08bb66eaf0943e1ff26b08e2&chksm=fe34729fc943fb89f4598a2b6203109888926be35f252e64755905c024412f59678bcbee1497#rd",
+        "msgid": "2247493588",
+        "itemidx": "1",
+        "pos_num": "28",
+        "date": "2026-06-03",
+        "category_key": "enrichment-and-ml",
+        "category_title": "Enrichment And Machine Learning",
+        "brief": "Relevant enrichment and machine learning entry kept from the curated album."
+      },
+      "text_blob": "转录组数据经典分析之go和kegg富集：用r代码解锁基因集背后的生物学故事 enrichment and machine learning relevant enrichment and machine learning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "enrichment and machine learning",
+      "title_lower": "转录组数据经典分析之go和kegg富集：用r代码解锁基因集背后的生物学故事"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "207种机器学习流程一次跑通：全自动建模、评估与可视化的R脚本全解析",
+      "date": "2026-05-31",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493532&idx=2&sn=bf23d605fb2aa0f2be612324c238b60b&chksm=fe3472d7c943fbc1df03ec403ea8fbfbd894d7c27ccf352c302c9188adfb844e2fc1a7102cb2#rd",
+      "id": "2247493532_2",
+      "category": "Enrichment And Machine Learning",
+      "summary": "Explains the core idea or mechanism behind a enrichment and machine learning topic.",
+      "tags": [],
+      "extra": {
+        "title": "207种机器学习流程一次跑通：全自动建模、评估与可视化的R脚本全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493532&idx=2&sn=bf23d605fb2aa0f2be612324c238b60b&chksm=fe3472d7c943fbc1df03ec403ea8fbfbd894d7c27ccf352c302c9188adfb844e2fc1a7102cb2#rd",
+        "msgid": "2247493532",
+        "itemidx": "2",
+        "pos_num": "27",
+        "date": "2026-05-31",
+        "category_key": "enrichment-and-ml",
+        "category_title": "Enrichment And Machine Learning",
+        "brief": "Explains the core idea or mechanism behind a enrichment and machine learning topic."
+      },
+      "text_blob": "207种机器学习流程一次跑通：全自动建模、评估与可视化的r脚本全解析 enrichment and machine learning explains the core idea or mechanism behind a enrichment and machine learning topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "enrichment and machine learning",
+      "title_lower": "207种机器学习流程一次跑通：全自动建模、评估与可视化的r脚本全解析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "机器学习模型解释利器：接207种机器学习：SHAP值分析从入门到实战（附R代码）",
+      "date": "2026-05-31",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493532&idx=1&sn=7e04fba40b4900f282d9bc0225cacd60&chksm=fe3472d7c943fbc1ded4a9d9952dfa8bced9b6292d09c99d9f105fed17c7b44322b61299fa1b#rd",
+      "id": "2247493532_1",
+      "category": "Enrichment And Machine Learning",
+      "summary": "Practical enrichment and machine learning article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "机器学习模型解释利器：接207种机器学习：SHAP值分析从入门到实战（附R代码）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493532&idx=1&sn=7e04fba40b4900f282d9bc0225cacd60&chksm=fe3472d7c943fbc1ded4a9d9952dfa8bced9b6292d09c99d9f105fed17c7b44322b61299fa1b#rd",
+        "msgid": "2247493532",
+        "itemidx": "1",
+        "pos_num": "26",
+        "date": "2026-05-31",
+        "category_key": "enrichment-and-ml",
+        "category_title": "Enrichment And Machine Learning",
+        "brief": "Practical enrichment and machine learning article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "机器学习模型解释利器：接207种机器学习：shap值分析从入门到实战（附r代码） enrichment and machine learning practical enrichment and machine learning article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "enrichment and machine learning",
+      "title_lower": "机器学习模型解释利器：接207种机器学习：shap值分析从入门到实战（附r代码）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "207种机器学习流程一次跑通：全自动建模、评估与可视化的R脚本全解析",
+      "date": "2026-05-24",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493351&idx=1&sn=1cb3d4d41c76e4c5425cbac19f8380f3&chksm=fe3473acc943fabab61603b3a3e0508c5242107049ec3d57791537355f246a354e1ce85c58f5#rd",
+      "id": "2247493351_1",
+      "category": "Enrichment And Machine Learning",
+      "summary": "Explains the core idea or mechanism behind a enrichment and machine learning topic.",
+      "tags": [],
+      "extra": {
+        "title": "207种机器学习流程一次跑通：全自动建模、评估与可视化的R脚本全解析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247493351&idx=1&sn=1cb3d4d41c76e4c5425cbac19f8380f3&chksm=fe3473acc943fabab61603b3a3e0508c5242107049ec3d57791537355f246a354e1ce85c58f5#rd",
+        "msgid": "2247493351",
+        "itemidx": "1",
+        "pos_num": "23",
+        "date": "2026-05-24",
+        "category_key": "enrichment-and-ml",
+        "category_title": "Enrichment And Machine Learning",
+        "brief": "Explains the core idea or mechanism behind a enrichment and machine learning topic."
+      },
+      "text_blob": "207种机器学习流程一次跑通：全自动建模、评估与可视化的r脚本全解析 enrichment and machine learning explains the core idea or mechanism behind a enrichment and machine learning topic. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "enrichment and machine learning",
+      "title_lower": "207种机器学习流程一次跑通：全自动建模、评估与可视化的r脚本全解析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单基因GSEA分析避坑指南：解决gseaNb函数图注配色与NES不符的致命错误",
+      "date": "2026-04-16",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492989&idx=1&sn=cac1ab68ca62d93c70b38d91e8b9aa25&chksm=fe347036c943f9208f0da06be5e64937cb73ee00b2686e6f502bdc2ebbf5cb1187f461a1e305#rd",
+      "id": "2247492989_1",
+      "category": "Bulk RNA-Seq And GSEA",
+      "summary": "Relevant bulk rna-seq and gsea entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单基因GSEA分析避坑指南：解决gseaNb函数图注配色与NES不符的致命错误",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492989&idx=1&sn=cac1ab68ca62d93c70b38d91e8b9aa25&chksm=fe347036c943f9208f0da06be5e64937cb73ee00b2686e6f502bdc2ebbf5cb1187f461a1e305#rd",
+        "msgid": "2247492989",
+        "itemidx": "1",
+        "pos_num": "15",
+        "date": "2026-04-16",
+        "category_key": "bulk-rnaseq-and-gsea",
+        "category_title": "Bulk RNA-Seq And GSEA",
+        "brief": "Relevant bulk rna-seq and gsea entry kept from the curated album."
+      },
+      "text_blob": "单基因gsea分析避坑指南：解决gseanb函数图注配色与nes不符的致命错误 bulk rna-seq and gsea relevant bulk rna-seq and gsea entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "bulk rna-seq and gsea",
+      "title_lower": "单基因gsea分析避坑指南：解决gseanb函数图注配色与nes不符的致命错误"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "单细胞代谢通路活性分析：从ssGSEA到scMetabolism的全流程代码详解",
+      "date": "2026-04-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492799&idx=1&sn=8648ace2e3e91af8e060a2d9acbb4360&chksm=fe3471f4c943f8e2588d5e5a8aac029ac004973bcf8cf18a6c49b8659bafe79e5de128b2b16e#rd",
+      "id": "2247492799_1",
+      "category": "Single-Cell Analysis",
+      "summary": "Relevant single-cell analysis entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞代谢通路活性分析：从ssGSEA到scMetabolism的全流程代码详解",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247492799&idx=1&sn=8648ace2e3e91af8e060a2d9acbb4360&chksm=fe3471f4c943f8e2588d5e5a8aac029ac004973bcf8cf18a6c49b8659bafe79e5de128b2b16e#rd",
+        "msgid": "2247492799",
+        "itemidx": "1",
+        "pos_num": "11",
+        "date": "2026-04-05",
+        "category_key": "single-cell",
+        "category_title": "Single-Cell Analysis",
+        "brief": "Relevant single-cell analysis entry kept from the curated album."
+      },
+      "text_blob": "单细胞代谢通路活性分析：从ssgsea到scmetabolism的全流程代码详解 single-cell analysis relevant single-cell analysis entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "single-cell analysis",
+      "title_lower": "单细胞代谢通路活性分析：从ssgsea到scmetabolism的全流程代码详解"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-analysis",
+      "source_name": "稳妥少年 . 药智未来 / 生信分析",
+      "platform": "weixin",
+      "title": "大片段缺失的突变蛋白如何去预测建模",
+      "date": "2025-07-05",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487338&idx=1&sn=4ad2474bf520fb82b53bcf17aa512935&chksm=fe379a21c94013376a4d3ad08beada53b55b9a0a70c811ac1dc93b39d9f4c117964d44f13809#rd",
+      "id": "2247487338_1",
+      "category": "Enrichment And Machine Learning",
+      "summary": "Relevant enrichment and machine learning entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "大片段缺失的突变蛋白如何去预测建模",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU5MDkyMjc4OA==&mid=2247487338&idx=1&sn=4ad2474bf520fb82b53bcf17aa512935&chksm=fe379a21c94013376a4d3ad08beada53b55b9a0a70c811ac1dc93b39d9f4c117964d44f13809#rd",
+        "msgid": "2247487338",
+        "itemidx": "1",
+        "pos_num": "2",
+        "date": "2025-07-05",
+        "category_key": "enrichment-and-ml",
+        "category_title": "Enrichment And Machine Learning",
+        "brief": "Relevant enrichment and machine learning entry kept from the curated album."
+      },
+      "text_blob": "大片段缺失的突变蛋白如何去预测建模 enrichment and machine learning relevant enrichment and machine learning entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-analysis",
+      "category_lower": "enrichment and machine learning",
+      "title_lower": "大片段缺失的突变蛋白如何去预测建模"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "CytoTRACE v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析",
+      "date": "2024-05-10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490978&idx=2&sn=282bc4d65ea15a8b0e69ce8f64ebd4d1&chksm=eb94aadcdce323ca3ac3a5a03b33f27cb27e5b6ff123789449f788b3138ae9ece6de46fffaaa#rd",
+      "id": "2247490978_2",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "CytoTRACE v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490978&idx=2&sn=282bc4d65ea15a8b0e69ce8f64ebd4d1&chksm=eb94aadcdce323ca3ac3a5a03b33f27cb27e5b6ff123789449f788b3138ae9ece6de46fffaaa#rd",
+        "msgid": "2247490978",
+        "itemidx": "2",
+        "pos_num": "86",
+        "date": "2024-05-10",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "cytotrace v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cytotrace v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-bioinfo-software-series",
+      "source_name": "生信宝库 / 软件系列介绍",
+      "platform": "weixin",
+      "title": "CytoTRACE v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析",
+      "date": "2024-04-19",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490829&idx=1&sn=02f75296cc9670de5278b7a2f5cdbe52&chksm=eb94aa73dce323652277c7798248a23bded1091c9d0e80cec8a64eb04f2b69da41917a69b0c2#rd",
+      "id": "2247490829_1",
+      "category": "Method And General Software Tutorials",
+      "summary": "Practical method and general software tutorials article with a hands-on or tutorial emphasis.",
+      "tags": [],
+      "extra": {
+        "title": "CytoTRACE v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjY5ODI1Nw==&mid=2247490829&idx=1&sn=02f75296cc9670de5278b7a2f5cdbe52&chksm=eb94aa73dce323652277c7798248a23bded1091c9d0e80cec8a64eb04f2b69da41917a69b0c2#rd",
+        "msgid": "2247490829",
+        "itemidx": "1",
+        "pos_num": "84",
+        "date": "2024-04-19",
+        "category_key": "method-and-software",
+        "category_title": "Method And General Software Tutorials",
+        "brief": "Practical method and general software tutorials article with a hands-on or tutorial emphasis."
+      },
+      "text_blob": "cytotrace v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析 method and general software tutorials practical method and general software tutorials article with a hands-on or tutorial emphasis. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-bioinfo-software-series",
+      "category_lower": "method and general software tutorials",
+      "title_lower": "cytotrace v2代码教程（二）：不同分化状态细胞的差异基因鉴定与富集分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "ToppCell Atlas:单细胞分析中针对细胞类型的富集分析",
+      "date": "2021-12-15",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509640&idx=1&sn=9c6d397f0d16acf949a2366778f3a853&chksm=9b4be633ac3c6f25b20f2faae2b46f16688dc355450f3176e252a991a39e6f055244d11efa2e#rd",
+      "id": "2247509640_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "ToppCell Atlas:单细胞分析中针对细胞类型的富集分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247509640&idx=1&sn=9c6d397f0d16acf949a2366778f3a853&chksm=9b4be633ac3c6f25b20f2faae2b46f16688dc355450f3176e252a991a39e6f055244d11efa2e#rd",
+        "msgid": "2247509640",
+        "itemidx": "1",
+        "pos_num": "126",
+        "date": "2021-12-15",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "toppcell atlas:单细胞分析中针对细胞类型的富集分析 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "toppcell atlas:单细胞分析中针对细胞类型的富集分析"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "单细胞功能注释和富集分析(GO、KEGG、GSEA)（2021公开课配套笔记）",
+      "date": "2021-06-13",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503720&idx=1&sn=e4530e071d5e51088873d4868fcbd421&chksm=9b4b8fd3ac3c06c5577f77ba0947dffdf3c72f5d084a7d197bf3720811f8cdde1b3acd980776#rd",
+      "id": "2247503720_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "单细胞功能注释和富集分析(GO、KEGG、GSEA)（2021公开课配套笔记）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247503720&idx=1&sn=e4530e071d5e51088873d4868fcbd421&chksm=9b4b8fd3ac3c06c5577f77ba0947dffdf3c72f5d084a7d197bf3720811f8cdde1b3acd980776#rd",
+        "msgid": "2247503720",
+        "itemidx": "1",
+        "pos_num": "112",
+        "date": "2021-06-13",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "单细胞功能注释和富集分析(go、kegg、gsea)（2021公开课配套笔记） advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "单细胞功能注释和富集分析(go、kegg、gsea)（2021公开课配套笔记）"
+    },
+    {
+      "source_skill": "opencli-weixin-album-single-cell-advanced",
+      "source_name": "生信技能树 / 单细胞进阶",
+      "platform": "weixin",
+      "title": "对单细胞表达矩阵做gsea分析",
+      "date": "2021-01-02",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498040&idx=1&sn=3a39699ab10fb71b966adb5e7e640270&chksm=9b4bb983ac3c3095c3c4799b02168371688294a75c11f92074c189cfe2558404a6bdbf17fc83#rd",
+      "id": "2247498040_1",
+      "category": "Advanced Workflow Notes",
+      "summary": "Relevant advanced workflow notes entry kept from the curated album.",
+      "tags": [],
+      "extra": {
+        "title": "对单细胞表达矩阵做gsea分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247498040&idx=1&sn=3a39699ab10fb71b966adb5e7e640270&chksm=9b4bb983ac3c3095c3c4799b02168371688294a75c11f92074c189cfe2558404a6bdbf17fc83#rd",
+        "msgid": "2247498040",
+        "itemidx": "1",
+        "pos_num": "31",
+        "date": "2021-01-02",
+        "category_key": "advanced-workflow",
+        "category_title": "Advanced Workflow Notes",
+        "brief": "Relevant advanced workflow notes entry kept from the curated album."
+      },
+      "text_blob": "对单细胞表达矩阵做gsea分析 advanced workflow notes relevant advanced workflow notes entry kept from the curated album. ",
+      "tags_lower": [],
+      "source_lower": "opencli-weixin-album-single-cell-advanced",
+      "category_lower": "advanced workflow notes",
+      "title_lower": "对单细胞表达矩阵做gsea分析"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "MapMan植物通路注释软件使用教程",
+      "date": "2025-06-11",
+      "url": "https://www.bilibili.com/video/BV11uTQzXEih",
+      "id": "BV11uTQzXEih",
+      "category": "核心生信分析",
+      "summary": "介绍 MapMan 做植物通路注释与可视化的基本用法。",
+      "tags": [
+        "pathway",
+        "mapman"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "pathway",
+          "mapman"
+        ],
+        "title": "MapMan植物通路注释软件使用教程",
+        "date": "2025-06-11",
+        "plays": 447,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV11uTQzXEih",
+        "bvid": "BV11uTQzXEih",
+        "content_summary": "介绍 MapMan 做植物通路注释与可视化的基本用法。"
+      },
+      "text_blob": "mapman植物通路注释软件使用教程 核心生信分析 介绍 mapman 做植物通路注释与可视化的基本用法。 pathway mapman",
+      "tags_lower": [
+        "mapman",
+        "pathway"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "mapman植物通路注释软件使用教程"
+    },
+    {
+      "source_skill": "opencli-omics-lecture-hall-bioinfo-videos",
+      "source_name": "组学大讲堂",
+      "platform": "bilibili",
+      "title": "07.Metascape进行基因注释富集分析",
+      "date": "2025-04-16",
+      "url": "https://www.bilibili.com/video/BV1XDoKYHEAm",
+      "id": "BV1XDoKYHEAm",
+      "category": "核心生信分析",
+      "summary": "演示用 Metascape 做功能注释和富集分析，适合作为差异基因后的解释步骤。",
+      "tags": [
+        "enrichment",
+        "metascape"
+      ],
+      "extra": {
+        "bucket": "核心生信分析",
+        "tags": [
+          "enrichment",
+          "metascape"
+        ],
+        "title": "07.Metascape进行基因注释富集分析",
+        "date": "2025-04-16",
+        "plays": 499,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1XDoKYHEAm",
+        "bvid": "BV1XDoKYHEAm",
+        "content_summary": "演示用 Metascape 做功能注释和富集分析，适合作为差异基因后的解释步骤。",
+        "page_tags": [
+          "科研",
+          "生物信息",
+          "WGCNA"
+        ],
+        "duration_seconds": 695,
+        "view_count": 499,
+        "like_count": 5,
+        "favorite_count": 9,
+        "share_count": 2,
+        "detail_source": "opencli browser __INITIAL_STATE__"
+      },
+      "text_blob": "07.metascape进行基因注释富集分析 核心生信分析 演示用 metascape 做功能注释和富集分析，适合作为差异基因后的解释步骤。 enrichment metascape",
+      "tags_lower": [
+        "enrichment",
+        "metascape"
+      ],
+      "source_lower": "opencli-omics-lecture-hall-bioinfo-videos",
+      "category_lower": "核心生信分析",
+      "title_lower": "07.metascape进行基因注释富集分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "10 差异基因到GO、KEGG、DO富集分析实战)",
+      "date": "2026-05-17",
+      "url": "https://www.bilibili.com/video/BV1mQLj6iEhd",
+      "id": "BV1mQLj6iEhd",
+      "category": "Bulk RNA-seq / 芯片 / 公共数据库",
+      "summary": "重点讲差异基因到GO、KEGG、DO富集分析实战)。",
+      "tags": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "extra": {
+        "title": "10 差异基因到GO、KEGG、DO富集分析实战)",
+        "date": "2026-05-17",
+        "plays": 951,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1mQLj6iEhd",
+        "bvid": "BV1mQLj6iEhd",
+        "category": "Bulk RNA-seq / 芯片 / 公共数据库",
+        "series": "2026-05 系统生信/单细胞课",
+        "focus": "重点讲差异基因到GO、KEGG、DO富集分析实战)。"
+      },
+      "text_blob": "10 差异基因到go、kegg、do富集分析实战) bulk rna-seq / 芯片 / 公共数据库 重点讲差异基因到go、kegg、do富集分析实战)。 2026-05 系统生信/单细胞课",
+      "tags_lower": [
+        "2026-05 系统生信/单细胞课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "bulk rna-seq / 芯片 / 公共数据库",
+      "title_lower": "10 差异基因到go、kegg、do富集分析实战)"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "15.通路活性与功能富集分析",
+      "date": "2026-04-25",
+      "url": "https://www.bilibili.com/video/BV1L1oEB9EJf",
+      "id": "BV1L1oEB9EJf",
+      "category": "单细胞进阶",
+      "summary": "重点讲通路活性与功能富集分析。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "15.通路活性与功能富集分析",
+        "date": "2026-04-25",
+        "plays": 345,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1L1oEB9EJf",
+        "bvid": "BV1L1oEB9EJf",
+        "category": "单细胞进阶",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲通路活性与功能富集分析。"
+      },
+      "text_blob": "15.通路活性与功能富集分析 单细胞进阶 重点讲通路活性与功能富集分析。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "单细胞进阶",
+      "title_lower": "15.通路活性与功能富集分析"
+    },
+    {
+      "source_skill": "huage-bioinfo-video-catalog",
+      "source_name": "华哥生信AI",
+      "platform": "bilibili",
+      "title": "7.通路集富集分析",
+      "date": "2026-04-17",
+      "url": "https://www.bilibili.com/video/BV1d5d8BSECC",
+      "id": "BV1d5d8BSECC",
+      "category": "Bulk RNA-seq / 芯片 / 公共数据库",
+      "summary": "重点讲通路集富集分析。",
+      "tags": [
+        "2026-04 精简生信基础课"
+      ],
+      "extra": {
+        "title": "7.通路集富集分析",
+        "date": "2026-04-17",
+        "plays": 400,
+        "likes": 0,
+        "url": "https://www.bilibili.com/video/BV1d5d8BSECC",
+        "bvid": "BV1d5d8BSECC",
+        "category": "Bulk RNA-seq / 芯片 / 公共数据库",
+        "series": "2026-04 精简生信基础课",
+        "focus": "重点讲通路集富集分析。"
+      },
+      "text_blob": "7.通路集富集分析 bulk rna-seq / 芯片 / 公共数据库 重点讲通路集富集分析。 2026-04 精简生信基础课",
+      "tags_lower": [
+        "2026-04 精简生信基础课"
+      ],
+      "source_lower": "huage-bioinfo-video-catalog",
+      "category_lower": "bulk rna-seq / 芯片 / 公共数据库",
+      "title_lower": "7.通路集富集分析"
+    }
+  ]
+}

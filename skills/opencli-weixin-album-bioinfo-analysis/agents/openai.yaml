@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin Bioinfo Analysis"
+  short_description: "Curate the Weixin bioinfo analysis album via opencli."
+  default_prompt: "Use $opencli-weixin-album-bioinfo-analysis to refresh and summarize the 稳妥少年 . 药智未来 Weixin album 生信分析, especially single-cell, bulk RNA-seq, GSEA, enrichment, and machine-learning workflow posts."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI PurplePotato Bioinfo Videos"
+  short_description: "Curate PurplePotato bioinfo videos with opencli."
+  default_prompt: "Use $opencli-purplepotato-bioinfo-videos to refresh and summarize 小紫薯PurplePotato videos about bioinformatics, AI-assisted R workflow, RNA-seq, single-cell, and Linux or R foundations."

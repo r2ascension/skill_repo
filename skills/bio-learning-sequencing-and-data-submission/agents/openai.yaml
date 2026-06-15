@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sequencing And Data Submission Learning"
+  short_description: "Cross-source learning skill for sequencing-data handling, raw data conventions, and public database submission workflows."
+  default_prompt: "Use $bio-learning-sequencing-and-data-submission when the user wants learning content organized by concrete function rather than by creator or album source."

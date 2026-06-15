@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Weixin Single-Cell Advanced"
+  short_description: "Curate the advanced single-cell album via opencli."
+  default_prompt: "Use $opencli-weixin-album-single-cell-advanced to refresh and summarize the 生信技能树 Weixin album 单细胞进阶, especially advanced single-cell experimental design, multiplexing, integration, and analysis tactics."

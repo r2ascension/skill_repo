@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI 散装生信散哥 Bioinfo Videos"
+  short_description: "Curate 散装生信散哥 bioinfo videos with opencli."
+  default_prompt: "Use $opencli-sanzhuang-bioinfo-videos to refresh and summarize 散装生信散哥 videos about single-cell, GEO, TCGA, RNA-seq, immune infiltration, GSVA, GSEA, and related R-based bioinformatics analysis."

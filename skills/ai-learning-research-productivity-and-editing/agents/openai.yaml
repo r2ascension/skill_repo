@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Productivity And Editing Learning"
+  short_description: "Cross-source learning skill for editing, office productivity, and AI-assisted everyday research workflow."
+  default_prompt: "Use $ai-learning-research-productivity-and-editing when the user wants learning content organized by concrete function rather than by creator or album source."
