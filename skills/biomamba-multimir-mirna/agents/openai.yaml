@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba multiMiR miRNA"
+  short_description: "multiMiR miRNA target disease drug analysis"
+  default_prompt: "Use $biomamba-multimir-mirna to query multiMiR and visualize miRNA target results."

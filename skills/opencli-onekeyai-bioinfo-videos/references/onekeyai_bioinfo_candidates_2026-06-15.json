@@ -1,0 +1,693 @@
+[
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20260531训练营-sol16-多组学-深度（迁移）学习-单（多）中心-病理弱监督-瘤内瘤周",
+    "date": "2026-05-31",
+    "url": "https://www.bilibili.com/video/BV1V2VS6wEeU",
+    "bvid": "BV1V2VS6wEeU",
+    "plays": 432,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20260524训练营-Sol15. 深度（迁移）学习-单（多）中心-组学特征-融合-临床各种可解释性-Web计算器",
+    "date": "2026-05-25",
+    "url": "https://www.bilibili.com/video/BV1t6GW6jEZP",
+    "bvid": "BV1t6GW6jEZP",
+    "plays": 851,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling",
+      "omics"
+    ],
+    "title": "20260517训练营-传统组学+深度学习，内涵深度学习的多种玩法，with 交叉验证教程",
+    "date": "2026-05-17",
+    "url": "https://www.bilibili.com/video/BV1jsLH68ETa",
+    "bvid": "BV1jsLH68ETa",
+    "plays": 1080,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "extended",
+    "matched_rules": [
+      "foundation"
+    ],
+    "title": "OnekeyComp-Comp8-指标汇总（智能版）",
+    "date": "2026-04-21",
+    "url": "https://www.bilibili.com/video/BV1Fjd1BvEUE",
+    "bvid": "BV1Fjd1BvEUE",
+    "plays": 627,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling",
+      "omics"
+    ],
+    "title": "20260412训练营-多分类深度学习+组学(with One vs Other)",
+    "date": "2026-04-14",
+    "url": "https://www.bilibili.com/video/BV19EQvBmE4F",
+    "bvid": "BV19EQvBmE4F",
+    "plays": 819,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "20260329训练营-多分类在Onekey中如何实现（with One vs Others组件）",
+    "date": "2026-03-30",
+    "url": "https://www.bilibili.com/video/BV1J3XeBtEhR",
+    "bvid": "BV1J3XeBtEhR",
+    "plays": 814,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20260308训练营-文本模态解决方案，从此多组学又添一个新成员。",
+    "date": "2026-03-15",
+    "url": "https://www.bilibili.com/video/BV1NLw3zfEp8",
+    "bvid": "BV1NLw3zfEp8",
+    "plays": 578,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "OnekeyComp-Comp8-Combat批次矫正",
+    "date": "2026-03-15",
+    "url": "https://www.bilibili.com/video/BV1Fsw3zXE1V",
+    "bvid": "BV1Fsw3zXE1V",
+    "plays": 557,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "20260208训练营-交叉验证在Onekey中如何做？",
+    "date": "2026-02-28",
+    "url": "https://www.bilibili.com/video/BV1wzAtz3E9f",
+    "bvid": "BV1wzAtz3E9f",
+    "plays": 656,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "extended",
+    "matched_rules": [
+      "support"
+    ],
+    "title": "2026国自然申请攻略（一）：如何在“卷”中实现技术突围与差异化竞争",
+    "date": "2025-12-05",
+    "url": "https://www.bilibili.com/video/BV1eo2VByEz1",
+    "bvid": "BV1eo2VByEz1",
+    "plays": 1673,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20250907训练营-病理组学，有监督弱监督对比。",
+    "date": "2025-09-11",
+    "url": "https://www.bilibili.com/video/BV13cHYz7E67",
+    "bvid": "BV13cHYz7E67",
+    "plays": 1290,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling",
+      "survival"
+    ],
+    "title": "20250713训练营-任意结构化数据的生存模型，兼容任何表格数据",
+    "date": "2025-07-16",
+    "url": "https://www.bilibili.com/video/BV19xutzrE1P",
+    "bvid": "BV19xutzrE1P",
+    "plays": 1435,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics",
+      "survival"
+    ],
+    "title": "20250706训练营-2.5D vs 2D vs 传统组学生存分析（支持论文生成）",
+    "date": "2025-07-09",
+    "url": "https://www.bilibili.com/video/BV1GwGnzdE88",
+    "bvid": "BV1GwGnzdE88",
+    "plays": 2464,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics",
+      "survival"
+    ],
+    "title": "20250629训练营-基于原生cox loss的深度学习模型以及组学特征",
+    "date": "2025-07-02",
+    "url": "https://www.bilibili.com/video/BV1Qcg6zgEbq",
+    "bvid": "BV1Qcg6zgEbq",
+    "plays": 1660,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "survival"
+    ],
+    "title": "20250622训练营-基于深度学习的Cox loss模型。",
+    "date": "2025-06-28",
+    "url": "https://www.bilibili.com/video/BV1DdKkziEMt",
+    "bvid": "BV1DdKkziEMt",
+    "plays": 1377,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "20250615训练营-无监督ITH Score以及多种聚类算法",
+    "date": "2025-06-18",
+    "url": "https://www.bilibili.com/video/BV1siNhzoEoL",
+    "bvid": "BV1siNhzoEoL",
+    "plays": 1508,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "20250608训练营-Fast模式、聚类separate一网打尽",
+    "date": "2025-06-09",
+    "url": "https://www.bilibili.com/video/BV1WnTYzYEAz",
+    "bvid": "BV1WnTYzYEAz",
+    "plays": 1562,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "20250309训练营-病理patch聚类，然后分类新范式。",
+    "date": "2025-04-06",
+    "url": "https://www.bilibili.com/video/BV1TUR9YGEvh",
+    "bvid": "BV1TUR9YGEvh",
+    "plays": 1150,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "传统组学差异化利器——海森矩阵，拓扑组学，分形特征，有用or无用你说了算！",
+    "date": "2024-12-09",
+    "url": "https://www.bilibili.com/video/BV1dLqwYcEQN",
+    "bvid": "BV1dLqwYcEQN",
+    "plays": 2215,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "survival"
+    ],
+    "title": "20241117训练营-还能活多少年？5年的生存风险？生存分析怎么搞？Onekey一文解千愁。",
+    "date": "2024-11-20",
+    "url": "https://www.bilibili.com/video/BV1EKScYaE93",
+    "bvid": "BV1EKScYaE93",
+    "plays": 2052,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20240922训练营-弱监督病理组学，一站式解决方案",
+    "date": "2024-09-26",
+    "url": "https://www.bilibili.com/video/BV1fzsSedEcW",
+    "bvid": "BV1fzsSedEcW",
+    "plays": 2264,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "20240728训练营-多分类在Onekey中如何实现，Micro-Macro AUC，混淆矩阵",
+    "date": "2024-08-01",
+    "url": "https://www.bilibili.com/video/BV1jT42167vE",
+    "bvid": "BV1jT42167vE",
+    "plays": 1799,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20240714训练营-多组学的奇技淫巧以及快速实践",
+    "date": "2024-07-18",
+    "url": "https://www.bilibili.com/video/BV1sz421q7gt",
+    "bvid": "BV1sz421q7gt",
+    "plays": 1480,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "奇技淫巧-20240714-多组学论文，可以在哪些方向上进行差异化。",
+    "date": "2024-07-16",
+    "url": "https://www.bilibili.com/video/BV1Tf421q7u2",
+    "bvid": "BV1Tf421q7u2",
+    "plays": 3739,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20240707训练营-基于多实例学习的病理组学，在当前还可以玩出那些花样，一节课带你感受所有的可能。",
+    "date": "2024-07-11",
+    "url": "https://www.bilibili.com/video/BV13M4m127zt",
+    "bvid": "BV13M4m127zt",
+    "plays": 3765,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20240602训练营-生境分析-传统组学的平替",
+    "date": "2024-06-05",
+    "url": "https://www.bilibili.com/video/BV1Vi421U7s2",
+    "bvid": "BV1Vi421U7s2",
+    "plays": 5605,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "OnekeyComp-Comp2结构化数据建模",
+    "date": "2024-06-03",
+    "url": "https://www.bilibili.com/video/BV1Eb421i7nn",
+    "bvid": "BV1Eb421i7nn",
+    "plays": 2961,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20240519训练营-影像组学从入门到精通-奇技淫巧自动勾画",
+    "date": "2024-05-24",
+    "url": "https://www.bilibili.com/video/BV1xT421S7ca",
+    "bvid": "BV1xT421S7ca",
+    "plays": 2456,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "数据广告-肺-多组学",
+    "date": "2024-05-20",
+    "url": "https://www.bilibili.com/video/BV1wt421T76f",
+    "bvid": "BV1wt421T76f",
+    "plays": 541,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "影像组学技能栈-从入门到精通你只差一个Onekey",
+    "date": "2024-05-15",
+    "url": "https://www.bilibili.com/video/BV1s7421f7eA",
+    "bvid": "BV1s7421f7eA",
+    "plays": 1951,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20240512训练营-传统组学组件答疑",
+    "date": "2024-05-13",
+    "url": "https://www.bilibili.com/video/BV1wb421z7py",
+    "bvid": "BV1wb421z7py",
+    "plays": 2768,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "extended",
+    "matched_rules": [
+      "foundation"
+    ],
+    "title": "OnekeyComp8-机器学习算法可解释性",
+    "date": "2024-03-21",
+    "url": "https://www.bilibili.com/video/BV1KJ4m1h7wM",
+    "bvid": "BV1KJ4m1h7wM",
+    "plays": 2325,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "survival"
+    ],
+    "title": "20240204训练营-生存分析在Onekey中如何实现？",
+    "date": "2024-02-28",
+    "url": "https://www.bilibili.com/video/BV1zy421q7Vj",
+    "bvid": "BV1zy421q7Vj",
+    "plays": 2065,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "20231029训练营-基于Transformer的病理组学",
+    "date": "2024-02-28",
+    "url": "https://www.bilibili.com/video/BV1Vj421S78J",
+    "bvid": "BV1Vj421S78J",
+    "plays": 1871,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "modeling"
+    ],
+    "title": "Onekey工具箱-OKT-gen_feature_cluster，可以对任意特征进行聚类分析以及可视化。",
+    "date": "2023-11-12",
+    "url": "https://www.bilibili.com/video/BV1mN4y1D7sK",
+    "bvid": "BV1mN4y1D7sK",
+    "plays": 1447,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "Onekey-Comp，传统组学解决方案，可以直接生成论文methods和results的那种",
+    "date": "2023-05-28",
+    "url": "https://www.bilibili.com/video/BV1Bg4y1V7AZ",
+    "bvid": "BV1Bg4y1V7AZ",
+    "plays": 5819,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "训练营[20220918]-Onekey2.0发布，还在等什么，一键生成传统组学论文",
+    "date": "2022-09-21",
+    "url": "https://www.bilibili.com/video/BV1Md4y1g7nX",
+    "bvid": "BV1Md4y1g7nX",
+    "plays": 3027,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "extended",
+    "matched_rules": [
+      "foundation"
+    ],
+    "title": "OnekeyComp-深度学习特征提取",
+    "date": "2022-04-10",
+    "url": "https://www.bilibili.com/video/BV1Zu411e7hH",
+    "bvid": "BV1Zu411e7hH",
+    "plays": 6062,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "OnekeyComp-传统组学任务",
+    "date": "2022-03-18",
+    "url": "https://www.bilibili.com/video/BV163411W7iD",
+    "bvid": "BV163411W7iD",
+    "plays": 6445,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "Onekey+影像组学进阶",
+    "date": "2022-02-08",
+    "url": "https://www.bilibili.com/video/BV1Jb4y177ev",
+    "bvid": "BV1Jb4y177ev",
+    "plays": 4034,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "Onekey+影像组学入门",
+    "date": "2022-02-04",
+    "url": "https://www.bilibili.com/video/BV1BF411J7ZZ",
+    "bvid": "BV1BF411J7ZZ",
+    "plays": 8616,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的影像组学公开课（Lecture-18）使用MedSee复现传统组学论文",
+    "date": "2021-12-07",
+    "url": "https://www.bilibili.com/video/BV1kS4y1D7US",
+    "bvid": "BV1kS4y1D7US",
+    "plays": 1494,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的半节课系列-简单聊聊多组学",
+    "date": "2021-12-06",
+    "url": "https://www.bilibili.com/video/BV1T44y1a7jp",
+    "bvid": "BV1T44y1a7jp",
+    "plays": 1098,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的影像组学公开课（Lecture-02，OnekeyAI&影像组学&技能栈）",
+    "date": "2021-12-02",
+    "url": "https://www.bilibili.com/video/BV1dh411s7pu",
+    "bvid": "BV1dh411s7pu",
+    "plays": 1962,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的影像组学私房课[N002下]-传统影像组学复现利器MedSee",
+    "date": "2021-11-08",
+    "url": "https://www.bilibili.com/video/BV1fv411T7vA",
+    "bvid": "BV1fv411T7vA",
+    "plays": 782,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的影像组学私房课[N002]-传统影像组学复现",
+    "date": "2021-11-08",
+    "url": "https://www.bilibili.com/video/BV1fL411M7kd",
+    "bvid": "BV1fL411M7kd",
+    "plays": 1682,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的影像组学公开课（Lecture-06，医学工作者的科研路径）",
+    "date": "2021-10-31",
+    "url": "https://www.bilibili.com/video/BV1VU4y1g7ie",
+    "bvid": "BV1VU4y1g7ie",
+    "plays": 754,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的影像组学公开课（Lecture-01，Unet论文结构分析）",
+    "date": "2021-10-31",
+    "url": "https://www.bilibili.com/video/BV1JR4y1E7bi",
+    "bvid": "BV1JR4y1E7bi",
+    "plays": 1742,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  },
+  {
+    "category": "core",
+    "matched_rules": [
+      "omics"
+    ],
+    "title": "张老师的17分钟系列课程-影像组学科研路径",
+    "date": "2021-06-12",
+    "url": "https://www.bilibili.com/video/BV1ah411a7AM",
+    "bvid": "BV1ah411a7AM",
+    "plays": 6858,
+    "duration": "",
+    "publish_time": "",
+    "description": ""
+  }
+]

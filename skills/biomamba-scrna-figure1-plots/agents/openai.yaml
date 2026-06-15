@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba scRNA Figure 1"
+  short_description: "Common scRNA Figure 1 plotting patterns"
+  default_prompt: "Use $biomamba-scrna-figure1-plots to make common single-cell Figure 1 panels."

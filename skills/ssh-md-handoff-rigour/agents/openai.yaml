@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSH MD Handoff Rigour"
+  short_description: "Write exact SSH runbook Markdown."
+  default_prompt: "Use $ssh-md-handoff-rigour to produce a detailed execution-ready Markdown handoff for SSH-side work, with exact file paths, methods, commands, outputs, and verification steps."

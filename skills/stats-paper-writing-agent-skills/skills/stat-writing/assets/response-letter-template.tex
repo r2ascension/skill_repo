@@ -1,0 +1,82 @@
+% Response to reviewers template (LaTeX)
+% Journal-agnostic default with optional JDS-aligned reproducibility note.
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue}
+
+% -------- Metadata --------
+\newcommand{\ManuscriptTitle}{<MANUSCRIPT TITLE>}
+\newcommand{\ManuscriptID}{<MANUSCRIPT ID>}
+\newcommand{\DecisionType}{<MAJOR OR MINOR REVISION>}
+\newcommand{\ResponseDate}{<DATE>}
+
+% -------- Formatting helpers --------
+\newcounter{commentctr}
+\newcommand{\responsegroup}[1]{%
+  \section*{#1}%
+  \setcounter{commentctr}{0}%
+}
+\newcommand{\commentitem}[1]{%
+  \refstepcounter{commentctr}%
+  \subsection*{Comment \thecommentctr}%
+  \begin{quote}\itshape #1\end{quote}%
+}
+\newcommand{\reply}[1]{\noindent\textbf{Response:} #1\par}
+\newcommand{\manuscriptchange}[1]{%
+  \noindent\textbf{Change in manuscript (quoted):}%
+  \begin{quote}#1\end{quote}
+}
+\newcommand{\changelocation}[1]{\noindent\textbf{Location:} #1\par}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\bfseries Point-by-Point Response to Reviewers}\\[8pt]
+\textbf{Title:} \textit{\ManuscriptTitle}\\
+\textbf{Manuscript ID:} \ManuscriptID\\
+\textbf{Decision:} \DecisionType\\
+\textbf{Date:} \ResponseDate
+\end{center}
+
+\section*{Overview of major changes}
+We thank the editor and reviewers for their constructive feedback.
+We have revised the manuscript accordingly. The main changes are:
+\begin{itemize}[leftmargin=*]
+  \item <Major change 1>
+  \item <Major change 2>
+  \item <Major change 3>
+\end{itemize}
+
+% Optional for journals emphasizing reproducibility:
+\noindent\textbf{Reproducibility update (optional):}
+<State code/data/supplement availability update here.>
+
+\responsegroup{Editor}
+\commentitem{<Paste editor comment 1>}
+\reply{<Your response>}
+\manuscriptchange{<Quote revised text>}
+\changelocation{<Section X, page Y, lines Z1--Z2>}
+
+\responsegroup{Associate Editor}
+\commentitem{<Paste associate editor comment 1>}
+\reply{<Your response>}
+\manuscriptchange{<Quote revised text>}
+\changelocation{<Section X, page Y, lines Z1--Z2>}
+
+\responsegroup{Reviewer 1}
+\commentitem{<Paste reviewer 1 comment 1.1>}
+\reply{<Your response>}
+\manuscriptchange{<Quote revised text>}
+\changelocation{<Section X, page Y, lines Z1--Z2>}
+
+% Repeat reviewer blocks as needed.
+
+\end{document}

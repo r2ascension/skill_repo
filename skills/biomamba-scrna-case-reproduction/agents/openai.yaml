@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba scRNA Case Reproduction"
+  short_description: "scRNA paper reproduction case workflows"
+  default_prompt: "Use $biomamba-scrna-case-reproduction to reproduce a Biomamba single-cell paper case study."

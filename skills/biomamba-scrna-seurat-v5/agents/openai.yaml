@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba scRNA Seurat V5"
+  short_description: "Biomamba Seurat V5 scRNA workflow"
+  default_prompt: "Use $biomamba-scrna-seurat-v5 to run a Seurat V5 single-cell workflow."

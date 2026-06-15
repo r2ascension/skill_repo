@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba hdWGCNA Pipeline"
+  short_description: "hdWGCNA metacell coexpression workflow"
+  default_prompt: "Use $biomamba-hdwgcna-pipeline to build and interpret hdWGCNA modules."

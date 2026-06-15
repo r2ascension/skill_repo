@@ -1,0 +1,75 @@
+\documentclass[12pt,twoside]{book}
+
+% ---------- Input path setup ----------
+\makeatletter
+\def\input@path{{./chapters/}{./sections/}{./styles/}{./bib/}}
+\makeatother
+
+% ---------- Core packages ----------
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{setspace}
+\setstretch{1.2}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\graphicspath{{./figures/}{./styles/}}
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue}
+
+% ---------- Optional custom notation block ----------
+% Add house notation/macros below only if needed.
+% Keep this block isolated for easy reuse.
+% \newcommand{\bbR}{\mathbb{R}}
+% \newcommand{\E}{\mathbb{E}}
+
+% ---------- Theorem environments ----------
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+
+\title{<Book Title>}
+\author{<Author Name>}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\frontmatter
+
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+<State motivation, audience, and scope.>
+
+\tableofcontents
+
+\mainmatter
+
+% Sample includes (auto-fallback to inline placeholders if files do not exist).
+\IfFileExists{chapters/chapter1.tex}{\include{chapter1}}{%
+\chapter{Chapter 1 Title}
+<Chapter 1 overview and key learning goals.>
+}
+
+\IfFileExists{chapters/chapter2.tex}{\include{chapter2}}{%
+\chapter{Chapter 2 Title}
+<Chapter 2 overview and key learning goals.>
+}
+
+\backmatter
+
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{Appendix}
+<Optional technical appendices, proofs, or extra examples.>
+
+% Uncomment and update bibliography details as needed.
+% \bibliographystyle{plainnat}
+% \bibliography{book_refs}
+
+\end{document}

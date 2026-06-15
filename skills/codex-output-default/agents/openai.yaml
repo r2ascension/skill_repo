@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Output Default"
+  short_description: "Set and enforce default local output directory"
+  default_prompt: "Use this skill to normalize and apply default output directory preferences."

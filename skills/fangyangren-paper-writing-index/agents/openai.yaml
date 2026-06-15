@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fangyangren Writing Index"
+  short_description: "Index and digest of paper-writing videos from one Bilibili creator."
+  default_prompt: "Use $fangyangren-paper-writing-index to locate or summarize paper-writing advice from the Bilibili creator Fangyangren."

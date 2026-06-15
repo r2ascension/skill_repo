@@ -1,0 +1,4 @@
+interface:
+  display_name: "Biomamba ML Foundations"
+  short_description: "Python visualization and sklearn basics"
+  default_prompt: "Use $biomamba-ml-foundations to structure a basic sklearn machine learning analysis."

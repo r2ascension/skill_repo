@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Check"
+  short_description: "Validate local opencli with a safe smoke test."
+  default_prompt: "Use -local-check to verify the local opencli installation, report its resolved path and version, and run the smallest safe smoke test needed."

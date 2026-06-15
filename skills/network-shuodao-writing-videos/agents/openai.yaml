@@ -1,0 +1,4 @@
+interface:
+  display_name: "网络硕导写作视频"
+  short_description: "用 opencli 抓取并整理网络硕导 B站写作视频清单、摘要与可复用技能。"
+  default_prompt: "Use $network-shuodao-writing-videos to collect and summarize Bilibili writing videos from 网络硕导 via opencli."

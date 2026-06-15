@@ -1,0 +1,4 @@
+interface:
+  display_name: "scRNA Significant Violin Plots"
+  short_description: "Per-cell-type significance on Seurat or ggplot violin plots"
+  default_prompt: "Add significance annotations to a Seurat or ggplot violin plot across cell types and groups."

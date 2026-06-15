@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huage Bioinfo Videos"
+  short_description: "Catalog and learning path for Huage Bioinfo AI bilibili technique videos"
+  default_prompt: "Use $huage-bioinfo-video-catalog to group Huage Bioinfo AI bioinformatics technique videos and suggest a learning route."

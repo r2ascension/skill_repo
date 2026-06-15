@@ -1,0 +1,126 @@
+\documentclass[12pt]{article}
+
+% ---------- Core packages ----------
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{lineno}
+
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue}
+\graphicspath{{./figures/}}
+
+% ---------- Review-draft line numbers ----------
+\linenumbers
+
+% Patches so lineno works with amsmath environments.
+\newcommand*\patchAmsMathEnvironmentForLineno[1]{%
+  \expandafter\let\csname old#1\expandafter\endcsname\csname #1\endcsname
+  \expandafter\let\csname oldend#1\expandafter\endcsname\csname end#1\endcsname
+  \renewenvironment{#1}{\linenomath\csname old#1\endcsname}{\csname oldend#1\endcsname\endlinenomath}%
+}
+\newcommand*\patchBothAmsMathEnvironmentsForLineno[1]{%
+  \patchAmsMathEnvironmentForLineno{#1}%
+  \patchAmsMathEnvironmentForLineno{#1*}%
+}
+\AtBeginDocument{%
+  \patchBothAmsMathEnvironmentsForLineno{equation}%
+  \patchBothAmsMathEnvironmentsForLineno{align}%
+  \patchBothAmsMathEnvironmentsForLineno{gather}%
+  \patchBothAmsMathEnvironmentsForLineno{multline}%
+}
+
+\title{<Manuscript Title>}
+\author{<Author Name(s)>}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% Default target 6-8 sentences (acceptable 4-10).
+% No citations and no math notation in abstract text.
+<Write abstract here.>
+\end{abstract}
+
+\noindent\textbf{Keywords:} <keyword 1>; <keyword 2>; <keyword 3>; <keyword 4>
+
+\doublespacing
+
+\section{Introduction}\label{sec:introduction}
+
+% Answer three questions:
+% (1) Why is this important?
+% (2) What has been done?
+% (3) What is new here?
+
+Textual citation example: \citet{smith2020example}.
+Parenthetical citation example: \citep{smith2020example}.
+
+Roadmap example: Section~\ref{sec:data} describes data,
+Section~\ref{sec:methods} presents methods,
+Section~\ref{sec:results} reports results, and
+Section~\ref{sec:discussion} concludes.
+
+\section{Data}\label{sec:data}
+
+Describe source, population, sample size, variables, and missingness handling.
+
+\section{Methods}\label{sec:methods}
+
+State estimand, assumptions, model/procedure, and uncertainty quantification.
+
+\begin{equation}\label{eq:model}
+Y_i = X_i^\top \beta + \varepsilon_i.
+\end{equation}
+
+Equation~\eqref{eq:model} defines the baseline model.
+
+\section{Results}\label{sec:results}
+
+Reference each figure/table and interpret findings in text.
+
+\begin{table}[tbp]
+\centering
+\caption{Example table caption.}
+\label{tab:example}
+\begin{tabular}{lr}
+\toprule
+Method & Value \\
+\midrule
+A & 1.23 \\
+B & 1.45 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[tbp]
+\centering
+% Prefer vector graphics (.pdf/.eps) for line graphics.
+\fbox{\rule{0pt}{1.5in}\rule{0.8\linewidth}{0pt}}
+\caption{Example figure caption.}
+\label{fig:example}
+\end{figure}
+
+Figure~\ref{fig:example} and Table~\ref{tab:example} summarize key results.
+
+\section{Discussion}\label{sec:discussion}
+
+Summarize contributions, limitations, and future work.
+
+\section*{Reproducibility and Supplement}
+
+\textbf{Code availability:} <repository or statement>\\
+\textbf{Data availability:} <location or access conditions>\\
+\textbf{Supplement:} <appendix/supplement file description>
+
+% Uncomment and update for bibliography.
+% \bibliographystyle{plainnat}
+% \bibliography{refs}
+
+\end{document}

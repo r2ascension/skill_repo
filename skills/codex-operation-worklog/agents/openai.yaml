@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Operation Worklog"
+  short_description: "Keep a durable repository worklog"
+  default_prompt: "Use $codex-operation-worklog to keep a durable repository worklog while you modify files or run commands in this workspace."
